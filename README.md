@@ -1,4 +1,4 @@
-`Simple` is developed by C++ and is a simplest `RPA` tool that runs on windows 10 19041 and above.
+`WinUI` is developed by C++ and is a simplest `RPA` tool that runs on windows 10 1809 and above.
 
 Ui
 
