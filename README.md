@@ -3,3 +3,8 @@
 Ui
 
 ![image thumb](./assets/full.png)
+
+
+Intall by microsoft store:
+
+    [WinUI](https://www.microsoft.com/zh-tw/p/winui/9n8hm4n6r77j?activetab=pivot:overviewtab)
