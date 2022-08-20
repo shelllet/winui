@@ -2,7 +2,7 @@
 
 Ui
 
-![image thumb](./assets/full.png)
+![image thumb](https://winui.net/images/full.png)
 
 How to install on Windows 10?
 
