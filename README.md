@@ -35,8 +35,3 @@
 * 相关视频【 Youtube】:[https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ](https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ)
 
 * 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论
-
-
-![wechat](https://youcarry.net/mmqrcode1670055164489.png ':size=20%')
-
-!> 加入微信群讨论，如过期请联系：**junwufan**
