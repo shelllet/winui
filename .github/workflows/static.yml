@@ -44,4 +44,4 @@ jobs:
           pwd
           rm -rf /var/www
           mkdir -p /var/www
-          cp -R ./* /var/www
+          cp -R ./docx/* /var/www
