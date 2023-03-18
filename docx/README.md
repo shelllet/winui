@@ -22,7 +22,7 @@
 12. `xml`、 `json` 等格式解读
 
 #### [截图](https://winui.net/)
-![WinUi++](https://winui.net/images/full.png)
+![WinUi++](./intro/images/01.png)
 
 
 * 示例流程：[https://github.com/shelllet/WinUI](https://github.com/shelllet/WinUI)
@@ -36,7 +36,8 @@
 
 * 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论
 
-
-![wechat](https://youcarry.net/mmqrcode1670055164489.png ':size=20%')
+<div style="text-align:center">
+    <img width="25%" src="https://youcarry.net/mmqrcode1670055164489.png">
+</div>
 
 !> 加入微信群讨论，如过期请联系：**junwufan**
