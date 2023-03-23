@@ -1,12 +1,8 @@
----
-title: 项目属性
-weight: 30
-disableToc: true
----
+# 项目属性
 
 每个项目都有固定的属性。如果没有动作，被选择的时候会显示此项目属性。参考下面的界面。
 
-![process](/zh/basics/process/images/2022-12-03_120802.png 'size=90%')
+![process](./images/2022-12-03_120802.png 'size=90%')
 
 * 创建日期 
   

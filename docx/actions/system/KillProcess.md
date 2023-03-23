@@ -21,8 +21,3 @@ import simple;
 ```
 
 ### 示例
-
-
-{{% notice tip %}}
-
-{{% /notice %}}
