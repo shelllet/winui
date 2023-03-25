@@ -1,10 +1,6 @@
----
-title: RotatedRect
-weight: 6
-pre: "<b>3. </b>"
----
+# RotatedRect
 
-class RotatedRect
+class `RotatedRect`, 旋转矩形
 
 ### 属性
 

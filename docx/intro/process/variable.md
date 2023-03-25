@@ -1,12 +1,8 @@
----
-title: 变量
-weight: 30
-disableToc: true
----
+# 变量
 
 变量必须符合`Python`的变量定义规则,变量可以扩展流程的功能。变量的界面如下图：
 
-![image](/zh/basics/process/images/2022-12-03_124847.png 'size=90%')
+![image](./images/2022-12-03_124847.png ':size=90%')
 
 
 * 添加
@@ -16,7 +12,7 @@ disableToc: true
     ```
     如下图：
 
-![image](/zh/basics/process/images/2022-12-03_125030.png 'size=90%')
+![image](./images/2022-12-03_125030.png ':size=90%')
 
 * 删除
   
@@ -26,4 +22,4 @@ disableToc: true
 
 # 内置变量
 
-`__pid`: 表示当前流程的执行的`id`，对应进程标志这个动作。
+`__pid`: 表示当前流程的执行的`id`，对应进程标志这个动作。 流程并发执行的时候，用来标记当前执行的流程。

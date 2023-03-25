@@ -1,9 +1,6 @@
----
-title: 通过常见的Exe格式的安装包安装
-weight: 11
----
+# 安装包安装
 
-打开[https://winui.net](https://winui.net)， 点击英文`Download`下载稳定版本的`Exe`格式的安装包。
+通过常见的Exe格式, 此方式最简单方便。打开[https://winui.net](https://winui.net)， 点击英文`Download`下载稳定版本的`Exe`格式的安装包。
 
 1. 双击下载的安装包
     

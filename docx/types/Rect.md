@@ -1,11 +1,8 @@
----
-title: DetectResult
-weight: 6
-pre: "<b>3. </b>"
----
+# DetectResult
 
 
-Class Rect
+
+Class `Rect`, 矩形
 
 
 ### 属性

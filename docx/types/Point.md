@@ -1,11 +1,7 @@
----
-title: Point
-weight: 6
-pre: "<b>3. </b>"
----
+# Point
 
 
-Class `Point`
+Class `Point`， 坐标位置
 
 
 ### 属性

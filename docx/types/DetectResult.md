@@ -1,12 +1,8 @@
----
-title: DetectResult
-weight: 6
-pre: "<b>3. </b>"
----
+# DetectResult
 
 
-Class DetectResult
 
+Class *DetectResult* 对象检测结果
 
 ### 属性
 
