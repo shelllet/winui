@@ -1,4 +1,4 @@
-# [0.18](https://github.com/shelllet/winui/compare/v0.18...v0.17.0) (2023-xx-xx)
+# [0.18](https://github.com/shelllet/winui/compare/main...dev) (2023-03-26)
 
 ### Features
 
