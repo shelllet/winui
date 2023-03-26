@@ -217,4 +217,4 @@
       - [Scalar](./actions/type/TypeScalar.md)
       - [密码](./actions/type/TypePassword.md)
       - [颜色](./actions/type/TypeColor.md)
-  - [Changelog](/changelog.md)
+  - [Changelog](./changelog.md)
