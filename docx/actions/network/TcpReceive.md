@@ -1,11 +1,11 @@
 # 接收 
 此动作通过TCP或者UDP接收数据。
 
-![action](./images/05.png 'size=90%')
+![action](./images/05.png ':size=90%')
 
 
 运行参数：
-![param](./images/06.png 'size=90%')
+![param](./images/06.png ':size=90%')
 
 
 * [Socket]： 套接字， 可以通过`监听`动作的子动作获取, 或者由`连接`动作获取。

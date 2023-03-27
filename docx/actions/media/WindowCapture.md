@@ -1,11 +1,11 @@
 # 窗口截图 
 此动作用来对选择的窗口进行截图
 
-![action](./images/2022-11-27_144417.png 'size=90%')
+![action](./images/2022-11-27_144417.png ':size=90%')
 
 
 运行参数：
-![param](./images/2022-11-27_144504.png 'size=90%')
+![param](./images/2022-11-27_144504.png ':size=90%')
 
 
 * [Window]： 用来截图的窗口。

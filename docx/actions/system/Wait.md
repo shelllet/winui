@@ -1,33 +1,29 @@
 # 等待 
+
 等待，又可以称为休眠。它可以让动作停止一段时间再继续运行。
 
-![start process](./images/2022-11-09_191345.png 'size=90%')
+![action](./images/03.png ':size=50%')
 
 
-是否支持子流程：**否**
+## 子流程
 
-运行参数：
-![param](./images/2022-11-09_192015.png 'size=90%')
+> 不支持
 
-* 参数[Duration]： 等待时间，单位秒。
+## 运行参数
 
-输出：
+* [Duration]： 等待时间，单位秒。
 
-    无
+## 输出
 
+>    无
 
-### 脚本调用
+## 脚本调用
 
 ```python
-import simple;
+import simple
 
 ```
 
-### 示例
+## 示例
 
 [https://github.com/shelllet/WinUi/blob/main/system/wait.simple](https://github.com/shelllet/WinUi/blob/main/system/wait.simple)
-
-
-{{% notice note %}}
-
-{{% /notice %}}

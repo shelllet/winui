@@ -1,11 +1,11 @@
 # 特定窗口 
 此动作用来选择已知的特定窗口。
 
-![action](./images/2022-11-27_143849.png 'size=90%')
+![action](./images/2022-11-27_143849.png ':size=90%')
 
 
 运行参数：
-![param](./images/2022-11-27_143940.png 'size=90%')
+![param](./images/2022-11-27_143940.png ':size=90%')
 
 
 * [Desktop]： 桌面

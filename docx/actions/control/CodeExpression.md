@@ -1,7 +1,7 @@
 # 表达式 
 此动作可以执行`Python`的表达式。
 
-![action](./images/2022-12-03_130327.png 'size=90%')
+![action](./images/2022-12-03_130327.png ':size=90%')
 
 
 是否支持子流程：**否**
@@ -9,7 +9,7 @@
 
 运行参数：
 
-![param](./images/2022-12-03_130400.png 'size=90%')
+![param](./images/2022-12-03_130400.png ':size=90%')
 
 * [Expression] `Python`的表达式。必须符合`Python`的语法。注意赋值语句，并非表达式。例如：
 ```python

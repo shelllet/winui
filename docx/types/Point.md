@@ -6,11 +6,11 @@ Class `Point`， 坐标位置
 
 ### 属性
 
-1. x （x坐标）
+1. x : [Number](../types/Number.md)
 
-    Number 类型
+    x坐标
 
-2. y （y 坐标）
+2. y : [Number](../types/Number.md)
 
-    Number 类型
+    y 坐标
 

@@ -1,11 +1,11 @@
 # 窗口坐标->屏幕坐标 
 窗口坐标->屏幕坐标
 
-![action](./images/2022-11-17_184608.png 'size=90%')
+![action](./images/2022-11-17_184608.png ':size=90%')
 
 
 运行参数：
-![param](./images/2022-11-17_184756.png 'size=90%')
+![param](./images/2022-11-17_184756.png ':size=90%')
 
 
 * [Point]： 窗口坐标, 类型为：`Point`。
@@ -26,7 +26,7 @@ import simple;
 
 [https://github.com/shelllet/WinUi/blob/main/algorithm/ClientToScreen.simple](https://github.com/shelllet/WinUi/blob/main/algorithm/ClientToScreen.simple)
 
-![preview](./images/2022-11-17_185020.png 'size=90%')
+![preview](./images/2022-11-17_185020.png ':size=90%')
 
 
 {{% notice tip %}}

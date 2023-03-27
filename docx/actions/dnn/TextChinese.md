@@ -1,7 +1,7 @@
 # 中文识别 
 识别图片中的中文文字。
 
-![param](./images/2022-11-07_092842.png 'size=90%')
+![param](./images/2022-11-07_092842.png ':size=90%')
 
 
 运行参数：
@@ -28,12 +28,12 @@ import simple;
 
 [https://github.com/shelllet/WinUi/blob/main/dnn/textchinese.simple](https://github.com/shelllet/WinUi/blob/main/dnn/textchinese.simple)
 
-![textchinese](./images/2022-11-07_093810.png 'size=90%')
+![textchinese](./images/2022-11-07_093810.png ':size=90%')
 
 
 ### 预览
 
-![textchinese](./images/2022-11-07_094335.png 'size=90%')
+![textchinese](./images/2022-11-07_094335.png ':size=90%')
 
 {{% notice tip %}}
 

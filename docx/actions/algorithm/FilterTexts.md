@@ -1,11 +1,11 @@
 # 过滤 
 该动作可以过滤包含字符串的数组
 
-![action](./images/2022-11-17_184608.png 'size=90%')
+![action](./images/2022-11-17_184608.png ':size=90%')
 
 
 运行参数：
-![param](./images/2022-11-17_184756.png 'size=90%')
+![param](./images/2022-11-17_184756.png ':size=90%')
 
 
 * [Source]： 含有字符串的数组，例如 *中文识别* 动作。
@@ -26,7 +26,7 @@ import simple;
 
 [https://github.com/shelllet/WinUi/blob/main/algorithm/filter_text.simple](https://github.com/shelllet/WinUi/blob/main/algorithm/filter_text.simple)
 
-![preview](./images/2022-11-17_185020.png 'size=90%')
+![preview](./images/2022-11-17_185020.png ':size=90%')
 
 
 {{% notice tip %}}

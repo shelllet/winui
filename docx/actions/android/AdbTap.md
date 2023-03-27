@@ -2,7 +2,7 @@
 在安卓模拟器中模拟点击。
 
 
-![param](./images/2022-11-15_192500.png 'size=90%')
+![param](./images/2022-11-15_192500.png ':size=90%')
 
 运行参数：
 
@@ -25,7 +25,7 @@ import simple;
 
 [https://github.com/shelllet/WinUi/blob/main/android/tap.simple](https://github.com/shelllet/WinUi/blob/main/android/tap.simple)
 
-![tap](./images/2022-11-15_192618.png 'size=90%')
+![tap](./images/2022-11-15_192618.png ':size=90%')
 
 
 ### 预览

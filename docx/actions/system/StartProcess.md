@@ -1,37 +1,38 @@
-# 启动进程 
+# 启动进程
+
 启动进程
 
-![start process](./images/2022-11-08_191220.png 'size=90%')
+![start process](./images/04.png ':size=50%')
 
 
-是否支持子流程：**否**
+## 子流程
 
-运行参数：
-![param](./images/2022-11-08_191505.png 'size=90%')
+> 不支持
 
-* 参数[Application]： 启动的进程路径
-* 参数[Param]： 传递的命令行参数
-* 参数[No Window]： 无窗口运行
+## 运行参数：
+
+* [Application]： 启动的进程路径
+* [Param]： 传递的命令行参数
+* [No Window]： 无窗口运行
 * [Working Folder] 工作目录
 * [Env] 环境变量
 
-输出：
+## 输出：
 
-    进程输出, `String` 类型
+>    启动的程序输出, [`String`](../../types/String.md) 类型
 
 
-### 脚本调用
+## 脚本调用
 
 ```python
-import simple;
+import simple
 
 ```
 
-### 示例
+## 示例
 
 [https://github.com/shelllet/WinUi/blob/main/system/startprocess.simple](https://github.com/shelllet/WinUi/blob/main/system/startprocess.simple)
 
 
-{{% notice note %}}
-问题： 停止流程运行，目前无法结束启动的进程，需要等待启动的进程自行结束
-{{% /notice %}}
+
+!> 停止流程运行，目前版本无法自动结束启动的进程，需要等待启动的进程自行结束,或者通过*任务栏管理器*强制结束

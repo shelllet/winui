@@ -2,10 +2,10 @@
 在安卓模拟器中模拟按键。
 
 
-![action](./images/2022-11-15_193233.png 'size=90%')
+![action](./images/2022-11-15_193233.png ':size=90%')
 
 运行参数：
-![param](./images/2022-11-15_193315.png 'size=90%')
+![param](./images/2022-11-15_193315.png ':size=90%')
 
 * 参数[Device]： 模拟器。 `String` 类型
 * 参数[Key]： 按键，`String` 类型。
@@ -113,7 +113,7 @@ import simple;
 
 [https://github.com/shelllet/WinUi/blob/main/android/key.simple](https://github.com/shelllet/WinUi/blob/main/android/key.simple)
 
-![tap](./images/2022-11-15_193802.png 'size=90%')
+![tap](./images/2022-11-15_193802.png ':size=90%')
 
 
 ### 预览

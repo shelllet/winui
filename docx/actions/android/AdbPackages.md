@@ -2,12 +2,12 @@
 此动作可以获取安卓模拟器当中的所有安装包。
 
 
-![param](./images/2022-12-03_122903.png 'size=90%')
+![param](./images/2022-12-03_122903.png ':size=90%')
 
 支持子动作。
 
 运行时参数：
-![param](./images/2022-12-03_123748.png 'size=90%')
+![param](./images/2022-12-03_123748.png ':size=90%')
 
 * [Device]： 模拟器。 `String` 类型
 

@@ -2,10 +2,10 @@
 主要应用在模拟器不在本机，而在的另一台电脑上面。
 
 
-![action](./images/01.png 'size=90%')
+![action](./images/01.png ':size=90%')
 
 运行参数：
-![param](./images/02.png 'size=90%')
+![param](./images/02.png ':size=90%')
 
 * [Host]： 远程模拟器的IP地址和端口，例如网易：MuMu模拟器：127.0.0.1:7555
 
