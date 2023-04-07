@@ -4,10 +4,12 @@
 ![action](./images/2022-12-10_182315.png ':size=90%')
 
 
-是否支持子流程：**否**
+## 子流程
+
+> 否
 
 
-运行参数：
+## 运行参数：
 
 ![param](./images/2022-12-10_182424.png ':size=90%')
 
@@ -16,21 +18,17 @@
 * [Algorithm] 查找算法 
 
 
-输出：如果找到图像输出`RotatedRect` 类型，包含中心坐标。参考：[RotatedRect]({{%relref "type/RotatedRect.md" %}})
+## 输出：如果找到图像输出`RotatedRect` 类型，包含中心坐标。参考：[RotatedRect]({{%relref "type/RotatedRect.md" %}})
 
 
-### 脚本调用
+## 脚本调用
 
 ```python
 import simple;
 
 ```
 
-### 示例
+## 示例
 
 [https://github.com/shelllet/WinUi/blob/main/detection/find_image.simple](https://github.com/shelllet/WinUi/blob/main/detection/find_image.simple)
 
-
-{{% notice note %}}
-最低版本要求: WinUi++ 0.14-beta.6 
-{{% /notice %}}

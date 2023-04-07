@@ -3,31 +3,28 @@
 
 ![action](./images/2022-11-26_193743.png ':size=90%')
 
+## 子流程
 
-运行参数：
+> 不支持
+
+## 运行参数
 ![param](./images/2022-11-26_193826.png ':size=90%')
 
 * [Value]： 不要访问的动作。
 
-* 输出:
+## 输出
   
     动作的长度
 
 
-### 脚本调用
+## 脚本调用
 
 ```python
-import simple;
+import simple
 
 
 ```
 
-### 示例
+## 示例
 
 [https://github.com/shelllet/WinUi/blob/main/algorithm/access_size.simple](https://github.com/shelllet/WinUi/blob/main/algorithm/access_size.simple)
-
-{{% notice tip %}}
-
-版本: WinUi++ 0.14-beta.5 
-
-{{% /notice %}}

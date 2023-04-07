@@ -4,9 +4,9 @@
 ![action](./images/03.png ':size=90%')
 
 
-是否支持子流程：**否**
+## 子流程：**否**
 
-运行参数：
+## 运行参数：
 ![param](./images/04.png ':size=90%')
 
 * [Image]： 要执行二值化操作的图像。
@@ -14,21 +14,18 @@
 * [Value] 填充色。范围（0 -255）
 * [Type] BINARY 和 BINARY_INV
 
-输出：二值化之后的图像。
+## 输出：二值化之后的图像。
 
 
-### 脚本调用
+## 脚本调用
 
 ```python
 import simple;
 
 ```
 
-### 示例
+## 示例
 
 [https://github.com/shelllet/WinUi/blob/main/image/threshold.simple](https://github.com/shelllet/WinUi/blob/main/image/threshold.simple)
 
 
-{{% notice note %}}
-版本: WinUi++ 0.14.0
-{{% /notice %}}

@@ -4,13 +4,13 @@
 ![action](./images/2023-01-20_203116.png ':size=90%')
 
 
-运行参数：
+## 运行参数：
 ![param](./images/2023-01-20_203241.png ':size=90%')
 
 
 * [Action]： 动作， 分为：Visible(显示)、 Invisible（不显示）
 
-* 输出： 窗口类型：`Wnd`
+## 输出： 窗口类型：`Wnd`
 
 
 ### 脚本调用

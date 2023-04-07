@@ -4,8 +4,8 @@
 
 ![action](./images/2022-11-15_193233.png ':size=90%')
 
-运行参数：
-![param](./images/2022-11-15_193315.png ':size=90%')
+## 运行参数：
+
 
 * 参数[Device]： 模拟器。 `String` 类型
 * 参数[Key]： 按键，`String` 类型。
@@ -98,10 +98,10 @@
     85 ->  "TAG_LAST_KEYCODE"
 ```
 
-* 输出： `String`
+## 输出： `String`
 
 
-### 脚本调用
+## 脚本调用
 
 ```python
 import simple;
@@ -109,16 +109,9 @@ import simple;
 
 ```
 
-### 示例
+## 示例
 
 [https://github.com/shelllet/WinUi/blob/main/android/key.simple](https://github.com/shelllet/WinUi/blob/main/android/key.simple)
 
 ![tap](./images/2022-11-15_193802.png ':size=90%')
 
-
-### 预览
-
-
-{{% notice note %}}
-
-{{% /notice %}}

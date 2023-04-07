@@ -4,32 +4,28 @@
 ![pocessid](./images/2022-11-08_190242.png ':size=90%')
 
 
-是否支持子流程：**支持**
+## 子流程：
+> 支持
 
 
-运行参数：
+## 运行参数：
 
 ![param](./images/2022-11-08_190840.png ':size=90%')
 
 * 参数[Extact Value]： 标志匹配, 如果标志值相等，则会执行子流程
 
-输出：
+## 输出：
 
     当前流程标志, `Number` 类型
 
 
-### 脚本调用
+## 脚本调用
 
 ```python
 import simple;
 
 ```
 
-### 示例
+## 示例
 
 [https://github.com/shelllet/WinUi/blob/main/control/processid.simple](https://github.com/shelllet/WinUi/blob/main/control/processid.simple)
-
-
-{{% notice tip %}}
-最低版本要求: WinUi++ 0.14-beta.5 
-{{% /notice %}}

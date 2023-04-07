@@ -4,18 +4,18 @@
 ![action](./images/07.png ':size=90%')
 
 
-运行参数：
-![param](./images/08.png ':size=90%')
+## 运行参数：
+
 
 
 * [Host Address]： 监听的IP, 默认`127.0.0.1`
 * [Port Number]： 监听的端口
 * [Type]： 类型，分为`TCP` 或者`UDP`
 
-* 输出： `Socket`
+## 输出： `Socket`
 
 
-### 脚本调用
+## 脚本调用
 
 ```python
 import simple;
@@ -27,6 +27,3 @@ import simple;
 [https://github.com/shelllet/WinUi/blob/main/network/connect.simple](https://github.com/shelllet/WinUi/blob/main/network/connect.simple)
 
 
-{{% notice note %}}
-版本: WinUi++ 0.14-beta.12 
-{{% /notice %}}

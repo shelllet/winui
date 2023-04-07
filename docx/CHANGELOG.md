@@ -1,4 +1,4 @@
-# [0.19](https://github.com/shelllet/winui/compare/main...0.18) (2023-xx-xx)
+# [0.19](https://github.com/shelllet/winui/compare/main...0.19) (2023-xx-xx)
 ### Features
 1. [ ] 添加*随机数动作*
 2. *打开程序*添加用户名和密码参数
@@ -6,9 +6,13 @@
 ### Fixed
 ### Break:
 1. *RunAsUser* 动作删除，请使用*打开程序*动作
+2. 合并*屏幕坐标转窗口坐标* 和*窗口坐标转屏幕坐标* 为*坐标转换*动作
 
 ### Deprecated
 ### 备注：
+
+1. 直接从https://winui.net/ 下载即可下载最新版本
+
 
 ## [0.18](https://github.com/shelllet/winui/compare/main...dev) (2023-03-26)
 
@@ -44,4 +48,4 @@
 
 ### 备注：
 
-1. 直接从https://winui.net/ 下载即可下载新版本
+1. 直接从https://winui.net/ 下载即可下载最新版本

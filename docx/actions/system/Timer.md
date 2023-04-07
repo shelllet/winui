@@ -26,7 +26,7 @@
 ## 脚本调用
 
 ```python
-import simple;
+import simple
 
 ```
 
