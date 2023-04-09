@@ -1,7 +1,7 @@
 # 表达式 
-此动作可以执行`Python`的表达式。
+此动作可以执行*Python*的表达式。
 
-![action](./images/2022-12-03_130327.png ':size=90%')
+![action](./images/013.png ':size=90%')
 
 
 ## 子流程
@@ -10,9 +10,7 @@
 
 ## 运行参数
 
-![param](./images/2022-12-03_130400.png ':size=90%')
-
-* [Expression] `Python`的表达式。必须符合`Python`的语法。注意赋值语句，并非表达式。例如：
+* [Expression] *Python*的表达式。必须符合*Python*的语法。注意：赋值语句，并非表达式。例如：
 ```python
 a = 10 # 赋值语句。
 ```
@@ -21,16 +19,20 @@ a = 10 # 赋值语句。
 a + 10 # 表达式。
 ```
 
-输出：表达式的计算结果，如果 `a` 是一个数字。则`a + 10`的结果是一个数字类型`Number`。
+## 输出
+
+> 表达式的计算结果。例如： `a` 是一个数字。则`a + 10`的结果是一个数字类型[`Number`](../../types/Number.md)。
 
 
 ## 脚本调用
 
-```python
-import simple;
-
-```
+> 未导出
 
 ## 示例
 
-[https://github.com/shelllet/WinUi/blob/main/control/expression.simple](https://github.com/shelllet/WinUi/blob/main/control/expression.simple)
+> 生成随机数 [https://github.com/shelllet/WinUi/blob/main/control/import_expression.simple](https://github.com/shelllet/WinUi/blob/main/control/import_expression.simple)
+
+![action](./images/01.png ':size=90%')
+
+![action](./images/02.png ':size=90%')
+

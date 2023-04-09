@@ -198,6 +198,7 @@
       - [顶点过滤](./actions/algorithm/FilterVertex.md)
       - [椭圆过滤](./actions/algorithm/FilterEllipse.md)
       - [FilterWindows](./actions/algorithm/FilterWindows.md)
+      - [随机数](./actions/algorithm/RandomNumber.md)
     - 类型
       - [URI](./actions/type/TypeUri.md)
       - [坐标](./actions/type/TypePoint.md)
