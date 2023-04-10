@@ -26,15 +26,15 @@
 #### [截图](https://winui.net/)
 ![WinUi++](./intro/images/01.png)
 
-
-* 示例流程：[https://github.com/shelllet/WinUI](https://github.com/shelllet/WinUI)
+* 开发版文档：https://shelllet.github.io/winui/#/
+  
+* 示例流程：https://github.com/shelllet/winui
 
 * 最新版本下载：[https://winui.net/](https://winui.net/)
-* 最新内测版本：[https://youcarry.net/dev/](https://youcarry.net/dev/)
 
-* 相关视频【bilibili】：[https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951](https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951)
+* B 站：[https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951](https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951)
 
-* 相关视频【 Youtube】:[https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ](https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ)
+* 油管: [https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ](https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ)
 
 * 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论
 
