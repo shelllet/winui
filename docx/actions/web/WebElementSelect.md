@@ -12,7 +12,6 @@ WebElementSelect
 
 ## 输出：
 
-    打开的线程，*Thread*
 
 
 ## 脚本调用
