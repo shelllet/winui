@@ -95,7 +95,6 @@
       - [文本方向分类](./actions/dnn/PaddleTextDirectionClassifier.md)
       - [文本识别](./actions/dnn/PaddleTextRecognition.md)
       - [中文识别](./actions/dnn/TextChinese.md)
-      - [模型](./actions/dnn/ONNXModel.md)
     - 网络
       - [下载](./actions/network/HttpDownload.md)
       - [Youtube 视频下载](./actions/network/YoutubeDownload.md)
@@ -213,7 +212,7 @@
       - [Scalar](./actions/type/TypeScalar.md)
       - [密码](./actions/type/TypePassword.md)
       - [颜色](./actions/type/TypeColor.md)
-      - [模型](./actions/type/ModelSession.md)
+      - [模型](./actions/type/ONNXModel.md)
   - 类型
     - [Boolean](./types/Boolean.md)
     - [Number](./types/Number.md)
