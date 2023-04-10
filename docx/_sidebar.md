@@ -87,7 +87,7 @@
       - [颜色统计](./actions/detection/ColorPercentage.md)
       - [模板匹配](./actions/detection/MatchTemplate.md)
     - 绘图
-      - [标记对象](./actions/draw/DrawDetectResults.md)
+      - [绘制检测框](./actions/draw/DrawDetectResults.md)
     - 深度学习
       - [目标分类](./actions/dnn/ONNXClassification.md)
       - [目标检测](./actions/dnn/ONNXDetection.md)
@@ -181,8 +181,9 @@
       - [When](./actions/control/When.md)
       - [输出](./actions/control/LoggingEnabled.md)
       - [分组](./actions/control/GroupAction.md)
-      - [LogicalOperator](./actions/control/LogicalOperator.md)
-      - [RelationalOperator](./actions/control/RelationalOperator.md)
+      - [算术运算](./actions/control/ArithmeticCalculate.md)
+      - [逻辑运算](./actions/control/LogicalOperator.md)
+      - [关系运算](./actions/control/RelationalOperator.md)
     - 算法
       - [位置修正](./actions/algorithm/FixPostion.md)
       - [分割字符串](./actions/algorithm/SplitString.md)
@@ -211,6 +212,7 @@
       - [Scalar](./actions/type/TypeScalar.md)
       - [密码](./actions/type/TypePassword.md)
       - [颜色](./actions/type/TypeColor.md)
+      - [模型](./actions/type/ModelSession.md)
   - 类型
     - [Boolean](./types/Boolean.md)
     - [Number](./types/Number.md)
@@ -227,4 +229,6 @@
     - [Size](./types/Size.md)
     - [Url](./types/Url.md)
     - [Wnd](./types/Wnd.md)
+    - [ModelSession](./types/ModelSession.md)
+    - [WebDriver](./types/WebDriver.md)
   - [Changelog](./CHANGELOG.md)
