@@ -9,8 +9,8 @@
 
 ## 运行参数
 
-* [Driver] 打开的浏览器，即 *WebOpen* 动作的返回值。
-* [Web By] 查找元素的方法, 参考 [定位策略](../../intro/webdriver/locators.md)
+* Driver： 浏览器对象，即 *WebOpen* 动作的返回值。
+* By： 查找元素的方法, 参考 [定位策略](../../intro/webdriver/locators.md)
 
 
 ## 输出：

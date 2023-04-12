@@ -1,18 +1,19 @@
 # WebActionRelease 
-WebActionRelease
+释放元素上按住的鼠标按钮。
 
-## 子流程：
-> 支持
-
-
-## 运行参数：
+## 子流程
+> 不支持
 
 
+## 运行参数
+
+* Action Chains： 动作链
+* Element：鼠标悬停的元素
 
 
-## 输出：
+## 输出
 
-    打开的线程，*Thread*
+    
 
 
 ## 脚本调用

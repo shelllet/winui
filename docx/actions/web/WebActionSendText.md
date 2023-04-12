@@ -1,5 +1,5 @@
-# WebActionMoveTo 
-将鼠标移动到元素上。
+# WebActionSendKeys 
+设置文本
 
 ## 子流程
 > 不支持
@@ -8,7 +8,9 @@
 ## 运行参数
 
 * Action Chains： 动作链
-* Element：要移动到的 *Web* 元素
+* Element：鼠标悬停的元素
+* Text：发送的字符串。
+
 
 ## 输出
 
