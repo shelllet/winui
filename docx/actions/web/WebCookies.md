@@ -13,7 +13,7 @@
 
 ## 输出
 
-> 如歌名称为空，输出 `JsonArray`, 否则输出：`JsonObject`。    
+> 如歌名称为空，输出 [`JsonArray`](../../types/JsonArray.md), 否则输出：[`JsonObject`](../../types/JsonObject.md)。    
 
 
 ## 脚本调用
