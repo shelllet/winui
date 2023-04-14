@@ -2,7 +2,7 @@
 
 启动进程
 
-![start process](./images/04.png ':size=50%')
+![start process](./images/04.png ':size=90%')
 
 
 ## 子流程
@@ -11,11 +11,11 @@
 
 ## 运行参数
 
-* [Application]： 启动的进程路径
-* [Param]： 传递的命令行参数
-* [No Window]： 无窗口运行
-* [Working Folder] 工作目录
-* [Env] 环境变量
+* Application： 启动的进程路径
+* Param： 传递的命令行参数
+* No Window： 无窗口运行
+* Working Folder：工作目录
+* Env：环境变量
 
 ## 输出
 

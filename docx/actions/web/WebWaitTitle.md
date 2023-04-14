@@ -1,4 +1,4 @@
-# 等待标题
+# 等待*标题
 检查标题是否包含区分大小写的字符串。
 
 ## 子流程
@@ -6,10 +6,10 @@
 
 
 ## 运行参数
-* [Driver] 浏览器对象
-* [Timeout] 超时时间，默认 `60` 秒。
-* [Text] 标题。
-* [Method] 分为完全匹配 `EXACT_MATCH`，和部分匹配 `PARTIAL_MATCH`
+* Driver：浏览器对象
+* Timeout：超时时间，默认 `60` 秒。
+* Text：标题。
+* Method：分为完全匹配 `EXACT_MATCH`，和部分匹配 `PARTIAL_MATCH`
 
 
 ## 输出

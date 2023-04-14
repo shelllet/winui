@@ -4,14 +4,18 @@
 
 ![action](./images/01.png ':size=90%')
 
+## 子流程
+
+> 不支持
+
 ## 运行参数
-![param](./images/02.png ':size=90%')
 
-* [Host]： 远程模拟器的IP地址和端口，例如网易：MuMu模拟器：127.0.0.1:7555
 
-## 输出： 
+* Host： 远程模拟器的IP地址和端口，例如网易：MuMu模拟器：127.0.0.1:7555
 
-`String`
+## 输出 
+
+> [`String`](../../types/String.md)
 
 ```
     # : already connected to 192.168.31.170:5555
@@ -37,9 +41,6 @@ import simple;
 ## 示例
 
 [https://github.com/shelllet/WinUi/blob/main/android/connect.simple](https://github.com/shelllet/WinUi/blob/main/android/connect.simple)
-
-
-## 预览
 
 
 

@@ -1,16 +1,21 @@
 # 截图 
 模拟器屏幕截图。
 
-![param](./images/2022-11-15_190638.png ':size=90%')
 
 
-## 运行参数：
-![param](./images/2022-11-15_190735.png ':size=90%')
+## 子流程
 
-* 参数[Device]： 模拟器， `String` 类型
+> 不支持
 
-## 输出： `Image`
 
+## 运行参数
+
+
+* Device： 模拟器， `String` 类型
+
+## 输出
+
+> [`Image`](../../types/Image.md)
 
 ## 脚本调用
 

@@ -3,15 +3,19 @@
 
 ![find window](./images/2022-11-08_191853.png ':size=90%')
 
+## 子流程
+> 不支持
 
-## 参数：
-![param](./images/2022-11-08_192115.png ':size=90%')
+## 运行参数
 
 
-* 参数[Title]： 窗口标题
-* 参数[Class]： 窗口类
 
-## 输出： 窗口类型：`Wnd`
+* Title： 窗口标题
+* Class： 窗口类
+
+## 输出
+
+> 窗口类型：`Wnd`
 
 
 ### 脚本调用
@@ -26,8 +30,3 @@ simple.Wnd.findWindow('notepad.exe', None) # 不使用窗口类
 ### 示例
 
 [https://github.com/shelllet/WinUi/blob/main/window/findwindow.simple](https://github.com/shelllet/WinUi/blob/main/window/findwindow.simple)
-
-
-{{% notice note %}}
-
-{{% /notice %}}

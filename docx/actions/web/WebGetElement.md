@@ -13,7 +13,7 @@
 * By： 查找元素的方法, 参考 [定位策略](../../intro/webdriver/locators.md)
 
 
-## 输出：
+## 输出
 
 > 查找到的 *Web* 元素, 类型：[WebElement](../../types/WebElement.md)   
 

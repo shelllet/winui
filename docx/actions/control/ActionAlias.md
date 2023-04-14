@@ -9,8 +9,8 @@
 
 ## 运行参数
 
-* [Action] 动作
-* [Process] 流程
+* Action：动作
+* Process：流程
 
 
 ## 输出

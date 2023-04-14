@@ -1,4 +1,4 @@
-# 等待框架
+# 等待*可点击
 用于检查元素是可见的并已启用，以便您可以单击它。
 
 ## 子流程
@@ -6,10 +6,10 @@
 
 
 ## 运行参数
-* [Driver] 浏览器对象
-* [Timeout] 超时时间，默认 *60* 秒。
-* [Element] 元素值, 由 *By* 值确定。字符串类型 [`String`](../../types/String.md)
-* [By] 定位策略，参考：[web locators](../../intro/webdriver/locators.md)
+* Driver：浏览器对象
+* Timeout：超时时间，默认 *60* 秒。
+* Element：元素值, 由 *By* 值确定。字符串类型 [`String`](../../types/String.md)
+* By：定位策略，参考：[web locators](../../intro/webdriver/locators.md)
 
 
 ## 输出

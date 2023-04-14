@@ -1,16 +1,18 @@
 # 椭圆检测 
 检测图像中的圆或者椭圆
 
-![param](./images/2022-12-24_110035.png ':size=90%')
+## 子流程
+> 不支持
 
 
-## 运行参数：
-![param](./images/01.png ':size=90%')
 
-* [Image]： 待检测的图片。
-* [Gradient Threshold]： 像素间梯度差的阈值。
+## 运行参数
 
-## 输出： `Ellipses`
+
+* Image： 待检测的图片。
+* Gradient Threshold： 像素间梯度差的阈值。
+
+## 输出 `Ellipses`
 
 
 ### 脚本调用

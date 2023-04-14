@@ -1,5 +1,5 @@
-# FilterArea 
-FilterArea
+# 面积过滤 
+面积过滤
 
 
 ![action](./images/2022-11-17_184608.png ':size=90%')
@@ -12,8 +12,8 @@ FilterArea
 ## 运行参数
 
 
-* [Point]： 窗口坐标, 类型为：`Point`。
-* [Window]： 窗口, 默认为窗口的标题，类型为：`String`。
+* Point： 窗口坐标, 类型为：`Point`。
+* Window： 窗口, 默认为窗口的标题，类型为：`String`。
 
 ## 输出
 > 屏幕坐标。类型为：`Point`

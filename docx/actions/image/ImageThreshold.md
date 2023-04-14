@@ -4,17 +4,18 @@
 ![action](./images/03.png ':size=90%')
 
 
-## 子流程：**否**
+## 子流程
+> 不支持
 
-## 运行参数：
-![param](./images/04.png ':size=90%')
+## 运行参数
 
-* [Image]： 要执行二值化操作的图像。
-* [Thresh]：阈值。范围（0 -255），如果`Type`选择`BINARY`。低于该值的。像素被置为黑色。高于该阈值的 则 填充 为`Value` 表示的颜色， 如果type选择`BINARY_INV`，反之。
-* [Value] 填充色。范围（0 -255）
-* [Type] BINARY 和 BINARY_INV
 
-## 输出：二值化之后的图像。
+* Image： 要执行二值化操作的图像。
+* Thresh：阈值。范围（0 -255），如果`Type`选择`BINARY`。低于该值的。像素被置为黑色。高于该阈值的 则 填充 为`Value` 表示的颜色， 如果type选择`BINARY_INV`，反之。
+* Value：填充色。范围（0 -255）
+* Type：BINARY 和 BINARY_INV
+
+## 输出二值化之后的图像。
 
 
 ## 脚本调用

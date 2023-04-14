@@ -9,8 +9,8 @@
 
 ## 运行参数
 
-* [Element] *Web*元素
-* [Text] 输入的文本信息
+* Element：*Web*元素
+* Text：输入的文本信息
 
 
 ## 输出

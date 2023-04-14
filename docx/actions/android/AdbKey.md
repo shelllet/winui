@@ -4,11 +4,16 @@
 
 ![action](./images/2022-11-15_193233.png ':size=90%')
 
-## 运行参数：
+
+## 子流程
+
+> 不支持
+
+## 运行参数
 
 
-* 参数[Device]： 模拟器。 `String` 类型
-* 参数[Key]： 按键，`String` 类型。
+* Device： 模拟器。 `String` 类型
+* Key： 按键，`String` 类型。
 ```
     00 ->  "KEYCODE_UNKNOWN"
     01 ->  "KEYCODE_MENU"
@@ -98,8 +103,8 @@
     85 ->  "TAG_LAST_KEYCODE"
 ```
 
-## 输出： `String`
-
+## 输出 
+> [`String`](../../types/String.md)
 
 ## 脚本调用
 

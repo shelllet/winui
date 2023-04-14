@@ -7,12 +7,12 @@
 
 > 不支持
 
-## 运行参数：
-![param](./images/2022-11-17_184756.png ':size=90%')
+## 运行参数
 
 
-* [Source]： 含有字符串的数组，例如 *中文识别* 动作。
-* [Text]： 文本，字符串类型， 支持 [**通配符（WildCard）**)]({{%relref "basics/logic/wildcard.md" %}})匹配。
+
+* Source： 含有字符串的数组，例如 *中文识别* 动作。
+* Text： 文本，字符串类型， 支持 [**通配符（WildCard）**)]({{%relref "basics/logic/wildcard.md" %}})匹配。
 
 ## 输出
 

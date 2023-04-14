@@ -4,13 +4,19 @@
 
 ![action](./images/2022-11-15_194116.png ':size=90%')
 
-## 运行参数：
-![param](./images/2022-11-15_194149.png ':size=90%')
+## 子流程
 
-* 参数[Device]： 模拟器。 `String` 类型
-* 参数[Text]： 文本，拨支持中文字符串。`String` 类型。
+> 不支持
 
-## 输出： `String`
+## 运行参数
+
+
+* Device： 模拟器。 `String` 类型
+* Text： 文本，拨支持中文字符串。`String` 类型。
+
+## 输出 
+
+> [`String`](../../types/String.md)
 
 
 ## 脚本调用

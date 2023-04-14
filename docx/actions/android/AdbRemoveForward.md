@@ -4,13 +4,18 @@
 
 ![action](./images/2022-11-15_195440.png ':size=90%')
 
-## 运行参数：
-![param](./images/2022-11-15_201721.png ':size=90%')
 
-* 参数[Local]： 本地端口。 `Number` 类型
+## 子流程
 
-## 输出： `String`
+> 不支持
 
+## 运行参数
+
+
+* Local： 本地端口。 `Number` 类型
+
+## 输出
+> [`String`](../../types/String.md)
 
 ## 脚本调用
 

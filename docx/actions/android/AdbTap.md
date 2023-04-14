@@ -2,15 +2,20 @@
 在安卓模拟器中模拟点击。
 
 
-![param](./images/2022-11-15_192500.png ':size=90%')
-
-## 运行参数：
-
-* 参数[Device]： 模拟器。 `String` 类型
-* 参数[Point]： 点击位置，`Point` 类型。
 
 
-## 输出： `String`
+## 子流程
+
+> 不支持
+
+## 运行参数
+
+* Device： 模拟器。 `String` 类型
+* Point： 点击位置，`Point` 类型。
+
+
+## 输出 
+> [`String`](../../types/String.md)
 
 
 ## 脚本调用

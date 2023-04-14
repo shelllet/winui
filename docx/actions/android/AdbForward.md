@@ -3,15 +3,19 @@
 
 ![action](./images/2022-11-15_202219.png ':size=90%')
 
+## 子流程
+
+> 不支持
+
 ## 运行参数
 
 
-* 参数[Device]： 安卓设备。 `String` 类型
-* 参数[Local]： 本地端口。 `Number` 类型
-* 参数[Remote]： 模拟器端口。 `Number` 类型
+* Device： 安卓设备。 `String` 类型
+* Local： 本地端口。 `Number` 类型
+* Remote： 模拟器端口。 `Number` 类型
 
-* 输出： `String`
-
+* 输出
+> [`String`](../../types/String.md)
 
 ## 脚本调用
 

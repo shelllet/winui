@@ -4,15 +4,16 @@
 ![action](./images/01.png ':size=90%')
 
 
-## 子流程：**否**
+## 子流程
+> 不支持
 
-## 运行参数：
-![param](./images/02.png ':size=90%')
+## 运行参数
 
-* [Image]： 需要截取的原图像。
-* [ROI]： 感兴趣的区域， 参见：[Rect]({{%relref "type/Rect.md" %}})
 
-## 输出：裁切的子图像
+* Image： 需要截取的原图像。
+* ROI： 感兴趣的区域， 参见：[Rect]({{%relref "type/Rect.md" %}})
+
+## 输出裁切的子图像
 
 
 ## 脚本调用
