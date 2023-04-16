@@ -1,4 +1,4 @@
-# [0.19](https://github.com/shelllet/winui/compare/main...0.19) (2023-xx-xx)
+# [0.19](https://github.com/shelllet/winui/compare/main...0.19) (2023-04-16)
 ### Features
 
 1. 添加 *随机数* 动作。
