@@ -20,6 +20,7 @@
 ### 备注
 
 1. 直接从https://winui.net/ 下载即可下载最新版本
+2. 如果无法启动，请卸载之前版本，重新安装
 
 
 ## [0.18](https://github.com/shelllet/winui/compare/main...dev) (2023-03-26)
