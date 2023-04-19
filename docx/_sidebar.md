@@ -87,7 +87,7 @@
       - [颜色统计](./actions/detection/ColorPercentage.md)
       - [模板匹配](./actions/detection/MatchTemplate.md)
     - 绘图
-      - [绘制检测框](./actions/draw/DrawDetectResults.md)
+      - [绘制检测框](./actions/drawing/DrawDetectResults.md)
     - 深度学习
       - [目标分类](./actions/dnn/ONNXClassification.md)
       - [目标检测](./actions/dnn/ONNXDetection.md)

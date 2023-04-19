@@ -26,6 +26,13 @@
 
 # 购买 WinUi++ 2023版序列号
 
-* 咸鱼购买（手机链接）：[https://m.tb.cn/h.UrUggHo?tk=HFNtdjqp9kv](https://m.tb.cn/h.UrUggHo?tk=HFNtdjqp9kv)
-  
+* 咸鱼购买（手机链接）：[https://winui.net](https://winui.net ':id=buy')
+
+<script>
+  Docsify.get('http://localhost:8000/buy_url?v=0.2').then((text)=>{  
+    document.getElementById('buy').href = text; 
+    document.getElementById('buy').innerText = text;
+  });
+</script>
+
 * Paypal支持 [https://www.paypal.com/paypalme/junwufan](https://www.paypal.com/paypalme/junwufan) * 如足额付款，请留下邮件地址，以方便收到序列号，如在24小时内，无法收到，请邮件联系：shelllet.com@gmail.com。非足额付款，请留下姓名，感谢您的支持。
