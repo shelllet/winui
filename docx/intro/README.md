@@ -29,7 +29,7 @@
 * 咸鱼购买（手机链接）：[https://winui.net](https://winui.net ':id=buy')
 
 <script>
-  Docsify.get('http://localhost:8000/buy_url?v=0.2').then((text)=>{  
+  Docsify.get('https://api.winui.net/simple/latest_version?v=0.2').then((text)=>{  
     document.getElementById('buy').href = text; 
     document.getElementById('buy').innerText = text;
   });
