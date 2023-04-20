@@ -6,17 +6,17 @@
 
 ## 子流程
 
-> 不支持
+> 支持
 
 
 ## 运行参数
 
 
-* Device： 模拟器。 `String` 类型
+* [Device](../../types/String.md)： 模拟器
 
 
 ## 输出
- 安装包列表。`Strings` 类型
+> 安装包列表。[`Strings`](../../types/String.md) 类型
 
 
 ### 脚本调用

@@ -9,8 +9,8 @@
 
 ## 运行参数
 
-* Action：动作
-* Process：流程
+* Action：被引用的动作
+* Process：引用动作所在的流程
 
 
 ## 输出

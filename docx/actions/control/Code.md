@@ -12,15 +12,16 @@
 ## 运行参数
 
 
-* Code：`Python`脚本。如果使用全局变量，可以在脚本里边加入`global`。例如：
+* Code：`Python`脚本。如果在子流程中使用全局变量，可以在脚本里边加入`global`。例如：
+* 
 ```python
-global a
+global var
 ```
   
 
 ## 输出
 
-    无输出。
+>    无输出。
 
 
 ## 脚本调用
@@ -28,9 +29,9 @@ global a
 ```python
 import simple;
 
-global a
+global var
 
-a = 10
+var = 10
 
 ```
 

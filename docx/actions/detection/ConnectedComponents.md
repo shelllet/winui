@@ -1,4 +1,4 @@
-# Connected Components 
+# 连通域
 Connected Components
 
 ## 子流程

@@ -9,7 +9,9 @@
 
 ## 运行参数
 
-
+* Process：应用程序
+* [Type](../../enums/HandleType.md)：句柄类型
+* Name：句柄名称
 
 ## 输出
 

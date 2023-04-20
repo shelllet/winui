@@ -11,11 +11,11 @@
 ## 运行参数
 
 
-* Device： 模拟器， `String` 类型
+* Device： 模拟器
 
-## 输出
+## 输出 
 
-> [`Image`](../../types/Image.md)
+> 屏幕图片, 参考[`Image`](../../types/Image.md)
 
 ## 脚本调用
 
@@ -29,7 +29,3 @@ import simple;
 
 [https://github.com/shelllet/WinUi/blob/main/android/capture.simple](https://github.com/shelllet/WinUi/blob/main/android/capture.simple)
 
-![textchinese](./images/2022-11-15_190858.png ':size=90%')
-
-
-## 预览

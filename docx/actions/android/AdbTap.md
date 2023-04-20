@@ -10,12 +10,12 @@
 
 ## 运行参数
 
-* Device： 模拟器。 `String` 类型
-* Point： 点击位置，`Point` 类型。
+* Device： 模拟器。 
+* Point： 点击位置。
 
 
 ## 输出 
-> [`String`](../../types/String.md)
+> 模拟器日志
 
 
 ## 脚本调用
@@ -30,5 +30,4 @@ import simple;
 
 [https://github.com/shelllet/WinUi/blob/main/android/tap.simple](https://github.com/shelllet/WinUi/blob/main/android/tap.simple)
 
-![tap](./images/2022-11-15_192618.png ':size=90%')
 

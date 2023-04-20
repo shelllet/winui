@@ -12,10 +12,10 @@
 ## 运行参数
 
 
-* Local： 本地端口。 `Number` 类型
+* Local： 本地端口
 
 ## 输出
-> [`String`](../../types/String.md)
+> 模拟器日志
 
 ## 脚本调用
 

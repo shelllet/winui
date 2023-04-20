@@ -1,5 +1,5 @@
-# Access Key 
-根据指定的名称，获取对象的值
+# 名称*对象
+根据指定的名称，获取 *对象* 的值。
 
 ![action](./images/2022-11-26_194304.png ':size=90%')
 
@@ -9,7 +9,8 @@
 
 ## 运行参数
 
-
+* Value： 数据源，比如 *python* `dict` 类型， 或者 [`JsonObject`](../../types/JsonObject.md) 类型
+* Key： 名称，[String](../../types/String.md) 类型
 
 ## 输出
 

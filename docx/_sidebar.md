@@ -235,4 +235,7 @@
     - [Wnd](./types/Wnd.md)
     - [ModelSession](./types/ModelSession.md)
     - [WebDriver](./types/WebDriver.md)
+  - 枚举
+    - [ThresholdTypes](./enums/ThresholdTypes.md)
+    - [Directions](./enums/Directions.md)
   - [Changelog](./CHANGELOG.md)

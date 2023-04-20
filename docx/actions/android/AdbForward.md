@@ -10,12 +10,12 @@
 ## 运行参数
 
 
-* Device： 安卓设备。 `String` 类型
-* Local： 本地端口。 `Number` 类型
-* Remote： 模拟器端口。 `Number` 类型
+* Device： 安卓模拟器
+* Local： 本地端口
+* Remote： 模拟器端口
 
-* 输出
-> [`String`](../../types/String.md)
+## 输出
+> 模拟器操作日志
 
 ## 脚本调用
 
