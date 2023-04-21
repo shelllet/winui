@@ -196,7 +196,7 @@
       - [访问长度](./actions/algorithm/AccessSize.md)
       - [中心坐标](./actions/algorithm/CalculateCenter.md)
       - [坐标转换](./actions/algorithm/PointConvert.md)
-      - [过滤字符串](./actions/algorithm/FilterTexts.md)
+      - [过滤字符串](./actions/algorithm/FilterText.md)
       - [面积过滤](./actions/algorithm/FilterArea.md)
       - [FilterPerimeter](./actions/algorithm/FilterPerimeter.md)
       - [顶点过滤](./actions/algorithm/FilterVertex.md)

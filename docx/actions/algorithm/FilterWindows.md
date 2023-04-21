@@ -12,12 +12,13 @@
 
 
 
-* Source： 含有字符串的数组，例如 *中文识别* 动作。
-* Text： 文本，字符串类型， 支持 [**通配符（WildCard）**)]({{%relref "basics/logic/wildcard.md" %}})匹配。
+* Windows： 窗口列表。
+* Title： 窗口标题。支持 [**通配符（WildCard）**)](../../intro/process/wildcard.md)匹配。
+* Name： 窗口类名。 
 
 ## 输出
 
-> 屏幕坐标。类型为：`Point`
+> 窗口列表
 
 
 ## 脚本调用

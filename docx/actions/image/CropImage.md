@@ -9,9 +9,8 @@
 
 ## 运行参数
 
-
-* Image： 需要截取的原图像。
-* ROI： 感兴趣的区域， 参见：[Rect]({{%relref "type/Rect.md" %}})
+* Image： 源图像。
+* [Roi](../../types/Rect.md)： 裁切的区域
 
 ## 输出裁切的子图像
 

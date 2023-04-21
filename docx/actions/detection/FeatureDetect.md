@@ -12,13 +12,14 @@
 ## 运行参数
 
 
-
 * Source：源图像 
 * Target：要查找的图像 
-* Algorithm：查找算法 
+* Precision：精度
 
 
-## 输出：如果找到图像输出`RotatedRect` 类型，包含中心坐标。参考[RotatedRect]({{%relref "type/RotatedRect.md" %}})
+## 输出
+
+> `RotatedRect` 类型
 
 
 ## 脚本调用

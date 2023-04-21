@@ -10,9 +10,11 @@
 
 
 * Image： 待检测的图片。
-* Gradient Threshold： 像素间梯度差的阈值。
+* Area： 面积过滤
 
-## 输出 `Ellipses`
+## 输出 
+
+> [`Ellipses`](../../types/Ellipse.md)
 
 
 ### 脚本调用

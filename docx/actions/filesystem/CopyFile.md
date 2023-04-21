@@ -6,7 +6,9 @@
 
 
 ## 运行参数
-
+* From：源文件
+* Destination：目标文件夹
+* FileName：文件名，可用于文件重命名
 
 
 
