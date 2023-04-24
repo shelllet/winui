@@ -7,7 +7,8 @@
 
 ## 运行参数
 
-
+* Image：图像
+* Thresold: 阈值，用來區分 *strong edge* 和 *weak edge*，范围是 0 ~ 255。
 
 
 ## 输出

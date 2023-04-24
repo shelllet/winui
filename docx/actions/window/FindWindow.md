@@ -9,7 +9,7 @@
 ## 运行参数
 
 
-
+* Parent： 父窗口
 * Title： 窗口标题
 * Class： 窗口类
 

@@ -1,5 +1,5 @@
 # Get 
-Http Get 请求
+基于 *HTTP* 的*Get* 请求
 
 ## 子流程
 > 不支持
@@ -7,6 +7,7 @@ Http Get 请求
 
 ## 运行参数
 
+* Url：网址
 
 
 

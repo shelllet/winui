@@ -1,4 +1,25 @@
-# [0.19](https://github.com/shelllet/winui/compare/main...0.19) (2023-04-16)
+# [0.20](https://github.com/shelllet/winui/compare/main...dev) (2023-05-20)
+### Features
+
+1. 添加 *移动并双击* 动作
+2. 添加 *窗口标题* 动作
+3. 支持多语言切换
+4. 使用 *Acrylic*（ 亚克力背景），提高视觉层次结构。
+
+### Fixed
+
+1. 修复一些崩溃问题。
+
+### Deprecated
+1. *移动并点击* 动作删除 *Wait*（等待时间）参数
+   
+   
+### 备注
+
+1. 直接从https://winui.net/ 下载即可下载最新版本
+
+
+# [0.19](https://github.com/shelllet/winui/compare/main...dev) (2023-04-16)
 ### Features
 
 1. 添加 *随机数* 动作。

@@ -1,5 +1,5 @@
 # Post 
-发送 Http Post 请求
+基于 *HTTP* 的*Post* 请求
 
 ## 子流程
 > 不支持
@@ -7,8 +7,9 @@
 
 ## 运行参数
 
-
-
+* Url：网址
+* ContentType：数据类型
+* Content：数据
 
 ## 输出
 

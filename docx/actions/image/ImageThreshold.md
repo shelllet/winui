@@ -10,8 +10,8 @@
 ## 运行参数
 
 * Image： 要执行二值化操作的图像。
-* Value：阈值。范围（0 - 255），低于和高于阈值的像素值将相应改变。如果`Type`选择`BINARY`。低于该值的。像素被置为黑色。高于该阈值的， 则填充为`Value` 表示的颜色， 如果type选择`BINARY_INV`，则反之。
-* Fill：填充像素值。范围（0 -255）
+* Threshold：阈值。范围（0 - 255），低于和高于阈值的像素值将相应改变。如果`Type`选择`BINARY`。低于该值的。像素被置为黑色。高于该阈值的， 则填充为`Value` 表示的颜色， 如果type选择`BINARY_INV`，则反之。
+* Value：填充像素值。范围（0 -255）
 * Type：要应用的阈值类型[ThresholdTypes](../../enums/ThresholdTypes.md)
 
 ## 输出

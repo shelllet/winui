@@ -1,5 +1,5 @@
 # Head 
-Http Head 请求
+基于 *HTTP* 的*Head* 请求
 
 ## 子流程
 > 不支持
@@ -7,7 +7,7 @@ Http Head 请求
 
 ## 运行参数
 
-
+* Url：网址
 
 
 ## 输出
