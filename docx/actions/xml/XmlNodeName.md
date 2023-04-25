@@ -1,5 +1,5 @@
-# XmlNodeName 
-XmlNodeName
+# 节点名称 
+Xml 节点名称
 
 ## 子流程
 > 不支持
@@ -7,7 +7,7 @@ XmlNodeName
 
 ## 运行参数
 
-
+* Node：节点
 
 
 ## 输出

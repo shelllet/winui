@@ -1,5 +1,5 @@
-# XmlReplaceText 
-XmlReplaceText
+# 文本替换 
+替换节点文本
 
 ## 子流程
 > 不支持
@@ -7,6 +7,8 @@ XmlReplaceText
 
 ## 运行参数
 
+* Node：节点
+* Text：文本
 
 
 

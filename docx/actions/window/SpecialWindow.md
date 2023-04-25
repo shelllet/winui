@@ -8,7 +8,7 @@
 
 ## 运行参数
 
-
+* Type：窗口类型
 
 * Desktop： 桌面
 * Forground： 前置窗口。

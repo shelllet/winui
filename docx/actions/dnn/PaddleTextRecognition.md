@@ -7,7 +7,10 @@
 
 ## 运行参数
 
-
+* Model：模型
+* Image: 图像
+* Vocabulary：词汇表
+* 
 
 
 ## 输出
