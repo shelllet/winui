@@ -90,9 +90,6 @@
     - 深度学习
       - [目标分类](./actions/dnn/ONNXClassification.md)
       - [目标检测](./actions/dnn/ONNXDetection.md)
-      - [文本检测](./actions/dnn/PaddleTextDetection.md)
-      - [文本方向分类](./actions/dnn/PaddleTextDirectionClassifier.md)
-      - [文本识别](./actions/dnn/PaddleTextRecognition.md)
       - [中文识别](./actions/dnn/TextChinese.md)
     - 网络
       - [下载](./actions/network/HttpDownload.md)
