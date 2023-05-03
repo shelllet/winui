@@ -1,7 +1,7 @@
-# 过滤字符串 
-该动作可以过滤含有字符串元素的数组。
+# 过滤文本 
+该动作可以过滤含文本元素的列表。
 
-![action](./images/2022-11-17_184608.png ':size=90%')
+![action](./images/02.png ':size=90%')
 
 ## 子流程
 
@@ -10,8 +10,8 @@
 ## 运行参数
 
 
-* Value： 含有字符串的数组，例如 *中文识别* 动作。
-* Text： 文本，字符串类型， 支持 [**通配符（WildCard）**)](../../intro/process/wildcard.md) 匹配。
+* Value： 含有文本的列表，例如 *中文识别* 动作。
+* [Text](../../types/String.md)： 文本，*字符串* 类型， 支持 [*通配符（WildCard）*](../../intro/process/wildcard.md) 匹配。
 
 ## 输出
 
