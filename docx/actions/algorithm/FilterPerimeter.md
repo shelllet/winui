@@ -1,5 +1,5 @@
-# FilterPerimeter 
-FilterPerimeter
+# 周长筛选 
+计算数组中元素的周长，筛选符合条件的元素
 
 ![action](./images/03.png ':size=90%')
 

@@ -1,5 +1,5 @@
-# FilterWindows 
-窗口过滤
+# 窗口筛选 
+筛选当前操作系统中，符合条件的窗口
 
 
 ![action](./images/2022-11-17_184608.png ':size=90%')
@@ -9,8 +9,6 @@
 > 不支持
 
 ## 运行参数
-
-
 
 * Windows： 窗口列表。
 * Title： 窗口标题。支持 [**通配符（WildCard）**)](../../intro/process/wildcard.md)匹配。

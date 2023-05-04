@@ -1,5 +1,5 @@
-# 椭圆过滤 
-通过 *椭圆* 的特征过滤 *圆* 或者 *椭圆*。
+# 椭圆筛选 
+通过 *椭圆* 或者 *圆* 的特征筛选 *椭圆* 列表中的元素。
 
 ![action](./images/03.png ':size=90%')
 
@@ -11,7 +11,7 @@
 ## 运行参数
 
 
-* Value： 类型必须为 [`Ellipses`](../../types/Ellipse.md)
+* Value： 必须为椭圆列表： [`Ellipses`](../../types/Ellipse.md)
 
 * Minor 椭圆短轴范围
 * Major 椭圆长轴范围

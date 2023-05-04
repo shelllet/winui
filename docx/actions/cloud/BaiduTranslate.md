@@ -9,7 +9,7 @@
 
 ## 运行参数
 
-* [AppID]()：
+* [AppID]()：AppID
 * [Secret]：Secret
 * From：源语言
 * To：目标语言

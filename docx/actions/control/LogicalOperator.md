@@ -1,5 +1,5 @@
-# LogicalOperator 
-LogicalOperator
+# 逻辑运算 
+逻辑运算
 
 ![action](./images/2022-11-17_184608.png ':size=90%')
 
@@ -11,7 +11,7 @@ LogicalOperator
 
 
 * Source: 源数据
-* Operator： 逻辑运算符
+* [Operator](../../enums/LogicalOperators.md)： 逻辑运算符
 * Target：目标数据
 
 ## 输出

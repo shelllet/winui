@@ -1,5 +1,5 @@
 # 表达式 
-此动作可以执行*Python*的表达式。
+此动作可以执行 *Python* 的表达式。
 
 ![action](./images/013.png ':size=90%')
 
