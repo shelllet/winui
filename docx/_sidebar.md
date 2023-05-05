@@ -45,7 +45,7 @@
       - [移动鼠标](./actions/mouse/MovePointer.md)
       - [点击](./actions/mouse/Click.md)
       - [移动并点击](./actions/mouse/MoveClick.md)
-      - [移动并双击](./actions/mouse/MoveDoubleClick.md)      - 
+      - [移动并双击](./actions/mouse/MoveDoubleClick.md)
       - [双击](./actions/mouse/DoubleClick.md)
       - [右键点击](./actions/mouse/RightClick.md)
       - [拖动](./actions/mouse/DragPointer.md)

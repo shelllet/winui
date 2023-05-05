@@ -22,7 +22,7 @@
 1. 直接从https://winui.net/ 下载即可下载最新版本
 
 
-# [0.19](https://github.com/shelllet/winui/compare/main...dev) (2023-04-16)
+## [0.19](https://github.com/shelllet/winui/compare/main...dev) (2023-04-16)
 ### Features
 
 1. 添加 *随机数* 动作。
