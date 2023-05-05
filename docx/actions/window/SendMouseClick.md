@@ -7,6 +7,9 @@
 
 ## 运行参数
 
+* Window：窗口
+* Point：坐标
+* [Mode](../../enums/MessagePlaceMode.md)：消息发送方式
 
 
 

@@ -1,4 +1,4 @@
-# 日志禁用 
+# 输出控制 
 该动作用来在流程中控制输出日志
 
 ![action](./images/2022-12-26_163737.png ':size=90%')
@@ -10,9 +10,7 @@
 
 ## 运行参数
 
-
-
-* Action： `Enabled` 用来启用日志；`Disabled` 用来禁用日志输出
+* [Status](../../enums/WorkStatus.md)： 状态
 
 ## 输出
 

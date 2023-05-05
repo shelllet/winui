@@ -8,10 +8,9 @@
 
 ## 运行参数
 
-* Type：窗口类型
+* [Type](../../enums/KnownWindowType.md)：窗口类型
 
-* Desktop： 桌面
-* Forground： 前置窗口。
+
 
 ## 输出
 

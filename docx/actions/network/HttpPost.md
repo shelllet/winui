@@ -1,5 +1,5 @@
 # Post 
-基于 *HTTP* 的*Post* 请求
+发送基于 *HTTP* 的*Post* 请求
 
 ## 子流程
 > 不支持

@@ -10,7 +10,7 @@
 * Caption：标题
 * Text：内容
 
-* Flags：提示框样式
+* [Flags](../../enums/MessageBoxFlags.md)：提示框样式
   
 ## 输出
 

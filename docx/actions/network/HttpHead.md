@@ -1,5 +1,5 @@
 # Head 
-基于 *HTTP* 的*Head* 请求
+发送基于 *HTTP* 的*Head* 请求
 
 ## 子流程
 > 不支持

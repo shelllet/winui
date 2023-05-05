@@ -9,7 +9,7 @@
 
 * Window：窗口
 * Key：键
-* Mode：消息发送方式
+* [Mode](../../enums/MessagePlaceMode.md)：消息发送方式
 
 
 ## 输出
