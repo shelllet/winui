@@ -15,7 +15,7 @@
 
 ## 输出
 
-> [Boolean](../../types/Boolean.md)
+> [Boolean](../../types/Boolean.md)， 成立流程走左边分支，否则走右键分支
 
 ## 脚本调用
 
