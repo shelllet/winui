@@ -87,7 +87,7 @@
       - [颜色统计](./actions/detection/ColorPercentage.md)
       - [模板匹配](./actions/detection/MatchTemplate.md)
     - 绘图
-      - [绘制检测结果](./actions/drawing/DrawDetectResults.md)
+      - [绘制检测结果](./actions/drawing/DrawDetectionResult.md)
     - 深度学习
       - [目标分类](./actions/dnn/ONNXClassification.md)
       - [目标检测](./actions/dnn/ONNXDetection.md)
@@ -225,7 +225,7 @@
     - [Scalar](./types/Scalar.md)
     - [Color](./types/Color.md)
     - [RotatedRect](./types/RotatedRect.md)
-    - [DetectResult](./types/DetectResult.md)
+    - [DetectionResult](./types/DetectionResult.md)
     - [File](./types/File.md)
     - [Image](./types/Image.md)
     - [Size](./types/Size.md)
