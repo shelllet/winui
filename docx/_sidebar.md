@@ -92,9 +92,10 @@
       - [目标分类](./actions/dnn/ONNXClassification.md)
       - [目标检测](./actions/dnn/ONNXDetection.md)
       - [中文识别](./actions/dnn/TextChinese.md)
+      - [文本块检测](./actions/dnn/TextDetection.md)
     - 网络
       - [下载](./actions/network/HttpDownload.md)
-      - [Youtube 视频下载](./actions/network/YoutubeDownload.md)
+      - [视频下载](./actions/network/YoutubeDownload.md)
       - [Head](./actions/network/HttpHead.md)
       - [Get](./actions/network/HttpGet.md)
       - [Post](./actions/network/HttpPost.md)

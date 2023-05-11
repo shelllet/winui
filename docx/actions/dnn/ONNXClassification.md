@@ -9,12 +9,9 @@
 
 * Model：模型， *ONNX* 分类模型。
 * Image：要分类的图像
-* Mean：每个通道的均值序列
-* Std：每个通道的标准差序列
-* SwapRB：参考模型说明
 
 
-根据模型不同，*Std*，*Mean*，可能需要不同的数值。
+另外，模型不同，可能需要设置相应的 *Std*，*Mean*，数值。如果需要设置，需要在脚本中调用该动作。
 
 例如：[MobileNet 模型](https://github.com/onnx/models/tree/main/vision/classification/mobilenet),必须将图像像素转换到 [0, 1] 范围内（动作自动完成），然后使用 `mean = [0.485, 0.456, 0.406]` 和 `std = [0.229, 0.224, 0.225]` 进行归一化
 
