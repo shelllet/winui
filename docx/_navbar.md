@@ -1,6 +1,6 @@
 * 文档
 
   * [介绍](./intro/README.md.md)
-  * [动作](./actions/README.md)
-  * [版本](./changelog.md)
+  * [开发版](https://shelllet.github.io/winui/#/)
+  * [更新日志](./changelog.md)
   * [首页](/)
