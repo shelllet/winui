@@ -45,3 +45,4 @@ jobs:
           rm -rf /var/www
           mkdir -p /var/www
           cp -R ./docx/* /var/www
+          curl -L --create-dirs -o setup.exe --output-dir /var/www/_media/simple https://api.winui.net/simple/download?v=0.2
