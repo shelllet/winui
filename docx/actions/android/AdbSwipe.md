@@ -10,13 +10,13 @@
 ## 运行参数
 
 
-* Device： 安卓模拟器。类型为`String`。
-* From： 滑动的开始位置。类型为`Point`。
-* To： 滑动的结束位置。类型为`Point`。
+* Device： 安卓模拟器。
+* From： 滑动的开始位置。
+* To： 滑动的结束位置。
 * Time： 滑动时间。单位秒。
 
 ## 输出
-> [`String`](../../types/String.md)
+> 模拟器日志
 
 ## 脚本调用
 
@@ -30,5 +30,4 @@ import simple;
 
 [https://github.com/shelllet/WinUi/blob/main/android/swipe.simple](https://github.com/shelllet/WinUi/blob/main/android/swipe.simple)
 
-![swipe](./images/2022-11-15_191641.png ':size=90%')
 

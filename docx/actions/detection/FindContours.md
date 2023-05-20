@@ -7,6 +7,9 @@
 
 ## 运行参数
 
+* Image：图像
+* [Modes](../../enums/RetrievalModes.md)：模式
+
 
 
 

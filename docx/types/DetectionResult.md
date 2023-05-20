@@ -1,6 +1,6 @@
-# DetectResult
+# DetectionResult
 
-Class `DetectResult` 对象检测结果
+Class `DetectionResult` 对象检测结果
 
 ### 属性
 

@@ -10,13 +10,12 @@
 
 ## 运行参数
 
-
-* Device： 模拟器。 `String` 类型
-* Text： 文本，拨支持中文字符串。`String` 类型。
+* [Device](../../types/String.md)： 安卓模拟器
+* [Text](../../types/String.md)： 文本
 
 ## 输出 
 
-> [`String`](../../types/String.md)
+> 模拟器日志
 
 
 ## 脚本调用

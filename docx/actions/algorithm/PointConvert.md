@@ -10,12 +10,11 @@
 
 ## 运行参数
 
-
 * Point： 窗口坐标, 类型为：`Point`。
 * Window： 窗口, 默认为窗口的标题，类型为：`String`。
-* [Method] 
-  > 窗口坐标->屏幕坐标
-  > 屏幕坐标->窗口坐标
+
+* [Method](../../enums/PointConvertMethod.md)：转换方式
+
   
 ## 输出
 > 类型为：`Point`

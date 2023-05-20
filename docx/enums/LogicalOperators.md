@@ -1,0 +1,5 @@
+# LogicalOperators
+
+* AND
+* OR
+* NOT

@@ -9,12 +9,13 @@
 
 ## 运行参数
 
-
+* Source：字符串
+* Separator：分隔符
 
 
 ## 输出
 
-> 随机数，`Number`类型
+> [Strings](../../types/String.md)
 
 
 ## 脚本调用
