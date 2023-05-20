@@ -4,12 +4,12 @@
       - [直接安装](./intro/installation/installed_by_exe.md)
       - [微软商店安装](./intro/installation/installed_by_msix.md)
   - 流程
-    - [项目属性](./intro/process/property.md)
-    - [使用逻辑](./intro/process/logic.md)
-    - [鼠标/键盘录制](./intro/process/record.md)
-    - [变量](./intro/process/variable.md)
-    - [流程操作技巧](./intro/process/skill.md)
-    - [通配符匹配](./intro/process/wildcard.md)
+    - [项目属性](./intro/workflow/property.md)
+    - [使用逻辑](./intro/workflow/logic.md)
+    - [鼠标/键盘录制](./intro/workflow/record.md)
+    - [变量](./intro/workflow/variable.md)
+    - [流程操作技巧](./intro/workflow/skill.md)
+    - [通配符匹配](./intro/workflow/wildcard.md)
   - [动作](./actions/README.md)
     - 系统
       - [等待](./actions/system/Wait.md)
