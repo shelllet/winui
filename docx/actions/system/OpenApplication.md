@@ -3,6 +3,8 @@
 
 ![OpenApplication](./images/06.png ':size=90%')
 
+## 权限
+> 无要求
 
 ## 子流程
 
