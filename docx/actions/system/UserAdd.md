@@ -3,6 +3,9 @@
 
 ![UserAdd](./images/05.png ':size=90%')
 
+## 权限
+> 管理员
+
 ## 子流程
 
 > 不支持
@@ -10,7 +13,8 @@
 ## 运行参数
 
 * [account](../../types/String.md)： 账号名称
-* [Password](../../types/String.md)： 密码
+* [password](../../types/String.md)： 密码
+* [homeDir](../../types/Path.md)： 用户目录，通常在 *C:\Users* 路径下面会有操作系统中所有账号的用户目录
 
 ## 输出
 
