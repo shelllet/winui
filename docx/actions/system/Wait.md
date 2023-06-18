@@ -31,6 +31,6 @@ w.run()
 
 ## 资源
 
-* YouTube视频：https://youtu.be/n0JOUQOWMuo
-* B站视频：https://www.bilibili.com/video/BV1mz4y1b7D1/?share_source=copy_web
-* 流程：https://github.com/shelllet/WinUi/blob/main/system/wait.simple
+* 视频介绍：https://youtu.be/n0JOUQOWMuo
+* 视频介绍：https://www.bilibili.com/video/BV1mz4y1b7D1/?share_source=copy_web
+* 流程：https://github.com/shelllet/WinUi/blob/main/system/Wait.simple

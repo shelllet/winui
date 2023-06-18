@@ -1,4 +1,22 @@
-# [0.21](https://github.com/shelllet/winui/compare/main...dev) (2023-06-10)
+# [0.22](https://github.com/shelllet/winui/compare/main...dev) (2023-06-22)
+### Features
+1. 增加 *获取颜色* 动作
+2. *播放录制* 支持根据半径计算动态坐标，
+3. 安卓 *设备列表* 支持异步处理
+### Fixed
+
+1. 修复资源界面，无法弹出右键问题
+2. 修复模型推理崩溃问题
+
+
+### Deprecated
+   
+### 备注
+
+1. 直接从https://winui.net/ 下载即可下载最新版本
+2. 解除 *Vip* 限制，未来版本会加入31天试用期。
+
+## [0.21](https://github.com/shelllet/winui/compare/main...dev) (2023-06-10)
 ### Features
 1. *过滤字符串*动作支持字符串数组，解决 *或* 的问题
 2. 添加 *WindowSize* 动作，用来调整或获取窗口大小
