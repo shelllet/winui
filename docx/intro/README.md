@@ -15,13 +15,11 @@
   
 * 问题提交：[https://github.com/shelllet/WinUi/issues](https://github.com/shelllet/WinUi/issues)
 
-# 注册版和非注册版
+# 注册版和试用版
 
-| <div style="width:200px"/> | <div style="width:200px">注册版</div> | <div style="width:200px">非注册版</div> |
+| <div style="width:200px"/> | <div style="width:200px">注册版</div> | <div style="width:200px">试用版</div> |
 | :------------------------: | :-----------------------------------: | :-------------------------------------: |
-|          流程创建          |                无限制                 |                限制为2个                |
-|          发布流程          |                无限制                 |                                         |
-|          其它功能          |                无限制                 |                 无限制                  |
+|          全部功能          |                无限制                 |                 每天试用6小时                  |
 
 
 # 购买 WinUi++ 2023版序列号
@@ -35,4 +33,4 @@
   });
 </script>
 
-* Paypal支持 [https://www.paypal.com/paypalme/junwufan](https://www.paypal.com/paypalme/junwufan) * 如足额付款，请留下邮件地址，以方便收到序列号，如在24小时内，无法收到，请邮件联系：shelllet.com@gmail.com。非足额付款，请留下姓名，感谢您的支持。
+* PayPal 购买 [https://www.paypal.com/paypalme/junwufan](https://www.paypal.com/paypalme/junwufan) * ，请先加入 [Discord](https://discord.gg/b4MeYbJrfk) 。
