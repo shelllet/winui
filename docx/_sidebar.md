@@ -98,6 +98,7 @@
       - [目标检测](./actions/dnn/ONNXDetection.md)
       - [中文识别](./actions/dnn/TextChinese.md)
       - [文本块检测](./actions/dnn/TextDetection.md)
+      - [二维码识别](./actions/dnn/QRCode.md)
     - 网络
       - [下载](./actions/network/HttpDownload.md)
       - [视频下载](./actions/network/YoutubeDownload.md)
