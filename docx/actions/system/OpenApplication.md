@@ -33,6 +33,9 @@ r = simple.OpenApplicationRunner("C:\\Program Files (x86)\\Steam\\Steam.exe")
 r.run()
 ```
 
-## 示例
 
-[https://github.com/shelllet/WinUi/blob/main/system/OpenApplication.simple](https://github.com/shelllet/WinUi/blob/main/system/OpenApplication.simple)
+## 资源
+
+* 视频介绍：https://youtu.be/pHl6kwBsxiE
+* 视频介绍：hhttps://www.bilibili.com/video/BV1Xj411Q7JL/?spm_id_from=333.788
+* 流程：https://github.com/shelllet/WinUi/blob/main/system/OpenApplication.simple

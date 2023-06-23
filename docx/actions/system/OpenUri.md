@@ -9,10 +9,9 @@
 
 ## 运行参数
 
-
+* [url](../../types/Url.md)： 要打开的链接
 
 ## 输出
-
 
 
 ## 脚本
@@ -22,5 +21,9 @@ import simple
 
 ```
 
-## 示例
 
+## 资源
+
+* 视频介绍：
+* 视频介绍：
+* 流程：https://github.com/shelllet/WinUi/blob/main/system/OpenUri.simple
