@@ -1,4 +1,18 @@
-# [0.22](https://github.com/shelllet/winui/compare/main...dev) (2023-06-22)
+# [0.23](https://github.com/shelllet/winui/compare/main...dev) (2023-07-08)
+### Features
+
+### Fixed
+
+1. 修复打开链接动作 *OpenUri* 参数无法保存问题
+   
+### Deprecated
+   
+### 备注
+
+1. 直接从https://winui.net/ 下载即可下载最新版本
+
+   
+## [0.22](https://github.com/shelllet/winui/compare/main...dev) (2023-06-22)
 ### Features
 1. 增加 *获取颜色* 动作
 2. *播放录制* 支持根据半径计算动态坐标，
