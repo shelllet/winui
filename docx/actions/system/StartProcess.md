@@ -37,8 +37,8 @@ p.run()
 
 ## 资源
 
-* 流程：https://github.com/shelllet/WinUi/blob/main/system/startprocess.simple
-* YouTube视频：https://youtu.be/GuonLCJ6AR4
-* B站视频：https://www.bilibili.com/video/BV15s4y1T7ry/
+* 流程：https://github.com/shelllet/WinUi/blob/main/system/StartProcess.simple
+* 视频介绍：https://youtu.be/GuonLCJ6AR4
+* 视频介绍：https://www.bilibili.com/video/BV15s4y1T7ry/
 
 !> 停止流程运行，目前版本无法自动结束启动的进程，需要等待启动的进程自行结束,或者通过*任务栏管理器*强制结束

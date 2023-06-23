@@ -35,6 +35,8 @@ p.run()
 
 ## 资源
 
-[https://github.com/shelllet/WinUi/blob/main/system/startprocess.simple](https://github.com/shelllet/WinUi/blob/main/system/UserAdd.simple)
+* 视频介绍：https://youtu.be/28NohYUVZHY
+* 视频介绍：https://www.bilibili.com/video/BV1i14y1S73Z/?spm_id_from=333.788
+* 示例: https://github.com/shelllet/WinUi/blob/main/system/UserAdd.simple
 
 

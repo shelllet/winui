@@ -1,7 +1,7 @@
 # 打开文件 
-该动作可以打开在操作系统中关联过文件类型的文件。
+该动作可以打开操作系统中非可执行文件，比如 *.txt*, *.docx* *.pptx* 等类型的文件。
 
-
+![LaunchFile](./images/02.png ':size=90%')
 
 ## 子流程
 
@@ -10,7 +10,7 @@
 
 ## 运行参数
 
-* File： 要打开的文件
+* [file](../../types/Path.md)： 要打开的文件
 
 ## 输出
 
@@ -23,5 +23,8 @@ import simple
 
 ```
 
-## 示例
+## 资源
 
+* 视频介绍：
+* 视频介绍：
+* 流程：https://github.com/shelllet/WinUi/blob/main/system/LaunchFile.simple

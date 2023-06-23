@@ -32,13 +32,13 @@
 
 * 最新版本下载：[https://winui.net/](https://winui.net/)
 
-* B 站：[https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951](https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951)
 
 * 油管: [https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ](https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ)
+* B站：[https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951](https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951)
 
-* 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论
+* 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
 
-!> 加入微信群讨论
+* 扫下面二维码加入微信群.
 
 <div style="text-align:center">
     <img width="25%" src="https://gitlab.com/junwu/winui/-/raw/main/mm.png">
