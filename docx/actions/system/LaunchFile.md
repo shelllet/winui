@@ -26,7 +26,7 @@
 import simple
 
 r = simple.LaunchFileRunner("C:\\Users\\shell\\Desktop\\d2.txt")
-# p.file = "C:\\Users\\shell\\Desktop\\d2.txt"
+# r.file = "C:\\Users\\shell\\Desktop\\d2.txt"
 r.run()
 
 ```

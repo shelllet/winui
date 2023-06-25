@@ -29,7 +29,7 @@
 import simple
 
 r = simple.OpenApplicationRunner("C:\\Program Files (x86)\\Steam\\Steam.exe")
-# p.app = "C:\\Program Files (x86)\\Steam\\Steam.exe"
+# r.app = "C:\\Program Files (x86)\\Steam\\Steam.exe"
 r.account = 'abc'
 r.password = '123'
 r.run()
