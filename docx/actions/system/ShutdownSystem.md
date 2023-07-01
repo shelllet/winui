@@ -21,7 +21,7 @@
 ```python
 import simple;
 
-r = simple.ShutdownSystem()
+r = simple.ShutdownSystemRunner()
 
 r.run()
 ```
