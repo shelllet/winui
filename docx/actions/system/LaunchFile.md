@@ -1,7 +1,11 @@
-# 打开文件 
-该动作可以打开操作系统中非可执行文件，比如 *.txt*, *.docx* *.pptx* 等类型的文件。
+# 打开关联文件 
+该动作可以打开操作系统中的关联文件，即非可执行文件，比如 *.txt*, *.docx* *.pptx* 等类型的文件。
 
 ![LaunchFile](./images/02.png ':size=90%')
+
+
+## 权限
+> 无要求
 
 ## 子流程
 
@@ -14,17 +18,21 @@
 
 ## 输出
 
-
+> 打开的文件，和参数 `file` 相同。
 
 ## 脚本
 
 ```python
 import simple
 
+r = simple.LaunchFileRunner("C:\\Users\\shell\\Desktop\\d2.txt")
+# r.file = "C:\\Users\\shell\\Desktop\\d2.txt"
+r.run()
+
 ```
 
 ## 资源
 
-* 视频介绍：
-* 视频介绍：
+* 视频介绍：https://youtu.be/DF6nbZ5LP_g
+* 视频介绍：https://www.bilibili.com/video/BV1rM4y1E714/?spm_id_from=333.788
 * 流程：https://github.com/shelllet/WinUi/blob/main/system/LaunchFile.simple
