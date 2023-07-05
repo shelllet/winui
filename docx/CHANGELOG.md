@@ -1,4 +1,18 @@
-# [0.23](https://github.com/shelllet/winui/compare/main...dev) (2023-07-08)
+# [0.24](https://github.com/shelllet/winui/compare/main...dev) (2023-07-XX)
+### Features
+1. 异步操作添加 *WorkSwitchStatus*（状态切换）动作
+
+### Fixed
+
+1. 修复一些BUG.
+   
+### Deprecated
+   
+### 备注
+
+1. 直接从https://winui.net/ 下载即可下载最新版本
+
+## [0.23](https://github.com/shelllet/winui/compare/main...dev) (2023-07-08)
 ### Features
 1. 优化一些操作界面，预览动作增加动画
 
