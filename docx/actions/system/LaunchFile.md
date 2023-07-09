@@ -14,7 +14,7 @@
 
 ## 运行参数
 
-* [file](../../types/Path.md)： 要打开的文件
+* [file](./types/Path.md)： 要打开的文件
 
 ## 输出
 
@@ -33,6 +33,6 @@ r.run()
 
 ## 资源
 
-* 视频介绍：https://youtu.be/DF6nbZ5LP_g
-* 视频介绍：https://www.bilibili.com/video/BV1rM4y1E714/?spm_id_from=333.788
+* Y：[【 winui++ 动作介绍： 打开关联文件】](https://youtu.be/DF6nbZ5LP_g)
+* B：[【 winui++ 动作介绍： 打开关联文件】](https://www.bilibili.com/video/BV1rM4y1E714/?spm_id_from=333.788)
 * 流程：https://github.com/shelllet/WinUi/blob/main/system/LaunchFile.simple
