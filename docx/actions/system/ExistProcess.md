@@ -10,7 +10,7 @@
 
 ## 运行参数
 
-* [app](../../types/Path.md)：进程路径，支持 *Wildcard* 匹配
+* [app](./types/Path.md)：进程路径，支持 *Wildcard* 匹配
 
 
 ## 输出

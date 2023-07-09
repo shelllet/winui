@@ -10,17 +10,17 @@
 
 ## 运行参数
 
-* [app](../../types/Path.md) 程序路径
-* [commandLine](../../types/String.md) 传递的命令行参数
-* [workingDirectory](../../types/Path.md)：工作目录
-* [env](../../types/String.md)：环境变量
-* [account](../../types/String.md)：账号
-* [password](../../types/String.md)：密码, 可空。
+* [app](./types/Path.md) 程序路径
+* [commandLine](./types/String.md) 传递的命令行参数
+* [workingDirectory](./types/Path.md)：工作目录
+* [env](./types/String.md)：环境变量
+* [account](./types/String.md)：账号
+* [password](./types/String.md)：密码, 可空。
   
 
 ## 输出
 
-> 启动的程序路径。 [`Path`](../../types/Path.md) 类型
+> 启动的程序路径。 [`Path`](./types/Path.md) 类型
 
 
 ## 脚本调用
