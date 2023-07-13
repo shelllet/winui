@@ -30,4 +30,8 @@ r.run()
 
 ```
 
-## 示例
+## 资源
+* Y: [WinUi++动作介绍：检测进程是否运行](https://youtu.be/m4opS4PEvx8)
+* B: [WinUi++动作介绍：检测进程是否运行](https://www.bilibili.com/video/BV1LP411y7E1/)
+* [clipchamp](https://clipchamp.com/watch/gs40Tr7G6Ot)
+* 流程：https://github.com/shelllet/WinUi/blob/main/system/ExistProcess.simple

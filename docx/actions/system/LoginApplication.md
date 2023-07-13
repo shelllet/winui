@@ -1,8 +1,10 @@
-# 打开应用 
-使用本地系统中的账号打开应用程序。该动作不会等待程序结束。
+# 登录应用 
+使用本地系统中的账号密码打开应用程序。该动作不会等待程序结束。
 
-![LoginApplication](./images/06.png ':size=90%')
+![LoginApplication](./images/14.png ':size=90%')
 
+## 权限
+> 无要求
 
 ## 子流程
 
@@ -13,7 +15,7 @@
 * [app](./types/Path.md) 程序路径
 * [commandLine](./types/String.md) 传递的命令行参数
 * [workingDirectory](./types/Path.md)：工作目录
-* [env](./types/String.md)：环境变量
+* [env](./types/String.md)：环境变量，通过脚本设置
 * [account](./types/String.md)：账号
 * [password](./types/String.md)：密码, 可空。
   
@@ -35,6 +37,9 @@ r.password = '123'
 r.run()
 ```
 
-## 示例
+## 资源
 
-[https://github.com/shelllet/WinUi/blob/main/system/OpenApplication.simple](https://github.com/shelllet/WinUi/blob/main/system/OpenApplication.simple)
+* Y: [WinUi++动作介绍：终止进程](https://youtu.be/hlpfERxN5yQ)
+* B: [WinUi++动作介绍：终止进程](https://www.bilibili.com/video/BV1LP411y7E1/)
+* ... [clipchamp](https://clipchamp.com/watch/gs40Tr7G6Ot)
+* 流程：https://github.com/shelllet/WinUi/blob/main/system/LoginApplication.simple
