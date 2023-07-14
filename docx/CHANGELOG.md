@@ -2,13 +2,15 @@
 ### Features
 1. 异步操作添加 *WorkSwitchStatus*（状态切换）动作
 2. 预览图支持通过鼠标框选ROI区域
+3. *PointConvert* （坐标转换）动作添加：是否包含标题栏参数
 
 ### Fixed
 
 1. 修复一些BUG.
- 
+
+
 ### Deprecated
-   
+
 ### 备注
 
 1. 直接从https://winui.net/ 下载即可下载最新版本
