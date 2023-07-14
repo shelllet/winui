@@ -30,7 +30,7 @@
 ```python
 import simple
 
-r = simple.OpenApplicationRunner("C:\\Program Files (x86)\\Steam\\Steam.exe")
+r = simple.LoginApplicationRunner("C:\\Program Files (x86)\\Steam\\Steam.exe")
 # r.app = "C:\\Program Files (x86)\\Steam\\Steam.exe"
 r.account = 'abc'
 r.password = '123'
