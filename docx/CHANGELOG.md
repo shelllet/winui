@@ -1,4 +1,4 @@
-# [0.24](https://github.com/shelllet/winui/compare/main...dev) (2023-07-XX)
+# [0.24](https://github.com/shelllet/winui/compare/main...dev) (2023-07-15)
 ### Features
 1. 异步操作添加 *WorkSwitchStatus*（状态切换）动作
 2. 预览图支持通过鼠标框选ROI区域
