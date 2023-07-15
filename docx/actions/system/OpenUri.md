@@ -13,7 +13,7 @@
 
 ## 运行参数
 
-* [url](../../types/Url.md)： 要打开的链接
+* [url](./types/Url.md)： 要打开的链接
 
 ## 输出
 
@@ -32,6 +32,6 @@ r.run()
 
 ## 资源
 
-* 视频介绍：https://youtu.be/vhmTjR990yU
-* 视频介绍：https://www.bilibili.com/video/BV1ya4y1A7wc/
+* Y：[WinUi++ 动作介绍： 打开链接】](https://youtu.be/vhmTjR990yU)
+* B：[WinUi++ 动作介绍： 打开链接】](https://www.bilibili.com/video/BV1ya4y1A7wc/)
 * 流程：https://github.com/shelllet/WinUi/blob/main/system/OpenUri.simple

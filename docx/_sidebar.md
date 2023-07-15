@@ -18,9 +18,10 @@
       - [打开应用](./actions/system/OpenApplication.md)
       - [打开文件](./actions/system/LaunchFile.md)
       - [打开链接](./actions/system/OpenUri.md)
-      - [终止进程](./actions/system/KillProcess.md)
       - [关机](./actions/system/ShutdownSystem.md)
       - [关闭句柄](./actions/system/CloseHandle.md)
+      - [检测进程](./actions/system/ExistProcess.md)
+      - [终止进程](./actions/system/KillProcess.md)
       - [登录应用](./actions/system/LoginApplication.md)
     - 异步操作
       - [定时器](./actions/async/WorkTimer.md)
