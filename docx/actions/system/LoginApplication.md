@@ -39,7 +39,6 @@ r.run()
 
 ## 资源
 
-* Y: [WinUi++动作介绍：终止进程](https://youtu.be/hlpfERxN5yQ)
-* B: [WinUi++动作介绍：终止进程](https://www.bilibili.com/video/BV1LP411y7E1/)
-* ... [clipchamp](https://clipchamp.com/watch/gs40Tr7G6Ot)
+* Y: [WinUi++动作介绍：登录应用（类似RunAs）](https://youtu.be/j_tC1t7zxGg)
+* B: [WinUi++动作介绍：登录应用（类似RunAs）](https://www.bilibili.com/video/BV1Lk4y1N7QZ/)
 * 流程：https://github.com/shelllet/WinUi/blob/main/system/LoginApplication.simple
