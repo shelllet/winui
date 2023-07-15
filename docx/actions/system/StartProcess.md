@@ -14,15 +14,15 @@
 
 ## 运行参数
 
-* [app](../../types/Path.md)： 启动的进程路径
-* [commandLine](../../types/String.md)： 传递的命令行参数
-* [noWindow](../../types/Boolean.md)： 无窗口运行
-* [workingDirectory](../../types/Path.md)：工作目录
-* [env](../../types/String.md)：环境变量
+* [app](./types/Path.md)： 启动的进程路径
+* [commandLine](./types/String.md)： 传递的命令行参数
+* [noWindow](./types/Boolean.md)： 无窗口运行
+* [workingDirectory](./types/Path.md)：工作目录
+* [env](./types/String.md)：环境变量
 
 ## 输出
 
->    启动应用程序输出的内容, [`String`](../../types/String.md) 类型。
+>    启动应用程序输出的内容, [`String`](./types/String.md) 类型。
 
 
 ## 脚本调用
@@ -37,8 +37,8 @@ p.run()
 
 ## 资源
 
+* Y：[WinUi++ 动作介绍： 启动应用程序】](https://youtu.be/GuonLCJ6AR4)
+* B：[WinUi++ 动作介绍： 启动应用程序】](https://www.bilibili.com/video/BV15s4y1T7ry/)
 * 流程：https://github.com/shelllet/WinUi/blob/main/system/StartProcess.simple
-* 视频介绍：https://youtu.be/GuonLCJ6AR4
-* 视频介绍：https://www.bilibili.com/video/BV15s4y1T7ry/
 
 !> 停止流程运行，目前版本无法自动结束启动的进程，需要等待启动的进程自行结束,或者通过*任务栏管理器*强制结束

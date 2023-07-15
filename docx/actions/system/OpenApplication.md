@@ -12,15 +12,15 @@
 
 ## 运行参数
 
-* [app](../../types/Path.md) 程序路径
-* [commandLine](../../types/String.md) 传递的命令行参数
-* [workingDirectory](../../types/Path.md)：工作目录
-* [env](../../types/String.md)：环境变量
+* [app](./types/Path.md) 程序路径
+* [commandLine](./types/String.md) 传递的命令行参数
+* [workingDirectory](./types/Path.md)：工作目录
+* [env](./types/String.md)：环境变量
   
 
 ## 输出
 
-> 启动的程序路径。 [`Path`](../../types/Path.md) 类型
+> 启动的程序路径。 [`Path`](./types/Path.md) 类型
 
 
 ## 脚本调用
@@ -36,6 +36,6 @@ r.run()
 
 ## 资源
 
-* 视频介绍：https://youtu.be/pHl6kwBsxiE
-* 视频介绍：hhttps://www.bilibili.com/video/BV1Xj411Q7JL/?spm_id_from=333.788
+* Y：[WinUi++ 动作介绍： 打开应用】](https://youtu.be/pHl6kwBsxiE)
+* B：[WinUi++ 动作介绍： 打开应用】](hhttps://www.bilibili.com/video/BV1Xj411Q7JL/?spm_id_from=333.788)
 * 流程：https://github.com/shelllet/WinUi/blob/main/system/OpenApplication.simple
