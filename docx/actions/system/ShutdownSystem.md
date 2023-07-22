@@ -28,6 +28,9 @@ r.run()
 
 ## 资源
 
-* Y：[WinUi++ 动作介绍： 关机动作】](https://youtu.be/jILoz5Ctq9w)
-* B：[WinUi++ 动作介绍： 关机动作】](https://www.bilibili.com/video/BV1Wm4y1J7vz/)
-* 流程：https://github.com/shelllet/WinUi/blob/main/system/ShutdownSystem.simple
+* 示例流程：https://github.com/shelllet/WinUi/blob/main/system/ShutdownSystem.simple
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/jILoz5Ctq9w" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Wm4y1J7vz&page=1&autoplay=0” height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

@@ -1,28 +1,25 @@
-# 异步动作结束
+# 异步结束
 可用于结束正在执行的异步动作，比如：*线程* 、*定时器* 等动作。
 
-![WorkExit](./images/2022-12-24_111314.png ':size=90%')
+![WorkExit](./images/03.png ':size=90%')
 
-
+## 权限
+> 无要求
 ## 子流程
 
 > 不支持
 
 ## 运行参数
 
-* Thread： 线程动作，比如 *When* 动作。
+* 异步对象，比如 *WorkThread* （线程）动作。
 
 ## 输出
 
-    无
+>    无
 
 
 ## 脚本调用
-
-```python
-import simple;
-
-```
+> 不支持，参考[Thread](./types/Thread.md)
 
 ## 示例
 

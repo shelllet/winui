@@ -1,4 +1,20 @@
-# [0.24](https://github.com/shelllet/winui/compare/main...dev) (2023-07-15)
+# [0.25](https://github.com/shelllet/winui/compare/main...dev) (2023-07-XX)
+### Features
+1. 添加动作 *ImageMarkRelativeROI*，方便对图像设置感兴趣的区域
+2. 添加动作 *WindowPoint*，方便获取窗口中几个选定坐标位置
+
+### Fixed
+
+1. 修复动作中 `Boolean` 类型的运行时参数.无法保存设置。
+
+
+### Deprecated
+
+### 备注
+
+1. 直接从https://winui.net/ 下载即可下载最新版本
+
+## [0.24](https://github.com/shelllet/winui/compare/main...dev) (2023-07-15)
 ### Features
 1. 异步操作添加 *WorkSwitchStatus*（状态切换）动作
 2. 预览图支持通过鼠标框选ROI区域
