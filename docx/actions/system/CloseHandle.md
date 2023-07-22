@@ -35,6 +35,8 @@ r.run()
 
 ## 资源
 
-* Y：[【WinUi++动作介绍-关闭句柄（结合暗黑2-重置版多开】）](https://youtu.be/Kj_zEqtAozU)
-* B：[【WinUi++动作介绍-关闭句柄（结合暗黑2-重置版多开）】](https://www.bilibili.com/video/BV1w14y1o7Zx/?share_source=copy_web&vd_source=1f1a8c99005f37c7aaab6686e53b22ad)
 * 流程：https://github.com/shelllet/WinUi/blob/main/system/CloseHandle.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/Kj_zEqtAozU" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1w14y1o7Zx&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

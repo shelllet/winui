@@ -35,8 +35,11 @@ p.run()
 
 ## 资源
 
-* Y：[WinUi++ 动作介绍： 添加账户】](https://youtu.be/28NohYUVZHY)
-* B：[WinUi++ 动作介绍： 添加账户】](https://www.bilibili.com/video/BV1i14y1S73Z/?spm_id_from=333.788)
-* 示例: https://github.com/shelllet/WinUi/blob/main/system/UserAdd.simple
+* 示例流程: https://github.com/shelllet/WinUi/blob/main/system/UserAdd.simple
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/28NohYUVZHY" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1i14y1S73Z&page=1&autoplay=0” height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 

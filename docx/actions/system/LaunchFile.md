@@ -33,6 +33,8 @@ r.run()
 
 ## 资源
 
-* Y：[【 winui++ 动作介绍： 打开关联文件】](https://youtu.be/DF6nbZ5LP_g)
-* B：[【 winui++ 动作介绍： 打开关联文件】](https://www.bilibili.com/video/BV1rM4y1E714/?spm_id_from=333.788)
-* 流程：https://github.com/shelllet/WinUi/blob/main/system/LaunchFile.simple
+* 示例流程：https://github.com/shelllet/WinUi/blob/main/system/LaunchFile.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/DF6nbZ5LP_g" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1rM4y1E714&page=1&autoplay=0” height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
