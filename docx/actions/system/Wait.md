@@ -31,6 +31,8 @@ w.run()
 
 ## 资源
 
-* Y：[【WinUi++ 等待动作介绍】](https://youtu.be/n0JOUQOWMuo)
-* B：[【WinUi++ 等待动作介绍】](https://www.bilibili.com/video/BV1mz4y1b7D1/?share_source=copy_web)
-* 流程：https://github.com/shelllet/WinUi/blob/main/system/Wait.simple
+* 示例流程：https://github.com/shelllet/WinUi/blob/main/system/Wait.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/n0JOUQOWMuo" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1mz4y1b7D1&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

@@ -25,11 +25,12 @@
       - [登录应用](./actions/system/LoginApplication.md)
     - 异步操作
       - [定时器](./actions/async/WorkTimer.md)
-      - [定时任务](./actions/async/TimedTask.md)
-      - [线程](./actions/async/WorkThread.md)
-      - [结束](./actions/async/WorkExit.md)
-      - [启动](./actions/async/WorkBegin.md)
-      - [当...成立](./actions/async/When.md)
+      - [定时任务](./actions/async/WorkTask.md)
+      - [工作线程](./actions/async/WorkThread.md)
+      - [异步结束](./actions/async/WorkExit.md)
+      - [异步启动](./actions/async/WorkBegin.md)
+      - [状态切换](./actions/async/WorkReset.md)
+      - [等待事件](./actions/async/WhenEvent.md)
     - 文件
       - [读取文件](./actions/filesystem/FileRead.md)
       - [文件写入](./actions/filesystem/FileWrite.md)
@@ -69,6 +70,7 @@
       - [窗口标题](./actions/window/WindowTitle.md)
       - [窗口矩形](./actions/window/WindowRect.md)
       - [窗口尺寸](./actions/window/WindowSize.md)
+      - [窗口坐标](./actions/window/WindowPoint.md)
     - 图像处理
       - [颜色转换](./actions/image/CvtColor.md)
       - [裁切图片](./actions/image/CropImage.md)
@@ -79,7 +81,8 @@
       - [颜色筛选](./actions/image/ImageInRange.md)
       - [形态学操作](./actions/image/ImageMorphological.md)
       - [自适应阈值](./actions/image/AdaptiveThreshold.md)
-      - [标记ROI](./actions/image/ImageMarkROI.md)
+      - [标记区域](./actions/image/ImageMarkROI.md)
+      - [标记相对区域](./actions/image/ImageMarkRelativeROI.md)
     - 图像检测
       - [线段检测](./actions/detection/EdgeLineDetection.md)
       - [快速直线检查找](./actions/detection/FastLineDetection.md)
@@ -223,7 +226,7 @@
       - [密码](./actions/type/TypePassword.md)
       - [颜色](./actions/type/TypeColor.md)
       - [模型](./actions/type/ONNXModel.md)
-  - 类型
+  - 内置类型
     - [Boolean](./types/Boolean.md)
     - [Number](./types/Number.md)
     - [String](./types/String.md)
@@ -241,7 +244,9 @@
     - [Wnd](./types/Wnd.md)
     - [ModelSession](./types/ModelSession.md)
     - [WebDriver](./types/WebDriver.md)
-  - 枚举
+    - [Timer](./types/Timer.md)
+    - [Thread](./types/Thread.md)
+  - 枚举类型
     - [ThresholdTypes](./enums/ThresholdTypes.md)
     - [Directions](./enums/Directions.md)
     - [ColorConversionCodes](./enums/ColorConversionCodes.md)
@@ -259,5 +264,6 @@
     - [RetrievalModes](./enums/RetrievalModes.md)
     - [ThresholdTypes](./enums/ThresholdTypes.md)
     - [Visibility](./enums/Visibility.md)
-    - [WorkStatus](./enums/WorkStatus.md)
+    - [WorkState](./enums/WorkState.md)
+    - [RelativePosition](./enums/RelativePosition.md)
   - [Changelog](./CHANGELOG.md)
