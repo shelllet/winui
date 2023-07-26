@@ -25,12 +25,12 @@
       - [登录应用](./actions/system/LoginApplication.md)
     - 异步操作
       - [定时器](./actions/async/WorkTimer.md)
-      - [定时任务](./actions/async/ScheduledTask.md)
+      - [定时任务](./actions/async/WorkTask.md)
       - [工作线程](./actions/async/WorkThread.md)
       - [异步结束](./actions/async/WorkExit.md)
       - [异步启动](./actions/async/WorkBegin.md)
-      - [状态切换](./actions/async/WorkPower.md)
-      - [当...成立](./actions/async/When.md)
+      - [状态切换](./actions/async/WorkReset.md)
+      - [等待事件](./actions/async/WhenEvent.md)
     - 文件
       - [读取文件](./actions/filesystem/FileRead.md)
       - [文件写入](./actions/filesystem/FileWrite.md)
@@ -226,7 +226,7 @@
       - [密码](./actions/type/TypePassword.md)
       - [颜色](./actions/type/TypeColor.md)
       - [模型](./actions/type/ONNXModel.md)
-  - 类型
+  - 内置类型
     - [Boolean](./types/Boolean.md)
     - [Number](./types/Number.md)
     - [String](./types/String.md)
@@ -246,7 +246,7 @@
     - [WebDriver](./types/WebDriver.md)
     - [Timer](./types/Timer.md)
     - [Thread](./types/Thread.md)
-  - 枚举
+  - 枚举类型
     - [ThresholdTypes](./enums/ThresholdTypes.md)
     - [Directions](./enums/Directions.md)
     - [ColorConversionCodes](./enums/ColorConversionCodes.md)
@@ -264,6 +264,6 @@
     - [RetrievalModes](./enums/RetrievalModes.md)
     - [ThresholdTypes](./enums/ThresholdTypes.md)
     - [Visibility](./enums/Visibility.md)
-    - [WorkStatus](./enums/WorkStatus.md)
+    - [WorkState](./enums/WorkState.md)
     - [RelativePosition](./enums/RelativePosition.md)
   - [Changelog](./CHANGELOG.md)
