@@ -23,7 +23,11 @@
 
 > 不支持，参考[Thread](./types/Thread.md) 或者 [WinEvent](./types/WinEvent.md)
 
-## 示例
+## 资源
 
-https://github.com/shelllet/WinUi/blob/main/async/WorkReset.simple
+示例流程: https://github.com/shelllet/WinUi/blob/main/async/WorkReset.simple
 
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/lAsyhNbaK50" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1km4y1L7xm&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
