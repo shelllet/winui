@@ -39,6 +39,8 @@ r.run()
 
 ## 资源
 
-* Y: [WinUi++动作介绍：登录应用（类似RunAs）](https://youtu.be/j_tC1t7zxGg)
-* B: [WinUi++动作介绍：登录应用（类似RunAs）](https://www.bilibili.com/video/BV1Lk4y1N7QZ/)
-* 流程：https://github.com/shelllet/WinUi/blob/main/system/LoginApplication.simple
+* 示例流程：https://github.com/shelllet/WinUi/blob/main/system/LoginApplication.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/j_tC1t7zxGg" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Lk4y1N7QZ&page=1&autoplay=0” height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

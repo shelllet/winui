@@ -30,6 +30,8 @@ r.run()
 ```
 
 ## 资源
-* Y: [WinUi++动作介绍：终止进程](https://youtu.be/hlpfERxN5yQ)
-* B: [WinUi++动作介绍：终止进程](https://www.bilibili.com/video/BV118411U7yu/)
-* 流程：https://github.com/shelllet/WinUi/blob/main/system/KillProcess.simple
+* 示例流程：https://github.com/shelllet/WinUi/blob/main/system/KillProcess.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/hlpfERxN5yQ" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV118411U7yu&page=1&autoplay=0” height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
