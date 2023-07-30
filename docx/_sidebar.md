@@ -10,6 +10,7 @@
     - [变量](./intro/workflow/variable.md)
     - [流程操作技巧](./intro/workflow/skill.md)
     - [通配符匹配](./intro/workflow/wildcard.md)
+    - [Glob模式匹配](./intro/workflow/glob.md)
   - [动作](./actions/README.md)
     - 系统
       - [等待](./actions/system/Wait.md)
@@ -34,12 +35,12 @@
     - 文件
       - [读取文件](./actions/filesystem/FileRead.md)
       - [文件写入](./actions/filesystem/FileWrite.md)
-      - [读取多行文件](./actions/filesystem/ReadLines.md)
+      - [按行读取](./actions/filesystem/ReadLines.md)
       - [保存图片](./actions/filesystem/ImageSave.md)
       - [加载图像](./actions/filesystem/ImageLoad.md)
       - [搜索文件](./actions/filesystem/FileQuery.md)
       - [遍历文件夹](./actions/filesystem/DirectoryIterator.md)
-      - [复制文件](./actions/filesystem/CopyFile.md)
+      - [文件复制](./actions/filesystem/CopyFile.md)
     - 键盘
       - [发送按键](./actions/keyboard/SendKey.md)
       - [发送文本](./actions/keyboard/SendText.md)
