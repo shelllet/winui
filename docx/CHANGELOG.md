@@ -1,7 +1,6 @@
-# [0.26](https://github.com/shelllet/winui/compare/main...dev) (2023-07-26)
+# [0.26](https://github.com/shelllet/winui/compare/main...dev) (2023-08-xx)
 ### Features
 1. 功能优化
-2. 添加动作 *WindowPoint*，方便获取窗口中几个选定坐标位置
 
 ### Fixed
 
@@ -59,14 +58,14 @@
 3. 修复安装在中文路径下面点击运行崩溃问题
 4. 修复截图 ROI 设置问题
 5. 修复运算符操作相关动作的错误
-   
+
 ### Deprecated
    
 ### 备注
 
 1. 直接从https://winui.net/ 下载即可下载最新版本
 
-   
+
 ## [0.22](https://github.com/shelllet/winui/compare/main...dev) (2023-06-22)
 ### Features
 1. 增加 *获取颜色* 动作
