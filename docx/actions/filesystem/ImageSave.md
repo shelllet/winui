@@ -1,7 +1,7 @@
 # 保存图片 
 把图片类型的数据保存到本地磁盘上。
 
-![ImageSave](./images/2022-11-27_144911.png ':size=90%')
+![ImageSave](./images/04.png ':size=90%')
 ## 权限
 > 无要求
 ## 子流程

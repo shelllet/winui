@@ -1,7 +1,7 @@
 # 文件复制
 把文件从一个位置复制到另一个位置。
 
-![CopyFile](./images/03.png ':size=90%')
+![CopyFile](./images/08.png ':size=90%')
 
 ## 权限
 > 无要求

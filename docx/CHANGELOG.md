@@ -1,6 +1,6 @@
 # [0.26](https://github.com/shelllet/winui/compare/main...dev) (2023-08-xx)
 ### Features
-1. 功能优化
+1. *重放鼠标键盘* 动作添加 *重复执行* 参数
 
 ### Fixed
 
