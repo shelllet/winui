@@ -1,5 +1,8 @@
 # 遍历文件夹 
 遍历文件夹
+
+![DirectoryIterator](./images/07.png ':size=90%')
+
 ## 权限
 > 无要求
 ## 子流程

@@ -1,7 +1,7 @@
 # 加载图像 
 从本地磁盘加载图像
 
-![ImageSave](./images/2022-11-27_144911.png ':size=90%')
+![ImageSave](./images/05.png ':size=90%')
 
 ## 权限
 > 无要求
@@ -12,7 +12,7 @@
 
 ## 运行参数
 
-* Image：图像
+* 图像路径
 
 
 ## 输出
@@ -21,7 +21,7 @@
 
 
 ## 脚本调用
-
+>   无导出，参考[Image](../../types/Image.md)
 ```python
 import simple;
 

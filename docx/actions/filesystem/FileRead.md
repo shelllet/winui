@@ -1,7 +1,7 @@
 # 读取文件 
 读取文件，可以读取二进制文件或者文本文件。
 
-![FileRead](./images/03.png ':size=90%')
+![FileRead](./images/01.png ':size=90%')
 ## 权限
 > 无要求
 ## 子流程
