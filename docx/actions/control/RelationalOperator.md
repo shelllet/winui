@@ -12,13 +12,13 @@
 ## 运行参数
 
 * Source: 源数据
-* [Operator](../../enums/RelationalOperators.md)： 逻辑运算符
+* [Operator](./enums/RelationalOperators.md)： 逻辑运算符
 * Target：目标数据
 
 
 ## 输出
 
-> [Boolean](../../types/Boolean.md)
+> [Boolean](./types/Boolean.md)
 
 ## 脚本调用
 

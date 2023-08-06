@@ -11,8 +11,8 @@
 > 不支持
 
 ## 运行参数
-* 异步对象，比如 [*WorkThread*](../../actions/async/WorkThread.md) 动作, 或者 [*WhenEvent*](../../actions/type/TypeEvent.md) 事件动作
-* 状态，参考[WorkState](../../enums/WorkState.md) 状态， 对于 [*WhenEvent*](../../actions/type/TypeEvent.md),  `Auto` == `On`。对于 [*WorkTimer*](../../actions/async/WorkTimer.md) / [*WorkThread*](../../actions/async/WorkThread.md), `Auto` 可以 在`On` 和 `Off` 之间切换。
+* 异步对象，比如 [*WorkThread*](./actions/async/WorkThread.md) 动作, 或者 [*WhenEvent*](./actions/type/TypeEvent.md) 事件动作
+* 状态，参考[WorkState](./enums/WorkState.md) 状态， 对于 [*WhenEvent*](./actions/type/TypeEvent.md),  `Auto` == `On`。对于 [*WorkTimer*](./actions/async/WorkTimer.md) / [*WorkThread*](./actions/async/WorkThread.md), `Auto` 可以 在`On` 和 `Off` 之间切换。
 
 ## 输出
 

@@ -12,11 +12,11 @@
 ## 运行参数
 
 
-* [Device](../../types/String.md)： 模拟器
+* [Device](./types/String.md)： 模拟器
 
 
 ## 输出
-> 安装包列表。[`Strings`](../../types/String.md) 类型
+> 安装包列表。[`Strings`](./types/String.md) 类型
 
 
 ### 脚本调用

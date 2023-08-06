@@ -12,12 +12,12 @@
 ## 运行参数
 
 
-* [state](../../enums/PowerState.md) 初始状态， 如果是 `Auto`, 则 默认为 `Off`，即无信号状态。此时，这个动作不会去执行子流程，会一直等待。如果设置为 `On` 的。这个动作一开始就会去执行子流程，而不会去等待。
+* [state](./enums/PowerState.md) 初始状态， 如果是 `Auto`, 则 默认为 `Off`，即无信号状态。此时，这个动作不会去执行子流程，会一直等待。如果设置为 `On` 的。这个动作一开始就会去执行子流程，而不会去等待。
 
 
 ## 输出
 
-> [WinEvent](../../types/WinEvent.md)    
+> [WinEvent](./types/WinEvent.md)    
 
 
 ## 脚本调用

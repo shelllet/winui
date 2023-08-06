@@ -1,5 +1,5 @@
-# 遍历文件夹 
-遍历文件夹
+# 遍历文件 
+遍历本地文件夹当中的所有文件。
 
 ![DirectoryIterator](./images/07.png ':size=90%')
 
@@ -11,13 +11,16 @@
 
 ## 运行参数
 
-* [path](../../types/Path.md)：文件夹
-* [recursive](../../types/Boolean.md)：是否递归遍历, 默认 `False`。
-* [async](../../types/Boolean.md), 是否异步处理子流程。
+* [path](./types/Path.md)
+  > 要遍历的文件夹
+* [recursive](./types/Boolean.md)
+ > 是否递归遍历, 默认 `False`。
+* [async](./types/Boolean.md)
+  > 是否异步处理子流程，也就是开启线程处理子流程。默认 `False`，不支持在脚本中使用。
 
 ## 输出
 
-> 返回遍历到的所有文件路径。[Paths](../../types/Path.md)     
+> 返回遍历到的所有文件路径。[Paths](./types/Path.md) ，路径列表。   
 
 
 ## 脚本调用
@@ -25,12 +28,12 @@
 ```python
 import * from simple;
 
-def callback(path):
+def cbk(path):
     simple.info(path)
 
 r = DirectoryIteratorRunner('C:\Users\\shell\\Download')
 
-r.run(callback)
+r.run(cbk)
 ```
 
 ## 资源

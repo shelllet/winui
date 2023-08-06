@@ -13,7 +13,7 @@
 
 ## 输出 
 
-> 屏幕图片, 参考[`Image`](../../types/Image.md)
+> 屏幕图片, 参考[`Image`](./types/Image.md)
 
 ## 脚本调用
 

@@ -12,7 +12,7 @@
 
 ## 输出
 
-> [JsonValue](../../types/JsonValue.md)
+> [JsonValue](./types/JsonValue.md)
     
 
 

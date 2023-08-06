@@ -9,8 +9,8 @@
 
 ## 运行参数
 
-* Value： 数组，比如 *python* `dict` 类型， 或者 [`JsonObject`](../../types/JsonObject.md) 类型
-* Key： 名称，[String](../../types/String.md) 类型
+* Value： 数组，比如 *python* `dict` 类型， 或者 [`JsonObject`](./types/JsonObject.md) 类型
+* Key： 名称，[String](./types/String.md) 类型
 
 ## 输出
 

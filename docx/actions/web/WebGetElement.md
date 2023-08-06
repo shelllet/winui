@@ -10,12 +10,12 @@
 ## 运行参数
 
 * Driver： 浏览器对象，即 *WebOpen* 动作的返回值。
-* By： 查找元素的方法, 参考 [定位策略](../../intro/webdriver/locators.md)
+* By： 查找元素的方法, 参考 [定位策略](./intro/webdriver/locators.md)
 
 
 ## 输出
 
-> 查找到的 *Web* 元素, 类型：[WebElement](../../types/WebElement.md)   
+> 查找到的 *Web* 元素, 类型：[WebElement](./types/WebElement.md)   
 
 
 ## 脚本调用

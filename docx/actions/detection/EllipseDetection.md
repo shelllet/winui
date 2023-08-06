@@ -14,7 +14,7 @@
 
 ## 输出 
 
-> [`Ellipses`](../../types/Ellipse.md)
+> [`Ellipses`](./types/Ellipse.md)
 
 
 ### 脚本调用

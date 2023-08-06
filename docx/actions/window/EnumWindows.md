@@ -12,7 +12,7 @@
 
 ## 输出
 
-> 窗口： [`Wnds`](../../types/Wnd.md)    
+> 窗口： [`Wnds`](./types/Wnd.md)    
 
 
 ## 脚本调用
