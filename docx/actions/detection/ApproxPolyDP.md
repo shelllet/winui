@@ -7,12 +7,12 @@
 
 ## 运行参数
 
-* [Contour](../../types/Contour.md)：原始轮廓
+* [Contour](./types/Contour.md)：原始轮廓
 * [Epsilon](): 指定近似精度的参数。这是原始轮廓与其近似轮廓之间的最大距离。
 
 
 ## 输出
-> 近似的轮廓。类型参考：[Contour](../../types/Contour.md)
+> 近似的轮廓。类型参考：[Contour](./types/Contour.md)
     
 
 

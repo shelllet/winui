@@ -10,7 +10,7 @@
 * Image：源图像
 * Width：连通区域的宽度过滤
 * Height：连通区域的高度过滤
-* [Area](../../types/Range.md)：连通区域的面积过滤
+* [Area](./types/Range.md)：连通区域的面积过滤
 
 
 ## 输出

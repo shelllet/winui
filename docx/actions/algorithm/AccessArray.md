@@ -10,7 +10,7 @@
 ## 运行参数
 
 * Value： 数组,比如`文字识别`动作的结果，或者 *python* *[]* 变量。
-* Index： 索引，[Number](../../types/Number.md)
+* Index： 索引，[Number](./types/Number.md)
 
 ## 输出
 

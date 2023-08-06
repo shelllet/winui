@@ -11,7 +11,7 @@
 ## 运行参数
 
 
-* Value： 必须为椭圆列表： [`Ellipses`](../../types/Ellipse.md)
+* Value： 必须为椭圆列表： [`Ellipses`](./types/Ellipse.md)
 
 * Minor 椭圆短轴范围
 * Major 椭圆长轴范围

@@ -3,6 +3,7 @@
 
 ![CopyFile](./images/08.png ':size=90%')
 
+
 ## 权限
 > 无要求
 ## 子流程
@@ -10,15 +11,18 @@
 
 
 ## 运行参数
-* [from](../../types/Path.md)：源文件
-* [to](../../types/Path.md)：目标位置（文件夹）,如果为空，使用流程所在的位置
-* [filename](../../types/String.md)：文件名,包含扩展名，可用于文件重命名。如果为空，和源文件的文件名称一致。
+* [from](./types/Path.md)
+  > 源文件, 要复制的文件。
+* [to](./types/Path.md)
+  > 目标位置（文件夹）,如果为空，使用流程所在的位置
+* [filename](./types/String.md)
+  > 文件名,包含扩展名，可用于文件重命名。如果为空，和源文件的文件名称一致。
 
 
 
 ## 输出
 
-> 目标位置的文件全路径。[Path](../../types/Path.md)    
+> 目标位置的文件全路径。[Path](./types/Path.md), 文件路径。 
 
 
 ## 脚本调用
@@ -31,4 +35,7 @@ r.to = 'C:\Users\\shell\\Download'
 r.run()
 ```
 
+
 ## 资源
+
+!> 不可复制文件夹

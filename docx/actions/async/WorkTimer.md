@@ -13,7 +13,7 @@
 ## 运行参数
 
 
-* [duration](../../types/TimeSpan.md)： 间隔时间，单位秒。
+* [duration](./types/TimeSpan.md)： 间隔时间，单位秒。
 * [immediate](./types/Boolean.md)： 是否立即触发，如果没有选择此项，定时器在第一次启动的时候,需要等待所设置的间隔时间，才会触发。
 
 

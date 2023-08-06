@@ -17,11 +17,11 @@
 
 ## 输出
 
-> 返回[Image](../../types/Image.md)    
+> [Image](./types/Image.md)    
 
 
 ## 脚本调用
->   无导出，参考[Image](../../types/Image.md)
+>   无导出，参考[Image](./types/Image.md)
 ```python
 import simple;
 

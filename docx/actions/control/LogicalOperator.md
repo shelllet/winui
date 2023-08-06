@@ -11,7 +11,7 @@
 
 
 * Source: 源数据
-* [Operator](../../enums/LogicalOperators.md)： 逻辑运算符
+* [Operator](./enums/LogicalOperators.md)： 逻辑运算符
 * Target：目标数据
 
 ## 输出

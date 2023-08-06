@@ -39,7 +39,7 @@
       - [保存图片](./actions/filesystem/ImageSave.md)
       - [加载图像](./actions/filesystem/ImageLoad.md)
       - [搜索文件](./actions/filesystem/FileQuery.md)
-      - [遍历文件夹](./actions/filesystem/DirectoryIterator.md)
+      - [遍历文件](./actions/filesystem/DirectoryIterator.md)
       - [文件复制](./actions/filesystem/CopyFile.md)
     - 键盘
       - [发送按键](./actions/keyboard/SendKey.md)
@@ -247,6 +247,7 @@
     - [WebDriver](./types/WebDriver.md)
     - [Timer](./types/Timer.md)
     - [Thread](./types/Thread.md)
+    - [Keyboard](./types/Keyboard.md)
   - 枚举类型
     - [ThresholdTypes](./enums/ThresholdTypes.md)
     - [Directions](./enums/Directions.md)

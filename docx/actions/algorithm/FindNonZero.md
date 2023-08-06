@@ -15,7 +15,7 @@
 
 ## 输出
 
-> [Points](../../types/Point.md)
+> [Points](./types/Point.md)
 
 
 ## 脚本调用

@@ -14,7 +14,7 @@
 
 ## 输出
   
->    长度， [`Number`](../../types/Number.md) 类型
+>    长度， [`Number`](./types/Number.md) 类型
 
 
 ## 脚本调用

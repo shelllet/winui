@@ -12,7 +12,7 @@
 
 ## 输出
 
-> [`Image`](../../types/Image.md)
+> [`Image`](./types/Image.md)
 
 
 ## 脚本调用

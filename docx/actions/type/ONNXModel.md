@@ -16,7 +16,7 @@
 
 ## 输出
 
-> [`ModelSession`](../../types/ModelSession.md)
+> [`ModelSession`](./types/ModelSession.md)
 
 
 ## 脚本调用

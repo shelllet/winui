@@ -10,17 +10,17 @@
 
 ## 运行参数
 
-* [文件](../../types/Path.md)：文件所在的路径
+* [文件](./types/Path.md)：文件所在的路径
 
 
 ## 输出
 
-> 文件内容，[*字符串*](../../types/String.md)    
+> 文件内容，[*字符串*](./types/String.md)    
 
 
 ## 脚本调用
 
-> 无导出，参考[File](../../types/File.md)
+> 无导出，参考[File](./types/File.md)
 ```python
 import simple
 

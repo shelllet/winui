@@ -10,7 +10,7 @@
 ## 运行参数
 
 * Image： 源图像。
-* [Roi](../../types/Rect.md)： 裁切的区域
+* [Roi](./types/Rect.md)： 裁切的区域
 
 ## 输出裁切的子图像
 

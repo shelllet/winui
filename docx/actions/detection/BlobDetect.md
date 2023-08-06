@@ -19,7 +19,7 @@
 
 ## 输出
 
->   *Blob* 区域 [Images](../../types/Image.md)
+>   *Blob* 区域 [Images](./types/Image.md)
 
 
 ## 脚本调用

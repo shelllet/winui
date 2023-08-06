@@ -11,7 +11,7 @@
 
 ## 输出 
 
->  模拟器名称列表 [`Strings`](../../types/String.md)
+>  模拟器名称列表 [`Strings`](./types/String.md)
 
 
 ## 脚本调用
