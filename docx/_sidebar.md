@@ -152,6 +152,7 @@
       - [播放录制](./actions/media/PlayRecord.md)
       - [全屏截图](./actions/media/CaptureFullScreen.md)
       - [前置窗口截图](./actions/media/CaptureForground.md)
+      - [相机图像](./actions/media/VideoFrame.md)
     - 云
       - [百度翻译](./actions/cloud/BaiduTranslate.md)
     - Xml
@@ -227,6 +228,7 @@
       - [密码](./actions/type/TypePassword.md)
       - [颜色](./actions/type/TypeColor.md)
       - [模型](./actions/type/ONNXModel.md)
+      - [相机](./actions/type/Camera.md)
   - 内置类型
     - [Boolean](./types/Boolean.md)
     - [Number](./types/Number.md)
