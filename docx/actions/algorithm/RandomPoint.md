@@ -8,12 +8,12 @@
 
 ## 运行参数
 
-* [center](../../types/Point.md)：中心坐标
-* [radius](../../types/Number.md)：半径
+* [center](./types/Point.md)：中心坐标
+* [radius](./types/Number.md)：半径
 
 ## 输出
 
-> 随机坐标，[`Point`](../../types/Point.md)类型
+> 随机坐标，[`Point`](./types/Point.md)类型
 
 
 ## 脚本调用

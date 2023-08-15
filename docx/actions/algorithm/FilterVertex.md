@@ -12,7 +12,7 @@
 
 
 * Value： 包含轮廓的数组。
-* [Shape](../../enums/ContourShape.md)： 形状。
+* [Shape](./enums/ContourShape.md)： 形状。
 
 ## 输出
 

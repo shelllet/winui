@@ -8,8 +8,8 @@
 
 ## 运行参数
 
-* [Window](../../types/Wnd.md)：窗口
-* [Rect](../../types/Rect.md)：矩形
+* [Window](./types/Wnd.md)：窗口
+* [Rect](./types/Rect.md)：矩形
 
 
 ## 输出

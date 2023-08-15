@@ -14,7 +14,7 @@
 
 ## 输出
 
-> 中心坐标。类型为：[`Point`](../../types/Point.md)
+> 中心坐标。类型为：[`Point`](./types/Point.md)
 
 
 ### 脚本调用

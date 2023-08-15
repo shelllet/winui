@@ -10,11 +10,11 @@
 * Image: 执行阈值操作的图像
 * Value:  填充像素值，范围（0 -255）
 * BlockSize: 确定邻域区域的大小,用来计算阈值
-* Type：要应用的阈值类型[ThresholdTypes](../../enums/ThresholdTypes.md)
+* Type：要应用的阈值类型[ThresholdTypes](./enums/ThresholdTypes.md)
 
 ## 输出
 
-> [`Image`](../../types/Image.md)。
+> [`Image`](./types/Image.md)。
 
 
 

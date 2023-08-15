@@ -15,7 +15,7 @@
 
 ## 输出
 
-> [`Object`](../../types/Object.md)
+> [`Object`](./types/Object.md)
 
 ## 脚本调用
 

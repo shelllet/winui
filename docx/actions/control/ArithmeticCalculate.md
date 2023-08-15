@@ -9,7 +9,7 @@
 
 ## 运行参数
 
-* Source：源数据，比如： [`Point`](../../types/Point.md) 类型
+* Source：源数据，比如： [`Point`](./types/Point.md) 类型
 * Operator：操作符
 * Target：目标数据
   

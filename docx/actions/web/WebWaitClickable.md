@@ -8,8 +8,8 @@
 ## 运行参数
 * Driver：浏览器对象
 * Timeout：超时时间，默认 *60* 秒。
-* Element：元素值, 由 *By* 值确定。字符串类型 [`String`](../../types/String.md)
-* By：定位策略，参考：[web locators](../../intro/webdriver/locators.md)
+* Element：元素值, 由 *By* 值确定。字符串类型 [`String`](./types/String.md)
+* By：定位策略，参考：[web locators](./intro/webdriver/locators.md)
 
 
 ## 输出

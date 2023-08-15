@@ -11,7 +11,7 @@
 
 * Value： 含有文本的列表，例如 *文字识别* 动作。
   
-* [Text](../../types/String.md)： 文本，*字符串* 类型， 支持 [*通配符（WildCard）*](../../intro/process/wildcard.md) 匹配。
+* [Text](./types/String.md)： 文本，*字符串* 类型， 支持 [*通配符（WildCard）*](./intro/process/wildcard.md) 匹配。
 
 ## 输出
 

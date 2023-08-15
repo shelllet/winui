@@ -1,26 +1,37 @@
 # 文件写入 
-把文本信息写入本地文件
+把文本信息写入本地文件,也就是保存到电脑磁盘上面。
 
+![FileWrite](./images/02.png ':size=90%')
+
+## 权限
+> 无要求
 ## 子流程
 > 不支持
 
 
 ## 运行参数
-* [value](../../types/String.md)：写入的内容
-* [folder](../../types/Path.md)：文件保存的位置, 如果为空，使用当前路径，即工作流程所在的路径。
-* [name](../../types/String.md)：文件名称,可为空，如果为空，自动生成 *本地时间* 格式的名称
+* [文本](./types/String.md)：写入的内容
+* [目录](./types/Path.md)：文件保存的位置, 如果为空，使用当前路径，即工作流程所在的路径。
+* [名称](./types/String.md)：文件名称,可为空，默认值：**.txt*, 生成以如： *2023-02-28_756046.txt* 为名称的文件，其中 *.txt* 为 扩展名，可以更换其它有效文件名。
 
 
 ## 输出
 
-> 写入文件的全路径 [`Path`](../../types/Path.md)    
+> 写入文件的全路径 [`Path`](./types/Path.md)    
 
 
 ## 脚本调用
 
+> 无导出，参考[File](./types/File.md)
 ```python
 import simple;
 
 ```
 
-## 示例
+## 资源
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/filesystem/FileWrite.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/qJaTrYl-m_U" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1o94y1C734&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

@@ -15,7 +15,7 @@
 
 ## 输出 
 
-> [`String`](../../types/String.md)
+> [`String`](./types/String.md)
 
 ```
     # : already connected to 192.168.31.170:5555

@@ -13,7 +13,7 @@
 
 ## 输出
 
-> 检测到的直线。['Lines'](../../types/Line.md)    
+> 检测到的直线。['Lines'](./types/Line.md)    
 
 
 ## 脚本调用

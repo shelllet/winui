@@ -8,8 +8,8 @@
 
 ## 运行参数
 
-* [Window](../../types/Wnd.md)：窗口
-* [Size](../../types/Size.md)：尺寸
+* [Window](./types/Wnd.md)：窗口
+* [Size](./types/Size.md)：尺寸
 
 
 

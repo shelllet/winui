@@ -11,8 +11,8 @@
 > 不支持
 
 ## 运行参数
-* 异步对象，比如 [*WorkThread*](../../actions/async/WorkThread.md) 动作, 或者 [*WhenEvent*](../../actions/type/TypeEvent.md) 事件动作
-* 状态，参考[WorkState](../../enums/WorkState.md) 状态， 对于 [*WhenEvent*](../../actions/type/TypeEvent.md),  `Auto` == `On`。对于 [*WorkTimer*](../../actions/async/WorkTimer.md) / [*WorkThread*](../../actions/async/WorkThread.md), `Auto` 可以 在`On` 和 `Off` 之间切换。
+* 异步对象，比如 [*WorkThread*](./actions/async/WorkThread.md) 动作, 或者 [*WhenEvent*](./actions/type/TypeEvent.md) 事件动作
+* 状态，参考[WorkState](./enums/WorkState.md) 状态， 对于 [*WhenEvent*](./actions/type/TypeEvent.md),  `Auto` == `On`。对于 [*WorkTimer*](./actions/async/WorkTimer.md) / [*WorkThread*](./actions/async/WorkThread.md), `Auto` 可以 在`On` 和 `Off` 之间切换。
 
 ## 输出
 
@@ -23,7 +23,11 @@
 
 > 不支持，参考[Thread](./types/Thread.md) 或者 [WinEvent](./types/WinEvent.md)
 
-## 示例
+## 资源
 
-https://github.com/shelllet/WinUi/blob/main/async/WorkReset.simple
+示例流程: https://github.com/shelllet/WinUi/blob/main/async/WorkReset.simple
 
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/lAsyhNbaK50" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Yc411F7Uq&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
