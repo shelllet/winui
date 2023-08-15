@@ -12,13 +12,12 @@
 ## 运行参数
 
 
-* [manualReset](../../types/Boolean.md): 是否手动重置状态，默认为 `False`, 即自动重置事件状态。如果设置为 `True`, 可能需要两次调用 *WorkReset* 动作才恢复成初始状态。
-* [initialState](../../enums/PowerState.md) 初始化状态， 如果是 `Auto`, 则 默认为 `Off`，即无信号状态。
+* [state](./enums/PowerState.md) 初始状态， 如果是 `Auto`, 则 默认为 `Off`，即无信号状态。此时，这个动作不会去执行子流程，会一直等待。如果设置为 `On` 的。这个动作一开始就会去执行子流程，而不会去等待。
 
 
 ## 输出
 
-> [Thread](../../types/Thread.md)    
+> [WinEvent](./types/WinEvent.md)    
 
 
 ## 脚本调用
@@ -30,4 +29,8 @@ import simple;
 
 ## 示例
 
-https://github.com/shelllet/WinUi/blob/main/control/WhenEvent.simple
+示例流程: https://github.com/shelllet/WinUi/blob/main/control/WhenEvent.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/J_U3xagAQx4" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Ex4y1R7Jf&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

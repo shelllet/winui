@@ -9,7 +9,7 @@
 
 * Times：点击次数
 * Interval：时间间隔
-* [Button](../../enums/MouseButtons.md)：点击键
+* [Button](./enums/MouseButtons.md)：点击键
 
 
 

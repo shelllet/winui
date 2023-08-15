@@ -15,7 +15,7 @@
 
 ## 输出
 
->    [WebDriver](../../types/WebDriver.md)
+>    [WebDriver](./types/WebDriver.md)
 
 
 ## 脚本调用

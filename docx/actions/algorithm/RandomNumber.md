@@ -17,7 +17,7 @@
 
 ## 输出
 
-> 随机数，[`Number`](../../types/Number.md)类型
+> 随机数，[`Number`](./types/Number.md)类型
 
 
 ## 脚本调用

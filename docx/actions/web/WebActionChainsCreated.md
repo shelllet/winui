@@ -12,7 +12,7 @@
 
 ## 输出
 
->    动作链 [ActionChains](../../types/ActionChains.md)
+>    动作链 [ActionChains](./types/ActionChains.md)
 
 
 ## 脚本调用

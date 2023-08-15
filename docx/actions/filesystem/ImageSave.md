@@ -1,27 +1,38 @@
 # 保存图片 
-把流程当中的图片类型保存到本地磁盘上面。
+把图片类型的数据保存到本地磁盘上，比如截图相关动作。
 
-![action](./images/2022-11-27_144911.png ':size=90%')
-
+![ImageSave](./images/04.png ':size=90%')
+## 权限
+> 无要求
 ## 子流程
 > 不支持
 
 ## 运行参数
 
-* Image： 需要保存的图片。
-* Folder： 保存的目录。
-* Filename： 保存的文件名,如果为空,表示使用当前时间作为文件名。
+* [图像](./types/Image.md)
+  > 需要保存图像的动作，或者包含[图像](./types/Image.md)的变量。
+* [目录](./types/Path.md)
+  > 文件保存的位置, 如果为空，使用当前路径，即工作流程所在的路径。
+* [名称](./types/String.md)
+  > 文件名称,可为空，默认值：**.png*, 生成以如： *2023-02-28_756046.png* 为名称的文件，其中 *.png* 为图像扩展名，可以更换其它有效文件名。
 
-## 输出： 保存的文件的完整路径。`Path`
+
+## 输出
+> 保存的图像的完整路径。[`Path`](./types/Image.md)
 
 
 ## 脚本调用
 
+>   无导出，参考[Image](./types/Image.md)
 ```python
 import simple;
 
 ```
 
-## 示例
+## 资源
 
-[https://github.com/shelllet/WinUi/blob/main/filesystem/image_save.simple](https://github.com/shelllet/WinUi/blob/main/filesystem/image_save.simple)
+* 流程：https://github.com/shelllet/WinUi/blob/main/filesystem/ImageSave.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/QVxfDpyzzNI" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1a44y1c7fy&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

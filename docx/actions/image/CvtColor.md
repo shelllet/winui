@@ -8,7 +8,7 @@
 ## 运行参数
 
 * Image： 源图像
-* [Color](../../enums/ColorConversionCodes.md)：颜色转换类型
+* [Color](./enums/ColorConversionCodes.md)：颜色转换类型
 
 
 ## 输出

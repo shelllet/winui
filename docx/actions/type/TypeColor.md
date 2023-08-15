@@ -12,7 +12,7 @@
 
 ## 输出
 
->    [Color](../../types/Color.md)
+>    [Color](./types/Color.md)
 
 
 ## 脚本调用

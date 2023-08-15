@@ -10,8 +10,8 @@
 
 ## 运行参数
 
-* [Device](../../types/String.md)： 安卓模拟器
-* [Text](../../types/String.md)： 文本
+* [Device](./types/String.md)： 安卓模拟器
+* [Text](./types/String.md)： 文本
 
 ## 输出 
 

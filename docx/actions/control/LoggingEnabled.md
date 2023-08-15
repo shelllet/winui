@@ -10,7 +10,7 @@
 
 ## 运行参数
 
-* [Status](../../enums/WorkStatus.md)： 状态
+* [Status](./enums/WorkStatus.md)： 状态
 
 ## 输出
 

@@ -15,7 +15,7 @@
 
 ## 输出
 
-> [Strings](../../types/String.md)
+> [Strings](./types/String.md)
 
 
 ## 脚本调用
