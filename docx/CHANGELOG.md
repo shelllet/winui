@@ -1,4 +1,4 @@
-# [0.26](https://github.com/shelllet/winui/compare/main...dev) (2023-08-xx)
+# [0.26](https://github.com/shelllet/winui/compare/main...dev) (2023-08-15)
 ### Changed：
 1. 添加 *异步等待* 动作
 2. 添加 *相机* 类型动作和 *相机图像* 动作用于采集相机图像
