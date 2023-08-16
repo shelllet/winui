@@ -1,5 +1,5 @@
 # 偏移移动 
-以鼠标当前的位置为起始位置，按照偏移量来移动鼠标。
+以鼠标当前的位置为起始位置，按照偏移量来移动鼠标。在 *3D* 类型的游戏中，可以用来旋转视角。
 
 
 ![action](./images/2022-12-26_163737.png ':size=90%')
@@ -11,14 +11,16 @@
 
 ## 运行参数
 
-* Point：偏移坐标。
-* Radius：以 *Point*为圆心，该参数为半径，动态计算最终的目标位置，可以避免某些检测程序。
+* 偏移量
+> 偏移量，该动作是瞬移鼠标位置，通常移动的距离不会太大。
+* 半径
+  > 以第 *1* 个参数 *Point* 为圆心，该参数为半径，动态计算最终的目标位置。
 
 ## 输出
-
+> 最终位置坐标
 
 ### 脚本调用
-
+> 无导出，参考 `Mouse`
 ```python
 import simple;
 
@@ -26,5 +28,4 @@ import simple;
 
 ## 示例
 
-[https://github.com/shelllet/WinUi/blob/main/control/logging.simple](https://github.com/shelllet/WinUi/blob/main/control/logging.simple)
 
