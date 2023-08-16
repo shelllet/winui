@@ -1,0 +1,13 @@
+# MouseMessage
+* None
+* MouseMove
+* LeftButtonDown
+* LeftButtonUp
+* RightButtonDown
+* RightButtonUp
+* MouseWheelForward
+* MouseWheelBackward
+* MouseHorizontalWheelLeft
+* MouseHorizontalWheelRight
+* MiddleButtonDown
+* MiddleButtonUp

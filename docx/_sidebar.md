@@ -270,4 +270,5 @@
     - [Visibility](./enums/Visibility.md)
     - [WorkState](./enums/WorkState.md)
     - [RelativePosition](./enums/RelativePosition.md)
+    - [MouseMessage](./enums/MouseMessage.md)
   - [Changelog](./CHANGELOG.md)
