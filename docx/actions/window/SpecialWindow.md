@@ -8,7 +8,8 @@
 
 ## 运行参数
 
-* [Type](./enums/KnownWindowType.md)：窗口类型
+* [Type](./enums/KnownWindowType.md)
+  > 窗口类型
 
 
 
@@ -24,6 +25,6 @@ import simple;
 
 ```
 
-### 示例
+### 资源
 
-[https://github.com/shelllet/WinUi/blob/main/window/special_window.simple](https://github.com/shelllet/WinUi/blob/main/window/special_window.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/window/SpecialWindow.simple
