@@ -147,7 +147,7 @@
       - [动作链.发送文本](./actions/web/WebActionSendText.md)
       - [获取 Cookies](./actions/web/WebCookies.md)
     - 媒体
-      - [窗口截图](./actions/media/WindowCapture.md)
+      - [窗口截图](./actions/media/CaptureWindow.md)
       - [声音播放](./actions/media/MediaPlay.md)
       - [播放录制](./actions/media/PlayRecord.md)
       - [全屏截图](./actions/media/CaptureFullScreen.md)

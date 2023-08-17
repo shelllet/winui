@@ -1,4 +1,11 @@
-# [0.26](https://github.com/shelllet/winui/compare/main...dev) (2023-08-15)
+# [0.27](https://github.com/shelllet/winui/compare/main...dev) (2023-09-03)
+### Changed：
+1. 支持项目导入。
+2. 修复动作 *DoubleClick*（双击） 添加问题
+3. 修复动作 *DragPointer*（拖动） 问题
+4. 重命名 *WindowCapture* 为 *CaptureWindow*。
+
+## [0.26](https://github.com/shelllet/winui/compare/main...dev) (2023-08-15)
 ### Changed：
 1. 添加 *异步等待* 动作
 2. 添加 *相机* 类型动作和 *相机图像* 动作用于采集相机图像

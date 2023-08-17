@@ -7,15 +7,14 @@
 
 ## 运行参数
 
-* Window：窗口
-* Key：键
-* [Mode](./enums/MessagePlaceMode.md)：消息发送方式
+* 窗口
+* 键盘按键
+* [方式](./enums/MessagePlaceMode.md)
+  > 消息发送方式
 
 
 ## 输出
-
-    
-
+> 无
 
 ## 脚本调用
 
