@@ -4,6 +4,9 @@
 2. 修复动作 *DoubleClick*（双击） 添加问题
 3. 修复动作 *DragPointer*（拖动） 问题
 4. 重命名 *WindowCapture* 为 *CaptureWindow*。
+5. 重命名 *SetForegroundWindow* 为 *ForegroundWindow*。
+6. 移除动作 *SendKeyMessage*，增加 *AncestorWindow* 祖先窗口动作
+7. 移除动作 *SendMouseClick*，增加 *PositionWindow* 定位窗口动作
 
 ## [0.26](https://github.com/shelllet/winui/compare/main...dev) (2023-08-15)
 ### Changed：

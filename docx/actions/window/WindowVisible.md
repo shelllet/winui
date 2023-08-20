@@ -1,16 +1,18 @@
 # 窗口可视 
-此动作用来设置窗口显示或者隐藏。
+此动作用来显示或者隐藏窗口。
 
-![action](./images/2023-01-20_203116.png ':size=90%')
+![WindowVisible](./images/2023-01-20_203116.png ':size=90%')
 
 ## 子流程
 > 不支持
 
 ## 运行参数
 
-* Window：窗口
+* [window](./types/Wnd.md)
+  > 窗口
 
-* Action： 隐藏或者显示
+* [action](./enums/Visibility.md)
+  > 隐藏或者显示, 默认隐藏。如果选择`Default` 取回当前窗口的显示状态
 
 ## 输出
 

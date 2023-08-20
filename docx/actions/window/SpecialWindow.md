@@ -8,7 +8,7 @@
 
 ## 运行参数
 
-* [Type](./enums/KnownWindowType.md)
+* [type](./enums/KnownWindow.md)
   > 窗口类型
 
 
