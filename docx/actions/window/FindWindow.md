@@ -8,24 +8,32 @@
 
 ## 运行参数
 
-
-* 父窗口
-* 窗口标题
-* 窗口类名
+* [`parent`](./types/Wnd.md)
+> 默认为空，如果不为空，查找相应的子窗口，可借助 *Spy++* 来辅助操作。
+* [`caption`](./types/String.md)
+> 窗口标题
+* [`className`](./types/String.md)
+  > 窗口类名
 
 ## 输出
 
-> 窗口类型：`Wnd`
+> 窗口：[`Wnd`](./types/Wnd.md)
 
 
 ### 脚本调用
 
 ```python
-import * from simple;
+import * from simple
 
-Wnd.findWindow('notepad.exe', None) # 不使用窗口类
+r = FindWindowRunner() # null parent
+r.caption = 'notepad.exe'
+r.className = None # 不使用窗口类
+w.run()
 ```
 
 ### 示例
 
 示例：https://github.com/shelllet/WinUi/blob/main/window/FindWindow.simple
+
+
+!> [Windows下的程序及热键监视神器——Spy++](https://zhuanlan.zhihu.com/p/355878952)
