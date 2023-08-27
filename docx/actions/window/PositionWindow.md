@@ -3,20 +3,22 @@
 
 ![PositionWindow](./images/2022-11-27_143849.png ':size=90%')
 
+## 权限
+> 无要求, 但是对于*UWP* 应用程序来说，可能需要管理员方式运行 *WinUi++*。例如：*Win11* 的记事本程序。
 ## 子流程
 > 不支持
 
 ## 运行参数
 
-* [window](./types/Wnd.md)
-  > 窗口
-* [pos](./enums/WindowHandle.md)
-  > 位置
+* [窗口](./types/Wnd.md)
+  > 要设置的窗口
+* [定位方式](./enums/WindowHandle.md)
+  > 位置，比如设置为最顶层窗口，
 
 
 ## 输出
 
-> 窗口 [`Wnd`](./types/Wnd.md)
+>  [`Boolean`](./types/Boolean.md)
 
 
 ### 脚本调用

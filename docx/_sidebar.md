@@ -55,7 +55,7 @@
       - [移动并双击](./actions/mouse/MoveDoubleClick.md)
       - [双击](./actions/mouse/DoubleClick.md)
       - [右键点击](./actions/mouse/RightClick.md)
-      - [拖动](./actions/mouse/DragPointer.md)
+      - [拖拽](./actions/mouse/DragPointer.md)
       - [监听鼠标](./actions/mouse/ListenMouse.md)
       - [偏移移动](./actions/mouse/MoveOffset.md)
     - 窗口
