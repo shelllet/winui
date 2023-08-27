@@ -22,8 +22,10 @@
 ## 脚本调用
 
 ```python
-import simple;
+import * from simple;
 
+flags = MessageBoxFlags.MB_OK
+Wnd.MessageBox('caption', 'msg', flags)
 ```
 
 ## 示例
