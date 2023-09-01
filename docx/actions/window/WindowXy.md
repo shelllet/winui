@@ -1,7 +1,7 @@
 # 窗口位置
 获取或设置指定窗口的位置，该位置相对于屏幕坐标左上角的屏幕坐标给出。
 
-![WindowXy](./images/2022-11-27_143849.png ':size=90%')
+![WindowXy](./images/12.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -28,4 +28,4 @@ import simple;
 
 ### 资源
 
-示例：https://github.com/shelllet/WinUi/blob/main/window/special_window.simple
+示例：https://github.com/shelllet/WinUi/blob/main/window/WindowXy.simple

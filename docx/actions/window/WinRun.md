@@ -1,6 +1,8 @@
 # 运行对话框 
 打开操作系统中的 *运行* 对话框
 
+![WinRun](./images/08.png ':size=90%')
+
 ## 子流程
 > 不支持
 
@@ -21,6 +23,9 @@ import simple;
 
 ```
 
-## 示例
+## 资源
 
-![操作系统中的运行框](./images/01.png ':size=40%')
+示例：https://github.com/shelllet/WinUi/blob/main/window/WinRun.simple
+
+*   操作系统中的运行框
+  >  ![操作系统中的运行框](./images/01.png ':size=40%')
