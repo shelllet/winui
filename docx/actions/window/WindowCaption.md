@@ -1,6 +1,8 @@
 # 窗口标题 
 获取或者设置窗口标题
 
+![WindowCaption](./images/09.png ':size=90%')
+
 ## 子流程
 > 不支持
 
@@ -10,7 +12,7 @@
 * [window](./types/Wnd.md)
   > 窗口
 * [caption](./types/String.md)
-  > 窗口标题
+  > 窗口标题，如果为空（不是空字符串），则获取窗口标题，
 
 
 ## 输出
@@ -25,4 +27,6 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/window/WindowCaption.simple

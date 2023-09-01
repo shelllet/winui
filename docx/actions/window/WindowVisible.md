@@ -1,7 +1,7 @@
 # 窗口可视 
 此动作用来显示或者隐藏窗口。
 
-![WindowVisible](./images/2023-01-20_203116.png ':size=90%')
+![WindowVisible](./images/09.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -26,6 +26,6 @@ import simple;
 
 ```
 
-### 示例
+### 资源
 
-[https://github.com/shelllet/WinUi/blob/main/window/visible.simple](https://github.com/shelllet/WinUi/blob/main/window/visible.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/window/WindowVisible.simple

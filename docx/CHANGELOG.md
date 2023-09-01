@@ -3,10 +3,12 @@
 1. 支持项目导入。
 2. 修复动作 *DoubleClick*（双击） 添加问题
 3. 修复动作 *DragPointer*（拖动） 问题
-4. 重命名 *WindowCapture* 为 *CaptureWindow*。
-5. 重命名 *SetForegroundWindow* 为 *ForegroundWindow*。
-6. 移除动作 *SendKeyMessage*，增加 *AncestorWindow* 祖先窗口动作
-7. 移除动作 *SendMouseClick*，增加 *PositionWindow* 定位窗口动作
+4. 修复添加空变量崩溃问题。
+5. 修复鼠标键盘录制闪退问题。
+6. 重命名 *WindowCapture* 为 *CaptureWindow*。
+7. 重命名 *SetForegroundWindow* 为 *ForegroundWindow*。
+8. 移除动作 *SendKeyMessage*，增加 *AncestorWindow* 祖先窗口动作
+9. 移除动作 *SendMouseClick*，增加 *PositionWindow* 定位窗口动作
 
 ## [0.26](https://github.com/shelllet/winui/compare/main...dev) (2023-08-15)
 ### Changed：

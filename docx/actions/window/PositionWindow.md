@@ -1,10 +1,10 @@
 # 定位窗口 
-更改子窗口、弹出窗口或顶级窗口的位置和 Z 顺序
+更改子窗口、弹出窗口或顶级窗口的位置。
 
-![PositionWindow](./images/2022-11-27_143849.png ':size=90%')
+![PositionWindow](./images/07.png ':size=90%')
 
 ## 权限
-> 无要求, 但是对于*UWP* 应用程序来说，可能需要管理员方式运行 *WinUi++*。例如：*Win11* 的记事本程序。
+> 无要求, 但是对于*UWP* 应用程序来说，它不符合 *Win32* 应用程序的窗口规则（据微软官方消息：操作系统中没有任何 *API* 可以操作 *UWP*应用程序的窗口），因此该动作无效。例如：*Win11* 的记事本程序。
 ## 子流程
 > 不支持
 
@@ -30,4 +30,8 @@ import simple;
 
 ### 资源
 
-示例：https://github.com/shelllet/WinUi/blob/main/window/SpecialWindow.simple
+示例：https://github.com/shelllet/WinUi/blob/main/window/PositionWindow.simple
+
+
+
+!> 对于 *UWP* 应用解决办法参考：https://github.com/microsoft/Xaml-Islands-Samples/blob/master/Samples/Win32/SampleCppApp/ReadMe.md

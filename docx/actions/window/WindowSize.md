@@ -1,7 +1,7 @@
 # 窗口尺寸 
-获取或设置窗口尺寸（长和宽）
+获取或设置窗口的尺寸（长和宽）。
 
-![WindowSize](./images/2022-11-27_143849.png ':size=90%')
+![WindowSize](./images/13.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -27,4 +27,6 @@ import simple;
 
 ```
 
-### 示例
+### 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/window/WindowSize.simple

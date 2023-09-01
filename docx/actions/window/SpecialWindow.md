@@ -1,7 +1,7 @@
 # 特定窗口 
 此动作用来选择已知的特定窗口。
 
-![action](./images/2022-11-27_143849.png ':size=90%')
+![SpecialWindow](./images/03.png ':size=90%')
 
 ## 子流程
 > 不支持

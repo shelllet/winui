@@ -2,6 +2,8 @@
 
 这个动作可以获取窗口当中几个特定位置的窗口坐标。比如：左上角、左下角、右上角、右下角、中心位置坐标。
 
+![WindowPoint](./images/13.png ':size=90%')
+
 ## 权限
 > 无要求
 
@@ -30,4 +32,6 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/window/WindowPoint.simple

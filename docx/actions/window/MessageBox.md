@@ -1,6 +1,8 @@
 # 消息框 
 弹出一个消息框，该动作会阻止流程继续执行，直到消息框关闭。
 
+![MessageBox](./images/04.png ':size=90%')
+
 ## 子流程
 > 不支持
 
@@ -28,7 +30,8 @@ flags = MessageBoxFlags.MB_OK
 Wnd.MessageBox('caption', 'msg', flags)
 ```
 
-## 示例
+## 资源
 
+示例：https://github.com/shelllet/WinUi/blob/main/window/MessageBox.simple
 
 !> 消息框关闭之后，才会继续执行后续动作。
