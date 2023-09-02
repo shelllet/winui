@@ -37,3 +37,9 @@ r.run(cbk)
 ```
 
 ## 资源
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/filesystem/DirectoryIterator.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/wyNKOzko77Q" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1ym4y1p725&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
