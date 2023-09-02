@@ -1,21 +1,23 @@
 # 窗口尺寸 
-获取或设置窗口尺寸（长和宽）
+获取或设置窗口的尺寸（长和宽）。
 
-![action](./images/2022-11-27_143849.png ':size=90%')
+![WindowSize](./images/13.png ':size=90%')
 
 ## 子流程
 > 不支持
 
 ## 运行参数
 
-* [Window](./types/Wnd.md)：窗口
-* [Size](./types/Size.md)：尺寸
+* [window](./types/Wnd.md)
+  > 窗口
+* [size](./types/Size.md)
+  > 长宽
 
 
 
 ## 输出
 
-> 窗口类型：`Wnd`
+> 窗口尺寸：[`Size`](./types/Size.md), 由于 *Window* 系统的奇葩逻辑，该尺寸不一定等于窗口所设置的尺寸。
 
 
 ### 脚本调用
@@ -25,4 +27,6 @@ import simple;
 
 ```
 
-### 示例
+### 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/window/WindowSize.simple

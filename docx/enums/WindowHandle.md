@@ -1,0 +1,6 @@
+# WindowHandle
+
+* WH_BOTTOM
+* WH_NOTOPMOST
+* WH_TOP
+* WH_TOPMOST
