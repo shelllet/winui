@@ -64,7 +64,7 @@
       - [消息框](./actions/window/MessageBox.md)
       - [前置窗口](./actions/window/ForegroundWindow.md)
       - [祖先窗口](./actions/window/WindowAncestor.md)
-      - [定位窗口](./actions/window/PositionWindow.md)
+      - [窗口置顶](./actions/window/PositionWindow.md)
       - [运行框](./actions/window/WinRun.md)
       - [窗口可视](./actions/window/WindowVisible.md)
       - [枚举窗口](./actions/window/EnumWindows.md)
