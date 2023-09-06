@@ -32,4 +32,10 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/mouse/MoveDoubleClick.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/BhqTxNQF8io" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV18w411D71T&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
