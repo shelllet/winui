@@ -70,7 +70,7 @@
       - [枚举窗口](./actions/window/EnumWindows.md)
       - [窗口标题](./actions/window/WindowCaption.md)
       - [窗口位置](./actions/window/WindowXy.md)
-      - [窗口尺寸](./actions/window/WindowSize.md)
+      - [窗口大小](./actions/window/WindowSize.md)
       - [窗口坐标](./actions/window/WindowPoint.md)
     - 图像处理
       - [颜色转换](./actions/image/CvtColor.md)
