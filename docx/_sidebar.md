@@ -76,7 +76,7 @@
       - [颜色转换](./actions/image/CvtColor.md)
       - [裁切图片](./actions/image/CropImage.md)
       - [调整尺寸](./actions/image/ResizeImage.md)
-      - [裁切图片](./actions/image/CenterCropImage.md)
+      - [中心裁切](./actions/image/CenterCropImage.md)
       - [边缘检测](./actions/image/ImageCanny.md)
       - [阈值](./actions/image/ImageThreshold.md)
       - [颜色筛选](./actions/image/ImageInRange.md)
