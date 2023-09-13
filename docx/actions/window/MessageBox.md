@@ -34,4 +34,9 @@ Wnd.MessageBox('caption', 'msg', flags)
 
 示例：https://github.com/shelllet/WinUi/blob/main/window/MessageBox.simple
 
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/4STpFY4bdFM" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Q8411i7fz&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 !> 消息框关闭之后，才会继续执行后续动作。
