@@ -15,7 +15,7 @@
 * [window](./types/Wnd.md)
   > 窗口
 * [relative](./enums/RelativePosition.md)
-  > 相对位置，(X,Y) 方向根据不同的位置方向有所不同，参考下图。
+  > 相对位置，坐标轴 (X,Y) 方向根据不同的位置方向有所不同，参考下图。
 
   ![xy](./images/14.png ':size=40%')
 

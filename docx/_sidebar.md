@@ -3,6 +3,7 @@
   - 安装
       - [直接安装](./intro/installation/installed_by_exe.md)
       - [微软商店安装](./intro/installation/installed_by_msix.md)
+      - [安装问题](./intro/installation/questions.md)
   - 流程
     - [项目属性](./intro/workflow/property.md)
     - [使用逻辑](./intro/workflow/logic.md)
@@ -271,4 +272,5 @@
     - [WorkState](./enums/WorkState.md)
     - [RelativePosition](./enums/RelativePosition.md)
     - [MouseMessage](./enums/MouseMessage.md)
+    - [MorphologicalOperations](./enums/MorphologicalOperations.md)
   - [Changelog](./CHANGELOG.md)
