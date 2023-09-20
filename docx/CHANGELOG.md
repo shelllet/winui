@@ -1,4 +1,4 @@
-# [0.28](https://github.com/shelllet/winui/compare/main...dev) (2023-09-xx)
+# [0.28](https://github.com/shelllet/winui/compare/main...dev) (2023-09-23)
 ### Changed：
 1. 优化图像处理相关动作。
 2. 更新相应的注册机制。

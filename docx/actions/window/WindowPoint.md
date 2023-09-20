@@ -17,10 +17,10 @@
 * [relative](./enums/RelativePosition.md)
   > 相对位置，坐标轴 (X,Y) 方向根据不同的位置方向有所不同，参考下图。
 
-  ![xy](./images/14.png ':size=40%')
+  ![xy](./images/xy.png ':size=40%')
 
 * [offset](./types/Point.md)
-  > 偏移坐标，以相对位置为坐标原点（坐标系参考上图），根据偏移坐标来计算最终坐标。
+  > 原点偏移量（坐标系参考上图）。坐标轴（x, y）方向参考上面草图。
 
 
 
