@@ -79,10 +79,11 @@
       - [调整尺寸](./actions/image/ResizeImage.md)
       - [中心裁切](./actions/image/CenterCropImage.md)
       - [边缘检测](./actions/image/ImageCanny.md)
-      - [阈值](./actions/image/ImageThreshold.md)
+      - [阈值操作](./actions/image/ImageThreshold.md)
       - [颜色筛选](./actions/image/ImageInRange.md)
       - [形态学操作](./actions/image/ImageMorphological.md)
       - [自适应阈值](./actions/image/AdaptiveThreshold.md)
+      - [平滑/模糊](./actions/image/ImageBlur.md)
       - [标记区域](./actions/image/ImageMarkROI.md)
       - [标记相对区域](./actions/image/ImageMarkRelativeROI.md)
     - 图像检测
