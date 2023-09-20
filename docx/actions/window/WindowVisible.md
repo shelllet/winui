@@ -29,3 +29,7 @@ import simple;
 ### 资源
 
 示例：https://github.com/shelllet/WinUi/blob/main/window/WindowVisible.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/V3FIUvVgH7Y" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Lh4y1A7sA&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

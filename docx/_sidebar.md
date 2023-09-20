@@ -3,6 +3,7 @@
   - 安装
       - [直接安装](./intro/installation/installed_by_exe.md)
       - [微软商店安装](./intro/installation/installed_by_msix.md)
+      - [安装问题](./intro/installation/questions.md)
   - 流程
     - [项目属性](./intro/workflow/property.md)
     - [使用逻辑](./intro/workflow/logic.md)
@@ -76,12 +77,13 @@
       - [颜色转换](./actions/image/CvtColor.md)
       - [裁切图片](./actions/image/CropImage.md)
       - [调整尺寸](./actions/image/ResizeImage.md)
-      - [裁切图片](./actions/image/CenterCropImage.md)
+      - [中心裁切](./actions/image/CenterCropImage.md)
       - [边缘检测](./actions/image/ImageCanny.md)
-      - [阈值](./actions/image/ImageThreshold.md)
+      - [阈值操作](./actions/image/ImageThreshold.md)
       - [颜色筛选](./actions/image/ImageInRange.md)
       - [形态学操作](./actions/image/ImageMorphological.md)
       - [自适应阈值](./actions/image/AdaptiveThreshold.md)
+      - [平滑/模糊](./actions/image/ImageBlur.md)
       - [标记区域](./actions/image/ImageMarkROI.md)
       - [标记相对区域](./actions/image/ImageMarkRelativeROI.md)
     - 图像检测
@@ -271,4 +273,5 @@
     - [WorkState](./enums/WorkState.md)
     - [RelativePosition](./enums/RelativePosition.md)
     - [MouseMessage](./enums/MouseMessage.md)
+    - [MorphologicalOperations](./enums/MorphologicalOperations.md)
   - [Changelog](./CHANGELOG.md)
