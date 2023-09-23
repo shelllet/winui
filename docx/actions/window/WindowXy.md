@@ -11,7 +11,7 @@
 * [window](./types/Wnd.md)
   > 窗口
 * [Xy](./types/Point.md)
-  > 坐标位置
+  > 坐标位置, 如果设置为空，可以获取窗口位置。如果设置为坐标，则可以设置窗口的位置。
 
 
 ## 输出
@@ -29,3 +29,7 @@ import simple;
 ### 资源
 
 示例：https://github.com/shelllet/WinUi/blob/main/window/WindowXy.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/NDaWo4KNx5s" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1rh4y1Y7Lb&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
