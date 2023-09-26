@@ -35,7 +35,22 @@
         paths: 'auto',
         placeholder: '搜索',
         noData: '找不到结果',
-      }
+      },
+      plugins: [
+        function release(hook, vm) {
+          hook.doneEach(function () {
+            var dev = Docsify.dom.find('#dev');
+            var rel = Docsify.dom.find('#rel');
+
+            if (document.location.hostname === 'shelllet.github.io') {
+              dev.parentElement.style.display = 'none';
+            }
+            else {
+              rel.parentElement.style.display = 'none';
+            }
+          });
+        },
+      ]
     }
   </script>
   <!-- Docsify v4 -->

@@ -1,4 +1,12 @@
-# [0.27](https://github.com/shelllet/winui/compare/main...dev) (2023-09-02)
+# [0.28](https://github.com/shelllet/winui/compare/main...dev) (2023-09-23)
+### Changed：
+1. 优化图像处理相关动作。
+2. 更新相应的注册机制。
+
+### 备注
+1. 原购买注册版本的用户，需要更新至当前版本，重新注册。
+
+## [0.27](https://github.com/shelllet/winui/compare/main...dev) (2023-09-02)
 ### Changed：
 1. 支持项目导入。
 2. 修复动作 *DoubleClick*（双击） 添加问题
