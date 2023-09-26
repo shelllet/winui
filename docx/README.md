@@ -43,20 +43,3 @@
 <div style="text-align:center">
     <img width="25%" src="https://gitlab.com/junwu/winui/-/raw/main/mm.png">
 </div>
-
-<script>
-    Docsify.dom.documentReady(function(){
-        var dev = Docsify.dom.find('#dev');
-        var rel = Docsify.dom.find('#rel');
-
-        if(document.location.hostname === 'shelllet.github.io')
-        {
-            dev.parentElement.style.display = 'none'; 
-        }
-        else
-        {
-            rel.parentElement.style.display = 'none'; 
-        }
-
-    }); 
-</script>
