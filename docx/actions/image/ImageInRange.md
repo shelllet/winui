@@ -1,7 +1,7 @@
 # 颜色筛选 
 指定一个色彩范围，保留图像中符合色彩范围内的颜色，透过这个方式，就可以筛选出图像中的特定颜色物件。
 
-![action](./images/07.png ':size=90%')
+![ImageInRange](./images/07.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -30,9 +30,17 @@ import simple;
 
 ```
 
-## 示例
+## 资源
 
 
-!> 对于 *RGB* 颜色空间的图像，最小值中的 (*R* *G* *B*) 必须分别小于最大值中的 (*R* *G* *B*)，
+!> 对于 *RGB* 颜色空间的图像，最小值中的 (*R* *G* *B*) 必须分别小于最大值中的 (*R* *G* *B*)。
 
-!> 对于 *HSV* 颜色空间的图像，最小值中的 (*H* *S* *V*) 必须分别小于最大值中的 (*H* *S* *V*)，  
+!> 对于 *HSV* 颜色空间的图像，最小值中的 (*H* *S* *V*) 必须分别小于最大值中的 (*H* *S* *V*)。
+
+
+示例：https://github.com/shelllet/WinUi/blob/main/image/ImageInRange.simple
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/6uNeK8ETSmk" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1yu411u7tK&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
