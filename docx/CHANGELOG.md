@@ -1,4 +1,12 @@
-# [0.28](https://github.com/shelllet/winui/compare/main...dev) (2023-09-23)
+# [0.29](https://github.com/shelllet/winui/compare/main...dev) (2023-xx-xx)
+### Changed：
+1. 优化图像检测相关动作。
+2. *鼠标监听* 支持监听鼠标按下。
+3. 模板匹配，只能返回第一个匹配到的位置。
+4. 增加 *颜色填充* 动作。
+5. 增加 *形状查找* 动作，可以查找 *长方形*、 *正方形*、 *三角形*。
+
+## [0.28](https://github.com/shelllet/winui/compare/main...dev) (2023-09-23)
 ### Changed：
 1. 优化图像处理相关动作。
 2. 更新相应的注册机制。
