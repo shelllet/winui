@@ -1,7 +1,7 @@
 # 颜色统计 
 该动作可以统计某一颜色在图像当中所占的比例。
 
-![ColorPercentage](./images/2023-01-20_204042.png ':size=90%')
+![ColorPercentage](./images/04.png ':size=90%')
 
 
 ## 子流程
@@ -12,7 +12,7 @@
 ## 运行参数
 
 * 图像
-> 要进行颜色统计的图像
+> 要进行颜色统计的图像，通常可以选择一个区域进行统计。
 * 颜色
 >  所要统计的颜色。 由于 *HSV* 颜色空间更符合人的主观视觉感知, 通常使用 *HSV* 颜色空间。
 * 误差
@@ -20,7 +20,7 @@
 
 ## 输出
 
->   所要统计的颜色所占的百分比。
+>   所要统计的颜色所占的百分比，参考：[Number](../types/Number.md)。
 
 
 ## 脚本调用
@@ -30,6 +30,6 @@ import simple;
 
 ```
 
-## 示例
+## 资源
 
-[https://github.com/shelllet/WinUi/blob/main/detection/color_percentage.simple](https://github.com/shelllet/WinUi/blob/main/detection/color_percentage.simple)
+例子：https://github.com/shelllet/WinUi/blob/main/algorithm/ColorPercentage.simple
