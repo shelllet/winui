@@ -3,6 +3,9 @@
 
 * 为了获得更高的准确性，请使用二值图像
 * 要找到的对象应该是白色的，背景应该是黑色的。
+
+![MatchShapes](./images/05.png ':size=90%')
+
 ## 子流程
 > 不支持
 
@@ -10,9 +13,9 @@
 ## 运行参数
 
 * 源图像
-> 二值化图像，从该图像上查找相应的目标形状。
+> 单通道图像，通常是二值化后的图像，从该图像上查找相应的目标形状。如果非单通道图像，则默认转换为灰度图像。
 * 目标
->  目标形状，一张具有特定形状的二值化图像。
+>  单通道图像，包含目标形状，通常是一张具有特定形状，二值化化后的图像。如果非单通道图像，则默认转换为灰度图像。
 
 * 方法
 > 轮廓近似方法，可以参考：[ContourApproximationMode](./enums/ContourApproximationMode.md)。
@@ -31,4 +34,6 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+例子：https://github.com/shelllet/WinUi/blob/main/detection/MatchShapes.simple

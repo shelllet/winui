@@ -1,20 +1,22 @@
 # 椭圆检测 
-检测图像中的圆或者椭圆
+检测图像中的圆或者椭圆。
+
+![EllipseDetection](./images/02.png ':size=90%')
 
 ## 子流程
 > 不支持
 
 
-
 ## 运行参数
 
 
-* Image： 待检测的图片。
-* Area： 面积过滤
+* 图像
+  > 二值化后的单通道图像，如果为非单通道图像，则会转换成灰度图像。
+
 
 ## 输出 
 
-> [`Ellipses`](./types/Ellipse.md)
+> 检测到的所有圆或者椭圆，参考： [`Ellipses`](./types/Ellipse.md)
 
 
 ### 脚本调用
@@ -25,7 +27,7 @@ import simple;
 
 ```
 
-## 示例
+## 资源
 
-[https://github.com/shelllet/WinUi/blob/main/detection/ellipse_detection.simple](https://github.com/shelllet/WinUi/blob/main/detection/ellipse_detection.simple)
+例子：https://github.com/shelllet/WinUi/blob/main/detection/EllipseDetection.simple
 
