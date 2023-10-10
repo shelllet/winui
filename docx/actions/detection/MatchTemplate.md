@@ -3,6 +3,9 @@
 
 *   图像和模板分别改变光照亮度不影响计算结果。
 
+
+![MatchTemplate](./images/07.png ':size=90%')
+
 ## 子流程
 > 不支持
 
@@ -28,4 +31,6 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+例子：https://github.com/shelllet/WinUi/blob/main/detection/MatchTemplate.simple
