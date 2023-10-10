@@ -90,16 +90,15 @@
     - 图像检测
       - [直线检测](./actions/detection/LineDetection.md)
       - [椭圆检测](./actions/detection/EllipseDetection.md)
-      - [图像差值](./actions/detection/ImageDifference.md)
       - [斑点查找](./actions/detection/BlobDetect.md)
       - [形状查找](./actions/detection/ShapeDetection.md)
       - [形状匹配](./actions/detection/MatchShapes.md)
       - [特征匹配](./actions/detection/FeatureDetect.md)
-      - [查找轮廓](./actions/detection/FindContours.md)
       - [模板匹配](./actions/detection/MatchTemplate.md)
-      - [颜色统计](./actions/detection/ColorPercentage.md)
+      - [查找轮廓](./actions/detection/FindContours.md)
     - 绘图
-      - [绘制检测结果](./actions/drawing/DrawDetectionResult.md)
+      - [绘制矩形](./actions/draw/DrawRect.md)
+      - [填充颜色](./actions/draw/FillColor.md)
     - 深度学习
       - [目标分类](./actions/dnn/ONNXClassification.md)
       - [目标检测](./actions/dnn/ONNXDetection.md)
@@ -215,6 +214,8 @@
       - [窗口筛选](./actions/algorithm/FilterWindows.md)
       - [随机数](./actions/algorithm/RandomNumber.md)
       - [随机坐标](./actions/algorithm/RandomPoint.md)
+      - [图像差值](./actions/algorithm/ImageDifference.md)
+      - [颜色统计](./actions/algorithm/ColorPercentage.md)
     - 类型
       - [字符串](./actions/type/TypeString.md)
       - [Json](./actions/type/TypeJson.md)

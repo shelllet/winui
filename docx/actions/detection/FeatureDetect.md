@@ -1,7 +1,7 @@
 # 特征匹配 
-该动作通过特征匹配，在一张图片当中查找模板图像。
+该动作通过特征匹配，在一张图像当中查找模板图像。
 
-![FeatureDetect](./images/2022-12-10_182315.png ':size=90%')
+![FeatureDetect](./images/06.png ':size=90%')
 
 
 ## 子流程
@@ -32,7 +32,6 @@ import simple;
 
 ```
 
-## 示例
+## 资源
 
-[https://github.com/shelllet/WinUi/blob/main/detection/find_image.simple](https://github.com/shelllet/WinUi/blob/main/detection/find_image.simple)
-
+例子：https://github.com/shelllet/WinUi/blob/main/detection/FeatureDetect.simple
