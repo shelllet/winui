@@ -1,4 +1,4 @@
-# [0.29](https://github.com/shelllet/winui/compare/main...dev) (2023-xx-xx)
+# [0.29](https://github.com/shelllet/winui/compare/main...dev) (2023-10-14)
 ### Changed：
 
 1. *鼠标监听* 支持监听鼠标按下。
