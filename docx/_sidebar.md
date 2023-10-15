@@ -33,6 +33,7 @@
       - [异步启动](./actions/async/WorkBegin.md)
       - [状态切换](./actions/async/WorkReset.md)
       - [等待事件](./actions/async/WhenEvent.md)
+      - [异步等待](./actions/async/WorkWait.md)
     - 文件
       - [读取文件](./actions/filesystem/FileRead.md)
       - [文件写入](./actions/filesystem/FileWrite.md)
@@ -90,7 +91,7 @@
     - 图像检测
       - [直线检测](./actions/detection/LineDetection.md)
       - [椭圆检测](./actions/detection/EllipseDetection.md)
-      - [斑点查找](./actions/detection/BlobDetect.md)
+      - [斑点检测](./actions/detection/BlobDetect.md)
       - [形状查找](./actions/detection/ShapeDetection.md)
       - [形状匹配](./actions/detection/MatchShapes.md)
       - [特征匹配](./actions/detection/FeatureDetect.md)
@@ -276,4 +277,5 @@
     - [MouseMessage](./enums/MouseMessage.md)
     - [MorphologicalOperations](./enums/MorphologicalOperations.md)
     - [ContourApproximationModes](./enums/ContourApproximationModes.md)
+    - [FeatureAlgorithm](./enums/FeatureAlgorithm.md)
   - [Changelog](./CHANGELOG.md)
