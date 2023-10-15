@@ -1,7 +1,7 @@
 # 边缘检测 
 边缘检测是将图像中的边缘提取出来，作为后续图像处理和应用的的一个重要环节。通常，我们所看到的图像都不是完美无缺的，而是包含许多噪声、干扰等，因此需要将这些噪声去除，只保留图像中的边缘信息。边缘检测的主要目的是提高图像的清晰度和对比度，从而更好地理解图像中的内容。
 
-![CvtColor](./images/05.png ':size=90%')
+![ImageCanny](./images/05.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -27,4 +27,11 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/image/ImageCanny.simple
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/S0QzE6625G4" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1X94y1a7Fb&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

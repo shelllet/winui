@@ -15,7 +15,7 @@
    * 用于强调特征
 
 
-![action](./images/08.png ':size=90%')
+![ImageMorphological](./images/08.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -45,4 +45,11 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/image/ImageMorphological.simple
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/XowpX7XBA-M" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Zw411C74B&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

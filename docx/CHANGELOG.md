@@ -1,10 +1,25 @@
-# [0.28](https://github.com/shelllet/winui/compare/main...dev) (2023-09-23)
+# [0.29.1](https://github.com/shelllet/winui/compare/main...dev) (2023-10-15)
+### Changed：
+
+1. *鼠标监听* 支持监听鼠标按下。
+2. 图像查找（特征匹配）返回匹配的多个图像。
+3. 增加 *颜色填充* 动作。
+4. 增加 *形状查找* 动作，可以查找 *长方形*、 *正方形*、 *三角形*。
+5. 修复打包错误
+
+
+### 备注
+
+1. 下载：https://winui.net/_media/simple/0.29.1/setup.exe
+
+## [0.28](https://github.com/shelllet/winui/compare/main...dev) (2023-09-23)
 ### Changed：
 1. 优化图像处理相关动作。
 2. 更新相应的注册机制。
 
 ### 备注
 1. 原购买注册版本的用户，需要更新至当前版本，重新注册。
+2. 下载：https://winui.net/_media/simple/0.28/setup.exe
 
 ## [0.27](https://github.com/shelllet/winui/compare/main...dev) (2023-09-02)
 ### Changed：
