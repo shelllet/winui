@@ -11,3 +11,7 @@ Class `DetectionResult` 对象检测结果
 2. rc ：[RotatedRect](../types/RotatedRect.md)
 
     位置框
+
+# DetectionResult
+
+Class `DetectionResults`

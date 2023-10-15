@@ -1,7 +1,7 @@
 # 裁切图片 
 该动作可以根据设置的裁切区域，从源图中获取一部分图像。
 
-![action](./images/02.png ':size=90%')
+![CropImage](./images/02.png ':size=90%')
 
 
 ## 子流程
@@ -14,8 +14,9 @@
 * 裁切的区域
 > 参考：[Rect](./types/Rect.md)
 
-## 输出裁切的子图像
+## 输出
 
+> 裁切后的子图像。
 
 ## 脚本调用
 
@@ -24,7 +25,11 @@ import simple;
 
 ```
 
-## 示例
+## 资源
 
-[https://github.com/shelllet/WinUi/blob/main/image/crop.simple](https://github.com/shelllet/WinUi/blob/main/image/crop.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/image/CropImage.simple
 
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/3e_57ygy8VM" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1UH4y1m7y1&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

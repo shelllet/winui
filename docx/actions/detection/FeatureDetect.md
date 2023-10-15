@@ -1,7 +1,7 @@
-# 图像查找 
-此动作可以在一张图片当中查找具有某些特征的图像
+# 特征匹配 
+特征是图像中信息特别丰富或有趣的独特区域。这些可能包括边缘、角落或斑点（基于颜色强度的区域）。该动作通过特征匹配，在一张图像当中查找模板图像。
 
-![action](./images/2022-12-10_182315.png ':size=90%')
+![FeatureDetect](./images/06.png ':size=90%')
 
 
 ## 子流程
@@ -12,14 +12,17 @@
 ## 运行参数
 
 
-* Source：源图像 
-* Target：要查找的图像 
-* Precision：精度
-
-
+* 图像
+>   单通道图像，如果为非单通道图像，则会转换成灰度图像。
+* 模板
+>   要查找的图像，单通道图像，如果为非单通道图像，则会转换成灰度图像。
+* 特征
+> 获取的最大特征航空数量。仅适用于 *ORB* 和 *SIFT* 算法，默认值：500
+* 算法
+> 参考 [FeatureAlgorithm](../enums/FeatureAlgorithm.md)
 ## 输出
 
-> `RotatedRect` 类型
+> 检测到的位置区域，参考：[RotatedRects](../types/RotatedRect.md)
 
 
 ## 脚本调用
@@ -29,7 +32,9 @@ import simple;
 
 ```
 
-## 示例
+## 资源
 
-[https://github.com/shelllet/WinUi/blob/main/detection/find_image.simple](https://github.com/shelllet/WinUi/blob/main/detection/find_image.simple)
+例子：https://github.com/shelllet/WinUi/blob/main/detection/FeatureDetect.simple
 
+
+!> 该动作会先将源图像和模板图像转换成灰度图像，再进行匹配。
