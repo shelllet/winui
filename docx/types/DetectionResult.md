@@ -12,6 +12,6 @@ Class `DetectionResult` 对象检测结果
 
     位置框
 
-# DetectionResult
+# DetectionResults
 
 Class `DetectionResults`

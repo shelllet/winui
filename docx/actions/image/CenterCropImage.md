@@ -1,7 +1,7 @@
 # 中心裁切 
 从图像中心位置按照指定的大小，裁切图片。
 
-![action](./images/04.png ':size=90%')
+![CenterCropImage](./images/04.png ':size=90%')
 
 ## 子流程
 > 不支持

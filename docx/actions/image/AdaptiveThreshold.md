@@ -7,7 +7,7 @@
 
 通常在使用该动作前，将图像转换成灰度图像（单通道图像）。
 
-![action](./images/09.png ':size=90%')
+![AdaptiveThreshold](./images/09.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -39,4 +39,10 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/image/AdaptiveThreshold.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/8prkHX7ZU1I" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1ew411y7tY&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
