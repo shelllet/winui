@@ -88,6 +88,9 @@
       - [标记区域](./actions/image/ImageMarkROI.md)
       - [标记相对区域](./actions/image/ImageMarkRelativeROI.md)
       - [连通域分析](./actions/image/ConnectedComponents.md)
+      - [均值](./actions/image/ImageMean.md)
+      - [标准差](./actions/image/ImageStd.md)
+      - [像素缩放](./actions/image/ScalePixel.md)
     - 图像检测
       - [直线检测](./actions/detection/LineDetection.md)
       - [椭圆检测](./actions/detection/EllipseDetection.md)
@@ -101,8 +104,8 @@
       - [绘制矩形](./actions/draw/DrawRect.md)
       - [填充颜色](./actions/draw/FillColor.md)
     - 深度学习
-      - [目标分类](./actions/dnn/ONNXClassification.md)
-      - [目标检测](./actions/dnn/ONNXDetection.md)
+      - [目标分类](./actions/dnn/ImageClassification.md)
+      - [目标检测](./actions/dnn/ObjectDetection.md)
       - [中文识别](./actions/dnn/TextChinese.md)
       - [文本块检测](./actions/dnn/TextDetection.md)
       - [二维码识别](./actions/dnn/QRCode.md)
