@@ -2,7 +2,7 @@
 
 根据相对位置，标记图片感兴趣的区域，比如在找图时，只从该区域查找图片，可以加快查图速度。
 
-![action](./images/11.png ':size=90%')
+![ImageMarkRelativeROI](./images/11.png ':size=90%')
 
 ## 权限
 > 无要求
@@ -39,4 +39,10 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/image/ImageMarkRelativeROI.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/AO_yd_S5ucE" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV12w411r7Xf&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

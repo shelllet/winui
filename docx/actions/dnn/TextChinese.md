@@ -1,18 +1,28 @@
 # 中文识别 
-识别图片中的中文文字。
+识别图像中的中文/英文文字。
+
+![TextChinese](./images/03.png ':size=90%')
 
 ## 子流程
 > 不支持
 
 ## 运行参数
 
-* Image： 待识别文字的图片。
-* Score： 文字评分。
-* Cls： 文字方向分类，使用于0°和180°的图片。
+* 图像
+> 包含文字的图片。
+
+* 文本框评分
+> 计算文本框的得分，分值太低，则不认为是有效的文本框。
+
+* 置信度
+> 正确识别文字的得分，分值太低，认为识别不准确，则会忽略该文字的识别。
+
+* 角度分类器
+>  指定是否使用角度分类器，默认识别：0°、90° 、270°。 如果使用，则可识别旋转180°的图片。如果文本没有旋转180°，为了性能，请不要使用该选项。其它文本旋转角度无法准确识别。
 
 ## 输出 
 
-`list<DetectResult>`
+> 识别结果, 参考 [`RecognitionResults`](./types/RecognitionResults.md)。
 
 
 ## 脚本调用    
@@ -23,6 +33,6 @@ import simple;
 
 ```
 
-### 示例
+### 资源
 
-[https://github.com/shelllet/WinUi/blob/main/dnn/textchinese.simple](https://github.com/shelllet/WinUi/blob/main/dnn/textchinese.simple)
+示例 https://github.com/shelllet/WinUi/blob/main/dnn/TextChinese.simple
