@@ -5,7 +5,7 @@
 
 一般来说，建议从高斯模糊开始，并根据需要调整参数。虽然高斯模糊比简单的平均模糊稍慢（仅慢一小部分），但高斯模糊往往会给出更好的结果，尤其是在应用于自然图像时。
 
-![action](./images/12.png ':size=90%')
+![ImageBlur](./images/12.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -38,4 +38,10 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/image/ImageBlur.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/PPJaE5l3aTs" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1dw411y7gC&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

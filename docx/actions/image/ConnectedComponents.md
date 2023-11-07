@@ -1,6 +1,8 @@
 # 连通域分析
 对图像中 *斑点* 状区域的连通性进行分析，找到符合条件的连通区域。
 
+![ConnectedComponents](./images/xx.png ':size=90%')
+
 ## 子流程
 > 不支持
 
@@ -29,4 +31,7 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/image/ConnectedComponents.simple
+
