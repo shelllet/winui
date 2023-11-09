@@ -35,3 +35,6 @@ import simple;
 
 例子：https://github.com/shelllet/WinUi/blob/main/detection/EllipseDetection.simple
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/yAU-tTiaAOg" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1CN4y1r7Sk&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
