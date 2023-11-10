@@ -44,5 +44,7 @@ jobs:
           pwd
           mkdir -p /var/www
           cp -Rf ./docx/* /var/www
+
           curl -L -O -J --create-dirs --output-dir /var/www/_media/simple/ https://api.winui.net/simple/v3/download
+
           sudo chown -R caddy:caddy /var/www/_media
