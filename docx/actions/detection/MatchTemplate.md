@@ -34,3 +34,9 @@ import simple;
 ## 资源
 
 例子：https://github.com/shelllet/WinUi/blob/main/detection/MatchTemplate.simple
+
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/yW83dUrNDoo" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Pu4y1772u&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

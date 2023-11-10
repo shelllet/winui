@@ -1,4 +1,4 @@
-# [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-10-15)
+# [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-xx-xx)
 
 ### 变更：
 
