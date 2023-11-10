@@ -1,4 +1,20 @@
-# [0.29.1](https://github.com/shelllet/winui/compare/main...dev) (2023-10-15)
+# [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-xx-xx)
+
+### 变更：
+
+1. 添加几个用于操作容器的函数动作。
+
+2. 修复 *访问数组* 动作在索引字符串列表时的错误。
+3. 修复动作 *二维码识别* 中的错误。
+4. 修复 *中文识别*动作 无法识别问题。
+
+
+### 备注
+
+1. 下载：
+
+
+## [0.29.1](https://github.com/shelllet/winui/compare/main...dev) (2023-10-15)
 ### Changed：
 
 1. *鼠标监听* 支持监听鼠标按下。

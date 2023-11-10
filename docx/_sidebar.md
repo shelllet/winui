@@ -25,6 +25,7 @@
       - [检测进程](./actions/system/ExistProcess.md)
       - [终止进程](./actions/system/KillProcess.md)
       - [登录应用](./actions/system/LoginApplication.md)
+      - [剪切板](./actions/system/ClipboardValue.md)
     - 异步操作
       - [定时器](./actions/async/WorkTimer.md)
       - [定时任务](./actions/async/WorkTask.md)
@@ -88,6 +89,9 @@
       - [标记区域](./actions/image/ImageMarkROI.md)
       - [标记相对区域](./actions/image/ImageMarkRelativeROI.md)
       - [连通域分析](./actions/image/ConnectedComponents.md)
+      - [均值](./actions/image/ImageMean.md)
+      - [标准差](./actions/image/ImageStd.md)
+      - [像素缩放](./actions/image/ScalePixel.md)
     - 图像检测
       - [直线检测](./actions/detection/LineDetection.md)
       - [椭圆检测](./actions/detection/EllipseDetection.md)
@@ -101,8 +105,8 @@
       - [绘制矩形](./actions/draw/DrawRect.md)
       - [填充颜色](./actions/draw/FillColor.md)
     - 深度学习
-      - [目标分类](./actions/dnn/ONNXClassification.md)
-      - [目标检测](./actions/dnn/ONNXDetection.md)
+      - [目标分类](./actions/dnn/ImageClassification.md)
+      - [对象检测](./actions/dnn/ObjectDetection.md)
       - [中文识别](./actions/dnn/TextChinese.md)
       - [文本块检测](./actions/dnn/TextDetection.md)
       - [二维码识别](./actions/dnn/QRCode.md)
@@ -217,6 +221,7 @@
       - [随机坐标](./actions/algorithm/RandomPoint.md)
       - [图像差值](./actions/algorithm/ImageDifference.md)
       - [颜色统计](./actions/algorithm/ColorPercentage.md)
+      - [颜色统计](./actions/algorithm/JoinString.md)
     - 类型
       - [字符串](./actions/type/TypeString.md)
       - [Json](./actions/type/TypeJson.md)
@@ -224,7 +229,6 @@
       - [坐标](./actions/type/TypePoint.md)
       - [文件](./actions/type/TypeFile.md)
       - [文件夹](./actions/type/TypeFolder.md)
-      - [剪切板](./actions/type/ClipboardValue.md)
       - [快捷键](./actions/type/TypeShortcut.md)
       - [矩形](./actions/type/TypeRect.md)
       - [资源](./actions/type/TypeResource.md)
@@ -244,6 +248,8 @@
     - [Color](./types/Color.md)
     - [RotatedRect](./types/RotatedRect.md)
     - [DetectionResult](./types/DetectionResult.md)
+    - [ClassificationResult](./types/ClassificationResult.md)
+    - [RecognitionResult](./types/RecognitionResult.md)
     - [File](./types/File.md)
     - [Image](./types/Image.md)
     - [Size](./types/Size.md)
