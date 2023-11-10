@@ -41,4 +41,11 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+例子：https://github.com/shelllet/WinUi/blob/main/detection/BlobDetect.simple
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/CKI7oQo0idA" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV16u4y1a76i&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
