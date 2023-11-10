@@ -2,7 +2,7 @@
 
 标记图片感兴趣的区域，比如在找图时，只从该区域查找图片，可以加快查图速度。这个动作不改变图像尺寸。
 
-![action](./images/10.png ':size=90%')
+![ImageMarkROI](./images/10.png ':size=90%')
 
 ## 权限
 > 无要求
@@ -31,4 +31,10 @@ import simple;
 
 ```
 
-## 示例
+## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/image/ImageMarkROI.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/YDmLpSzti5M" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Vw411A7XA&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

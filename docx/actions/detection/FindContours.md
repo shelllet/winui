@@ -14,7 +14,7 @@
 
 * 图像
 > 单通道图像，通常使用二值化之后的单通道图像，如果是非单通道图像，则默认会转换成灰度图像。
-* 方法
+* 模式
 >   轮廓检索模式，控制轮廓的输出层次结构，可以参考：[RetrievalModes](./enums/RetrievalModes.md)。
 * 方法
 > 轮廓近似方法，轮廓只是形成形状边界的点的列表。一种方法是存储表示边界的所有点，但是对于 *三角形* 或 *四边形* 等简单形状存储数百个点是浪费的。对于 *三角形*，3 个点就足够了，对于 *四边形*，4 个点就足够了。该标志帮助我们选择近似级别，可以参考：[ContourApproximationMode](./enums/ContourApproximationMode.md)。
@@ -34,3 +34,7 @@ import simple;
 ## 资源
 
 例子：https://github.com/shelllet/WinUi/blob/main/detection/FindContours.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/jhWW91Lo8mQ" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV15e411X7YX&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
