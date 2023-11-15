@@ -11,7 +11,7 @@
 
 ### 备注
 
-1. 下载：
+1. 下载：https://winui.net/_media/simple/WinUi0.30-setup.x64.exe
 
 
 ## [0.29.1](https://github.com/shelllet/winui/compare/main...dev) (2023-10-15)
