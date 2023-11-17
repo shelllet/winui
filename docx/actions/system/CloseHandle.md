@@ -15,7 +15,7 @@
 
 * [exeFile](./types/Path.md)：应用程序，为避免同名程序文件，这个值应为程序路径
 * [type](./enums/HandleType.md)：句柄类型
-* [name](./types/String.md)：句柄名称。支持 [通配符匹配](./intro/workflow/wildcard.md) 匹配
+* [name](./types/String.md)：句柄名称。支持 [通配符匹配](./introduction/workflow/wildcard.md) 匹配
 
 ## 输出
 

@@ -9,6 +9,9 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" />
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+  
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
 </head>
 
 <body>
@@ -52,6 +55,16 @@
         },
       ]
     }
+
+    const gitalk = new Gitalk({
+      clientID: '1950547cecdacae2a71a',
+      clientSecret: 'ecada96501418c89375751dc8e412af679db4285',
+      repo: 'winui',
+      owner: 'shelllet',
+      admin: ['shelllet'],
+      distractionFreeMode: false
+    })
+
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.js"></script>
@@ -60,6 +73,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
 </body>
 
 </html>

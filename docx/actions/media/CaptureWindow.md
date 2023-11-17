@@ -1,18 +1,23 @@
 # 窗口截图 
-此动作用来对指定的窗口进行截图
+根据指定的窗口截图，此图像包含标题栏。
 
-![CaptureWindow](./images/2022-11-27_144417.png ':size=90%')
+![CaptureWindow](./images/01.png ':size=90%')
 
 ## 子流程
 > 不支持
 
 ## 运行参数
 
-* Window： 用来截图的窗口。
+* 窗口
+> 需要截图的窗口。如果为 *空* ，选择当前激活的前置窗口。
 
+* 中心
+> 要选择的 *ROI* 区域中心位置，*ROI* 区域之外，图像将置为黑色。
+* 尺寸
+> 要选择的 *ROI* 区域的长宽。*ROI* 区域之外，图像将置为黑色。
 ## 输出
 
-> [`Image`](./types/Image.md)
+> 图像，参考：[`Image`](./types/Image.md)
 
 
 ## 脚本调用
@@ -22,7 +27,7 @@ import simple;
 
 ```
 
-## 示例
+## 资源
 
-[https://github.com/shelllet/WinUi/blob/main/media/capture_window.simple](https://github.com/shelllet/WinUi/blob/main/media/capture_window.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/media/CaptureWindow.simple
 

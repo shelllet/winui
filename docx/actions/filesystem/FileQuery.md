@@ -12,7 +12,7 @@
 ## 运行参数
 
 * [path](./types/String.md)
-  > 搜索路径。支持 *glob* 匹配。默认值 `*`，从当前目录查找所有文件。 参考：[Glob模式匹配](./intro/workflow/glob.md)
+  > 搜索路径。支持 *glob* 匹配。默认值 `*`，从当前目录查找所有文件。 参考：[Glob模式匹配](./introduction/workflow/glob.md)
 * [options](./enums/GlobOptions.md)
   > 匹配行为
 
