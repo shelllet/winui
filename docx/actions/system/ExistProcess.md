@@ -12,7 +12,7 @@
 
 ## 运行参数
 
-* [app](./types/Path.md)：进程路径，支持 [*Wildcard*](./intro/workflow/wildcard.md) 匹配
+* [app](./types/Path.md)：进程路径，支持 [*Wildcard*](./introduction/workflow/wildcard.md) 匹配
 
 
 ## 输出

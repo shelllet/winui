@@ -1,4 +1,18 @@
-# [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-11-10)
+# [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-xx-xx)
+
+### Changed：
+
+1. *工作线程* 动作支持选择是否立即运行。
+2. *监听鼠标* 动作支持鼠标侧键。
+
+### Deprecated:
+
+1. *前置窗口截图* 动作弃用，请使用 [*窗口截图*](./actions/media/CaptureWindow.md) 动作。 
+### 备注
+
+1. 下载：
+
+## [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-11-10)
 
 ### 变更：
 

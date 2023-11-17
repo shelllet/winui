@@ -25,7 +25,7 @@
 
 
 #### [截图](https://winui.net/)
-![WinUi++](https://winui.net/intro/images/01.png)
+![WinUi++](https://winui.net/introduction/images/01.png)
 
 * 开发版文档：https://shelllet.github.io/winui/#/
   
@@ -38,9 +38,3 @@
 * B站：[https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951](https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951)
 
 * 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
-
-* 扫下面二维码加入微信群.
-
-<div style="text-align:center">
-    <img width="25%" src="https://gitlab.com/junwu/winui/-/raw/main/mm.png">
-</div>

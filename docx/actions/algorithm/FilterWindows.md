@@ -11,7 +11,7 @@
 ## 运行参数
 
 * Windows： 窗口列表。
-* Title： 窗口标题。支持 [**通配符（WildCard）**)](./intro/process/wildcard.md)匹配。
+* Title： 窗口标题。支持 [**通配符（WildCard）**)](./introduction/process/wildcard.md)匹配。
 * Name： 窗口类名。 
 
 ## 输出
