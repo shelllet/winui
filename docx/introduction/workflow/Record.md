@@ -6,14 +6,14 @@
 
 * 切换录制窗口
   
-![image](./introduction/images/02.png ':size=90%')
+    ![image](./images/02.png ':size=90%')
 
 
 * 添加 
     
     * 点击添加，可以打开添加对话框，如下图，填写名称，点击确定，*3s* 之后开始录制。如果想关闭对话框，按下键盘 `Esc` 键。
 
-![image](./images/03.png ':size=90%')
+    ![image](./images/03.png ':size=90%')
 
 * 停止录制
     * 按下快捷键 `Ctrl + Esc`
@@ -22,6 +22,6 @@
 
     删除已经录制的宏
 
-* 播放
+* 如何重放？
 
-    创建流程，添加 *播放*动作，运行流程即可
+    创建流程，添加[*键盘/鼠标宏重放*](./actions/media/PlayRecord.md) 动作，运行流程即可。
