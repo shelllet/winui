@@ -7,7 +7,7 @@
   - 流程
     - [项目属性](./introduction/workflow/property.md)
     - [使用逻辑](./introduction/workflow/logic.md)
-    - [鼠标/键盘宏录制](./introduction/workflow/macro_record.md)
+    - [鼠标/键盘宏录制](./introduction/workflow/Record.md)
     - [变量](./introduction/workflow/variable.md)
     - [流程操作技巧](./introduction/workflow/skill.md)
     - [通配符匹配](./introduction/workflow/wildcard.md)
@@ -135,7 +135,7 @@
       - [保存](./actions/xml/XmlSaveDocument.md)
       - [读取 Json](./actions/json/ReadJson.md)
     - 逻辑
-      - [循环](./actions/control/For.md)
+      - [迭代](./actions/control/ForEach.md)
       - [判断](./actions/control/If.md)
       - [判空](./actions/control/IsEmpty.md)
       - [调用](./actions/control/Invoke.md)

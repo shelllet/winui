@@ -1,7 +1,7 @@
 # 相机图像 
 获取相机的当前图像帧。
 
-![VideoFrame](./images/01.png ':size=90%')
+![VideoFrame](./images/05.png ':size=90%')
 
 ## 子流程
 > 不支持

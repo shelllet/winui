@@ -1,7 +1,7 @@
 # 声音播放 
 播放声音文件
 
-![MediaPlay](./images/01.png ':size=90%')
+![MediaPlay](./images/03.png ':size=90%')
 
 ## 子流程
 > 不支持

@@ -1,7 +1,7 @@
 # 键盘/鼠标宏重放 
-用于重放录制的键盘/鼠标宏。录制方法参考：[鼠标/键盘宏录制](.\intro\workflow\macro_record.md)
+用于重放录制的键盘/鼠标宏。录制方法参考：[鼠标/键盘宏录制](.\intro\workflow\Record.md)。
 
-![PlayRecord](./images/01.png ':size=90%')
+![PlayRecord](./images/04.png ':size=90%')
 
 ## 子流程
 > 不支持
