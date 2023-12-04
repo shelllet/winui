@@ -1,11 +1,12 @@
-# [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-xx-xx)
+# [0.31](https://github.com/shelllet/winui/compare/main...dev) (2023-xx-xx)
 
 ### Changed：
 
 1. *工作线程* 动作支持选择是否立即运行。
 2. *监听鼠标* 动作支持鼠标侧键。
 3. *For*（循环）动作名称变更为 *ForEach*（迭代）动作，功能不变。
-4. *IterParam*（迭代参数）动作名称变更为 *IterValue*（迭代数据）动作，并支持默认数据参数，功能不变。
+4. *IterParam*（迭代参数）动作名称变更为 *IterValue*（迭代数据）动作，并支持设置默认参数，功能不变。
+5. 增加 *StandardPath*（标准路径）动作，用来表示系统常用路径。
 
 ### Deprecated:
 
