@@ -122,10 +122,10 @@
       - [HEAD 请求](./actions/network/HttpHead.md)
       - [GET 请求](./actions/network/HttpGet.md)
       - [POST 请求](./actions/network/HttpPost.md)
-      - [监听](./actions/network/TcpListen.md)
-      - [发送](./actions/network/TcpSend.md)
-      - [接收](./actions/network/TcpReceive.md)
-      - [连接](./actions/network/TcpConnect.md)
+      - [商品监听](./actions/network/TcpListen.md)
+      - [数据发送](./actions/network/TcpSend.md)
+      - [数据接收](./actions/network/TcpReceive.md)
+      - [服务连接](./actions/network/TcpConnect.md)
     - 统计分析
       - [文档](./actions/xml/XmlLoadDocument.md)
       - [获取节点](./actions/xml/XmlGetNodeList.md)
@@ -150,7 +150,7 @@
       - [算术运行](./actions/control/ArithmeticCalculate.md)
       - [逻辑运算](./actions/control/LogicalOperator.md)
       - [关系运算](./actions/control/RelationalOperator.md)
-      - [传入参数](./actions/control/InputParam.md)
+      - [参数获取](./actions/control/ParamGet.md)
     - 算法
       - [分割字符串](./actions/algorithm/SplitString.md)
       - [非零像素点](./actions/algorithm/FindNonZero.md)
