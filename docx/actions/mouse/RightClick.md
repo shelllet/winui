@@ -33,4 +33,4 @@ import simple;
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/IjijAxNg8v8" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Eu411P7J7&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Eu411P7J7&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
