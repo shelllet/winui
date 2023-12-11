@@ -44,6 +44,6 @@ jobs:
           pwd
           mkdir -p /var/www
           cp -Rf ./docx/* /var/www
-          wget -P /var/www/_media/simple/ --content-disposition https://api.winui.net/simple/v3/download
+          wget -P /var/www/_media/simple/ --content-disposition https://winui.net/simple/v3/download
 
           sudo chown -R caddy:caddy /var/www/_media
