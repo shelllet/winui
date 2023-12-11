@@ -1,4 +1,4 @@
-# [0.31](https://github.com/shelllet/winui/compare/main...dev) (2023-xx-xx)
+# [0.31](https://github.com/shelllet/winui/compare/main...dev) (2023-12-xx)
 
 ### Changed：
 
@@ -11,9 +11,10 @@
 ### Deprecated:
 
 1. *前置窗口截图* 动作弃用，请使用 [*窗口截图*](./actions/media/CaptureWindow.md) 动作。 
+
 ### 备注
 
-1. 下载：
+1. 下载：...
 
 ## [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-11-10)
 
