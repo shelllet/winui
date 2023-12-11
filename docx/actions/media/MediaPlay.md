@@ -1,18 +1,21 @@
 # 声音播放 
 播放声音文件
 
+![MediaPlay](./images/03.png ':size=90%')
+
 ## 子流程
 > 不支持
 
 
 ## 运行参数
 
-* File：播放的声音文件
+* 媒体
+> 本地声音文件，或者网址。
 
 
 ## 输出
 
-    
+> 无    
 
 
 ## 脚本调用
@@ -22,4 +25,10 @@ import simple;
 
 ```
 
-## 示例
+
+## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/media/MediaPlay.simple
+
+
+!> 该动作是同步动作，声音文件播放完毕后返回。

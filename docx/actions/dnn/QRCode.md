@@ -26,3 +26,8 @@ import simple;
 ### 资源
 
 示例 https://github.com/shelllet/WinUi/blob/main/dnn/QRCode.simple
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/wzw60xVxqE8" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1cc411Q7hw&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

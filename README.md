@@ -25,7 +25,7 @@
 
 
 #### [截图](https://winui.net/)
-![WinUi++](https://winui.net/intro/images/01.png)
+![WinUi++](https://winui.net/introduction/images/01.png)
 
 * 开发版文档：https://shelllet.github.io/winui/#/
   

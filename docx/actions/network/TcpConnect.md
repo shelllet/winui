@@ -1,5 +1,7 @@
-# 连接 
-此动作通过TCP或者UDP连接服务端。
+# 服务连接 
+连接网络服务端。
+
+* *UDP* 是无连接协议，因此 基于*UDP* 协议的网络，直接发送或者接收数据即可，无需连接服务。
 
 ![action](./images/07.png ':size=90%')
 
@@ -9,13 +11,17 @@
 ## 运行参数
 
 
+* 主机
+>   服务器 IP 地址。
 
-* Host Address： 监听的IP, 默认`127.0.0.1`
-* Port Number： 监听的端口
-* Type： 类型，分为`TCP` 或者`UDP`
+* 端口
+> 远程端口
 
-## 输出 `Socket`
+* 类型
+>   网络协议，`TCP`。
 
+## 输出
+> 套接字，可用于读取或者发送数据，参考：[Socket](../types/Socket.md)。
 
 ## 脚本调用
 
@@ -26,6 +32,6 @@ import simple;
 
 ### 示例
 
-[https://github.com/shelllet/WinUi/blob/main/network/connect.simple](https://github.com/shelllet/WinUi/blob/main/network/connect.simple)
+示例： https://github.com/shelllet/WinUi/blob/main/network/TcpListen.simple
 
 
