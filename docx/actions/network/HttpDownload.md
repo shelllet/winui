@@ -1,20 +1,23 @@
-# 下载 
-此动作通过 *HTTP* 协议下载网络文件。
+# 文件下载 
+通过 *http/https* 协议下载网络文件。
 
-![action](./images/2022-11-27_144417.png ':size=90%')
+![HttpDownload](./images/01.png ':size=90%')
 
 ## 子流程
 > 不支持
 
 ## 运行参数
 
-* Url： 要下载的URL，HTTP链接。
-* Folder： 保存的目录。
-* Name： 保存的文件名,如果为空,表示使用当前时间作为文件名。
+* 网址
+  > 要下载的URL，仅支持 *http/ https* 链接。
+* 文件夹
+>   保存的目录。
+* 名称
+>   保存的文件名,如果为空,表示使用当前日期/时间作为文件名。
 
 ## 输出
 
-> 保存的文件的完整路径。`Path`
+> 下载的文件的完整路径。参考：[`Path`](../types/Path.md)
 
 
 
@@ -25,8 +28,8 @@ import simple;
 
 ```
 
-### 示例
+### 资源
 
-[https://github.com/shelllet/WinUi/blob/main/http/http_download.simple](https://github.com/shelllet/WinUi/blob/main/http/http_download.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/http/HttpDownload.simple
 
 

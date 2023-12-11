@@ -1,16 +1,19 @@
 # 相机图像 
-这个动作可以获取相机的当前图像帧。
+获取相机的当前图像帧。
+
+![VideoFrame](./images/05.png ':size=90%')
 
 ## 子流程
 > 不支持
 
 
 ## 运行参数
-
+* 相机
+> 打开的相机
 
 ## 输出
 
-> 图像[Image](./types/Image.md) 
+> 图像，参考：[Image](./types/Image.md) 
 
 
 ## 脚本调用
@@ -20,4 +23,8 @@ import simple;
 
 ```
 
+
 ## 资源
+
+示例：https://github.com/shelllet/WinUi/blob/main/media/VideoFrame.simple
+

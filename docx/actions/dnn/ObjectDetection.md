@@ -21,7 +21,7 @@
 
 * 框架
 > 目前仅支持 *Yolo5* 架构的模型
- 
+
 ## 输出
 
 >   检测到的图像位置，参考：[DetectionResults](./types/DetectionResult.md)
@@ -37,3 +37,8 @@ import simple;
 ### 资源
 
 示例 https://github.com/shelllet/WinUi/blob/main/dnn/ObjectDetection.simple
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/yV5wdgmEXrw" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Jc41167Dr&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

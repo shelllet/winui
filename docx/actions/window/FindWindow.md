@@ -38,7 +38,7 @@ w.run()
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/Atc4D8egT3s" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1hu411w7WV&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1hu411w7WV&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 !> [Windows下的程序及热键监视神器——Spy++](https://zhuanlan.zhihu.com/p/355878952)
 
