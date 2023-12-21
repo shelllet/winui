@@ -7,10 +7,13 @@
 3. *For*（循环）动作名称变更为 *Iterate*（迭代）动作，功能不变。
 4. *IterParam*（迭代参数）动作名称变更为 *Param*（参数）动作，并支持设置默认参数，功能不变。
 5. 增加 *StandardPath*（标准路径）动作，用来表示系统常用路径。
+5. 增加 *FlashWindow*（闪烁窗口）动作，用来闪烁窗口，定位多个相同名称/类名的窗口。
+6. 优化网络相关动作
 
 ### Deprecated:
 
 1. *前置窗口截图* 动作弃用，请使用 [*窗口截图*](./actions/media/CaptureWindow.md) 动作。 
+1. *窗口筛选* 动作弃用，请使用 [*EnumWindows*](./actions/window/EnumWindows.md) 动作。 
 
 ### 备注
 

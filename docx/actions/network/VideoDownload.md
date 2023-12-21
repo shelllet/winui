@@ -1,6 +1,8 @@
 # 视频下载 
 通过提供想要下载视频的 *URL* ，下载相应的视频文件。
 
+![VideoDownload](./images/02.png ':size=90%')
+
 ## 子流程
 > 不支持
 
@@ -22,15 +24,8 @@
 > 保存到本地的视频路径，参考：[Path](../types/Path.md)
     
 
-
-## 脚本调用
-
-```python
-import simple;
-
-```
-
 ## 资源
 
+* 示例： https://github.com/shelllet/WinUi/blob/main/network/YoutubeDownload.simple
 
 !> 目前版本只支持 *Youtube*视频下载，中国用户需要能访问 *Youtube* 的代理网络。

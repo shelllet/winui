@@ -1,7 +1,7 @@
 # 数据接收 
 接收网络数据。
 
-![NetworkReceive](./images/05.png ':size=90%')
+![NetworkReceive](./images/08.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -18,15 +18,9 @@
 > 收到的数据，参考：[字符串](../types/String.md)。
 
 
-## 脚本调用
-
-```python
-import simple;
-
-```
-
-## 示例
+## 资源
 
 *TCP*示例： https://github.com/shelllet/WinUi/blob/main/network/TcpListen.simple
+
 *UDP* 示例： https://github.com/shelllet/WinUi/blob/main/network/UdpListen.simple
 
