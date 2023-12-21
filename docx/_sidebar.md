@@ -76,6 +76,7 @@
       - [窗口位置](./actions/window/WindowXy.md)
       - [窗口大小](./actions/window/WindowSize.md)
       - [窗口坐标](./actions/window/WindowPoint.md)
+      - [闪烁窗口](./actions/window/FlashWindow.md)
     - 图像处理
       - [颜色转换](./actions/image/CvtColor.md)
       - [裁切图片](./actions/image/CropImage.md)

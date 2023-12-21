@@ -1,7 +1,7 @@
 # 数据发送 
 通过网络，发送数据。
 
-![NetworkSend](./images/03.png ':size=90%')
+![NetworkSend](./images/07.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -18,16 +18,10 @@
 
 > 如果是 *TCP* 协议，该动作返回：[TCPSocket](../types/TCPSocket.md)。如果是*UDP* 协议，该动作返回： [UDPSocket](../types/UDPSocket.md)
 
-### 脚本调用
-
-```python
-import simple;
-
-```
-
-### 示例
+### 资源
 
 *TCP*示例： https://github.com/shelllet/WinUi/blob/main/network/TcpListen.simple
+
 *UDP* 示例： https://github.com/shelllet/WinUi/blob/main/network/UdpListen.simple
 
 
