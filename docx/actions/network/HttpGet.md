@@ -1,6 +1,8 @@
 # GET 请求
 用于向服务器请求指定的资源，HTTP GET 请求应该只接收数据而不改变服务器的状态。
 
+![HttpGet](./images/04.png ':size=90%')
+
 ## 子流程
 > 不支持
 
@@ -28,3 +30,5 @@ import simple;
 ```
 
 ## 资源
+
+示例： https://github.com/shelllet/WinUi/blob/main/network/HttpGet.simple

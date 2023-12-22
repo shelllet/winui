@@ -1,4 +1,4 @@
-# Post 
+# POST 请求
 将数据通过 POST 方法发送至服务器用以创建/更新资源，请求主体的类型由 Content-Type 标头指示。该动作使用 超文本传输协议（HTTP/1.1）。
 
 例如：
@@ -10,6 +10,8 @@
 
 * text/plain
   > 消息体没有规定的格式，服务器需要进行相应的处理。
+
+![HttpPost](./images/05.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -30,14 +32,8 @@
 > 请求返回的数据，字符串类型，参考：[String](../types/String.md)    
 
 
-## 脚本调用
-
-```python
-import simple;
-
-```
-
 ## 资源
 
+示例： https://github.com/shelllet/WinUi/blob/main/network/HttpPost.simple
 
 !>  [Python 3 HTTP/1.1 Server](https://gist.github.com/andystanton/2ec0dca0bf6de90c2000025319f63e2d)
