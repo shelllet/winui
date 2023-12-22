@@ -3,7 +3,9 @@
   - 安装
       - [直接安装](./introduction/installation/installed_by_exe.md)
       - [微软商店安装](./introduction/installation/installed_by_msix.md)
-      - [安装问题](./introduction/installation/questions.md)
+      - 安装问题
+        - [新安装无法启动](./introduction/installation/question/quest1.md)
+        - [覆盖安装无法启动](./introduction/installation/question/quest2.md)
   - 流程
     - [项目属性](./introduction/workflow/property.md)
     - [使用逻辑](./introduction/workflow/logic.md)
@@ -166,7 +168,6 @@
       - [周长筛选](./actions/algorithm/FilterPerimeter.md)
       - [形状筛选](./actions/algorithm/FilterVertex.md)
       - [椭圆筛选](./actions/algorithm/FilterEllipse.md)
-      - [窗口筛选](./actions/algorithm/FilterWindows.md)
       - [随机数](./actions/algorithm/RandomNumber.md)
       - [随机坐标](./actions/algorithm/RandomPoint.md)
       - [图像差值](./actions/algorithm/ImageDifference.md)
@@ -285,4 +286,5 @@
     - [MorphologicalOperations](./enums/MorphologicalOperations.md)
     - [ContourApproximationModes](./enums/ContourApproximationModes.md)
     - [FeatureAlgorithm](./enums/FeatureAlgorithm.md)
+    - [WindowSortDirection](./enums/WindowSortDirection.md)
   - [Changelog](./CHANGELOG.md)
