@@ -21,13 +21,6 @@
 
 
 
-## 脚本调用
-
-```python
-import simple;
-
-```
-
 ### 资源
 
 示例：https://github.com/shelllet/WinUi/blob/main/http/HttpDownload.simple
