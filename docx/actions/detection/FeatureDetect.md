@@ -39,7 +39,13 @@ import simple;
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/3YNK8kaAqr0" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1bc411f7pH&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1bc411f7pH&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 !> 该动作会先将源图像和模板图像转换成灰度图像，再进行匹配。
+
+
+## 版本变化
+
+* 0.31
+> 图像参数支持使用*窗口*类型。

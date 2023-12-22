@@ -4,7 +4,7 @@
 ![SendKey](./images/04.png ':size=90%')
 
 ## 权限
-> 据 *UIC* 规则，不能向高权限的用户界面发送按键，例如：普通用户启动的 *WinUi++*, 无法向以管理员方式启动的应用界面发送按键。
+> 据 *UIC* 规则，不能向高权限的用户界面发送按键，例如：普通用户启动的 *WinUi++*, 无法向以管理员方式启动的应用程序窗口发送按键。
 
 ## 子流程
 > 不支持
@@ -12,22 +12,17 @@
 
 ## 运行参数
 
+* 窗口
+> 需要激活的窗口，默认当前激活的窗口。
 * 按键
+> 发送的键盘按键。
 * 延迟
   > 发送完按键之后所等待的时间,单位：秒
 
 
 ## 输出
->  无    
+>  发送的键盘按键， 参考：    
 
-
-## 脚本调用
-> 参考 [Keyboard](./types/Keyboard.md)
-
-```python
-import simple;
-
-```
 
 ## 资源
 
@@ -35,4 +30,10 @@ import simple;
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/84TvkrTkjQk" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1zu411J7FP&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1zu411J7FP&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
+## 版本变化
+
+* 0.31
+> 增加 *窗口* 运行参数。

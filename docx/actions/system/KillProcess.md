@@ -12,7 +12,7 @@
 
 ## 运行参数
 
-* [app](./types/Path.md)：进程路径，支持 [*Wildcard*](./intro/workflow/wildcard.md) 匹配
+* [app](./types/Path.md)：进程路径，支持 [*Wildcard*](./introduction/workflow/wildcard.md) 匹配
 
 
 ## 输出
@@ -34,4 +34,4 @@ r.run()
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/hlpfERxN5yQ" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV118411U7yu&page=1&autoplay=0” height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV118411U7yu&page=1&autoplay=0” height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

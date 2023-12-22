@@ -12,6 +12,8 @@
 
 ## 运行参数
 
+* 手动
+> 线程默认状态开始即运行，如果选中此参数，线程一开始则不会执行，需要配合使用其它动作使其运行。
 
 ## 输出
 
@@ -29,4 +31,4 @@
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/aM79yNqAA-g" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1zc411c7WX&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1zc411c7WX&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

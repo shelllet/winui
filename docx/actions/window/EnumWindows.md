@@ -1,5 +1,8 @@
 # 枚举窗口 
-枚举操作系统中的窗口
+枚举操作系统中的窗口，并按照窗口所在进程的创建时间进行排序。
+
+
+* 注意：当这些窗口属于同一进程，则无法排序 ，例如 *Win11* 系统中的计算器，
 
 ![EnumWindows](./images/10.png ':size=90%')
 
@@ -32,4 +35,4 @@ import simple;
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/bnrfNystwcs" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1T8411v78a&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1T8411v78a&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
