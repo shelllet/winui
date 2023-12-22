@@ -19,4 +19,4 @@
 
 
 
-!> [获取WinUI](ms-windows-store://pdp/?productid=9N8HM4N6R77J)
+!> [点击直达微软商店页面，获取WinUi++](ms-windows-store://pdp/?productid=9N8HM4N6R77J)

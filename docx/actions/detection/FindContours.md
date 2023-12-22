@@ -37,4 +37,10 @@ import simple;
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/jhWW91Lo8mQ" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV15e411X7YX&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV15e411X7YX&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
+## 版本变化
+
+* 0.31
+> 图像参数支持使用*窗口*类型。

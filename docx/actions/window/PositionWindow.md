@@ -34,6 +34,6 @@ import simple;
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/0i76rAExI5Y" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV13m4y1N7Q9&page=1&autoplay=0" height='640px' scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV13m4y1N7Q9&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 !> 对于 *UWP* 应用解决办法参考：https://github.com/microsoft/Xaml-Islands-Samples/blob/master/Samples/Win32/SampleCppApp/ReadMe.md
