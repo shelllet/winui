@@ -26,14 +26,6 @@
 
 > 窗口： [`Wnds`](./types/Wnd.md)    
 
-
-## 脚本调用
-
-```python
-import simple;
-
-```
-
 ## 资源
 
 示例：https://github.com/shelllet/WinUi/blob/main/window/EnumWindows.simple
