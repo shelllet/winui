@@ -120,6 +120,7 @@
       - [声音播放](./actions/media/MediaPlay.md)
       - [键盘/鼠标宏重放](./actions/media/PlayRecord.md)
       - [相机图像](./actions/media/VideoFrame.md)
+      - [屏幕取色](./actions/media/PixelPoint.md)
     - 网络
       - [文件下载](./actions/network/HttpDownload.md)
       - [视频下载](./actions/network/VideoDownload.md)
