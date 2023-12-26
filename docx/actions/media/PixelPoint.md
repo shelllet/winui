@@ -1,7 +1,7 @@
 # 屏幕取色 
 这个动作检索指定坐标处的像素的红色，绿色，蓝色（RGB）颜色值。
 
-![PixelPoint](./images/01.png ':size=90%')
+![PixelPoint](./images/06.png ':size=90%')
 
 ## 子流程
 > 不支持
