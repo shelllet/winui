@@ -17,7 +17,7 @@
 
 ### 备注
 
-1. 下载：https://winui.net/_media/simple/winui++0.31-setup.x64
+1. 下载：https://winui.net/_media/winui++0.31.1-setup.x64.exe
 
 ## [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-11-10)
 
