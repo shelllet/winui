@@ -9,7 +9,7 @@
   - 流程
     - [项目属性](./introduction/workflow/property.md)
     - [使用逻辑](./introduction/workflow/logic.md)
-    - [鼠标/键盘宏录制](./introduction/workflow/Record.md)
+    - [鼠标/键盘宏录制](./introduction/workflow/mk_record)
     - [变量](./introduction/workflow/variable.md)
     - [流程操作技巧](./introduction/workflow/skill.md)
     - [通配符匹配](./introduction/workflow/wildcard.md)
@@ -28,6 +28,7 @@
       - [终止进程](./actions/system/KillProcess.md)
       - [登录应用](./actions/system/LoginApplication.md)
       - [剪切板](./actions/system/ClipboardValue.md)
+      - [输出文本](./actions/xml/OutputString.md)
     - 异步操作
       - [定时器](./actions/async/WorkTimer.md)
       - [定时任务](./actions/async/WorkTask.md)
@@ -132,13 +133,12 @@
       - [网络接收](./actions/network/NetworkReceive.md)
       - [服务连接](./actions/network/NetworkConnect.md)
     - 统计分析
-      - [文档](./actions/xml/XmlLoadDocument.md)
-      - [获取节点](./actions/xml/XmlGetNodeList.md)
+      - [加载文档](./actions/xml/LoadDocument.md)
+      - [查询](./actions/xml/DataFrameQuery.md)
       - [节点名称](./actions/xml/XmlNodeName.md)
-      - [元素](./actions/xml/XmlDocumentElement.md)
-      - [文本替换](./actions/xml/XmlReplaceText.md)
-      - [保存](./actions/xml/XmlSaveDocument.md)
+      - [元素](./actions/xml/DataFrameSize.md)
       - [读取 Json](./actions/json/ReadJson.md)
+      - [保存文档](./actions/xml/SaveDocument.md)
     - 逻辑
       - [迭代](./actions/control/Iterate.md)
       - [判断](./actions/control/If.md)
