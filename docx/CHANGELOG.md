@@ -1,4 +1,18 @@
-# [0.31](https://github.com/shelllet/winui/compare/main...dev) (2023-12-22)
+# [0.32](https://github.com/shelllet/winui/compare/main...dev) (2023-xx-xx)
+
+### Changed：
+
+1. 移动鼠标动作支持多显示器。
+2. 优化统计分析模块
+
+### Deprecated:
+
+### Note
+
+1. 下载：about:blank
+
+
+## [0.31](https://github.com/shelllet/winui/compare/main...dev) (2023-12-22)
 
 ### Changed：
 
