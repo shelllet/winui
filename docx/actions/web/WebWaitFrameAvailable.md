@@ -1,5 +1,5 @@
 # 等待*框架可切换
-检查给定的框架是否可以切换到。
+检查给定的 *iframe*/框架是否可以切换到。如果相应的 *iframe* 可用，会切换置相应的 *iframe*。
 
 ## 子流程
 > 不支持
@@ -8,7 +8,7 @@
 ## 运行参数
 * Driver：浏览器对象
 * Timeout：超时时间，默认 *60* 秒。
-* Element：元素值, 由 *By* 值确定。字符串类型 [`String`](./types/String.md)
+* Element：相应的 *iframe*, 由 *By* 值确定。字符串类型 [`String`](./types/String.md)
 * By：定位策略，参考：[web locators](./introduction/webdriver/locators.md)
 
 

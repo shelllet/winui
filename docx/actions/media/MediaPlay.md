@@ -23,4 +23,8 @@
 示例：https://github.com/shelllet/WinUi/blob/main/media/MediaPlay.simple
 
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/OgzOJiRrlhg" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1mN4y1v7AV&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 !> 该动作是同步动作，声音文件播放完毕后返回。
