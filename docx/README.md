@@ -31,9 +31,9 @@ _WinUi++_ 绝对不会嵌入任何广告、捆绑任何软件。也不会像国�
 - 开发版文档：https://shelllet.github.io/winui/#/
 - 示例流程：https://github.com/shelllet/winui
 
-- 最新版本下载：[https://winui.net/](https://winui.net/)
+- 版本下载：[https://winui.net/](./CHANGELOG.md)
 
-- 油管: [https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ](https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ)
+- YT: [https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ](https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ)
 - B 站：[https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951](https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951)
 
 - 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。

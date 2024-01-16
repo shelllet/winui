@@ -3,11 +3,13 @@
   - 安装
       - [直接安装](./introduction/installation/installed_by_exe.md)
       - [微软商店安装](./introduction/installation/installed_by_msix.md)
-      - [安装问题](./introduction/installation/questions.md)
+      - 安装问题
+        - [新安装无法启动](./introduction/installation/question/quest1.md)
+        - [覆盖安装无法启动](./introduction/installation/question/quest2.md)
   - 流程
     - [项目属性](./introduction/workflow/property.md)
     - [使用逻辑](./introduction/workflow/logic.md)
-    - [鼠标/键盘宏录制](./introduction/workflow/Record.md)
+    - [鼠标/键盘宏录制](./introduction/workflow/mk_record)
     - [变量](./introduction/workflow/variable.md)
     - [流程操作技巧](./introduction/workflow/skill.md)
     - [通配符匹配](./introduction/workflow/wildcard.md)
@@ -26,6 +28,7 @@
       - [终止进程](./actions/system/KillProcess.md)
       - [登录应用](./actions/system/LoginApplication.md)
       - [剪切板](./actions/system/ClipboardValue.md)
+      - [输出文本](./actions/xml/OutputString.md)
     - 异步操作
       - [定时器](./actions/async/WorkTimer.md)
       - [定时任务](./actions/async/WorkTask.md)
@@ -118,6 +121,7 @@
       - [声音播放](./actions/media/MediaPlay.md)
       - [键盘/鼠标宏重放](./actions/media/PlayRecord.md)
       - [相机图像](./actions/media/VideoFrame.md)
+      - [屏幕取色](./actions/media/PixelPoint.md)
     - 网络
       - [文件下载](./actions/network/HttpDownload.md)
       - [视频下载](./actions/network/VideoDownload.md)
@@ -129,13 +133,12 @@
       - [网络接收](./actions/network/NetworkReceive.md)
       - [服务连接](./actions/network/NetworkConnect.md)
     - 统计分析
-      - [文档](./actions/xml/XmlLoadDocument.md)
-      - [获取节点](./actions/xml/XmlGetNodeList.md)
+      - [加载文档](./actions/xml/LoadDocument.md)
+      - [查询](./actions/xml/DataFrameQuery.md)
       - [节点名称](./actions/xml/XmlNodeName.md)
-      - [元素](./actions/xml/XmlDocumentElement.md)
-      - [文本替换](./actions/xml/XmlReplaceText.md)
-      - [保存](./actions/xml/XmlSaveDocument.md)
+      - [元素](./actions/xml/DataFrameSize.md)
       - [读取 Json](./actions/json/ReadJson.md)
+      - [保存文档](./actions/xml/SaveDocument.md)
     - 逻辑
       - [迭代](./actions/control/Iterate.md)
       - [判断](./actions/control/If.md)
@@ -166,7 +169,6 @@
       - [周长筛选](./actions/algorithm/FilterPerimeter.md)
       - [形状筛选](./actions/algorithm/FilterVertex.md)
       - [椭圆筛选](./actions/algorithm/FilterEllipse.md)
-      - [窗口筛选](./actions/algorithm/FilterWindows.md)
       - [随机数](./actions/algorithm/RandomNumber.md)
       - [随机坐标](./actions/algorithm/RandomPoint.md)
       - [图像差值](./actions/algorithm/ImageDifference.md)
@@ -285,4 +287,5 @@
     - [MorphologicalOperations](./enums/MorphologicalOperations.md)
     - [ContourApproximationModes](./enums/ContourApproximationModes.md)
     - [FeatureAlgorithm](./enums/FeatureAlgorithm.md)
+    - [WindowSortDirection](./enums/WindowSortDirection.md)
   - [Changelog](./CHANGELOG.md)

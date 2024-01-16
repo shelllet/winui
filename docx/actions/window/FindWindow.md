@@ -1,6 +1,8 @@
 # 查找窗口 
 查找操作系统中的窗口，该动作支持通过*窗口标题*或者*窗口类*搜索窗口。
 
+* 多个相同的窗口，该动作只会返回其中一个窗口，顺序不确定。
+
 ![FindWindow](./images/02.png ':size=90%')
 
 ## 子流程
@@ -19,17 +21,6 @@
 
 > 窗口：[`Wnd`](./types/Wnd.md)
 
-
-### 脚本调用
-
-```python
-import * from simple
-
-r = FindWindowRunner() # null parent
-r.caption = 'notepad.exe'
-r.className = None # 不使用窗口类
-w.run()
-```
 
 ### 资源
 
