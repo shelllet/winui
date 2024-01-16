@@ -6,7 +6,7 @@
 
 * 切换录制窗口
   
-    ![image](./images/02.png ':size=90%')
+    ![image](./introduction/workflow/images/02.png ':size=90%')
 
 
 * 添加 
