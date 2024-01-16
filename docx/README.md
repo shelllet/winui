@@ -36,7 +36,11 @@ _WinUi++_ 绝对不会嵌入任何广告、捆绑任何软件。也不会像国�
 - YT: [https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ](https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ)
 - B 站：[https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951](https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951)
 
-- 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
+- 如果你有 *Discord*, 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
+
+- 扫码加入微信交流群。
+
+![wx](./introduction/images/wx.png ':size=40%')
 
 <script>
     Docsify.get('https://api.winui.net/simple/v3/latest').then(()=>{}, (reason)=>{
