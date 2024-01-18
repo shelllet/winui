@@ -13,7 +13,7 @@
 
 ## 输出 
 
-> 二维码信息，字符串类型，参考：[String](../types/String.md)。
+> 二维码信息，字符串类型，参考：[String](./types/String.md)。
 
 ## 脚本调用    
 
