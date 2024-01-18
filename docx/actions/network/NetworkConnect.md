@@ -12,17 +12,18 @@
 
 
 * 主机
->   服务器地址，通常包含 *IP* 和端口。参考：[HostAddress](../types/HostAddress.md)
+>   服务器地址，通常包含 *IP* 和端口。参考：[HostAddress](./types/HostAddress.md)
 
 * 类型
 >   网络协议。
 
 ## 输出
-> 套接字，可用于读取或者发送数据，*UDP*协议，参考：[UDPSocket](../types/UDPSocket.md)。*TCP*协议，参考：[TCPSocket](../types/TCPSocket.md)。
+> 套接字，可用于读取或者发送数据，*UDP*协议，参考：[UDPSocket](./types/UDPSocket.md)。*TCP*协议，参考：[TCPSocket](./types/TCPSocket.md)。
 
 ### 资源
 
 *TCP*示例： https://github.com/shelllet/WinUi/blob/main/network/TcpListen.simple
+
 *UDP* 示例： https://github.com/shelllet/WinUi/blob/main/network/UdpListen.simple
 
 

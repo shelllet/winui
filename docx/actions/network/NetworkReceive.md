@@ -10,12 +10,12 @@
 
 * 主机
 
->    如果是 *TCP* 协议，该参数类型为：[TCPSocket](../types/TCPSocket.md)。如果是*UDP* 协议，该参数是主机地址，参考：[主机地址](../types/HostAddress.md)或者 [UDPSocket](../types/UDPSocket.md)
+>    如果是 *TCP* 协议，该参数类型为：[TCPSocket](./types/TCPSocket.md)。如果是*UDP* 协议，该参数是主机地址，参考：[主机地址](./types/HostAddress.md)或者 [UDPSocket](./types/UDPSocket.md)
 
 
 ## 输出 
 
-> 收到的数据，参考：[字符串](../types/String.md)。
+> 收到的数据，参考：[字符串](./types/String.md)。
 
 
 ## 资源

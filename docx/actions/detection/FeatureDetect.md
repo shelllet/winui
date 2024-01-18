@@ -22,7 +22,7 @@
 > 参考 [FeatureAlgorithm](../enums/FeatureAlgorithm.md)
 ## 输出
 
-> 检测到的位置区域，参考：[RotatedRects](../types/RotatedRect.md)
+> 检测到的位置区域，参考：[RotatedRects](./types/RotatedRect.md)
 
 
 ## 脚本调用
