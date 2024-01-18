@@ -14,7 +14,7 @@
 
 ## 输出
 
-> 输出 *HEAD* 方法的返回内容，参考类型：[String](../types/String.md)     
+> 输出 *HEAD* 方法的返回内容，参考类型：[String](./types/String.md)     
 
 
 ## 资源

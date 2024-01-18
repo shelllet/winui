@@ -20,7 +20,7 @@
 
 ## 输出
 
->   所要统计的颜色所占的百分比，参考：[Number](../types/Number.md)。
+>   所要统计的颜色所占的百分比，参考：[Number](./types/Number.md)。
 
 
 ## 脚本调用

@@ -14,12 +14,12 @@
 * 标头
 > 在 HTTP GET 请求中传递 HTTP 标头，例如：`Accept: application/json`
 
-* 参数
+* 查询字符串
 > 查询字符串（名称/值对），在 GET 请求的 URL 中发送：`/test/demo.html?name1=value1&name2=value2`，可选项。
 
 ## 输出
 
-> GET 方法返回的内容，参考字符串类型：[String](../types/String.md)    
+> GET 方法返回的内容，参考字符串类型：[String](./types/String.md)    
 
 
 ## 脚本调用
