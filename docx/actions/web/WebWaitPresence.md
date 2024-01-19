@@ -10,19 +10,12 @@
 * Timeout：超时时间，默认 *60* 秒。
 * Element：元素值, 由 *By* 值确定。
 * By：定位策略，参考：[web locators](./introduction/webdriver/locators.md)
-* Mode：模型，唯一/所有，比如 *By* 根据 *ID* 定位， 这里的 *Mode* 就是 *One* ；比如 *By* 根据 *CLASS_NAME* 定位元素，就可以使用 *ALl*。
+* Mode：模式，唯一/所有，比如 *By* 根据 *ID* 定位， 这里的 *Mode* 就是 *One* ；比如 *By* 根据 *CLASS_NAME* 定位元素，就可以使用 *ALl*。
 
 
 ## 输出
 
 > 无，在超时时间内，元素呈现，则返回，否则一直等待，直到超时返回。
 
-
-## 脚本调用
-
-```python
-import simple;
-
-```
 
 ## 示例

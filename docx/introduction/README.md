@@ -22,6 +22,9 @@
 # 购买 WinUi++ 2023 版序列号
 
 - 咸鱼购买（手机链接）：[loading...](https://winui.net ":id=buy")
+- 购买前加微信|加入交流群。
+
+![wx](./images/wx.png ":size=40%")
 
 <script>
   function fixed(url)
@@ -41,4 +44,4 @@
 
 </script>
 
-- PayPal 购买 [https://www.paypal.com/paypalme/junwufan](https://www.paypal.com/paypalme/junwufan) \* ，请先加入 [Discord](https://discord.gg/b4MeYbJrfk) 。
+- PayPal 购买 [https://www.paypal.com/paypalme/junwufan](https://www.paypal.com/paypalme/junwufan) \* ，可加入 [Discord](https://discord.gg/b4MeYbJrfk) 咨询交流。
