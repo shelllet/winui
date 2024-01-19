@@ -1,4 +1,39 @@
-# [0.31](https://github.com/shelllet/winui/compare/main...dev) (2023-12-22)
+# [0.33](https://github.com/shelllet/winui/compare/main...dev) (2024-x-x)
+
+### Changed：
+
+1. 移动鼠标动作支持多显示器。
+2. 优化统计分析模块。
+3. 优化浏览器操作
+4. 恢复 *For*（循环）动作名称。
+5. *访问数组* 中的索引参数，去掉数字类型，使用表达式，同时支持字典访问。
+5. 恢复 *前置窗口截图*，重命名为：[CaptureActiveWindow(活动窗口截取)](./actions/media/CaptureActiveWindow.md)。
+
+### Deprecated:
+
+### Note
+
+1. 下载：about:blank
+
+## [0.32](https://github.com/shelllet/winui/compare/main...dev) (2024-1-19)
+
+### Changed：
+
+1. 移动鼠标动作支持多显示器。
+2. 优化统计分析模块。
+3. 优化浏览器操作
+4. 恢复 *For*（循环）动作名称。
+5. *访问数组* 中的索引参数，去掉数字类型，使用表达式，同时支持字典访问。
+5. 恢复 *前置窗口截图*，重命名为：[CaptureActiveWindow(活动窗口截取)](./actions/media/CaptureActiveWindow.md)。
+
+### Deprecated:
+
+### Note
+
+1. 下载：https://winui.net/_media/winui++0.32.0-setup.x64.exe
+
+
+## [0.31](https://github.com/shelllet/winui/compare/main...dev) (2023-12-22)
 
 ### Changed：
 
@@ -17,7 +52,7 @@
 
 ### 备注
 
-1. 下载：https://winui.net/_media/simple/winui++0.31-setup.x64
+1. 下载：https://winui.net/_media/winui++0.31.1-setup.x64.exe
 
 ## [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-11-10)
 

@@ -19,7 +19,7 @@
 
 ## 输出
 
-> 部分字符串，参考：[String](../types/String.md)。    
+> 部分字符串，参考：[String](./types/String.md)。    
 
 
 ## 脚本调用

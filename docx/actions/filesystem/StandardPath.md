@@ -13,7 +13,7 @@
 
 ## 输出
 
-> 路径，参考：[Path](../types/Path.md)。    
+> 路径，参考：[Path](./types/Path.md)。    
 
 
 ## 脚本调用
