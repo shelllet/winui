@@ -65,6 +65,7 @@
       - [拖拽](./actions/mouse/DragPointer.md)
       - [监听鼠标](./actions/mouse/ListenMouse.md)
       - [偏移移动](./actions/mouse/MoveOffset.md)
+      - [点击*网格](./actions/mouse/CellClick.md)
     - 窗口
       - [查找窗口](./actions/window/FindWindow.md)
       - [特定窗口](./actions/window/SpecialWindow.md)
@@ -212,7 +213,6 @@
       - [框架*设置焦点](./actions/web/WebFocusFrameDefault.md)
       - [元素截图](./actions/web/WebScreenshot.md)
       - [动作链*创建](./actions/web/WebActionChainsCreated.md)
-      - [动作链*执行](./actions/web/WebActionChainsPerform.md)
       - [动作链.点击](./actions/web/WebActionClick.md)
       - [动作链.点按](./actions/web/WebActionClickHold.md)
       - [动作链.双击](./actions/web/WebActionDoubleClick.md)
