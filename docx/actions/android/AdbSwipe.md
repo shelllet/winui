@@ -1,6 +1,7 @@
 # 滑动 
-在安卓模拟器当中实现滑动操作。
+在安卓设备中实现滑动操作。
 
+![AdbSwipe](./images/04.png ':size=90%')
 
 ## 子流程
 
@@ -10,24 +11,21 @@
 ## 运行参数
 
 
-* Device： 安卓模拟器。
-* From： 滑动的开始位置。
-* To： 滑动的结束位置。
-* Time： 滑动时间。单位秒。
+* 模拟器
+> 安卓模拟器
+* 开始位置
+> 滑动的开始位置。
+* 终止位置
+> 滑动的结束位置。
+*  时间
+> 滑动时间。单位*秒*。
 
 ## 输出
-> 模拟器日志
-
-## 脚本调用
-
-```python
-import simple;
+> 设备日志，字符串[`String`](./types/String.md)。
 
 
-```
+## 资源
 
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/android/swipe.simple](https://github.com/shelllet/WinUi/blob/main/android/swipe.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/android/AdbSwipe.simple
 
 

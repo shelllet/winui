@@ -1,8 +1,8 @@
 # 连接 
-连接模拟器，主要应用在模拟器在远程电脑上面。
+连接设备，主要用在本机操作远程电脑上面运行的模拟器。
 
 
-![action](./images/01.png ':size=90%')
+![AdbConnect](./images/02.png ':size=90%')
 
 ## 子流程
 
@@ -10,32 +10,25 @@
 
 ## 运行参数
 
-
-* Host： 远程模拟器的IP地址和端口，例如网易 *MuMu* 模拟器：127.0.0.1:7555
+* 主机
+> 远程设备地址：包括IP地址和端口，例如网易 *MuMu* 模拟器：127.0.0.1:7555
 
 ## 输出 
 
-> [`String`](./types/String.md)
+> 日志信息，字符串[`String`](./types/String.md)。
 
 ```
     # : already connected to 192.168.31.170:5555
 ```
 
-*MuMu* 模拟器， 虽然是本机，但也需要使用此动作进行连接。*雷电*模拟器如果在本机，则不需要此动作。
 
 
-## 脚本调用
+## 资源
 
-```python
-import simple;
-
-
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/android/connect.simple](https://github.com/shelllet/WinUi/blob/main/android/connect.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/android/connect.simple
 
 
-!> 相应的模拟器需要开启 *ADB调试*
+!> 注意：模拟器需要开启 *ADB本机调试* 或者 *ADB远程调试*。
+
+!> 根据测试：*MuMu* 模拟器， 虽然是本机，但也需要使用此动作进行连接。*雷电*模拟器如果在本机，则不需要此动作。
 

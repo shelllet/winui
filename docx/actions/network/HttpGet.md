@@ -21,14 +21,10 @@
 
 > GET 方法返回的内容，参考字符串类型：[String](./types/String.md)    
 
-
-## 脚本调用
-
-```python
-import simple;
-
-```
-
 ## 资源
 
 示例： https://github.com/shelllet/WinUi/blob/main/network/HttpGet.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/0CVFsIAhBcw" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1B94y1K7rd&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
