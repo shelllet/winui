@@ -2,12 +2,9 @@
 
 ### Changed：
 
-1. 移动鼠标动作支持多显示器。
-2. 优化统计分析模块。
-3. 优化浏览器操作
-4. 恢复 *For*（循环）动作名称。
-5. *访问数组* 中的索引参数，去掉数字类型，使用表达式，同时支持字典访问。
-5. 恢复 *前置窗口截图*，重命名为：[CaptureActiveWindow(活动窗口截取)](./actions/media/CaptureActiveWindow.md)。
+1. 添加 [点击 * 网格](./actions/mouse/CellClick.md)。
+2. [参数](./actions/control/Param.md) 动作添加索引参数。
+3. 添加 [*键盘输入*](./actions/android/Adbkeyboard.md)，支持中文输入。
 
 ### Deprecated:
 

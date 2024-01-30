@@ -1,5 +1,5 @@
 # 截图 
-模拟器屏幕截图。
+安卓设备屏幕截图。
 
 ## 子流程
 
@@ -8,22 +8,15 @@
 
 ## 运行参数
 
-
-* Device： 模拟器
+* 设备
+> 设备号，如果当前连接的只有一个设备，该值可为空。
 
 ## 输出 
 
 > 屏幕图片, 参考[`Image`](./types/Image.md)
 
-## 脚本调用
 
-```python
-import simple;
+## 资源
 
-
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/android/capture.simple](https://github.com/shelllet/WinUi/blob/main/android/capture.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/android/cap.simple
 

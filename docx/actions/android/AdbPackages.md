@@ -1,32 +1,22 @@
-# 安装包 
-此动作可以获取安卓模拟器当中的所有安装包。
-
-
+# 应用列表 
+获取安卓模拟器当中的所有已经安装的包名。
 
 
 ## 子流程
 
-> 支持
+> 支持，每个包名分别会传入子动作中。
 
 
 ## 运行参数
 
-
-* [Device](./types/String.md)： 模拟器
+* 设备
+> 设备号，如果当前连接的只有一个设备，该值可为空。
 
 
 ## 输出
 > 安装包列表。[`Strings`](./types/String.md) 类型
 
 
-### 脚本调用
+## 资源
 
-```python
-import simple;
-
-
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/android/packages.simple](https://github.com/shelllet/WinUi/blob/main/android/packages.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/android/packages.simple

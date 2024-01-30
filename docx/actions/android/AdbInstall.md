@@ -1,24 +1,23 @@
-# 点击 
-在安卓设备中模拟点击。
-
+# 终止服务 
+安装 *Apk* 文件到安卓设备中。
 
 ## 子流程
-
 > 不支持
+
 
 ## 运行参数
 
 * 设备
 > 设备号，如果当前连接的只有一个设备，该值可为空。
 
-* 位置
-> 点击位置。
+* Apk 文件
+> 
 
-## 输出 
+## 输出
+
 > 设备日志，字符串[`String`](./types/String.md)。
+    
 
 ## 资源
 
-示例：https://github.com/shelllet/WinUi/blob/main/android/tap.simple
-
-
+示例：https://github.com/shelllet/WinUi/blob/main/android/install.simple

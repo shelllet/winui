@@ -1,5 +1,5 @@
 # 移动 
-上下左右移动，类似游戏当中的 *WASD* 功能。
+在安卓设备中，模拟上下左右移动，类似游戏当中的 *WASD* 功能。
 
 ## 子流程
 > 不支持
@@ -7,21 +7,21 @@
 
 ## 运行参数
 
-* [Device](./types/String.md)： 模拟器
-* [Point](./types/Point.md)：在模拟器屏幕当中，按下的位置，比如 *移动盘*的位置，
-* [Direction](./enums/Directions.md): 方向
-* [Time](./types/Number.md): 按键时间，单位 *秒*
+* 设备
+> 设备号，如果当前连接的只有一个设备，该值可为空。
+
+* 起始位置
+> 在模拟器屏幕当中，按下的位置，比如 *移动盘*的位置，
+
+* 方向
+> 参考： [Direction](./enums/Directions.md)。
+
+* 时间
+> 按键时间，单位 *秒*。
 
 ## 输出
+> 无
 
-    
+## 资源
 
-
-## 脚本调用
-
-```python
-import simple;
-
-```
-
-## 示例
+示例：https://github.com/shelllet/WinUi/blob/main/android/move.simple
