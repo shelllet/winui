@@ -16,7 +16,7 @@
 
 >  设备号列表 [`Strings`](./types/String.md)
 
-## 示例
+## 资源
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/AdbDevices.simple
 

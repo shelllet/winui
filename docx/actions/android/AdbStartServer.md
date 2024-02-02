@@ -24,6 +24,8 @@ List of devices attached
 emulator-5557 device
 ```
 
+![AdbStartServer](./images/16.png ':size=90%')
+
 ## 子流程
 
 > 不支持
