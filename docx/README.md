@@ -38,9 +38,11 @@ _WinUi++_ 绝对不会嵌入任何广告、捆绑任何软件。也不会像国�
 
 - 如果你有 *Discord*, 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
 
-- 扫码加入微信交流群。
+- 扫码加入微信交流群🔻 
 
-![wx](./introduction/images/wx.png ':size=40%')
+<p align="center" width="100%">
+  <img width="40%" src="./introduction/images/wx.png" />
+</p>
 
 <script>
     Docsify.get('https://api.winui.net/simple/v3/latest').then(()=>{}, (reason)=>{

@@ -1,7 +1,7 @@
 # 滑动 
 在安卓设备中实现滑动操作。
 
-![AdbSwipe](./images/04.png ':size=90%')
+![AdbSwipe](./images/20.png ':size=90%')
 
 ## 子流程
 

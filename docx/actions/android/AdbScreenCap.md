@@ -1,6 +1,8 @@
 # 截图 
 安卓设备屏幕截图。
 
+![AdbScreenCap](./images/09.png ':size=90%')
+
 ## 子流程
 
 > 不支持

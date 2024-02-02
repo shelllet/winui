@@ -1,7 +1,7 @@
-# 终止服务 
+# 应用检测 
 检查安卓设备中是否已经安装了某个安装包。
 
-![AdbIsInstalled](./images/03.png ':size=90%')
+![AdbIsInstalled](./images/21.png ':size=90%')
 
 
 ## 子流程
@@ -11,13 +11,15 @@
 ## 运行参数
 
 * 设备
+> 设备号，如果当前连接的只有一个设备，该值可为空。
 
-* 包名称
-> 
+* 安装包
+> 安装应用包名称。
+
 
 ## 输出
 
-> 设备日志，字符串[`String`](./types/String.md)。
+> 是否已经安装，布尔值。可以参考：[Boolean](./types/Boolean.md)。
     
 
 ## 资源

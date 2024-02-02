@@ -2,7 +2,7 @@
 在安卓模拟器中模拟文本输入。此动作支持中文输入，输入中文字符之前，安装 *ADBKeyboard.apk*。关于*ADBKeyboard.apk*，请参考：https://github.com/senzhk/ADBKeyBoard 。
 
 
-![AdbInput](./images/05.png ':size=90%')
+![Adbkeyboard](./images/06.png ':size=90%')
 
 ## 子流程
 
