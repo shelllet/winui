@@ -190,8 +190,8 @@
       - [标量](./actions/type/TypeScalar.md)
       - [密码](./actions/type/TypePassword.md)
       - [颜色](./actions/type/TypeColor.md)
-      - [模型](./actions/type/ONNXModel.md)
-      - [相机](./actions/type/Camera.md)
+      - [模型](./actions/type/TypeModel.md)
+      - [相机](./actions/type/TypeCamera.md)
     - 云
       - [百度翻译](./actions/cloud/BaiduTranslate.md)
     - Web
