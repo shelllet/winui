@@ -7,6 +7,7 @@
 3. 添加 [*键盘输入*](./actions/android/Adbkeyboard.md)，支持中文输入。
 4. 修复：删除有多个入口动作时崩溃问题。
 5. 监听鼠标键盘动作忽略由动作本身发出的键盘鼠标模拟。
+6. 修复[判空](./actions/control/IsEmpty.md) 动作逻辑错误。
 
 ### Deprecated:
 
