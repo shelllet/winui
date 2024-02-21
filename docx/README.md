@@ -41,7 +41,7 @@ _WinUi++_ 绝对不会嵌入任何广告、捆绑任何软件。也不会像国�
 - 扫码加入微信交流群🔻 
 
 <p align="center" width="100%">
-  <img width="40%" src="./introduction/images/wx.png" />
+  <img width="40%" src="https://gitlab.com/junwu/winui/-/raw/main/mm.jpg?ref_type=heads" />
 </p>
 
 <script>
