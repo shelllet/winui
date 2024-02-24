@@ -71,7 +71,7 @@
       - [查找窗口](./actions/window/FindWindow.md)
       - [特定窗口](./actions/window/SpecialWindow.md)
       - [消息框](./actions/window/MessageBox.md)
-      - [前置窗口](./actions/window/ForegroundWindow.md)
+      - [激活窗口](./actions/window/ActiveWindow.md)
       - [祖先窗口](./actions/window/WindowAncestor.md)
       - [窗口置顶](./actions/window/PositionWindow.md)
       - [运行框](./actions/window/WinRun.md)
