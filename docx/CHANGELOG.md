@@ -1,4 +1,4 @@
-# [0.33](https://github.com/shelllet/winui/compare/main...dev) (预计在 2024-1-24 发布)
+# [0.33](https://github.com/shelllet/winui/compare/main...dev) (2024-1-24)
 
 ### Changed：
 
