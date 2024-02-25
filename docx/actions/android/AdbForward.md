@@ -1,7 +1,7 @@
-# 转发 
-把安卓系统的端口映射到本地端口。
+# 端口转发 
+把安卓系统的服务端口映射到本地端口，通过此种方式可以调用模拟器中的接口或者服务。
 
-![action](./images/2022-11-15_202219.png ':size=90%')
+![AdbForward](./images/03.png ':size=90%')
 
 ## 子流程
 
@@ -10,24 +10,18 @@
 ## 运行参数
 
 
-* Device： 安卓模拟器
-* Local： 本地端口
-* Remote： 模拟器端口
+* 设备
+> 设备号，如果当前连接的只有一个设备，该值可为空。
+
+* 本地端口
+>
+* 服务端口
+>
 
 ## 输出
-> 模拟器操作日志
+> 设备日志，字符串[`String`](./types/String.md)。
 
-## 脚本调用
+## 资源
 
-```python
-import simple;
-
-
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/android/forward.simple](https://github.com/shelllet/WinUi/blob/main/android/forward.simple)
-
-![preview](./images/2022-11-15_202357.png.png ':size=90%')
+示例：https://github.com/shelllet/WinUi/blob/main/android/forward.simple
 

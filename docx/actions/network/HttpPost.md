@@ -40,3 +40,8 @@
 示例： https://github.com/shelllet/WinUi/blob/main/network/HttpPost.simple
 
 !>  [Python 3 HTTP/1.1 Server](https://gist.github.com/andystanton/2ec0dca0bf6de90c2000025319f63e2d)
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/0Q42_sYQBjU" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1VQ4y1A7Sp&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
