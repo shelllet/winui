@@ -1,4 +1,21 @@
-# [0.32](https://github.com/shelllet/winui/compare/main...dev) (2023-xx-xx)
+# [0.33](https://github.com/shelllet/winui/compare/main...dev) (2024-1-24)
+
+### Changed：
+
+1. 添加 [点击 * 网格](./actions/mouse/CellClick.md)。
+2. [参数](./actions/control/Param.md) 动作添加索引参数。
+3. 安卓操作添加[*键盘输入*](./actions/android/Adbkeyboard.md)，支持中文输入。
+4. 修复：删除有多个入口动作时崩溃问题。
+5. 监听鼠标键盘动作忽略由动作本身发出的键盘鼠标模拟。
+6. 修复[判空](./actions/control/IsEmpty.md) 动作逻辑错误。
+
+### Deprecated:
+
+### Note
+
+1. 下载：about:blank
+
+## [0.32](https://github.com/shelllet/winui/compare/main...dev) (2024-1-19)
 
 ### Changed：
 
@@ -13,7 +30,7 @@
 
 ### Note
 
-1. 下载：about:blank
+1. 下载：https://winui.net/_media/winui++0.32.0-setup.x64.exe
 
 
 ## [0.31](https://github.com/shelllet/winui/compare/main...dev) (2023-12-22)

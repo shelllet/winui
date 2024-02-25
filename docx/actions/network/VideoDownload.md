@@ -28,4 +28,7 @@
 
 * 示例： https://github.com/shelllet/WinUi/blob/main/network/YoutubeDownload.simple
 
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV12e411a7ZM&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 !> 目前版本只支持 *Youtube*视频下载，中国用户需要能访问 *Youtube* 的代理网络。
