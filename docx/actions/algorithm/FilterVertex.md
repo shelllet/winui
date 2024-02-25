@@ -11,8 +11,12 @@
 ## 运行参数
 
 
-* Value： 包含轮廓的数组。
-* [Shape](./enums/ContourShape.md)： 形状。
+* 数据
+> 包含轮廓的数组。
+* 精度
+> 越小的精度就越接近所选择的形状。
+* 形状
+> 参考：[Shape](./enums/ContourShape.md)。
 
 ## 输出
 

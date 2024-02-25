@@ -1,6 +1,7 @@
 # 点击 
-在安卓模拟器中模拟点击。
+在安卓设备中模拟点击。
 
+![AdbTap](./images/08.png ':size=90%')
 
 ## 子流程
 
@@ -8,24 +9,17 @@
 
 ## 运行参数
 
-* Device： 模拟器。 
-* Point： 点击位置。
+* 设备
+> 设备号，如果当前连接的只有一个设备，该值可为空。
 
+* 位置
+> 点击位置。设备中的屏幕坐标。
 
 ## 输出 
-> 模拟器日志
+> 设备日志，字符串[`String`](./types/String.md)。
 
+## 资源
 
-## 脚本调用
-
-```python
-import simple;
-
-
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/android/tap.simple](https://github.com/shelllet/WinUi/blob/main/android/tap.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/android/tap.simple
 
 
