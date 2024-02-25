@@ -1,8 +1,8 @@
-# 输入 
-在安卓模拟器中模拟输入文本，此动作不支持中文输入。
+# 键盘输入 
+在安卓模拟器中模拟文本输入。此动作不支持中文输入，如果需要输入中文请使用动作 [键盘输入](./Adbkeyboard.md)。
 
 
-![action](./images/2022-11-15_194116.png ':size=90%')
+![AdbInput](./images/05.png ':size=90%')
 
 ## 子流程
 
@@ -10,22 +10,16 @@
 
 ## 运行参数
 
-* [Device](./types/String.md)： 安卓模拟器
-* [Text](./types/String.md)： 文本
+* 设备
+> 设备号，如果当前连接的只有一个设备，该值可为空。
+* 文本
+> 只支持英文字符。
 
 ## 输出 
 
-> 模拟器日志
+> 设备日志，字符串[`String`](./types/String.md)。
 
 
-## 脚本调用
+### 资源
 
-```python
-import simple;
-
-
-```
-
-### 示例
-
-[https://github.com/shelllet/WinUi/blob/main/android/input.simple](https://github.com/shelllet/WinUi/blob/main/android/input.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/android/AdbInput.simple

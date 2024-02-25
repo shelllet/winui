@@ -9,22 +9,18 @@
 
 ## 运行参数
 
-* Value： 数组,比如`文字识别`动作的结果，或者 *python* *[]* 变量。
-* Index： 索引，[Number](./types/Number.md)
+* 值
+> 数组，包含多个元素的对象。
+
+* 索引，
+> 正值从前至后访问，负值从后至前访问。例如：*0* 可以访问第一个元素，*-1* 可以访问最后一个元素。
 
 ## 输出
 
 > 数组中的元素
 
 
-## 脚本调用
 
-```python
-import simple
+## 资源
 
-
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/algorithm/access_array.simple](https://github.com/shelllet/WinUi/blob/main/algorithm/access_array.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/algorithm/access_array.simple

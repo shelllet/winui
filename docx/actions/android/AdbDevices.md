@@ -1,28 +1,22 @@
-# 设备列表 
-查询系统中已经启动的安卓模拟器。
+# 设备 
+查询系统中已经连接的安卓模拟器，支持多模拟器同时操作。
 
+![AdbDevices](./images/01.png ':size=90%')
 
 ## 子流程
 
-> 支持
+> 支持，模拟器的设备号会传入子动作当中。
 
 ## 运行参数
 
+* 异步
+> 可以在子动作中同时操作当前模拟器。
 
 ## 输出 
 
->  模拟器名称列表 [`Strings`](./types/String.md)
+>  设备号列表 [`Strings`](./types/String.md)
 
+## 资源
 
-## 脚本调用
-
-```python
-import simple;
-
-
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/android/devices.simple](https://github.com/shelllet/WinUi/blob/main/android/devices.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/android/AdbDevices.simple
 
