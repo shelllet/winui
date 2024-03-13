@@ -1,7 +1,8 @@
-# 关机 
-该动作可以关闭操作系统，也就是电脑关机。
+# 退出系统 
+关闭操作系统，或者注销当前交互的用户，或者重启操作系统。
 
-![ShutdownSystem](./images/09.png ':size=90%')
+![ExitWindows](./images/09.png ':size=90%')
+
 ## 权限
 > 无要求
 
@@ -11,24 +12,17 @@
 
 ## 运行参数
 
+* 类型
+> 注销，关机或者重启，参考：[ExitWindowsOption](./enums/ExitWindowsOption.md)
 
 ## 输出
 
 > 无
 
-## 脚本调用
-
-```python
-import simple;
-
-r = simple.ShutdownSystemRunner()
-
-r.run()
-```
 
 ## 资源
 
-* 示例流程：https://github.com/shelllet/WinUi/blob/main/system/ShutdownSystem.simple
+* 示例流程：https://github.com/shelllet/WinUi/blob/main/system/ExitWindows.simple
 
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/jILoz5Ctq9w" frameborder="0"></iframe>

@@ -1,4 +1,18 @@
-# [0.33](https://github.com/shelllet/winui/compare/main...dev) (2024-2-24)
+# [0.34](https://github.com/shelllet/winui/compare/main...dev) (2024-3-xx)
+
+### Changed：
+
+1. 改进预览和调试功能。
+2. 发送按键支持 <kbd>Alt</kbd> + <kbd>Tab</kbd>。
+3. 关机动作优化，增加注销和重启功能。
+
+### Deprecated:
+
+### Note
+
+1. about:blank
+
+## [0.33](https://github.com/shelllet/winui/compare/main...dev) (2024-2-24)
 
 ### Changed：
 
