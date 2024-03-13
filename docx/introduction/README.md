@@ -27,21 +27,10 @@
 ![wx](./images/wx.png ":size=40%")
 
 <script>
-  function fixed(url)
-  {
-    Docsify.get(url).then((text, )=>{
+  Docsify.get('https://winui.net/simple/v3/buy_url').then((text, )=>{
       document.getElementById('buy').href = text;
       document.getElementById('buy').innerText = text;
     });
-  }
-  
-  Docsify.get('https://api.winui.net/simple/v3/latest').then(()=>{
-    fixed('https://api.winui.net/simple/v3/buy_url');
-  }, (reason)=>{
-     fixed('https://winui.net/simple/v3/buy_url');
-  })
-    
-
 </script>
 
 - PayPal 购买 [https://www.paypal.com/paypalme/junwufan](https://www.paypal.com/paypalme/junwufan) \* ，可加入 [Discord](https://discord.gg/b4MeYbJrfk) 咨询交流。
