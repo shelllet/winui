@@ -43,9 +43,3 @@ _WinUi++_ 绝对不会嵌入任何广告、捆绑任何软件。也不会像国�
 <p align="center" width="100%">
   <img width="40%" src="https://gitlab.com/junwu/winui/-/raw/main/mm.jpg?ref_type=heads" />
 </p>
-
-<script>
-    Docsify.get('https://api.winui.net/simple/v3/latest').then(()=>{}, (reason)=>{
-        document.getElementById('simple').href = 'https://winui.net/simple/v3/download'; 
-    })
-</script>

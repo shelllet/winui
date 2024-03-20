@@ -12,6 +12,20 @@
 
 1. about:blank
 
+## [0.33.2](https://github.com/shelllet/winui/compare/main...dev) (2024-3-20)
+
+### Changed：
+
+1. 修复 [#60](https://github.com/shelllet/winui/issues/60) ： 管理员运行WinUI++，无法拖拽动作到视图上。
+2. 修复动作日志保存问题。
+
+### Deprecated:
+
+### Note
+
+1. 下载：https://winui.net/_media/winui++0.33.2-setup.x64.exe
+
+
 ## [0.33](https://github.com/shelllet/winui/compare/main...dev) (2024-2-24)
 
 ### Changed：
