@@ -1,10 +1,12 @@
-# [0.34](https://github.com/shelllet/winui/compare/main...dev) (2024-3-xx)
+# [0.34](https://github.com/shelllet/winui/compare/main...dev) (2024-4-xx)
 
 ### Changed：
 
 1. 改进预览和调试功能。
 2. 发送按键支持 <kbd>Alt</kbd> + <kbd>Tab</kbd>。
 3. 关机动作优化，增加注销和重启功能。
+4. 图像相对位置标记支持 左中，右中，上中，下中。
+4. 变量支持备注
 
 ### Deprecated:
 
