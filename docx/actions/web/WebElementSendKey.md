@@ -1,5 +1,7 @@
 # 发送按键 
-发送按键
+向 *Web* 元素发送按键。
+
+![WebElementSendKey](./images/04.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -8,19 +10,16 @@
 ## 运行参数
 
 
-* Element：元素
-* Key： 按键
+* 元素
+
+* 按键
+> 参考： [WebKey](./enums/WebKey.md)
 
 ## 输出
 
 > 无    
 
 
-## 脚本调用
-
-```python
-import simple;
-
-```
-
 ## 示例
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/Xm355LG35s8" frameborder="0"></iframe>
