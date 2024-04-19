@@ -1,0 +1,7 @@
+# WebLocatedMode
+
+* ONE
+
+* ANY
+
+* ALL
