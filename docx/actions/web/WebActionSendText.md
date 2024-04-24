@@ -1,5 +1,10 @@
 # 动作链.发送文本 
-设置文本
+向当前有焦点的 *Web* 元素发送文本，参考：[设置文本](./actions/WebElementSendText.md)。
+
+* 该动作需要加入到动作链当中。
+
+![WebActionSendText](./images/22.png ':size=90%')
+
 
 ## 子流程
 > 不支持
@@ -7,21 +12,14 @@
 
 ## 运行参数
 
-* Action Chains： 动作链
-* Element：鼠标悬停的元素
-* Text：发送的字符串。
+* 元素
+>   *Web*元素。
+
+* 文本
+> 设置的字符串。
 
 
 ## 输出
-
-    
-
-
-## 脚本调用
-
-```python
-import simple;
-
-```
+> 无
 
 ## 示例
