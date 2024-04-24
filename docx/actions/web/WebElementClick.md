@@ -1,5 +1,5 @@
 # 点击
-模拟鼠标左键点击元素。
+模拟鼠标左键点击 *Web* 元素。
 
 ![WebElementClick](./images/06.png ':size=90%')
 

@@ -1,4 +1,4 @@
-# 发送文本 
+# 设置文本 
 向当前有焦点的 *Web* 元素发送文本。
 
 ![WebElementSendText](./images/03.png ':size=90%')
