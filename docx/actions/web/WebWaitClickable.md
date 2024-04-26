@@ -24,3 +24,5 @@
 > 无输出，在超时时间内，如果元素可点击，则返回，否则一直等待，直到超时返回。
 
 ## 示例
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/waiit_clickable.simple

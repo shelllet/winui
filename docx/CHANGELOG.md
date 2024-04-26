@@ -1,4 +1,4 @@
-# [0.34](https://github.com/shelllet/winui/compare/main...dev) (2024-4-xx)
+# [0.34](https://github.com/shelllet/winui/compare/main...dev) (2024-4-27)
 
 ### Changed：
 
@@ -15,7 +15,7 @@
 
 ### Note
 
-1. about:blank
+1. 下载：https://winui.net/_media/winui++0.34.0-setup.x64.exe
 
 ## [0.33.2](https://github.com/shelllet/winui/compare/main...dev) (2024-3-20)
 
