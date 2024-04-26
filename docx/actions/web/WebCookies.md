@@ -20,3 +20,5 @@
 > 如名称为空，输出浏览器站点所有 *Cookies*。 类型参考：[`JsonArray`](./types/JsonArray.md), 否则输出对应的 *Cookies*, 类型参考：[`JsonObject`](./types/JsonObject.md)。    
 
 ## 示例
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/cookies.simple

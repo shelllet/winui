@@ -224,8 +224,8 @@
       - [动作链.拖放](./actions/web/WebActionDragDrop.md)
       - [动作链.移动](./actions/web/WebActionMoveTo.md)
       - [动作链.释放鼠标键](./actions/web/WebActionRelease.md)
-      - [动作链.按键](./actions/web/WebActionKeyDown.md)
-      - [动作链.释放按键](./actions/web/WebActionKeyUp.md)
+      - [动作链.按下修饰键](./actions/web/WebActionKeyDown.md)
+      - [动作链.释放修饰键](./actions/web/WebActionKeyUp.md)
       - [动作链.发送文本](./actions/web/WebActionSendText.md)
       - [动作链.暂停](./actions/web/WebActionPause.md)
     - 安卓

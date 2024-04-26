@@ -20,3 +20,5 @@
 
 
 ## 示例
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/waiit_alert.simple

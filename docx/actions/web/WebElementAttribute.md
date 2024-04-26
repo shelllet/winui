@@ -17,4 +17,7 @@
 
 ## 输出
 > 元素属性，字符串类型，参考： [字符串](./types/String.md)。
+
 ## 示例
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/attr.simple
