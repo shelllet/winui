@@ -12,14 +12,14 @@
 
 ## 运行参数
 
-* [window](./types/Wnd.md)
-  > 窗口
-* [relative](./enums/RelativePosition.md)
-  > 相对位置，坐标轴 (X,Y) 方向根据不同的位置方向有所不同，参考下图。
+* 窗口
+  > 参考：[Wnd](./types/Wnd.md)
+* 相对位置
+  > 相对位置，参考：[RelativePosition](./enums/RelativePosition.md)，坐标轴 (X,Y) 方向根据不同的位置方向有所不同，参考下图。
 
   ![xy](./images/xy.png ':size=40%')
 
-* [offset](./types/Point.md)
+* 偏移
   > 原点偏移量（坐标系参考上图）。坐标轴（x, y）方向参考上面草图。
 
 
@@ -27,14 +27,6 @@
 ## 输出
 > 窗口坐标 [Point](./types/Point.md)
     
-
-
-## 脚本调用
-
-```python
-import simple;
-
-```
 
 ## 资源
 

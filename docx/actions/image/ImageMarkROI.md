@@ -16,20 +16,13 @@
 * 图像
 > 待处理的图像
 * 区域
-> 需要操作的区域
+> 需要操作的区域，参考：[RelativePosition](./enums/RelativePosition.md)。
 
 
 
 ## 输出
     
 > 标记后的图像,图像大小保持不变。
-
-## 脚本调用
-
-```python
-import simple;
-
-```
 
 ## 资源
 

@@ -1,16 +1,21 @@
-# [0.34](https://github.com/shelllet/winui/compare/main...dev) (2024-3-xx)
+# [0.34](https://github.com/shelllet/winui/compare/main...dev) (2024-4-27)
 
 ### Changed：
 
 1. 改进预览和调试功能。
 2. 发送按键支持 <kbd>Alt</kbd> + <kbd>Tab</kbd>。
 3. 关机动作优化，增加注销和重启功能。
+4. 图像相对位置标记支持 左中，右中，上中，下中。
+4. 变量支持备注。
+4. `登录应用` 动作更名为 [`Runas`](./actions/system/Runas.md)，并修因提高权限导致的启动错误
+4. [`查找元素`](./actions/web/WebGetElement.md) 动作支持查找元素的子节点。
+4. 添加[`等待按键`](./actions/keyboard/WaitKey.md) 动作。
 
 ### Deprecated:
 
 ### Note
 
-1. about:blank
+1. 下载：https://winui.net/_media/winui++0.34.0-setup.x64.exe
 
 ## [0.33.2](https://github.com/shelllet/winui/compare/main...dev) (2024-3-20)
 

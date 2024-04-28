@@ -1,26 +1,23 @@
 # 动作链.双击
-双击一个元素, 此动作需要加入到动作链当中。
+双击一个 *Web* 元素。 
+* 该动作需要加入到动作链当中。
+
+![WebActionDoubleClick](./images/25.png ':size=90%')
 
 ## 子流程
-> 支持
+> 不支持
 
 
 ## 运行参数
 
 
-* Action Chains： 动作链
-* Element：   要双击的元素。如果没有，则单击当前鼠标位置
+* 元素
+>   要双击的 *Web* 元素。如果没有设置，则双击当前鼠标位置。
 
 
 ## 输出
-
-
-
-## 脚本调用
-
-```python
-import simple;
-
-```
+> 无   
 
 ## 示例
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/action_doubleclick.simple
