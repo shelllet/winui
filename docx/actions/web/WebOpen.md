@@ -19,7 +19,10 @@
 
 ## 输出
 > 参考：[WebDriver](./types/WebDriver.md)
+
 ## 示例
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/openurl.simple
+
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/48Rh_ObzGK0" frameborder="0"></iframe>
 
 ## 驱动手动下载
