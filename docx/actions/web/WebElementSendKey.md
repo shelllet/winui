@@ -22,4 +22,6 @@
 
 ## 示例
 
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/sendkey.simple
+
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/Xm355LG35s8" frameborder="0"></iframe>

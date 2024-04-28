@@ -24,5 +24,8 @@
 
 ## 示例
 
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/openurl.simple
+
+
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/OUh5_WUMeP4" frameborder="0"></iframe>
 

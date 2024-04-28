@@ -1,11 +1,11 @@
 # 执行脚本 
 在当前窗口/框架中同步执行 *JavaScript* 脚本。
 
-![WebExecute](./images/2022-11-26_193743.png ':size=90%')
+![WebExecute](./images/20.png ':size=90%')
 
 ## 子流程
 
-> 不支持
+> 不支持。
 
 ## 运行参数
 
@@ -21,3 +21,4 @@
 
 ## 资源
 
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/WebExecute.simple

@@ -1,4 +1,4 @@
-# 发送文本 
+# 设置文本 
 向当前有焦点的 *Web* 元素发送文本。
 
 ![WebElementSendText](./images/03.png ':size=90%')
@@ -21,5 +21,8 @@
 
 
 ## 示例
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/sendkey.simple
+
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/HzR6qxJ7Ljw" frameborder="0"></iframe>

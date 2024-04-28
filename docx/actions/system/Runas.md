@@ -22,6 +22,8 @@
 > 传递的命令行参数
 * 工作目录
 >
+* 环境变量
+>  使用 `Var=Value` 形式表示。 参考：https://learn.microsoft.com/zh-cn/windows/win32/procthread/environment-variables 。
   
 ## 输出
 

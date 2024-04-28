@@ -21,7 +21,9 @@
 
 ## 输出
 
-> 无输出，在超时时间内，框架可用，则返回，否则一直等待，直到超时返回。
+> 返回第一个定位到的框架元素，在超时时间内，框架可用，则返回，否则一直等待，直到超时返回。
 
 
 ## 示例
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/waiit_iframe.simple
