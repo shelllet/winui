@@ -1,25 +1,25 @@
-# 动作链*执行 
-执行创建的动作链。
+# 动作链*创建 
+创建 *Web* 动作链，用来连续执行一系列 *Web* 动作。
+
+* 动作链是一种自动化低级交互的方法，例如鼠标移动、鼠标按钮操作、按键和上下文菜单交互。这对于执行更复杂的操作（例如悬停和拖放）非常有用。
+
+![WebActionChainsPerform](./images/21.png ':size=90%')
 
 ## 子流程
-> 支持
+> 支持。
 
 
 ## 运行参数
 
-* Action Chains： 动作链
+* 对象
+> 浏览器对象
 
 
 ## 输出
 
-> 无输出    
+>    动作链，类型： [ActionChains](./types/ActionChains.md)。
 
-
-## 脚本调用
-
-```python
-import simple;
-
-```
 
 ## 示例
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/action_sendtxt.simple

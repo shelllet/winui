@@ -1,15 +1,24 @@
 # 等待*标题
-检查标题是否包含区分大小写的字符串。
+检查浏览器窗口标题是否包含区分大小写的字符串。
+
+![WebWaitTitle](./images/12.png ':size=90%')
+
 
 ## 子流程
 > 不支持
 
 
 ## 运行参数
-* Driver：浏览器对象
-* Timeout：超时时间，默认 `60` 秒。
-* Text：标题。
-* Method：分为完全匹配 `EXACT_MATCH`，和部分匹配 `PARTIAL_MATCH`
+* 对象
+>   浏览器对象
+* 超时
+>   超时时间，默认 `60` 秒。
+* 标题
+>   浏览器窗口标题。
+* 方式
+>   标题匹配方式。   
+    * 完全匹配 `EXACT_MATCH`，
+    * 部分匹配 `PARTIAL_MATCH`
 
 
 ## 输出
@@ -18,3 +27,5 @@
 
 
 ## 示例
+
+* 流程：https://github.com/shelllet/WinUi/blob/main/web/wait_title.simple
