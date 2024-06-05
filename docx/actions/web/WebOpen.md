@@ -25,6 +25,8 @@
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/48Rh_ObzGK0" frameborder="0"></iframe>
 
+<iframe src="//player.bilibili.com/player.html?bvid=BV1aZ421J7FN&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ## 驱动手动下载
 
 | <div style="width:200px">Browser</div> | <div style="width:200px">Maintained by</div> | <div style="width:200px">Download by</div>                                         |
