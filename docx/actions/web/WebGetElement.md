@@ -29,3 +29,4 @@
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/OUh5_WUMeP4" frameborder="0"></iframe>
 
+<iframe src="//player.bilibili.com/player.html?bvid=BV1XD421T7Ej&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
