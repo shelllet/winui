@@ -17,14 +17,11 @@
 
 | <div style="width:200px"/> | <div style="width:200px">注册版</div> | <div style="width:200px">试用版</div> |
 | :------------------------: | :-----------------------------------: | :-----------------------------------: |
-|          全部功能          |                无限制                 |            每天试用 6 小时            |
+|          全部功能          |                无限制                 |            待定            |
 
 # 购买 WinUi++ 2023 版序列号
 
 - 咸鱼购买（手机链接）：[loading...](https://winui.net ":id=buy")
-- 购买前加微信|加入交流群。
-
-![wx](./images/wx.png ":size=40%")
 
 <script>
   Docsify.get('https://winui.net/simple/v3/buy_url').then((text, )=>{
@@ -33,4 +30,4 @@
     });
 </script>
 
-- PayPal 购买 [https://www.paypal.com/paypalme/junwufan](https://www.paypal.com/paypalme/junwufan) \* ，可加入 [Discord](https://discord.gg/b4MeYbJrfk) 咨询交流。
+- 可加入 [Discord](https://discord.gg/b4MeYbJrfk) 咨询其它购买方式。

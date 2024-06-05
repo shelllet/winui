@@ -25,3 +25,13 @@
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/web/action_move.simple
 * 流程(偏移)：https://github.com/shelllet/WinUi/blob/main/web/action_moveto_offset.simple
+
+移动
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/f8lPpIuOggM" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1xb421e7rN&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+偏移移动
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/eKFGkaPLQC0" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Kx4y1J72K&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
