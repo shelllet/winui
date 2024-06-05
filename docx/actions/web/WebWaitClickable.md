@@ -26,3 +26,7 @@
 ## 示例
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/web/waiit_clickable.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/9PXNCC-sqck" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Mb421z7MT&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
