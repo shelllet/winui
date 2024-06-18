@@ -1,4 +1,4 @@
-# 键盘输入 
+# 键盘输入 * 中文
 在安卓模拟器中模拟文本输入。此动作支持中文输入，输入中文字符之前，安装 *ADBKeyboard.apk*。关于*ADBKeyboard.apk*，请参考：https://github.com/senzhk/ADBKeyBoard 。
 
 

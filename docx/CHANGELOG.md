@@ -1,4 +1,18 @@
-# [0.35](https://github.com/shelllet/winui/compare/main...dev) (2024-06-05)
+# [0.36](https://github.com/shelllet/winui/compare/main...dev) (2024-06-xx)
+
+### Changed：
+1. 添加图像旋转动作。
+1. 修复 安卓中文文字输入时崩溃问题。
+2. 修复其它一些问题。
+
+### Deprecated:
+1. 移除分享功能。
+
+### Note
+
+1. 下载：<about:blank>
+
+## [0.35](https://github.com/shelllet/winui/compare/main...dev) (2024-06-05)
 
 ### Changed：
 

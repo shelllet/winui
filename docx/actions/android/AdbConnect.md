@@ -15,17 +15,11 @@
 
 ## 输出 
 
-> 日志信息，字符串[`String`](./types/String.md)。
-
-```
-    # : already connected to 192.168.31.170:5555
-```
-
-
+> 设备号，可用在其它書店动作中作为输入参数。
 
 ## 资源
 
-示例：https://github.com/shelllet/WinUi/blob/main/android/connect.simple
+示例：https://github.com/shelllet/WinUi/blob/main/android/AdbDevices.simple
 
 
 !> 注意：模拟器需要开启 *ADB本机调试* 或者 *ADB远程调试*。
