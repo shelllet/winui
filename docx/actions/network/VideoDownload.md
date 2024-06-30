@@ -11,11 +11,9 @@
 
 * 网址
 > 视频链接。
-* 音频
-> 在预览环境时，只输出音频资源。
+* 选项
+> 默认下载MP4格式文件。 例如下载 128k 声音文件：`-f bestaudio -x --audio-format mp3 --audio-quality 128k`
 
-* 标签
-> 下载的视频*itag*, 可以参考：[YouTube video stream format codes](https://gist.github.com/sidneys/7095afe4da4ae58694d128b1034e01e2)， 也可以通过动作预览，获取 *itag*。
 * 输出
 
 > 下载的视频保存的文件夹。
@@ -30,5 +28,3 @@
 
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV12e411a7ZM&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-!> 目前版本只支持 *Youtube*视频下载，中国用户需要能访问 *Youtube* 的代理网络。
