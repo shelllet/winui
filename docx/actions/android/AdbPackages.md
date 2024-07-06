@@ -1,5 +1,5 @@
 # 应用列表 
-获取安卓模拟器当中的所有已经安装的包名。
+获取安卓模拟器当中的所有已经安装的包名称。
 
 ![AdbPackages](./images/12.png ':size=90%')
 
@@ -15,7 +15,7 @@
 
 
 ## 输出
-> 安装包列表。[`Strings`](./types/String.md) 类型
+> 安装包列表。[`Strings`](./types/String.md) 类型。
 
 
 ## 资源

@@ -16,11 +16,4 @@
 > 路径，参考：[Path](./types/Path.md)。    
 
 
-## 脚本调用
-
-```python
-import simple;
-
-```
-
 ## 资源
