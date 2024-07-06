@@ -15,7 +15,7 @@
 > 本地文件或目录
 
 * 目标
-> *Android* 设备中目录。
+> *Android* 设备中目录。通常 `/mnt/sdcard` 或者 `/storage/emulated/0` 表示根目录。 比如 *下载目录* ：`/mnt/sdcard/Download` 或 `/storage/emulated/0/Download`。
 
 
 ## 输出

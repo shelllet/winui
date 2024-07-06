@@ -1,16 +1,16 @@
 # 系统配置要求
 
-| <div style="width:200px"/> |         最低系统要求         |          描述           |
+| <div style="width:200px"/> |         最低系统要求         |          推荐           |
 | :------------------------: | :--------------------------: | :---------------------: |
-|          操作系統          | Windows® 10 64-bit 1809 以上 | 推荐 Windows® 10 64-bit |
+|          操作系統          | Windows® 10 64-bit 1809 以上 | Windows® 11 64-bit |
 |           处理器           |              -               |            -            |
 |            显卡            |              -               |            -            |
 |            内存            |           1 GB RAM           |            -            |
-|          存储空间          |             300M             |            -            |
-|            网络            |            非必要            | 推荐有网络的环境下使用  |
+|          存储空间          |             10GB             |            -            |
+|            网络            |            非必要            | 有网络的环境下使用  |
 |           分辨率           |           1024X768           |            -            |
 
-- 最新版本：[https://github.com/shelllet/WinUi/releases](https://github.com/shelllet/WinUi/releases)
+- 最新版本：https://bitbucket.org/winui-release/version/downloads
 - 问题提交：[https://github.com/shelllet/WinUi/issues](https://github.com/shelllet/WinUi/issues)
 
 # 注册版和试用版

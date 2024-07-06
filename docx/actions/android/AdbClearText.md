@@ -1,5 +1,5 @@
 # 清除文字 
-清输处理焦点的输入框中的文本，清除文本之前，自动安装 *ADBKeyboard.apk*。关于*ADBKeyboard.apk*，请参考：https://github.com/senzhk/ADBKeyBoard 。
+清除处于焦点的输入框中的文本，清除文本之前，自动安装 *ADBKeyboard.apk*。关于*ADBKeyboard.apk*，请参考：https://github.com/shelllet/ADBKeyBoard.git 。
 
 ![AdbClearText](./images/18.png ':size=90%')
 
