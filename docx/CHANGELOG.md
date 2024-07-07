@@ -1,4 +1,4 @@
-# [0.36.1](https://github.com/shelllet/winui/compare/main...dev) (2024-07-06)
+# [0.36.1](https://github.com/shelllet/winui/compare/main...dev) (2024-07-07)
 
 ### Changed：
 1. 修复新建流程时，无默认流程。
