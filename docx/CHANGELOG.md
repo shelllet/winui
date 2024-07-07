@@ -1,3 +1,12 @@
+# [0.36.1](https://github.com/shelllet/winui/compare/main...dev) (2024-07-06)
+
+### Changed：
+1. 修复新建流程时，无默认流程。
+
+### Note
+
+1. 下载：https://winui.net/_media/winui++0.36.1-setup.x64.exe
+
 # [0.36](https://github.com/shelllet/winui/compare/main...dev) (2024-07-06)
 
 ### Changed：
