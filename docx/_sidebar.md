@@ -230,7 +230,7 @@
       - [动作链.发送文本](./actions/web/WebActionSendText.md)
       - [动作链.暂停](./actions/web/WebActionPause.md)
     - 安卓
-      - [启动](./actions/android/AdbStartServer.md)
+      - [启动服务](./actions/android/AdbStartServer.md)
       - [连接](./actions/android/AdbConnect.md)
       - [设备](./actions/android/AdbDevices.md)
       - [转发](./actions/android/AdbForward.md)
