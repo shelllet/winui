@@ -1,7 +1,7 @@
 # 参数
 用于获取由父动作传入子动作的数据。例如，在迭代动作的子动作中添加该动作，便可获取被迭代的每个元素值。
 
-![Param](./images/2022-11-17_184608.png ':size=90%')
+![Param](./images/15.png ':size=90%')
 
 ## 子流程
 
@@ -21,15 +21,10 @@
 > 无
 
 
-## 脚本调用
+## 其它
 
-```python
-import simple
+示例：https://github.com/shelllet/WinUi/blob/main/control/param.simple
 
-
-```
-
-## 示例
 
 ## 版本变化 
 

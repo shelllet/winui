@@ -83,6 +83,7 @@
       - [窗口大小](./actions/window/WindowSize.md)
       - [窗口坐标](./actions/window/WindowPoint.md)
       - [闪烁窗口](./actions/window/FlashWindow.md)
+      - [关闭窗口](./actions/window/CloseWindow.md)
     - 图像处理
       - [颜色转换](./actions/image/CvtColor.md)
       - [裁切图片](./actions/image/CropImage.md)
@@ -145,14 +146,14 @@
       - [行列选择 * 索引](./actions/pandas/IndexLoc.md)
       - [迭代行](./actions/pandas/IterRow.md)
       - [保存文档](./actions/pandas/SaveDocument.md)
-    - 逻辑
+    - 流程控制
       - [循环](./actions/control/For.md)
       - [判断](./actions/control/If.md)
       - [判空](./actions/control/IsEmpty.md)
       - [调用](./actions/control/Invoke.md)
       - [停止循环](./actions/control/Break.md)
       - [脚本](./actions/control/Code.md)
-      - [退出](./actions/control/ExitApp.md)
+      - [退出流程](./actions/control/Quit.md)
       - [表达式](./actions/control/CodeExpression.md)
       - [引用动作](./actions/control/ActionAlias.md)
       - [引用动作（名称）](./actions/control/NameAlias.md)
@@ -293,6 +294,7 @@
     - [ThresholdTypes](./enums/ThresholdTypes.md)
     - [Visibility](./enums/Visibility.md)
     - [WorkState](./enums/WorkState.md)
+    - [LogStatus](./enums/LogStatus.md)
     - [RelativePosition](./enums/RelativePosition.md)
     - [MouseMessage](./enums/MouseMessage.md)
     - [MorphologicalOperations](./enums/MorphologicalOperations.md)
