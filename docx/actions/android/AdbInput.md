@@ -20,6 +20,6 @@
 > 设备日志，字符串[`String`](./types/String.md)。
 
 
-### 资源
+### 其它
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/AdbInput.simple

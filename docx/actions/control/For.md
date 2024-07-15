@@ -1,5 +1,5 @@
 # 循环 
-用来迭代相应的列表数据，遍历列表中的每一个元素。
+用来迭代相应的列表数据，遍历列表或容器中的每一个元素。
 
 ![For](./images/03.png ':size=90%')
 
@@ -17,5 +17,7 @@
 
 > 无
 
-## 资源
+## 其它
+
+示例：https://github.com/shelllet/WinUi/blob/main/control/for.simple
 

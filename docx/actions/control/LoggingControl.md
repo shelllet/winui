@@ -1,7 +1,7 @@
 # 输出控制 
-该动作用来在流程中控制输出日志
+该动作用来在流程中控制输出日志。
 
-![action](./images/2022-12-26_163737.png ':size=90%')
+![LoggingControl](./images/14.png ':size=90%')
 
 
 ## 子流程
@@ -10,19 +10,15 @@
 
 ## 运行参数
 
-* [Status](./enums/WorkStatus.md)： 状态
+* 状态
+>   参考[LogStatus](./enums/LogStatus.md)。选择 *启用* 之后，该动作之后执行的动作将会有日志输出。选择 *禁用* 之后，则该动作之后执行的动作不会再有日志输出。
 
 ## 输出
 
+> 无
 
-## 脚本调用
 
-```python
-import simple;
+## 其它
 
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/control/logging.simple](https://github.com/shelllet/WinUi/blob/main/control/logging.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/control/LoggingControl.simple
 

@@ -20,7 +20,7 @@
 ## 输出
 > 套接字，可用于读取或者发送数据，*UDP*协议，参考：[UDPSocket](./types/UDPSocket.md)。*TCP*协议，参考：[TCPSocket](./types/TCPSocket.md)。
 
-### 资源
+### 其它
 
 *TCP*示例： https://github.com/shelllet/WinUi/blob/main/network/TcpListen.simple
 

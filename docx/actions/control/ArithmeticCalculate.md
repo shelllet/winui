@@ -1,7 +1,7 @@
 # 算术运行
-进行(+ - * / ) 算术运算，源数据必须支持算术运行。
+进行(+ - * / ) 算术运算，操作数必须支持算术运行。
 
-![action](./images/2022-11-17_184608.png ':size=90%')
+![action](./images/11.png ':size=90%')
 
 ## 子流程
 
@@ -9,23 +9,18 @@
 
 ## 运行参数
 
-* Source：源数据，比如： [`Point`](./types/Point.md) 类型
-* Operator：操作符
-* Target：目标数据
+* 操作数
+>   运算符左边的源据，比如： [`Point`](./types/Point.md) 类型。
+* 操作符
+> 运算符。
+* 操作数
+>   运算符右边的源据。
   
 ## 输出
 
-> 和源数据类型相同
+> 和源操作数数类型相同。
 
 
-## 脚本调用
+## 其它
 
-```python
-import simple
-
-
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/algorithm/filter_text.simple](https://github.com/shelllet/WinUi/blob/main/algorithm/filter_text.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/control/ArithmeticCalculate.simple
