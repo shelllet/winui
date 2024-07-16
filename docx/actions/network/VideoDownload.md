@@ -26,6 +26,6 @@
 
 * 示例： https://github.com/shelllet/WinUi/blob/main/network/YoutubeDownload.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/IEHz6jXGBB8" frameborder="0"></iframe>
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/3GBJXTQsUKI" frameborder="0"></iframe>
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV12e411a7ZM&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

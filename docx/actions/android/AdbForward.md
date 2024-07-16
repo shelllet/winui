@@ -22,10 +22,13 @@
 ## 输出
 > 设备日志，字符串[`String`](./types/String.md)。
 
-## 资源
+## 其它
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/forward.simple
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/VCFZQ_xutuo" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1im421G7e5&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 !> 该动作超出作用范围后会移除转发的端口。
 
