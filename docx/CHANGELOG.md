@@ -1,12 +1,12 @@
-# [0.37](https://github.com/shelllet/winui/compare/main...dev) (2024-xx-xx)
+# [0.37](https://github.com/shelllet/winui/compare/main...dev) (尚未发布)
 
 ### Changed：
 1. 重命动作： [*退出流程*](./actions/control/Quit.md)。
-2. 增加关闭窗口动作。
+2. 增加 [关闭窗口](./actions/window/CloseWindow.md)动作。
 
 ### Note
 
-1. 下载：https://winui.net/_media/winui++0.36.1-setup.x64.exe
+1. 下载：
 
 
 ## [0.36.1](https://github.com/shelllet/winui/compare/main...dev) (2024-07-07)
