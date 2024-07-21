@@ -3,6 +3,7 @@
 ### Changed：
 1. 重命动作： [*退出流程*](./actions/control/Quit.md)。
 2. 增加 [关闭窗口](./actions/window/CloseWindow.md)动作。
+3. 系统分类增加两个动作： [创建对象]() 和 [方法调用]()。支持第3方 *dll* 或系统 注册的 *com* 组件 调用。
 
 ### Note
 
@@ -137,93 +138,3 @@
 ### 备注
 
 1. 下载：https://winui.net/_media/winui++0.31.1-setup.x64.exe
-
-## [0.30](https://github.com/shelllet/winui/compare/main...dev) (2023-11-10)
-
-### 变更：
-
-1. 添加几个用于操作容器的函数动作。
-
-2. 修复 *访问数组* 动作在索引字符串列表时的错误。
-3. 修复动作 *二维码识别* 中的错误。
-4. 修复 *中文识别*动作 无法识别问题。
-
-
-### 备注
-
-1. 下载：https://winui.net/_media/simple/WinUi0.30-setup.x64.exe
-
-
-## [0.29.1](https://github.com/shelllet/winui/compare/main...dev) (2023-10-15)
-### Changed：
-
-1. *鼠标监听* 支持监听鼠标按下。
-2. 图像查找（特征匹配）返回匹配的多个图像。
-3. 增加 *颜色填充* 动作。
-4. 增加 *形状查找* 动作，可以查找 *长方形*、 *正方形*、 *三角形*。
-5. 修复打包错误
-
-
-### 备注
-
-1. 下载：https://winui.net/_media/simple/0.29.1/setup.exe
-
-## [0.28](https://github.com/shelllet/winui/compare/main...dev) (2023-09-23)
-### Changed：
-1. 优化图像处理相关动作。
-2. 更新相应的注册机制。
-
-### 备注
-1. 原购买注册版本的用户，需要更新至当前版本，重新注册。
-2. 下载：https://winui.net/_media/simple/0.28/setup.exe
-
-## [0.27](https://github.com/shelllet/winui/compare/main...dev) (2023-09-02)
-### Changed：
-1. 支持项目导入。
-2. 修复动作 *DoubleClick*（双击） 添加问题
-3. 修复动作 *DragPointer*（拖动） 问题
-4. 修复添加空变量崩溃问题。
-5. 修复鼠标键盘录制闪退问题。
-6. 修复某些条件下，启动 *WinUi++* 界面无响应问题
-7. 修复禁用动作不工作的问题
-
-
-## [0.26](https://github.com/shelllet/winui/compare/main...dev) (2023-08-15)
-### Changed：
-1. 添加 *异步等待* 动作
-2. 添加 *相机* 类型动作和 *相机图像* 动作用于采集相机图像
-3. *鼠标/键盘重放* 动作更新为同步操作
-
-
-## [0.25](https://github.com/shelllet/winui/compare/main...dev) (2023-07-26)
-### Features
-1. 添加动作 *ImageMarkRelativeROI*，方便对图像设置感兴趣的区域
-2. 添加动作 *WindowPoint*，方便获取窗口中几个选定坐标位置
-
-### Fixed
-
-1. 修复动作中 `Boolean` 类型的运行时参数.无法保存设置。
-
-
-### Deprecated
-
-### 备注
-
-1. 直接从https://winui.net/ 下载即可下载最新版本
-
-## [0.24](https://github.com/shelllet/winui/compare/main...dev) (2023-07-15)
-### Features
-1. 异步操作添加 *WorkSwitchStatus*（状态切换）动作
-2. 预览图支持通过鼠标框选ROI区域
-3. *PointConvert* （坐标转换）动作添加：是否包含标题栏参数
-
-### Fixed
-
-1. 修复一些BUG.
-
-
-### Deprecated
-
-### 备注
-
-1. 直接从https://winui.net/ 下载即可下载最新版本

@@ -19,17 +19,6 @@
 
 > 是否存在，[Boolean](./types/Boolean.md) 类型
 
-## 脚本
-
-```python
-import simple;
-
-r = simple.ExistProcessRunner("*\\Notepad.exe")
-
-r.run()
-
-```
-
 ## 资源
 * 示例流程：https://github.com/shelllet/WinUi/blob/main/system/ExistProcess.simple
 
