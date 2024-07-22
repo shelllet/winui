@@ -1,5 +1,7 @@
 # 创建对象 
-创建 *COM* 对象，或者调用创建有 *c（__cdec）* 接口函数的 *dll* 模块. 同样也支持创建具有 *__stdcall* 调用约定的 *dll* 模块。
+创建 *COM* 对象，或者调用创建有 *c（__cdec）* 接口函数的 *DLL* 模块. 同样也支持创建具有 *__stdcall* 调用约定的 *DLL* 模块。
+
+![CreateObject](./images/15.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -19,4 +21,12 @@
 > 对象。 
 
 
-## 示例
+## 其它
+
+`Beep` 调用：https://github.com/shelllet/WinUi/blob/main/system/beep.simple
+
+`FindWindowW` 调用：https://github.com/shelllet/WinUi/blob/main/system/findwindow.simple
+
+DLL 调用：https://github.com/shelllet/WinUi/blob/main/system/dll.simple
+
+COM 调用：https://github.com/shelllet/WinUi/blob/main/system/com.simple

@@ -1,6 +1,8 @@
 # 调用方法 
 调用对象或者模块中的方法，包括 *COM* 对象。
 
+![CallMethod](./images/16.png ':size=90%')
+
 ## 子流程
 > 不支持
 
@@ -20,4 +22,12 @@
 
 > 方法的返回值。    
 
-## 示例
+## 其它
+
+`Beep` 调用：https://github.com/shelllet/WinUi/blob/main/system/beep.simple
+
+`FindWindowW` 调用：https://github.com/shelllet/WinUi/blob/main/system/findwindow.simple
+
+DLL 调用：https://github.com/shelllet/WinUi/blob/main/system/dll.simple
+
+COM 调用：https://github.com/shelllet/WinUi/blob/main/system/com.simple
