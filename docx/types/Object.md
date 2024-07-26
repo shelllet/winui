@@ -1,7 +1,7 @@
 # Object
 
 
-Class `Object`， 对象，导出类型的基类。
+Class `Object`， 对象，通用导出类型。
 
 
 ## 属性

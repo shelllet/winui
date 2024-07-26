@@ -14,9 +14,12 @@
 
 ## 输出
 
-> [`Object`](./types/Object.md)
+> [`Object`](./types/Object.md)。
 
 
 ## 其它
 
 示例：https://github.com/shelllet/WinUi/blob/main/control/ref.simple
+
+
+!> 引用动作只是引用某个动作的执行结果，被引用的动作不会再次被执行。

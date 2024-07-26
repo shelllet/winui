@@ -21,3 +21,8 @@
 ## 资源
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/AdbInput.simple
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/eg780MQYges" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1vH4y1c74y&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
