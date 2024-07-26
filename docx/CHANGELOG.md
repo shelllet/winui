@@ -4,6 +4,7 @@
 1. 重命动作： [*退出流程*](./actions/control/Quit.md)。
 2. 增加 [关闭窗口](./actions/window/CloseWindow.md)动作。
 3. 系统分类增加两个动作： [创建对象]() 和 [方法调用]()。支持调用*dll* 或调用系统已注册的 *COM* 组件。
+4. 修复 [调用](./actions/control/Invoke.md) 动作执行崩溃问题。
 
 ### Note
 

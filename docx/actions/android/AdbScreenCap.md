@@ -22,3 +22,6 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/cap.simple
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/Gk_IX_zu6d0" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1wE421A75U&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

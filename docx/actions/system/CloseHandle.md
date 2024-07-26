@@ -21,17 +21,6 @@
 
 >  `True` 表示成功，其它值表示失败
 
-## 脚本
-
-```python
-import simple;
-
-r = simple.CloseHandleRunner()
-r.exeFile = 'C:\\Users\\shell\\Diablo II Resurrected\D2R.exe'
-r.type = simple.HandleType.Event
-r.name = '*\\DiabloII Check For Other Instances'
-r.run()
-```
 
 ## 资源
 
