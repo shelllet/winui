@@ -5,6 +5,8 @@
 2. 增加 [关闭窗口](./actions/window/CloseWindow.md)动作。
 3. 系统分类增加两个动作： [创建对象]() 和 [方法调用]()。支持调用*dll* 或调用系统已注册的 *COM* 组件。
 4. 修复 [调用](./actions/control/Invoke.md) 动作执行崩溃问题。
+5. 修复 *变量* 注册问题。
+6. [点击 * 网格](./actions/mouse/CellClick.md) 支持设置 *停顿时间*。
 
 ### Note
 
