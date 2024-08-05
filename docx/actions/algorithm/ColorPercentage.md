@@ -22,14 +22,6 @@
 
 >   所要统计的颜色所占的百分比，参考：[Number](./types/Number.md)。
 
+## 其它
 
-## 脚本调用
-
-```python
-import simple;
-
-```
-
-## 资源
-
-例子：https://github.com/shelllet/WinUi/blob/main/algorithm/ColorPercentage.simple
+示例：https://github.com/shelllet/WinUi/blob/main/algorithm/ColorPercentage.simple
