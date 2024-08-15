@@ -1,4 +1,4 @@
-# [0.37](https://github.com/shelllet/winui/compare/main...dev) (尚未发布)
+# [0.37](https://github.com/shelllet/winui/compare/main...dev) (2024-08-07)
 
 ### Changed：
 1. 重命动作： [*退出流程*](./actions/control/Quit.md)。
@@ -7,10 +7,12 @@
 4. 修复 [调用](./actions/control/Invoke.md) 动作执行崩溃问题。
 5. 修复 *变量* 注册问题。
 6. [点击 * 网格](./actions/mouse/CellClick.md) 支持设置 *停顿时间*。
+7. 修复流程启动时机率崩溃问题。
 
 ### Note
 
-1. 下载：
+1. 64位下载(x64)：https://winui.net/_media/simple/winui++0.37.0-setup.x64.exe
+2. 32位下载(x86)：https://winui.net/_media/simple/winui++0.37.0-setup.x64.exe
 
 
 ## [0.36.1](https://github.com/shelllet/winui/compare/main...dev) (2024-07-07)
@@ -20,7 +22,7 @@
 
 ### Note
 
-1. 下载：https://winui.net/_media/winui++0.36.1-setup.x64.exe
+1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.36.1-setup.x64.exe
 
 # [0.36](https://github.com/shelllet/winui/compare/main...dev) (2024-07-06)
 
@@ -34,7 +36,7 @@
 
 ### Note
 
-1. 下载：https://winui.net/_media/winui++0.36.0-setup.x64.exe
+1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.36.0-setup.x64.exe
 
 ## [0.35](https://github.com/shelllet/winui/compare/main...dev) (2024-06-05)
 
@@ -51,7 +53,7 @@
 
 ### Note
 
-1. 下载：https://winui.net/_media/winui++0.35.0-setup.x64.exe
+1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.35.0-setup.x64.exe
 
 ## [0.34](https://github.com/shelllet/winui/compare/main...dev) (2024-4-27)
 
@@ -70,7 +72,7 @@
 
 ### Note
 
-1. 下载：https://winui.net/_media/winui++0.34.0-setup.x64.exe
+1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.34.0-setup.x64.exe
 
 ## [0.33.2](https://github.com/shelllet/winui/compare/main...dev) (2024-3-20)
 
@@ -83,7 +85,7 @@
 
 ### Note
 
-1. 下载：https://winui.net/_media/winui++0.33.2-setup.x64.exe
+1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.33.2-setup.x64.exe
 
 
 ## [0.33](https://github.com/shelllet/winui/compare/main...dev) (2024-2-24)
@@ -101,7 +103,7 @@
 
 ### Note
 
-1. 下载：https://winui.net/_media/winui++0.33.0-setup.x64.exe
+1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.33.0-setup.x64.exe
 
 ## [0.32](https://github.com/shelllet/winui/compare/main...dev) (2024-1-19)
 
@@ -118,7 +120,7 @@
 
 ### Note
 
-1. 下载：https://winui.net/_media/winui++0.32.0-setup.x64.exe
+1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.32.0-setup.x64.exe
 
 
 ## [0.31](https://github.com/shelllet/winui/compare/main...dev) (2023-12-22)
@@ -140,4 +142,4 @@
 
 ### 备注
 
-1. 下载：https://winui.net/_media/winui++0.31.1-setup.x64.exe
+1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.31.1-setup.x64.exe

@@ -26,3 +26,6 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/ls.simple
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/9cJf2MD-BVQ" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1ogadexEAF&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
