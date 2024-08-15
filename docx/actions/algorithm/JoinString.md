@@ -1,7 +1,7 @@
 # 合并字符串 
 将字符串列表，或者含有字符串的列表（文本检测），合并成字符串。
 
-![action](./images/2022-11-17_184608.png ':size=90%')
+![JoinString](./images/16.png ':size=90%')
 
 ## 子流程
 
@@ -17,17 +17,9 @@
 
 ## 输出
 
-> [Strings](./types/String.md)
+> 字符串列表，参考：[Strings](./types/String.md)
 
 
-## 脚本调用
+## 其它
 
-```python
-import simple
-
-
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/algorithm/filter_text.simple](https://github.com/shelllet/WinUi/blob/main/algorithm/filter_text.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/algorithm/JoinString.simple

@@ -1,8 +1,8 @@
 # 面积筛选
-通过计算数组中元素的面积来筛选列表中的元素
+通过计算数组中元素的面积来筛选列表中的元素。
 
 
-![action](./images/2022-11-17_184608.png ':size=90%')
+![FilterArea](./images/11.png ':size=90%')
 
 
 ## 子流程
@@ -12,22 +12,16 @@
 ## 运行参数
 
 
-* Value： 包含多个可以计算面积的元素列表
-* Area： 面积范围
+* 值
+> 包含多个可以计算面积的元素列表，比如检测到的轮廓列表。
+* 面积
+> 指定面积范围。
 
 ## 输出
 
-> 和输入数组的类型相同
+> 包含指定面积的元素列表。如果列表长度不为 `0`, 走左侧分支，否则走右侧分支。
 
 
-### 脚本调用
+### 其它
 
-```python
-import simple
-
-
-```
-
-### 示例
-
-[https://github.com/shelllet/WinUi/blob/main/algorithm/ClientToScreen.simple](https://github.com/shelllet/WinUi/blob/main/algorithm/ClientToScreen.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/algorithm/FilterArea.simple

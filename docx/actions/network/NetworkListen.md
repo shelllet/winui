@@ -20,7 +20,7 @@
 
 > 如果是 *TCP* 协议，返回[TcpServer](./types/TcpServer.md) ，如果是*UDP*协议，返回 [UDPSocket](./types/UDPSocket.md)。
 
-### 资源
+### 其它
 
 *TCP*示例： https://github.com/shelllet/WinUi/blob/main/network/TcpListen.simple
 

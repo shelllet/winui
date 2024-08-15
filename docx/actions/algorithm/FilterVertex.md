@@ -1,8 +1,8 @@
 # 形状筛选
-根据轮廓的形状筛选轮廓
+通过计算数组中元素的形状来筛选列表中的元素。
 
 
-![action](./images/2022-11-17_184608.png ':size=90%')
+![FilterVertex](./images/12.png ':size=90%')
 
 ## 子流程
 
@@ -12,25 +12,17 @@
 
 
 * 数据
-> 包含轮廓的数组。
+> 包含多个可以计算形状的元素列表，比如检测到的轮廓列表。
 * 精度
-> 越小的精度就越接近所选择的形状。
+> 值越小，就越接近所选择的形状。
 * 形状
 > 参考：[Shape](./enums/ContourShape.md)。
 
 ## 输出
 
-> 和输入的类型相同
+> 包含指定形状的元素列表。如果列表长度不为 `0`, 走左侧分支，否则走右侧分支。
 
 
-## 脚本调用
+## 其它
 
-```python
-import simple
-
-
-```
-
-## 示例
-
-[https://github.com/shelllet/WinUi/blob/main/algorithm/filter_text.simple](https://github.com/shelllet/WinUi/blob/main/algorithm/filter_text.simple)
+示例：https://github.com/shelllet/WinUi/blob/main/algorithm/FilterVertex.simple
