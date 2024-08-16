@@ -13,16 +13,16 @@
 2. 进程管理
 3. 窗口操作和截图
 4. 文件操作
-5. 图像处理
+5. 图像处理，检测
 6. 模型推理
-7. *Web*自动化
+7. *Web* 自动化
 8. *Python*脚本扩展
 9. 安卓模拟器
 10. 网络操作
 11. 云接口调用
 12. 数据统计分析
-13. ...
-
+13. *Dll* 及 *COM* 接口调用。
+14. ......
 
 #### [截图](https://winui.net/)
 ![WinUi++](https://winui.net/introduction/images/01.png)
@@ -38,3 +38,9 @@
 * 视频介绍（B站）：https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951
 
 * 如需要交流沟通，加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
+
+### 购买序列号赞助
+
+- 淘宝购买：https://item.taobao.com/item.htm?id=698427526399
+
+- 技术服务购买：https://item.taobao.com/item.htm?id=697882172586

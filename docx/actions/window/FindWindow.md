@@ -22,7 +22,7 @@
 > 窗口：[`Wnd`](./types/Wnd.md)
 
 
-### 资源
+### 其它
 
 示例：https://github.com/shelllet/WinUi/blob/main/window/FindWindow.simple
 

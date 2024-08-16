@@ -4,7 +4,7 @@
 * 为了获得更高的准确性，请使用二值图像
 * 要找到的对象应该是白色的，背景应该是黑色的。
 
-![ImageDifference](./images/03.png ':size=90%')
+![ImageDifference](./images/15.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -22,13 +22,6 @@
 > 相似性的指标（小数）。越低，表示匹配越好。*0*：表示完全匹配，参考： [Number](./types/Number.md)
 
 
-## 脚本调用
+## 其它
 
-```python
-import simple;
-
-```
-
-## 资源
-
-例子：https://github.com/shelllet/WinUi/blob/main/algorithm/ImageDifference.simple
+示例：https://github.com/shelllet/WinUi/blob/main/algorithm/ImageDifference.simple

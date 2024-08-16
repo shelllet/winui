@@ -25,3 +25,7 @@
 ## 资源
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/pull.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/IndT52M_7c8" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1mhijeVE2M&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

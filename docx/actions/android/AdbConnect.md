@@ -17,9 +17,14 @@
 
 > 设备号，可用在其它書店动作中作为输入参数。
 
-## 资源
+## 其它
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/AdbDevices.simple
+
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/J6lcShych0A" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1L1421b7gj&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 !> 注意：模拟器需要开启 *ADB本机调试* 或者 *ADB远程调试*。

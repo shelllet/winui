@@ -24,8 +24,11 @@
 > 设备日志，字符串[`String`](./types/String.md)。
 
 
-## 资源
+## 其它
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/AdbSwipe.simple
 
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/Yu3Sww8edDI" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Wy411i7AH&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

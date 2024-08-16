@@ -16,17 +16,10 @@
 
 ## 输出
 
-> 调整尺寸后的图像    
+> 缩放后的图像，参考：[Image](./types/Image.md) 。
 
 
-## 脚本调用
-
-```python
-import simple;
-
-```
-
-## 资源
+## 其它
 
 示例：https://github.com/shelllet/WinUi/blob/main/image/ResizeImage.simple
 

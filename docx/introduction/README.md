@@ -30,4 +30,8 @@
     });
 </script>
 
+- 淘宝购买：https://item.taobao.com/item.htm?id=698427526399
+
+- 技术服务购买：https://item.taobao.com/item.htm?id=697882172586
+
 - 可加入 [Discord](https://discord.gg/b4MeYbJrfk) 咨询其它购买方式。

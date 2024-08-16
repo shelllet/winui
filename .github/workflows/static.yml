@@ -44,9 +44,10 @@ jobs:
           pwd
           mkdir -p /var/www
           cp -Rf ./docx/* /var/www
-          cd /var/www/_media
-          if [ ! -f /var/www/_media/winui++${{ vars.VERSION }}-setup.x64.exe ]; then
+          mkdir -p /var/www/_media/simple
+          cd /var/www/_media/simple
+          if [ ! -f /var/www/_media/simple/winui++${{ vars.VERSION }}-setup.x64.exe ]; then
             curl -L --create-dirs -o winui++${{ vars.VERSION }}-setup.x64.exe https://winui.net/simple/v3/download
           fi
-          sudo chown -R caddy:caddy /var/www/_media
+          sudo chown -R caddy:caddy /var/www/_media/simple
         shell: bash

@@ -21,3 +21,7 @@
 ## 资源
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/packages.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/91q257lrXsU" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1FpeveyEzh&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
