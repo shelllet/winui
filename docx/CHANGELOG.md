@@ -1,4 +1,4 @@
-# [0.37](https://github.com/shelllet/winui/compare/main...dev) (2024-08-xx)
+# [0.37](https://github.com/shelllet/winui/compare/main...dev) (2024-08-16)
 
 ### Changed：
 1. 重命动作： [*退出流程*](./actions/control/Quit.md)。
