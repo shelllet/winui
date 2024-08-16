@@ -16,7 +16,10 @@
 
 >  设备号列表 [`Strings`](./types/String.md)。
 
-## 资源
+## 其它
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/AdbDevices.simple
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/gkIab2l-IjI" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1hT421k7oR&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

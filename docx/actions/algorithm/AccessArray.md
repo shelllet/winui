@@ -1,7 +1,7 @@
 # 访问数组
 根据索引获取 *数组* 当中的元素。
 
-![action](./images/2022-11-26_194304.png ':size=90%')
+![AccessArray](./images/06.png ':size=90%')
 
 ## 子流程
 
@@ -17,10 +17,10 @@
 
 ## 输出
 
-> 数组中的元素
+> 数组中的元素。
 
 
 
-## 资源
+## 其它
 
-示例：https://github.com/shelllet/WinUi/blob/main/algorithm/access_array.simple
+示例：https://github.com/shelllet/WinUi/blob/main/algorithm/AccessArray.simple
