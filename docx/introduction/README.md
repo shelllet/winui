@@ -1,6 +1,6 @@
 # 系统配置要求
 
-| <div style="width:200px"/> |         最低系统要求         |          推荐           |
+| <div style="width:200px"/> |         最低系统要求         |          <div style="width:200px">推荐</div>           |
 | :------------------------: | :--------------------------: | :---------------------: |
 |          操作系統          | Windows® 10 64-bit 1809 以上 | Windows® 11 64-bit |
 |           处理器           |              -               |            -            |
@@ -10,10 +10,11 @@
 |            网络            |            非必要            | 有网络的环境下使用  |
 |           分辨率           |           1024X768           |            -            |
 
-- 最新版本：https://bitbucket.org/winui-release/version/downloads
+- 历史版本：https://bitbucket.org/winui-release/version/downloads
+
 - 问题提交：[https://github.com/shelllet/WinUi/issues](https://github.com/shelllet/WinUi/issues)
 
-# 注册版和试用版
+# 注册版 & 试用版
 
 | <div style="width:200px"/> | <div style="width:200px">注册版</div> | <div style="width:200px">试用版</div> |
 | :------------------------: | :-----------------------------------: | :-----------------------------------: |
