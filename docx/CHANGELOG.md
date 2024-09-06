@@ -1,3 +1,14 @@
+# [0.38](https://github.com/shelllet/winui/compare/main...dev) (2024-xx-xx)
+
+### Changed：
+1. 增加鼠标[滚动动作](./actions/mouse/WheelMouse.md)。
+2. 动作分组可以在设置中设置隐藏或者显示。
+3. 修复编辑器无法编辑问题。
+
+### Note
+
+1. （已知问题）使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果。
+
 # [0.37](https://github.com/shelllet/winui/compare/main...dev) (2024-08-16)
 
 ### Changed：

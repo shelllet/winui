@@ -22,6 +22,9 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/control/if.simple
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/nmOsSlIuGsw" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1ZCWpeLEmu&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 !> 不可通过 *[判断](./If.md)* 来判断 *容器/列表* 是否为空。
