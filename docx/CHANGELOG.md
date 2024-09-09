@@ -1,3 +1,18 @@
+# [0.38](https://github.com/shelllet/winui/compare/main...dev) (2024-09-06)
+
+### Changed：
+1. 增加鼠标[滚动动作](./actions/mouse/WheelMouse.md)。
+2. 动作分组可以在设置中设置隐藏或者显示。
+3. 修复编辑器无法编辑问题。
+
+### Note
+
+1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 更换默认安装目录为 *ProgramData*，全新安装 *winui++* 时， 不再需要 *管理员* 权限。如果覆盖安装，目录不会做变更。
+
+3. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.38.0-setup.x64.exe
+
+
 # [0.37](https://github.com/shelllet/winui/compare/main...dev) (2024-08-16)
 
 ### Changed：

@@ -1,12 +1,14 @@
 - [WinUi++](/)
-  - [简介](./introduction/README.md)
-  - 安装
+  - [使用需知](./introduction/README.md)
+  - 软件安装
       - [直接安装](./introduction/installation/installed_by_exe.md)
       - [微软商店安装](./introduction/installation/installed_by_msix.md)
       - 安装问题
         - [新安装无法启动](./introduction/installation/question/quest1.md)
         - [覆盖安装无法启动](./introduction/installation/question/quest2.md)
-  - 流程
+      - 设置
+        - [动作分组隐藏](./introduction/installation/setting/action_group_setting.md)
+  - 流程介绍
     - [项目属性](./introduction/workflow/property.md)
     - [使用逻辑](./introduction/workflow/logic.md)
     - [鼠标/键盘宏录制](./introduction/workflow/record)
@@ -14,6 +16,7 @@
     - [流程操作技巧](./introduction/workflow/skill.md)
     - [通配符匹配](./introduction/workflow/wildcard.md)
     - [Glob模式匹配](./introduction/workflow/glob.md)
+    - [Web 定位策略](./introduction/webdriver/locators.md)
     - [安装 UIAutomatorViewer 工具](./introduction/android/uiautomatorviewer.md)
   - [动作](./actions/README.md)
     - 系统
@@ -70,6 +73,7 @@
       - [监听鼠标](./actions/mouse/ListenMouse.md)
       - [偏移移动](./actions/mouse/MoveOffset.md)
       - [点击*网格](./actions/mouse/CellClick.md)
+      - [滚动鼠标](./actions/mouse/WheelMouse.md)
     - 窗口
       - [查找窗口](./actions/window/FindWindow.md)
       - [特定窗口](./actions/window/SpecialWindow.md)
