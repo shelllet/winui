@@ -122,11 +122,11 @@
       - [绘制矩形](./actions/draw/DrawRect.md)
       - [填充颜色](./actions/draw/FillColor.md)
     - 深度学习
-      - [目标分类](./actions/dnn/ImageClassification.md)
-      - [对象检测](./actions/dnn/ObjectDetection.md)
-      - [中文识别](./actions/dnn/TextChinese.md)
-      - [文本块检测](./actions/dnn/TextDetection.md)
-      - [二维码识别](./actions/dnn/QRCode.md)
+      - [目标分类](./actions/ai/ImageClassification.md)
+      - [对象检测](./actions/ai/ObjectDetection.md)
+      - [中文识别](./actions/ai/TextChinese.md)
+      - [文本块检测](./actions/ai/TextDetection.md)
+      - [二维码识别](./actions/ai/QRCode.md)
     - 媒体
       - [窗口截图](./actions/media/CaptureWindow.md)
       - [全屏截图](./actions/media/CaptureFullScreen.md)
@@ -227,7 +227,8 @@
       - [分组](./actions/control/GroupAction.md)
     - 算法
       - [分割字符串](./actions/algorithm/SplitString.md)
-      - [非零图像](./actions/algorithm/ImageIsColored.md)
+      - [合并字符串](./actions/algorithm/JoinString.md)
+      - [提取子串](./actions/algorithm/SubString.md)
       - [访问数组](./actions/algorithm/AccessArray.md)
       - [访问对象](./actions/algorithm/AccessKey.md)
       - [数组长度](./actions/algorithm/ArraySize.md)
@@ -242,8 +243,7 @@
       - [随机坐标](./actions/algorithm/RandomPoint.md)
       - [图像差值](./actions/algorithm/ImageDifference.md)
       - [颜色统计](./actions/algorithm/ColorPercentage.md)
-      - [合并字符串](./actions/algorithm/JoinString.md)
-      - [提取子串](./actions/algorithm/SubString.md)
+      - [非零图像](./actions/algorithm/ImageIsColored.md)
       - [添加元素](./actions/algorithm/PushBack.md)
       - [删除元素](./actions/algorithm/PopBack.md)
     - 类型
