@@ -1,5 +1,5 @@
 # 随机数 
-生成随机数。
+生成随机数字。
 
 
 ![RandomNumber](./images/01.png ':size=90%')

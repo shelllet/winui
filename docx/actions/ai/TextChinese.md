@@ -22,16 +22,7 @@
 
 ## 输出 
 
-> 识别结果, 参考 [`RecognitionResults`](./types/RecognitionResults.md)。
-
-
-## 脚本调用    
-
-```python
-import simple;
-
-
-```
+> 识别结果, 参考： [`RecognitionResults`](./types/RecognitionResult.md)。
 
 ### 其它
 
