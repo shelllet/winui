@@ -1,5 +1,5 @@
-# 随机数 
-生成随机数。
+# 随机数字
+生成一个随机数字。
 
 
 ![RandomNumber](./images/01.png ':size=90%')
@@ -10,11 +10,8 @@
 
 ## 运行参数
 
-* 最小值
->
-
-* 最大值
->
+* 范围
+> 生成随机数的范围。
 
 ## 输出
 
@@ -25,5 +22,12 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/algorithm/random_num.simple
 
+## 脚本
 
-!> 该动作被执行之后就会生成确定的随机数。其他所有引用该动作的运行参数,都会是相同的值。如果想使用不同的随机数值，请创建多个*随机数*动作，或者使用*Python* 表达式：https://learnku.com/docs/pymotw/random-pseudorandom-number-generators/3387
+````
+import random
+
+random.randint(1, 100)
+
+````
+!> 该动作被执行之后就会生成确定的随机数。所有引用该动作的运行参数，都会使用相同的随机数。
