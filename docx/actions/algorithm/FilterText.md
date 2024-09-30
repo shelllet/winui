@@ -1,5 +1,5 @@
 # 文本筛选
-在数组或者列表中，筛选包含指定文本元素。
+在数组或者列表中，筛选包含指定文本的元素。
 
 ![FilterText](./images/02.png ':size=90%')
 
@@ -9,8 +9,8 @@
 
 ## 运行参数
 
-* 值 
->   含有文本的列表，例如 *文字识别* 动作。
+* 数据 
+>   含有文本的列表，例如 [*文字识别*](./actions/ai/TextChinese.md) 动作。
   
 * 文本
 > 文本，*字符串* 类型，参考：[String](./types/String.md)， 支持 [*通配符（WildCard）*](./introduction/process/wildcard.md) 匹配。

@@ -1,3 +1,16 @@
+# [0.39](https://github.com/shelllet/winui/compare/main...dev) (2024-09-30)
+
+### Changed：
+1. 修复动作分组隐藏问题。
+2. 修复一些其它崩溃问题。
+3. 调整部分 *UI* 界面。
+4. [颜色统计](./actions/algorithm/ColorPercentage.md)，运行时参数 *差值* 变更为 *HSV* 三个分量的差值。
+
+### Note
+
+1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.39.0-setup.x64.exe
+
 # [0.38](https://github.com/shelllet/winui/compare/main...dev) (2024-09-06)
 
 ### Changed：

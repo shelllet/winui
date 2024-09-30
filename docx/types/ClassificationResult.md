@@ -10,7 +10,8 @@ Class `ClassificationResult` 分类结果
 
 2. label ：[String](../types/String.md)
 
-    > 分类
+    > 分类或者识别出来的文本
+
 3. confidence: [Number](../types/Number.md)
 
     > 置信度
