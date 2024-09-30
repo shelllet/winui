@@ -11,7 +11,7 @@
 1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
 2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.39.0-setup.x64.exe
 
-# [0.38](https://github.com/shelllet/winui/compare/main...dev) (2024-09-06)
+## [0.38](https://github.com/shelllet/winui/compare/main...dev) (2024-09-06)
 
 ### Changed：
 1. 增加鼠标[滚动动作](./actions/mouse/WheelMouse.md)。
@@ -26,7 +26,7 @@
 3. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.38.0-setup.x64.exe
 
 
-# [0.37](https://github.com/shelllet/winui/compare/main...dev) (2024-08-16)
+## [0.37](https://github.com/shelllet/winui/compare/main...dev) (2024-08-16)
 
 ### Changed：
 1. 重命动作： [*退出流程*](./actions/control/Quit.md)。
@@ -51,7 +51,7 @@
 
 1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.36.1-setup.x64.exe
 
-# [0.36](https://github.com/shelllet/winui/compare/main...dev) (2024-07-06)
+## [0.36](https://github.com/shelllet/winui/compare/main...dev) (2024-07-06)
 
 ### Changed：
 1. 添加图像旋转动作。
