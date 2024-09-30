@@ -10,12 +10,14 @@
 
 ## 运行参数
 
-* [父窗口](./types/Wnd.md)
+* 父窗口
 > 默认为空，如果不为空，查找相应的子窗口，不为空，则查找当前系统所有的顶层窗口。可借助 *Spy++* 来辅助操作。
-* [标题](./types/String.md)
-> 窗口标题
-* [窗口类](./types/String.md)
-  > 窗口类名
+
+* 标题
+> 窗口标题，支持 [通配符匹配](./introduction/workflow/wildcard.md)。
+
+* 窗口类
+  > 窗口类名，支持 [通配符匹配](./introduction/workflow/wildcard.md)。
 
 ## 输出
 

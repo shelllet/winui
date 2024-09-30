@@ -21,7 +21,7 @@
   - [动作](./actions/README.md)
     - 系统
       - [等待](./actions/system/Wait.md)
-      - [启动应用程序](./actions/system/StartProcess.md)
+      - [启动应用](./actions/system/StartProcess.md)
       - [添加用户](./actions/system/UserAdd.md)
       - [打开应用](./actions/system/OpenApplication.md)
       - [打开文件](./actions/system/LaunchFile.md)
@@ -118,6 +118,7 @@
       - [特征匹配](./actions/detection/FeatureDetect.md)
       - [模板匹配](./actions/detection/MatchTemplate.md)
       - [查找轮廓](./actions/detection/FindContours.md)
+      - [颜色辨识](./actions/detection/ImageColorDiscrimination.md)
     - 绘图
       - [绘制矩形](./actions/draw/DrawRect.md)
       - [填充颜色](./actions/draw/FillColor.md)
@@ -239,11 +240,10 @@
       - [周长筛选](./actions/algorithm/FilterPerimeter.md)
       - [形状筛选](./actions/algorithm/FilterVertex.md)
       - [椭圆筛选](./actions/algorithm/FilterEllipse.md)
-      - [随机数](./actions/algorithm/RandomNumber.md)
+      - [随机数字](./actions/algorithm/RandomNumber.md)
       - [随机坐标](./actions/algorithm/RandomPoint.md)
       - [图像差值](./actions/algorithm/ImageDifference.md)
       - [颜色统计](./actions/algorithm/ColorPercentage.md)
-      - [非零图像](./actions/algorithm/ImageIsColored.md)
       - [添加元素](./actions/algorithm/PushBack.md)
       - [删除元素](./actions/algorithm/PopBack.md)
     - 类型
@@ -286,7 +286,7 @@
     - [主机地址](./types/HostAddress.md)
     - [元组](./types/Tuple.md)
   - 枚举类型
-    - [ThresholdTypes](./enums/ThresholdTypes.md)
+    - [Colors](./enums/Colors.md)
     - [Directions](./enums/Directions.md)
     - [ColorConversionCodes](./enums/ColorConversionCodes.md)
     - [ContourShape](./enums/ContourShape.md)
