@@ -6,7 +6,7 @@
 
 *WinUi++* 绝对不会嵌入任何广告、捆绑任何软件。也不会像国内某大厂一样耍流氓！比如安装的时候，加入各种捆绑，一不小心就装了某家的全家桶。在卸载的时候还要弄个脑筋急转弯，让你怀疑智商，甚至怀疑人生。
 
-无论是打游戏还是工作当中，*WinUi++* 都是不可缺少的一款辅助工具。
+无论是游玩还是工作当中，*WinUi++* 都是不可缺少的一款辅助工具。
 ### 主要功能
 
 1. 鼠标键盘模拟和录制
@@ -37,7 +37,9 @@
 * 视频介绍（油管）: https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ
 * 视频介绍（B站）：https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951
 
-* 如需要交流沟通，加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
+* 如需要交流沟通,及时解决使用中的问题，请加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
+
+* 微信交流群，可以从页面下面的评论处扫描加入沟通交流，及时解决使用中的问题.
 
 ### 购买序列号赞助
 
