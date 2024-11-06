@@ -1,4 +1,15 @@
-# [0.40](https://github.com/shelllet/winui/compare/main...dev) (2024-11-04)
+# [0.40.1](https://github.com/shelllet/winui/compare/main...dev) (2024-11-06)
+
+### Changed：
+1. 修复动作参数数字无法输入问题。
+2. 运行时，禁用流程打开按钮。
+
+### Note
+
+1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.40.1-setup.x64.exe
+
+## [0.40](https://github.com/shelllet/winui/compare/main...dev) (2024-11-04)
 
 ### Changed：
 1. 更新注册机制。
@@ -9,7 +20,7 @@
 1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
 2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.40.0-setup.x64.exe
 
-# [0.39](https://github.com/shelllet/winui/compare/main...dev) (2024-09-30)
+## [0.39](https://github.com/shelllet/winui/compare/main...dev) (2024-09-30)
 
 ### Changed：
 1. 修复动作分组隐藏问题。
