@@ -19,17 +19,6 @@
 
 > 打开的链接，和 参数 `url` 相同。
 
-## 脚本
-
-```python
-import simple
-
-r = simple.OpenUriRunner("https://winui.net/#/")
-# r.url = "https://winui.net/#/"
-r.run()
-```
-
-
 ## 资源
 
 * 示例流程：https://github.com/shelllet/WinUi/blob/main/system/OpenUri.simple
