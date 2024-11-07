@@ -309,7 +309,7 @@
     - [RelativePosition](./enums/RelativePosition.md)
     - [MouseMessage](./enums/MouseMessage.md)
     - [MorphologicalOperations](./enums/MorphologicalOperations.md)
-    - [ContourApproximationModes](./enums/ContourApproximationModes.md)
+    - [ContourApproximationMode](./enums/ContourApproximationMode.md)
     - [FeatureAlgorithm](./enums/FeatureAlgorithm.md)
     - [WindowSortDirection](./enums/WindowSortDirection.md)
     - [FileExtension](./enums/FileExtension.md)
