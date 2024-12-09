@@ -15,10 +15,16 @@
 >
 * 行数
 > 风格行数
+
 * 列数
 > 网格列数
+
 * 半径
 > 以单元格中心为圆心，该参数为半径，动态计算最终的目标位置。该参数不要超过单元格长宽中的最小值。
+
+* 停顿
+> 移动至下个单元格的停顿时间。
+
 * 点击键
 > 鼠标键，参考：[MouseButtons](./enums/MouseButtons.md)
 
@@ -31,6 +37,6 @@
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/mouse/CellClick.simple
 
-<!-- <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/LBktoepioXw" frameborder="0"></iframe>
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/XZEoeA6loWg" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1NF411k7Un&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> -->
+<iframe src="//player.bilibili.com/player.html?bvid=BV1WEDQYJE4q&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
