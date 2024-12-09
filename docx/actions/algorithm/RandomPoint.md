@@ -23,5 +23,8 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/algorithm/RandomPoint.simple
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/eQcM_83P-0E" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1HKm1YWEys&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 !> 该动作被执行之后就会生成确定的随机坐标。其他所有引用该动作的运行参数,都会使用相同的随机坐标。

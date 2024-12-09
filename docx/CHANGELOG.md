@@ -1,4 +1,15 @@
-# [0.40.1](https://github.com/shelllet/winui/compare/main...dev) (2024-11-06)
+# [0.41.0](https://github.com/shelllet/winui/compare/main...dev) (2024-12-14)
+
+### Changed：
+1. 修复一些问题。
+2. 添加内存读写动作：[ReadMemory](./actions/system/ReadMemory.md)、[WriteMemory](./actions/system/WriteMemory.md)、`DLL`注入：[AttachProcess](./actions/system/AttachProcess.md)。
+
+### Note
+
+1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.41.0-setup.x64.exe
+
+## [0.40.1](https://github.com/shelllet/winui/compare/main...dev) (2024-11-06)
 
 ### Changed：
 1. 修复动作参数数字无法输入问题。
