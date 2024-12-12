@@ -1,7 +1,7 @@
 # 打开链接 
 该动作可以启动默认的浏览器打开指定的网址
 
-![OpenUri](./images/08.png ':size=90%')
+![OpenUrl](./images/08.png ':size=90%')
 
 ## 权限
 > 无要求
