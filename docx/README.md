@@ -6,7 +6,7 @@
 
 _WinUi++_ 绝对不会嵌入任何广告、捆绑任何软件。也不会像国内某大厂一样耍流氓！比如安装的时候，加入各种捆绑，一不小心就装了某家的全家桶。在卸载的时候还要弄个脑筋急转弯，让你怀疑智商，甚至怀疑人生。
 
-无论是打游戏还是工作当中，_WinUi++_ 都是不可缺少的一款辅助工具。
+无论是游玩还是工作当中，*WinUi++* 都是不可缺少的一款辅助工具。
 
 ### 主要功能
 
@@ -38,3 +38,5 @@ _WinUi++_ 绝对不会嵌入任何广告、捆绑任何软件。也不会像国�
 - B 站：[https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951](https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951)
 
 - 如果你有 *Discord*, 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
+
+- 微信交流群，可以从页面下面的评论处扫描加入沟通交流，及时解决使用中的问题.

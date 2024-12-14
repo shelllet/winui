@@ -32,5 +32,8 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/algorithm/FilterEllipse.simple
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/gg05hMrS4Kk" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1iVD8YVEom&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 !> 如果短轴的最小值和长轴的最小值相同， 短轴的最大值和长轴的最大值相同，则可以筛选该半径范围内的的圆。

@@ -1,4 +1,37 @@
-# [0.39](https://github.com/shelllet/winui/compare/main...dev) (2024-09-30)
+# [0.41.0](https://github.com/shelllet/winui/compare/main...dev) (2024-12-14)
+
+### Changed：
+1. 修复一些问题。
+2. 添加内存读写动作：[ReadMemory](./actions/system/ReadMemory.md)、[WriteMemory](./actions/system/WriteMemory.md)、`DLL`注入：[AttachProcess](./actions/system/AttachProcess.md)。
+
+### Note
+
+1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.41.0-setup.x64.exe
+
+## [0.40.1](https://github.com/shelllet/winui/compare/main...dev) (2024-11-06)
+
+### Changed：
+1. 修复动作参数数字无法输入问题。
+2. 运行时，禁用流程打开按钮。
+
+### Note
+
+1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.40.1-setup.x64.exe
+
+## [0.40](https://github.com/shelllet/winui/compare/main...dev) (2024-11-04)
+
+### Changed：
+1. 更新注册机制。
+2. 修复一些其它崩溃问题。
+
+### Note
+
+1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.40.0-setup.x64.exe
+
+## [0.39](https://github.com/shelllet/winui/compare/main...dev) (2024-09-30)
 
 ### Changed：
 1. 修复动作分组隐藏问题。
@@ -11,7 +44,7 @@
 1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
 2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.39.0-setup.x64.exe
 
-# [0.38](https://github.com/shelllet/winui/compare/main...dev) (2024-09-06)
+## [0.38](https://github.com/shelllet/winui/compare/main...dev) (2024-09-06)
 
 ### Changed：
 1. 增加鼠标[滚动动作](./actions/mouse/WheelMouse.md)。
@@ -26,7 +59,7 @@
 3. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.38.0-setup.x64.exe
 
 
-# [0.37](https://github.com/shelllet/winui/compare/main...dev) (2024-08-16)
+## [0.37](https://github.com/shelllet/winui/compare/main...dev) (2024-08-16)
 
 ### Changed：
 1. 重命动作： [*退出流程*](./actions/control/Quit.md)。
@@ -51,7 +84,7 @@
 
 1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.36.1-setup.x64.exe
 
-# [0.36](https://github.com/shelllet/winui/compare/main...dev) (2024-07-06)
+## [0.36](https://github.com/shelllet/winui/compare/main...dev) (2024-07-06)
 
 ### Changed：
 1. 添加图像旋转动作。
