@@ -19,16 +19,6 @@
 
 >    无
 
-## 脚本调用
-
-```python
-import simple
-
-w = simple.WaitRunner(3) # sleep 3s
-# w.duration = 3
-w.run()
-```
-
 ## 资源
 
 * 示例流程：https://github.com/shelllet/WinUi/blob/main/system/Wait.simple
