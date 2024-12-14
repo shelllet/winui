@@ -21,5 +21,8 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/control/ref.simple
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/CQ9x0FHWAK4" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1GD4teoE8p&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 !> 引用动作只是引用某个动作的执行结果，被引用的动作不会再次被执行。

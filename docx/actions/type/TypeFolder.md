@@ -1,5 +1,7 @@
 # 文件夹 
-定义 *文件夹* 类型
+定义 *文件夹* 类型。
+
+![TypeFile](./images/07.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -7,18 +9,21 @@
 
 ## 运行参数
 
-* Folder：文件夹
+* 值
+> 文件夹。
 
 
 ## 输出
 
-    
+> 文件夹，参考：[Path](./types/Path.md)。    
 
 
 ## 脚本调用
 
 ```python
 import simple;
+
+p = simple.Path('c:/windows')
 
 ```
 

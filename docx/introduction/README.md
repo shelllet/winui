@@ -20,12 +20,12 @@
 | :------------------------: | :-----------------------------------: | :-----------------------------------: |
 |          全部功能          |                无限制                 |            待定            |
 
-# 购买 WinUi++ 2023 版序列号
+# 购买 WinUi++ 版序列号
 
 - 咸鱼购买（手机链接）：[loading...](https://winui.net ":id=buy")
 
 <script>
-  Docsify.get('https://winui.net/simple/v3/buy_url').then((text, )=>{
+  Docsify.get('https://api.winui.net/simple/v5/buy_url').then((text, )=>{
       document.getElementById('buy').href = text;
       document.getElementById('buy').innerText = text;
     });
