@@ -258,7 +258,7 @@
       - [网址](./actions/type/TypeUrl.md)
       - [坐标](./actions/type/TypePoint.md)
       - [文件](./actions/type/TypeFile.md)
-      - [文件夹](./actions/type/TypeFolder.md)
+      - [路径](./actions/type/TypePath.md)
       - [快捷键](./actions/type/TypeShortcut.md)
       - [矩形](./actions/type/TypeRect.md)
       - [资源](./actions/type/TypeResource.md)
