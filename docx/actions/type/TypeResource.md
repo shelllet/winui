@@ -1,7 +1,7 @@
 # 资源 
 定义 *资源* 类型，用于选择嵌入流程中的资源，比如常用的图片文件。
 
-![TypeResource](./images/09.png ':size=90%')
+![TypeResource](./images/10.png ':size=90%')
 
 
 ## 子流程

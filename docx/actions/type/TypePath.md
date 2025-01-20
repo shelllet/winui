@@ -1,7 +1,7 @@
-# 文件夹 
-定义 *文件夹* 类型。
+# 路径 
+定义 *路径* 类型。
 
-![TypeFile](./images/07.png ':size=90%')
+![TypePath](./images/07.png ':size=90%')
 
 ## 子流程
 > 不支持
