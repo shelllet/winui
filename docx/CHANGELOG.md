@@ -1,7 +1,8 @@
-# [0.42.0](https://github.com/shelllet/winui/compare/main...dev) (2025-01-19)
+# [0.42.0](https://github.com/shelllet/winui/compare/main...dev) (2025-01-20)
 
 ### Changed：
 1. 修复一些异步动作执行问题。
+2. [视频下载](./actions/network/VideoDownload.md) 添加 选择 Cookies 文件参数， 解决登录验证问题。
 
 ### Note
 
