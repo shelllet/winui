@@ -7,7 +7,7 @@
 ### Note
 
 1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
-2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.42.0-setup.x64.exe
+2. 64位下载(x64)：https://winui.net/_media/simple/winui++0.42.0-setup.x64.exe
 
 ## [0.41.0](https://github.com/shelllet/winui/compare/main...dev) (2024-12-14)
 
