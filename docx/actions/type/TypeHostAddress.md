@@ -24,7 +24,7 @@
 
 ```python
 
-str = 'hello, winui++'
+addr = HostAddress('localhost', 8080)
 
 ```
 
