@@ -8,14 +8,14 @@ text = 'Hello, winui++!'
 
 sliced = slice(3)
 
-sliced
+print(sliced)
 # slice(None, 3, None)
 
-type(sliced)
+print(type(sliced))
 # slice
 
-text[sliced]
-# 'hel'
+print(text[sliced])
+# 'Hel'
 
 ````
 * start -- 切片开始位置。如果未提供，则默认为 `None`。

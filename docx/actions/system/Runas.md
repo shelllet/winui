@@ -1,7 +1,7 @@
-# Runas 
-使用本地系统中的账号密码打开应用程序。该动作不会等待程序结束。
+# 登录应用 
+使用本地系统中的账号密码打开应用程序，类似 "RunAs"，该动作不会等待程序结束。
 
-![Runas](./images/14.png ':size=90%')
+![登录应用](./images/14.png ':size=90%')
 
 ## 权限
 > 无要求
@@ -35,4 +35,4 @@
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/j_tC1t7zxGg" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Lk4y1N7QZ&page=1&autoplay=0” height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Lk4y1N7QZ&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
