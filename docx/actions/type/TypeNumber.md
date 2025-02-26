@@ -26,3 +26,7 @@ num = 5
 ```
 
 ## 示例
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/xo8CgkBAQIk" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1n4kwYHEZ6&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

@@ -10,7 +10,7 @@
 ## 运行参数
 
 * 值
->  *Python* 列表。
+>  *Python* 列表， Python 语句，用于创建列表。
 
 
 ## 输出
@@ -27,3 +27,7 @@ fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
 ```
 
 ## 示例
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/T2rgkPFsuJk" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1WGw9eHEzt&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
