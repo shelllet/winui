@@ -22,8 +22,8 @@
 
 ## 输出
 
-> 打开的链接，和 参数 `url` 相同。
+> 无
 
 ## 资源
 
-* 示例流程：https://github.com/shelllet/WinUi/blob/main/system/OpenUri.simple
+* 示例流程：https://github.com/shelllet/WinUi/blob/main/system/OutputString.simple
