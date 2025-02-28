@@ -33,7 +33,7 @@
       - [终止进程](./actions/system/KillProcess.md)
       - [登录应用](./actions/system/Runas.md)
       - [剪切板](./actions/system/ClipboardValue.md)
-      - [输出文本](./actions/system/OutputString.md)
+      - [打印日志](./actions/system/OutputString.md)
       - [创建对象](./actions/system/CreateObject.md)
       - [调用方法](./actions/system/CallMethod.md)
       - [读内存](./actions/system/ReadMemory.md)
