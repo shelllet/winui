@@ -12,8 +12,8 @@
 > 不支持
 
 ## 运行参数
-* 进程
-> 进程的路径，`Windows` 系统同名进程可以有多个，可以用进程全路径来区分。
+* 程序
+> 程序的路径，`Windows` 系统同名程序可以有多个，可以用程序全路径来区分，支持 [*Glob*](./introduction/workflow/glob.md) 匹配。
 
 * 地址
 > 用户空间的内存地址。
@@ -29,3 +29,6 @@
 
 * 示例流程：https://github.com/shelllet/WinUi/blob/main/system/ReadMemory.simple
 
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/yeXkvJIScUk" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1ruRPYRESW&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
