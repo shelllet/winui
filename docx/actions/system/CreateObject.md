@@ -30,3 +30,7 @@
 DLL 调用：https://github.com/shelllet/WinUi/blob/main/system/dll.simple
 
 COM 调用：https://github.com/shelllet/WinUi/blob/main/system/com.simple
+
+<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/DyVD6J_B4Nw" frameborder="0"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1yA9EYwEMH&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
