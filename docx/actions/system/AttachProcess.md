@@ -28,3 +28,4 @@
 
 * 示例流程：https://github.com/shelllet/WinUi/blob/main/system/AttachProcess.simple
 
+* 动态库示例：https://github.com/shelllet/WindowsInject
