@@ -1,4 +1,15 @@
-# [0.42.1](https://github.com/shelllet/winui/compare/main...dev) (2025-02-26)
+# [0.42.4](https://github.com/shelllet/winui/compare/main...dev) (2025-03-30)
+
+### Changed：
+1. 修复预览图片在小屏幕无法显示问题。
+
+### Note
+
+1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://winui.net/_media/simple/winui++0.42.4-setup.x64.exe
+
+
+## [0.42.1](https://github.com/shelllet/winui/compare/main...dev) (2025-02-26)
 
 ### Changed：
 1. 修复[剪切板](./actions/system/ClipboardValue.md)动作设置剪切板内容时崩溃问题。
