@@ -1,4 +1,4 @@
-# [0.42.3](https://github.com/shelllet/winui/compare/main...dev) (2025-02-26)
+# [0.42.4](https://github.com/shelllet/winui/compare/main...dev) (2025-02-26)
 
 ### Changed：
 1. 修复预览图片在小屏幕无法显示问题。
