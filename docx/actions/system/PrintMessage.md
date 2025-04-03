@@ -2,7 +2,7 @@
 
 打印动作执行结果的文本信息。
 
-![OutputString](./images/21.png ':size=90%')
+![PrintMessage](./images/21.png ':size=90%')
 
 ## 权限
 > 无要求
@@ -16,9 +16,6 @@
 
 * 数据源
 > 要打印的动作。
-
-* 等级
-> 打印的日志等级，参考 [SeverityLevel](./enums/SeverityLevel.md)。
 
 ## 输出
 
