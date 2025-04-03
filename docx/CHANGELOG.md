@@ -4,11 +4,12 @@
 1. 增加[图像匹配](./actions/detection/MatchImage.md) 动作。
 2. 增加[条码识别](./actions/ai/BarcodeDetector.md) 动作。
 3. [打印日志](./actions/system/PrintMessage.md) 支持输出图片。
+4. 优化 [等待按键](./actions/keyboard/WaitKey.md) 逻辑， 支持子流程。
 
 ### Note
 
 1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
-2. 64位下载(x64)：https://winui.net/_media/simple/winui++0.42.4-setup.x64.exe
+2. 64位下载(x64)：https://winui.net/_media/simple/winui++0.43.0-setup.x64.exe
 
 
 ## [0.42.4](https://github.com/shelllet/winui/compare/main...dev) (2025-03-30)
