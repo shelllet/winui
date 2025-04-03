@@ -33,7 +33,7 @@
       - [终止进程](./actions/system/KillProcess.md)
       - [登录应用](./actions/system/Runas.md)
       - [剪切板](./actions/system/ClipboardValue.md)
-      - [打印日志](./actions/system/OutputString.md)
+      - [打印日志](./actions/system/PrintMessage.md)
       - [创建对象](./actions/system/CreateObject.md)
       - [调用方法](./actions/system/CallMethod.md)
       - [读内存](./actions/system/ReadMemory.md)
@@ -122,6 +122,7 @@
       - [形状匹配](./actions/detection/MatchShapes.md)
       - [特征匹配](./actions/detection/FeatureDetect.md)
       - [模板匹配](./actions/detection/MatchTemplate.md)
+      - [图像匹配](./actions/detection/MatchImage.md)
       - [查找轮廓](./actions/detection/FindContours.md)
       - [颜色辨识](./actions/detection/ImageColorDiscrimination.md)
     - 绘图
@@ -133,6 +134,7 @@
       - [中文识别](./actions/ai/TextChinese.md)
       - [文本块检测](./actions/ai/TextDetection.md)
       - [二维码识别](./actions/ai/QRCode.md)
+      - [条码识别](./actions/ai/BarcodeDetector.md)
     - 媒体
       - [窗口截图](./actions/media/CaptureWindow.md)
       - [全屏截图](./actions/media/CaptureFullScreen.md)
