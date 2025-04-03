@@ -1,7 +1,9 @@
-# [0.43](https://github.com/shelllet/winui/compare/main...dev) (2025-03-30)
+# [0.43.0](https://github.com/shelllet/winui/compare/main...dev) (2025-04-xx)
 
 ### Changed：
 1. 增加[图像匹配](./actions/detection/MatchImage.md) 动作。
+2. 增加[条码识别](./actions/ai/BarcodeDetector.md) 动作。
+3. [打印日志](./actions/system/PrintMessage.md) 支持输出图片。
 
 ### Note
 
