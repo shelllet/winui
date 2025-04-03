@@ -1,19 +1,17 @@
 # 等待按键 
-等待键盘按键，然后去执行子流程。
+暂停动作执行，直到等待的键盘按键被触发，才能继续行后面的动作。
 
 ![WaitKey](./images/07.png ':size=90%')
 
 ## 子流程
 
-> 支持
+> 不支持
 
 ## 运行参数
 
 * 按键
 > 键盘按键。
 
-* 重复
-> 是否可重复触发。默认值 `1` 或 `True` 表示可以重复触发。
 
 ## 输出
   
@@ -22,4 +20,4 @@
 
 ## 资源
 
-* 流程：https://github.com/shelllet/WinUi/blob/main/keyboard/SendText.simple
+* 流程：https://github.com/shelllet/WinUi/blob/main/keyboard/waitkey.simple

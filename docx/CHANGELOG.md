@@ -4,7 +4,7 @@
 1. 增加[图像匹配](./actions/detection/MatchImage.md) 动作。
 2. 增加[条码识别](./actions/ai/BarcodeDetector.md) 动作。
 3. [打印日志](./actions/system/PrintMessage.md) 支持输出图片。
-4. 优化 [等待按键](./actions/keyboard/WaitKey.md) 逻辑， 支持子流程。
+
 
 ### Note
 
