@@ -1,5 +1,7 @@
 # 异步等待 
-这个动作可以等待异步动作的结束。
+该动作可以等待异步动作的结束。
+
+![WorkWait](./images/01.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -13,7 +15,7 @@
 
 ## 输出
 
-> 图像[Image](./types/Image.md) 
+> 无
 
 
 ## 脚本调用
@@ -24,3 +26,5 @@ import simple;
 ```
 
 ## 资源
+
+* 示例流程：https://github.com/shelllet/WinUi/blob/main/async/WorkWait.simple

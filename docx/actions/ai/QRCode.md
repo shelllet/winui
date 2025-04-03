@@ -9,11 +9,11 @@
 ## 运行参数
 
 * 图像
-> 待包含二维码的图像。
+> 含二维码的图像。
 
 ## 输出 
 
-> 二维码信息，字符串类型，参考：[String](./types/String.md)。
+> 二维码信息，参考：[RecognitionResult](./types/RecognitionResult.md)。
 
 ## 脚本调用    
 
