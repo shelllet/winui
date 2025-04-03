@@ -1,7 +1,7 @@
 # 等待按键 
-等待键盘按键，然后去执行后面的动作。
+暂停动作执行，直到等待的键盘按键被触发，才能继续行后面的动作。
 
-![WaitKey](./images/2022-11-26_193743.png ':size=90%')
+![WaitKey](./images/07.png ':size=90%')
 
 ## 子流程
 
@@ -12,6 +12,7 @@
 * 按键
 > 键盘按键。
 
+
 ## 输出
   
 >    无
@@ -19,3 +20,4 @@
 
 ## 资源
 
+* 流程：https://github.com/shelllet/WinUi/blob/main/keyboard/waitkey.simple
