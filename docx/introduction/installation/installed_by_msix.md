@@ -5,11 +5,11 @@
 
 ![ms-store](./images/2022-07-12_191837.png ':size=90%')
     
-2. 输入`WinUi++` 搜索
+2. 输入`小友+` 搜索
 
 ![ms-store](./images/2022-07-12_192141.png ':size=90%')
 
-3. 点击搜索出来的`WinUi++`
+3. 点击搜索出来的`小友+`
 
 ![ms-store](./images/03.png ':size=40%')
 
@@ -19,4 +19,4 @@
 
 
 
-!> [点击直达微软商店页面，获取WinUi++](ms-windows-store://pdp/?productid=9N8HM4N6R77J)
+!> [点击直达微软商店页面，获取小友+](ms-windows-store://pdp/?productid=9N8HM4N6R77J)

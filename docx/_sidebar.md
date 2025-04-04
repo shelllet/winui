@@ -1,4 +1,4 @@
-- [WinUi++](/)
+- [小友+](/)
   - [使用需知](./introduction/README.md)
   - 软件安装
       - [直接安装](./introduction/installation/installed_by_exe.md)
