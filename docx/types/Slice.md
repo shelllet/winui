@@ -4,7 +4,7 @@ Python 内置函数 slice() 返回一个切片对象，用于切取任何序列�
 
 
 ````python
-text = 'Hello, winui++!'
+text = 'Hello, 小友+!'
 
 sliced = slice(3)
 

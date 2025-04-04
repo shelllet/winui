@@ -22,7 +22,7 @@
 
 ```python
 
-str = 'hello, winui++'
+str = 'hello, 小友+'
 
 ```
 
