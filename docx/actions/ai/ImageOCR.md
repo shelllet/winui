@@ -1,7 +1,7 @@
-# 中文识别 
+# 文字识别 
 识别图像中的中文/英文文字。
 
-![TextChinese](./images/03.png ':size=90%')
+![ImageOCR](./images/03.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -26,7 +26,7 @@
 
 ### 其它
 
-示例 https://github.com/shelllet/WinUi/blob/main/dnn/TextChinese.simple
+示例 https://github.com/shelllet/WinUi/blob/main/dnn/ImageOCR.simple
 
 <iframe type="text/html" height="640px" src="https://www.youtube.com/embed/-XdfKlw-vgQ" frameborder="0"></iframe>
 

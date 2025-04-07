@@ -12,7 +12,7 @@
 * 模型
 > *ONNX* 分类模型。
 * 图像
->   要分类的图像。通常是归一化后的图像数据，操作步骤：先进行 [*像素缩放*](./actions/image/ScalePixel.md) 动作，将图像像素缩放至 （0 ~ 1），然后 [*均值*](./actions/image/ImageMean.md) 动作操作，最后再再执行 [*标准差*](./actions/image/ImageStd.md) 。
+>   要分类的图像。通常是归一化后的图像数据，操作步骤：先进行 [*像素缩放*](./actions/image/ImageNormalize.md) 动作，将图像像素缩放至 （0 ~ 1），然后 [*均值*](./actions/image/ImageMean.md) 动作操作，最后再再执行 [*标准差*](./actions/image/ImageStd.md) 。
 * 标签
 > 预定义的分类标签。
 
