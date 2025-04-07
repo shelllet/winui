@@ -1,5 +1,5 @@
 # 合并字符串 
-将字符串列表，或者含有字符串的列表（如 [文本检测](./actions/ai/TextChinese.md)），合并成字符串。
+将字符串列表，或者含有字符串的列表（如 [文本检测](./actions/ai/ImageOCR.md)），合并成字符串。
 
 ![JoinString](./images/16.png ':size=90%')
 
