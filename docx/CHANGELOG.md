@@ -4,6 +4,7 @@
 1. 增加[图像匹配](./actions/detection/MatchImage.md) 动作。
 2. 增加[条码识别](./actions/ai/BarcodeDetector.md) 动作。
 3. [打印日志](./actions/system/PrintMessage.md) 支持输出图片。
+4. 修复 [条码生成](./actions/draw/BarcodeCreate.md) 动作崩溃问题
 
 
 ### Note

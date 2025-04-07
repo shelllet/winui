@@ -12,7 +12,7 @@
 * 模型
 > *ONNX* 模型。
 * 图像
-> 包含检测目标的图像。通常是归一化后的图像数据，操作步骤：先进行 [*像素缩放*](../actions/image/ScalePixel.md) 动作，将图像像素缩放至 （0 - 1），然后 [*均值*](../actions/image/ImageMean.md) 动作操作，最后再再执行 [*标准差*](../actions/image/ImageStd.md) 。
+> 包含检测目标的图像。通常是归一化后的图像数据，操作步骤：先进行 [*像素缩放*](../actions/image/ImageNormalize.md) 动作，将图像像素缩放至 （0 - 1），然后 [*均值*](../actions/image/ImageMean.md) 动作操作，最后再再执行 [*标准差*](../actions/image/ImageStd.md) 。
 * 置信度
 > 低于该值的被认为不准确的检测结果。
 

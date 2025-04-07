@@ -18,7 +18,7 @@
     - [通配符匹配](./introduction/workflow/wildcard.md)
     - [Glob模式匹配](./introduction/workflow/glob.md)
     - [Web 定位策略](./introduction/webdriver/locators.md)
-    - [安装 UIAutomatorViewer 工具](./introduction/android/uiautomatorviewer.md)
+    - [UIAutomatorViewer 工具](./introduction/android/uiautomatorviewer.md)
   - [动作](./actions/README.md)
     - 系统
       - [等待](./actions/system/Wait.md)
@@ -113,7 +113,7 @@
       - [连通域分析](./actions/image/ConnectedComponents.md)
       - [均值](./actions/image/ImageMean.md)
       - [标准差](./actions/image/ImageStd.md)
-      - [像素缩放](./actions/image/ScalePixel.md)
+      - [像素归一化](./actions/image/ImageNormalize.md)
     - 图像检测
       - [直线检测](./actions/detection/LineDetection.md)
       - [椭圆检测](./actions/detection/EllipseDetection.md)
@@ -128,10 +128,13 @@
     - 绘图
       - [绘制矩形](./actions/draw/DrawRect.md)
       - [填充颜色](./actions/draw/FillColor.md)
+      - [条码生成](./actions/draw/BarcodeCreate.md)
+      - [文字绘制](./actions/draw/DrawText.md)
+      - [图像绘制](./actions/draw/DrawImage.md)
     - 深度学习
       - [目标分类](./actions/ai/ImageClassification.md)
       - [对象检测](./actions/ai/ObjectDetection.md)
-      - [中文识别](./actions/ai/TextChinese.md)
+      - [文字识别](./actions/ai/ImageOCR.md)
       - [文本块检测](./actions/ai/TextDetection.md)
       - [二维码识别](./actions/ai/QRCode.md)
       - [条码识别](./actions/ai/BarcodeDetector.md)
@@ -336,4 +339,5 @@
     - [WebKey](./enums/WebKey.md)
     - [WebLocated](./enums/WebLocated.md)
     - [ModuleOption](./enums/ModuleOption.md)
+    - [BARCODE_Encoding](./enums/BARCODE_Encoding.md)
   - [Changelog](./CHANGELOG.md)
