@@ -1,12 +1,27 @@
-# [0.42.4](https://github.com/shelllet/winui/compare/main...dev) (2025-03-30)
+# [0.43.0](https://github.com/shelllet/winui/compare/main...dev) (2025-04-07)
+
+### Changed：
+1. 增加[图像匹配](./actions/detection/MatchImage.md) 动作。
+2. 增加[条码识别](./actions/ai/BarcodeDetector.md) 动作。
+3. [打印日志](./actions/system/PrintMessage.md) 支持输出图片。
+4. 修复 [条码生成](./actions/draw/BarcodeCreate.md) 动作崩溃问题
+5. 完善文档。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://winui.net/_media/simple/小友+0.43.0-setup.x64.exe
+
+
+## [0.42.4](https://github.com/shelllet/winui/compare/main...dev) (2025-03-30)
 
 ### Changed：
 1. 修复预览图片在小屏幕无法显示问题。
 
 ### Note
 
-1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
-2. 64位下载(x64)：https://winui.net/_media/simple/winui++0.42.4-setup.x64.exe
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://winui.net/_media/simple/小友+0.42.4-setup.x64.exe
 
 
 ## [0.42.1](https://github.com/shelllet/winui/compare/main...dev) (2025-02-26)
@@ -16,8 +31,8 @@
 
 ### Note
 
-1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
-2. 64位下载(x64)：https://winui.net/_media/simple/winui++0.42.1-setup.x64.exe
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://winui.net/_media/simple/小友+0.42.1-setup.x64.exe
 
 
 ## [0.42.0](https://github.com/shelllet/winui/compare/main...dev) (2025-01-20)
@@ -28,8 +43,8 @@
 
 ### Note
 
-1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
-2. 64位下载(x64)：https://winui.net/_media/simple/winui++0.42.0-setup.x64.exe
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://winui.net/_media/simple/小友+0.42.0-setup.x64.exe
 
 ## [0.41.0](https://github.com/shelllet/winui/compare/main...dev) (2024-12-14)
 
@@ -39,7 +54,7 @@
 
 ### Note
 
-1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
 2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.41.0-setup.x64.exe
 
 ## [0.40.1](https://github.com/shelllet/winui/compare/main...dev) (2024-11-06)
@@ -50,7 +65,7 @@
 
 ### Note
 
-1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
 2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.40.1-setup.x64.exe
 
 ## [0.40](https://github.com/shelllet/winui/compare/main...dev) (2024-11-04)
@@ -61,7 +76,7 @@
 
 ### Note
 
-1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
 2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.40.0-setup.x64.exe
 
 ## [0.39](https://github.com/shelllet/winui/compare/main...dev) (2024-09-30)
@@ -74,7 +89,7 @@
 
 ### Note
 
-1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
 2. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.39.0-setup.x64.exe
 
 ## [0.38](https://github.com/shelllet/winui/compare/main...dev) (2024-09-06)
@@ -86,8 +101,8 @@
 
 ### Note
 
-1. 使用管理员权限运行 *winui++*, 无法显示 *动作* 的拖动效果（已知问题）。
-2. 更换默认安装目录为 *ProgramData*，全新安装 *winui++* 时， 不再需要 *管理员* 权限。如果覆盖安装，目录不会做变更。
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 更换默认安装目录为 *ProgramData*，全新安装 *小友+* 时， 不再需要 *管理员* 权限。如果覆盖安装，目录不会做变更。
 
 3. 64位下载(x64)：https://bitbucket.org/winui-release/version/downloads/winui0.38.0-setup.x64.exe
 
@@ -171,7 +186,7 @@
 
 ### Changed：
 
-1. 修复 [#60](https://github.com/shelllet/winui/issues/60) ： 管理员运行WinUI++，无法拖拽动作到视图上。
+1. 修复 [#60](https://github.com/shelllet/winui/issues/60) ： 管理员运行小友+，无法拖拽动作到视图上。
 2. 修复动作日志保存问题。
 
 ### Deprecated:
