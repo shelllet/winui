@@ -10,7 +10,7 @@
 ## 运行参数
 
 * 数据 
->   含有文本的列表，例如 [*文字识别*](./actions/ai/ImageOCR.md) 动作。
+>   含有文本的列表，例如 [*文字识别*](./actions/ai/PaddleOCR.md) 动作。
   
 * 文本
 > 文本，*字符串* 类型，参考：[String](./types/String.md)， 支持 [*通配符（WildCard）*](./introduction/process/wildcard.md) 匹配。
