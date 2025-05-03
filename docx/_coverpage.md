@@ -7,7 +7,7 @@
 
 - Right now support down to build 17763 (version 1809/October 2018 Update) of Windows 10.. 
 
-[微软商店](https://apps.microsoft.com/store/detail/XP9BRHTXN0Z3V7)
+[微软商店](https://apps.microsoft.com/detail/xp9lv7v0p6s74z?hl=en-US&gl=CN)
 [下载](https://api.winui.net/simple/v5/download_latest ':id=simple')
 
 
