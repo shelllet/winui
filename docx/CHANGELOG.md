@@ -1,4 +1,4 @@
-# [0.44.0](https://github.com/shelllet/winui/compare/main...dev) (2025-05-xx)
+# [0.44.0](https://github.com/shelllet/winui/compare/main...dev) (2025-05-03)
 
 ### Changed：
 1. [相机类型](./actions/type/TypeCamera.md) 动作支持工业 USB3/GIGE 接口相机，比如海康相机。
@@ -8,6 +8,8 @@
 5. 动作支持借助脚本更新运行时参数，详情参考动作说明。 
 6. 修复导入其它流程崩溃问题。
 7. 修复 Web 自动化浏览器无正常退出问题。
+8. 修复 [图像匹配](./actions/detection/MatchImage.md) 不显示另 `Else` 连接点。
+9. 修复 打开流程后，按 *Enter* 键崩溃问题。
 
 ### Note
 
