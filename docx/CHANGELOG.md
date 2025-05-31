@@ -1,4 +1,17 @@
-# [0.44.0](https://github.com/shelllet/winui/compare/main...dev) (2025-05-03)
+# [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-xx-xx)
+
+### Changed：
+1. 修复图像名称包含中文时崩溃问题。
+2. 添加最近打开窗口，方便打开流程。
+3. 更新动作预览功能（现在会从流程入口开始执行到该动作执行完结束）。
+4. 保存图像动作，支持把图像保存为*PDF*文件（文件名称以 `.pdf` 结尾）。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://winui.net/_media/simple/小友+0.45.0-setup.x64.exe
+
+## [0.44.0](https://github.com/shelllet/winui/compare/main...dev) (2025-05-03)
 
 ### Changed：
 1. [相机类型](./actions/type/TypeCamera.md) 动作支持工业 USB3/GIGE 接口相机，比如海康相机。
