@@ -149,7 +149,7 @@
       - [文字识别（Tesseract）](./actions/ai/TesseractOCR.md)
     - 媒体
       - [窗口截图](./actions/media/CaptureWindow.md)
-      - [全屏截图](./actions/media/CaptureFullScreen.md)
+      - [全屏截图](./actions/media/CaptureScreen.md)
       - [活动窗口截图](./actions/media/CaptureActiveWindow.md)
       - [声音播放](./actions/media/MediaPlay.md)
       - [键盘/鼠标宏重放](./actions/media/PlayRecord.md)
