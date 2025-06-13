@@ -1,4 +1,19 @@
-# [0.44.0](https://github.com/shelllet/winui/compare/main...dev) (2025-05-03)
+# [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
+
+### Changed：
+1. 添加最近打开窗口，方便打开流程。
+2. 更新动作预览功能（现在会从流程入口开始执行到该动作执行完结束）。
+3. 保存图像动作，支持把图像保存为*PDF*文件（文件名称以 `.pdf` 结尾）。
+4. 截图动作中的*ROI* *中心位置* 更改为图像 *左上角*。
+5. *窗口截图* 动作输出图像大小调整为窗口所在屏幕大小。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 此版本会清空缓存目录：`%LOCALAPPDATA%/Simple`。
+3. 64位下载(x64)：https://workdrive.zohopublic.com.cn/external/bd3d721a396c44df20e00de7ccf69d9957777ebe9591a871d9d777f9c7dfcedc/download
+
+## [0.44.0](https://github.com/shelllet/winui/compare/main...dev) (2025-05-03)
 
 ### Changed：
 1. [相机类型](./actions/type/TypeCamera.md) 动作支持工业 USB3/GIGE 接口相机，比如海康相机。
