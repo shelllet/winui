@@ -1,4 +1,4 @@
-# [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-xx-xx)
+# [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
 
 ### Changed：
 1. 添加最近打开窗口，方便打开流程。
@@ -10,7 +10,8 @@
 ### Note
 
 1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
-2. 64位下载(x64)：
+2. 此版本会清空缓存目录：`%LOCALAPPDATA%/Simple`。
+3. 64位下载(x64)：https://workdrive.zohopublic.com.cn/external/bd3d721a396c44df20e00de7ccf69d9957777ebe9591a871d9d777f9c7dfcedc/download
 
 ## [0.44.0](https://github.com/shelllet/winui/compare/main...dev) (2025-05-03)
 
