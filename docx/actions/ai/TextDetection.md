@@ -29,8 +29,8 @@ import simple;
 
 示例 https://github.com/shelllet/WinUi/blob/main/dnn/TextDetection.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/4UfXmg0qnhk" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Zj411L7Uq&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 !> 文字检测模型训练：https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_ch/detection.md

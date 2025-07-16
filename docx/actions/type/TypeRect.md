@@ -27,6 +27,5 @@ rc = simple.Rect(0,0, 100, 100)
 
 ## 示例
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/e1KLRd373V4" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1sLNMeYEw2&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

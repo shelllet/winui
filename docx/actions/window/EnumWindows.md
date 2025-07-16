@@ -21,8 +21,6 @@
 * 排序
 > 参考 [WindowSortDirection](../enums/WindowSortDirection.md)
 
-* 异步处理子流程
-  > 开启线程处理每个枚举到的窗口。
   
 ## 输出
 
@@ -32,12 +30,12 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/window/EnumWindows.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/bnrfNystwcs" frameborder="0"></iframe>
-
-<iframe src="//player.bilibili.com/player.html?bvid=BV1T8411v78a&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 ## 版本变化
+
+* 0.41.1
+> 移动异步处理参数。 
 
 * 0.31
 > 增加运行时参数（标题/ 类名过滤/ 排序）。

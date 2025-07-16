@@ -1,4 +1,14 @@
-# [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
+# [0.45.1](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
+
+### Changed：
+1. [枚举窗口](./actions/window/EnumWindows.md) 动作不再支持异步处理。
+2. 优化绘图动作运行时参数。
+3. 优化 `Web` 测试 [打开浏览器](./actions/web/WebOpen.md)动作。
+4. 优化 浏览器 [获取 Cookies](./actions/web/WebCookies.md) 动作。
+5. 优化 [视频下载](./actions/network/VideoDownload.md) 动作。
+
+
+## [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
 
 ### Changed：
 1. 添加最近打开窗口，方便打开流程。

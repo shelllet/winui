@@ -23,6 +23,5 @@
 * 流程：https://github.com/shelllet/WinUi/blob/main/web/attr.simple
 
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/JMiSP5vKtzs" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1VD421N7nz&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

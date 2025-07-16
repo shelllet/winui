@@ -39,8 +39,8 @@ r.run()
 ## 资源
 * 流程：https://github.com/shelllet/WinUi/blob/main/filesystem/CopyFile.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/04VDa9k2ako" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV16F411Z7oU&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 !> 不可复制文件夹
