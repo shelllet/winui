@@ -25,6 +25,5 @@
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/web/action_drag.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/MSiwANmdej8" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Fx4y1b7Yv&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

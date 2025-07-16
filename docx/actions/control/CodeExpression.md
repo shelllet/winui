@@ -24,9 +24,9 @@ a + 10 # 表达式。
 
 > 表达式的计算结果。例如： `a` 是一个数字。则`a + 10`的结果是一个数字类型[`Number`](./types/Number.md)。
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/mIhweQQ7DbI" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1FSWbeiEeN&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 ## 其它
 

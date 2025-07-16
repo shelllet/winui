@@ -28,6 +28,5 @@
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/web/waiit_iframe.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/Ed8y7s2qSK0" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1wb421q7bf&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

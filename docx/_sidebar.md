@@ -16,17 +16,23 @@
     - [资源](./introduction/workflow/resources.md)
     - [动作](./introduction/workflow/action.md)
     - [流程操作技巧](./introduction/workflow/skill.md)
-  - 其它
+  - 浏览器
+    - [Web 定位策略](./introduction/webdriver/locators.md)
+    - [WebDriver 下载](./introduction/webdriver/download.md)
+    - [浏览器配置目录](./introduction/webdriver/browser_directory.md)
+    - [UIAutomatorViewer 工具](./introduction/android/uiautomatorviewer.md)
+
+  - 字符匹配
     - [Glob模式](./introduction/mixed/glob.md)
     - [通配符](./introduction/mixed/wildcard.md)
-    - [Web 定位策略](./introduction/webdriver/locators.md)
+
+  - AI
     - [Tesseract 支持的语言](./introduction/tesseract/Languages_Scripts.md)
     - [Tesseract 数据文件](./introduction/tesseract/Data-Files.md)
     - [Tesseract 5 的训练](./introduction/tesseract/tesstrain.md)
-    - [ Windows 系统上安装 CUDA](./introduction/mixed/CUDA.md)
+    - [安装 CUDA](./introduction/mixed/CUDA.md)
     - [cuDNN 和 CUDA 版本对应关系](./introduction/mixed/cuDNN.md)
     - [Paddle2ONNX模型转化](./introduction/mixed/paddle2onnx.md)
-    - [UIAutomatorViewer 工具](./introduction/android/uiautomatorviewer.md)
   - [动作](./actions/README.md)
     - 系统
       - [等待](./actions/system/Wait.md)
@@ -195,7 +201,7 @@
       - [切换框架](./actions/web/WebSwitchToFrame.md)
       - [重置框架](./actions/web/WebFocusFrameDefault.md)
       - [元素截图](./actions/web/WebScreenshot.md)
-      - [获取 Cookie](./actions/web/WebCookies.md)
+      - [获取 Cookies](./actions/web/WebCookies.md)
       - [执行脚本](./actions/web/WebExecute.md)
       - [动作链*执行](./actions/web/WebActionChainsPerform.md)
       - [动作链.点击](./actions/web/WebActionClick.md)
@@ -354,4 +360,5 @@
     - [CameraTriggerActivation](./enums/CameraTriggerActivation.md)
     - [CameraTriggerSource](./enums/CameraTriggerSource.md)
     - [CameraType](./enums/CameraType.md)
+    - [CookiesFormat](./enums/CookiesFormat.md)
   - [Changelog](./CHANGELOG.md)

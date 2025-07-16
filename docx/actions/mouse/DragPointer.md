@@ -30,6 +30,5 @@ import simple;
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/mouse/DragPointer.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/Rf_0-MGF5Nw" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV12j41117yN&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

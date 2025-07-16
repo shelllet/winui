@@ -38,6 +38,6 @@ r.run()
 
 * 示例流程：https://github.com/shelllet/WinUi/blob/main/system/OpenApplication.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/pHl6kwBsxiE" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Xj411Q7JL&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
