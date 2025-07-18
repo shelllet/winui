@@ -1,4 +1,4 @@
-# [0.45.1](https://github.com/shelllet/winui/compare/main...dev) (2025-07-19)
+# [0.46.0](https://github.com/shelllet/winui/compare/main...dev) (2025-07-19)
 
 ### Changed：
 1. [枚举窗口](./actions/window/EnumWindows.md) 动作不再支持异步处理。
