@@ -38,9 +38,9 @@ import simple;
 例子：https://github.com/shelllet/WinUi/blob/main/detection/ShapeDetection.simple
 
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/NRlkMqjheZE" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1gw411z7Z2&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 ## 版本变化
 

@@ -21,8 +21,8 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/window/ActiveWindow.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/zhsbenmmuwM" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1sF411D7Sh&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 !> 无法前置最小化的窗口

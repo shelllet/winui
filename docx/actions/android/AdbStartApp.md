@@ -25,6 +25,5 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/android/startapp.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/CDJ08T7XZUA" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1mWeReyE3z&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

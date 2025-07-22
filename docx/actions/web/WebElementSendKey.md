@@ -24,6 +24,5 @@
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/web/sendkey.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/Xm355LG35s8" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV11C41177eF&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

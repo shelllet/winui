@@ -36,6 +36,5 @@
 
 示例 https://github.com/shelllet/WinUi/blob/main/dnn/PaddleOCR.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/-XdfKlw-vgQ" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV17N4y1S7xm&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

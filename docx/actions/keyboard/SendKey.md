@@ -28,9 +28,9 @@
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/keyboard/SendKey.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/84TvkrTkjQk" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1zu411J7FP&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 
 ## 版本变化

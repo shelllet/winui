@@ -1,4 +1,18 @@
-# [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
+# [0.46.0](https://github.com/shelllet/winui/compare/main...dev) (2025-07-22)
+
+### Changed：
+1. [枚举窗口](./actions/window/EnumWindows.md) 动作不再支持异步处理。
+2. 优化绘图动作运行时参数。
+3. 优化 `Web` 测试 [打开浏览器](./actions/web/WebOpen.md)动作。
+4. 优化 浏览器 [获取 Cookies](./actions/web/WebCookies.md) 动作。
+5. 优化 [视频下载](./actions/network/VideoDownload.md) 动作。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+3. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
+
+## [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
 
 ### Changed：
 1. 添加最近打开窗口，方便打开流程。
@@ -11,7 +25,7 @@
 
 1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
 2. 此版本会清空缓存目录：`%LOCALAPPDATA%/Simple`。
-3. 64位下载(x64)：https://workdrive.zohopublic.com.cn/external/bd3d721a396c44df20e00de7ccf69d9957777ebe9591a871d9d777f9c7dfcedc/download
+3. 64位下载(x64)：https://winui.net/_media/simple/小友+0.45.0-setup.x64.exe
 
 ## [0.44.0](https://github.com/shelllet/winui/compare/main...dev) (2025-05-03)
 
