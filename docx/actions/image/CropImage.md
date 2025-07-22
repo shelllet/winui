@@ -30,6 +30,6 @@ import simple;
 示例：https://github.com/shelllet/WinUi/blob/main/image/CropImage.simple
 
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/3e_57ygy8VM" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1UH4y1m7y1&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+

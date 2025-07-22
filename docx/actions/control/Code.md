@@ -30,6 +30,6 @@ global var
 
 示例：https://github.com/shelllet/WinUi/blob/main/control/code.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/T22DERK86p0" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV11HH6eiE9w&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+

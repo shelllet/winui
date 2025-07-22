@@ -42,6 +42,5 @@ import simple;
 
 示例：https://github.com/shelllet/WinUi/blob/main/image/ImageBlur.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/PPJaE5l3aTs" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1dw411y7gC&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

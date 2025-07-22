@@ -25,9 +25,9 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/control/param.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/FJ7zgSl38JU" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1WrsWe8EPp&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 ## 版本变化 
 

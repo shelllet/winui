@@ -15,6 +15,10 @@
   > 要遍历的文件夹
 * [recursive](./types/Boolean.md)
  > 是否递归遍历, 默认 `False`。
+
+ * 扩展名 [`extensions`](./types/String.md)
+> 根据文件扩展名过滤，多个扩展名使用 `,` 、`;` 或者 `|` 分隔。
+
 * [async](./types/Boolean.md)
   > 是否异步处理子流程，也就是开启线程处理子流程。默认 `False`，不支持在脚本中使用。
 
@@ -40,6 +44,13 @@ r.run(cbk)
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/filesystem/DirectoryIterator.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/wyNKOzko77Q" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1ym4y1p725&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
+
+
+
+## 版本变化
+
+* 0.45
+> 增加 *扩展名过滤* 参数。

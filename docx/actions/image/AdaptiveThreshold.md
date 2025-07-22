@@ -43,6 +43,5 @@ import simple;
 
 示例：https://github.com/shelllet/WinUi/blob/main/image/AdaptiveThreshold.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/8prkHX7ZU1I" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1ew411y7tY&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

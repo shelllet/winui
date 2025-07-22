@@ -1,4 +1,52 @@
-# [0.43.0](https://github.com/shelllet/winui/compare/main...dev) (2025-04-07)
+# [0.46.0](https://github.com/shelllet/winui/compare/main...dev) (2025-07-22)
+
+### Changed：
+1. [枚举窗口](./actions/window/EnumWindows.md) 动作不再支持异步处理。
+2. 优化绘图动作运行时参数。
+3. 优化 `Web` 测试 [打开浏览器](./actions/web/WebOpen.md)动作。
+4. 优化 浏览器 [获取 Cookies](./actions/web/WebCookies.md) 动作。
+5. 优化 [视频下载](./actions/network/VideoDownload.md) 动作。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+3. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
+
+## [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
+
+### Changed：
+1. 添加最近打开窗口，方便打开流程。
+2. 更新动作预览功能（现在会从流程入口开始执行到该动作执行完结束）。
+3. 保存图像动作，支持把图像保存为*PDF*文件（文件名称以 `.pdf` 结尾）。
+4. 截图动作中的*ROI* *中心位置* 更改为图像 *左上角*。
+5. *窗口截图* 动作输出图像大小调整为窗口所在屏幕大小。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 此版本会清空缓存目录：`%LOCALAPPDATA%/Simple`。
+3. 64位下载(x64)：https://winui.net/_media/simple/小友+0.45.0-setup.x64.exe
+
+## [0.44.0](https://github.com/shelllet/winui/compare/main...dev) (2025-05-03)
+
+### Changed：
+1. [相机类型](./actions/type/TypeCamera.md) 动作支持工业 USB3/GIGE 接口相机，比如海康相机。
+2. 更新 [文字识别](./actions/ai/PaddleOCR.md) 动作，运行加载其它语言模型，用来识别中英文以外的文字。
+3. 更新 [文字识别（Tesseract）](./actions/ai/TesseractOCR.md) 动作, 支持基于 *Tesseract* （常用来识别特殊字体）的文字识别。
+4. 添加动作菜单*缓存对象*。 用来解决 某些动作反复执行时，由于内置对象的初始化比较耗，导致不必要的时间开销。
+5. 动作支持借助脚本更新运行时参数，详情参考动作说明。 
+6. 修复导入其它流程崩溃问题。
+7. 修复 Web 自动化浏览器无正常退出问题。
+8. 修复 [图像匹配](./actions/detection/MatchImage.md) 不显示另 `Else` 连接点。
+9. 修复 打开流程后，按 *Enter* 键崩溃问题。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 64位下载(x64)：https://winui.net/_media/simple/小友+0.44.0-setup.x64.exe
+
+
+## [0.43.0](https://github.com/shelllet/winui/compare/main...dev) (2025-04-07)
 
 ### Changed：
 1. 增加[图像匹配](./actions/detection/MatchImage.md) 动作。

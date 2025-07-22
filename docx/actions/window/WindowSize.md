@@ -30,6 +30,5 @@ import simple;
 
 示例：https://github.com/shelllet/WinUi/blob/main/window/WindowSize.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/Z32QnhBB4tE" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Pw411v7bN&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

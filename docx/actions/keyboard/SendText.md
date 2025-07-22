@@ -32,6 +32,5 @@ import simple;
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/keyboard/SendText.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/3XTiB_6Od5s" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1gN4y1d7eq&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
