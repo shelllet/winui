@@ -28,6 +28,5 @@
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/web/wait_visible.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/-rz_hIVAL9o" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV14D421N7Tx&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

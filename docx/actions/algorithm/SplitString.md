@@ -24,6 +24,6 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/algorithm/SplitString.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/iT-9KuMpEN4" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1qF2JYBETp&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+

@@ -22,6 +22,5 @@
 示例： https://github.com/shelllet/WinUi/blob/main/network/HttpHead.simple
 
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/q5gq-b0bHgA" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV14Q4y1A7e7&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

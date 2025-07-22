@@ -41,6 +41,5 @@ r.run(cbk)
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/filesystem/ReadLines.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/W7ylKB7mqNI" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1np4y1g72j&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

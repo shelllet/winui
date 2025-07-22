@@ -41,9 +41,9 @@ emulator-5557 device
 
 ## 资源
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/OUlwQi8WFd8" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1XQYAe6ERC&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 
 !> 该动作超出作用域后，会终止 *adb* 服务。

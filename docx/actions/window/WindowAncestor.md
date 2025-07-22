@@ -30,6 +30,5 @@ import simple;
 
 示例：https://github.com/shelllet/WinUi/blob/main/window/WindowAncestor.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/8-1OlbRTVSA" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Ah4y1A7TV&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

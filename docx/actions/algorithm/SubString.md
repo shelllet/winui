@@ -27,6 +27,5 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/algorithm/SubString.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/BV1oF2JYqEzd" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=6pOaVyNEfkE&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
