@@ -9,16 +9,25 @@
 
 ## 运行参数
 
-* 网址
+* 网址 <sup>1</sup>
 > 视频或音频链接。
 
-* Cookies 文件
+* Cookies 文件 <sup>2</sup>
 > 选择Cookies 文件，解决比如 Youtube 登录验证问题。参考插件：[Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)。
 
-* 选项
+* (2)浏览器获取Cookies <sup>3</sup>
+> 如果选中，则会从对应的浏览器获取 `Cookies`。
+
+* 浏览器 <sup>4</sup>
+> 默认 `chrome` 浏览器，仅在参数 `3` 选中时使用。
+
+* 配置目录 <sup>5</sup>
+  > 可以填写配置名称或者路径。 参考[浏览器配置目录](./introduction/webdriver/browser_directory.md)。仅在参数 `3` 选中时使用。
+
+* 选项 <sup>6</sup>
 > 默认下载MP4格式文件。 例如下载 128k 声音文件：`-f bestaudio -x --audio-format mp3 --audio-quality 128k`
 
-* 目录
+* 保存位置 <sup>7</sup>
 
 > 下载的视频保存的文件夹。
 
@@ -30,12 +39,12 @@
 
 * 示例： https://github.com/shelllet/WinUi/blob/main/network/YoutubeDownload.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/3GBJXTQsUKI" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV12e411a7ZM&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 
 ## 版本变化 
 
 * 0.42
-> 新增加 *Cookies 文件* 参数。
+> 新增加运行时参数 <sup> 3</sup> 、<sup> 4</sup>、 <sup> 5</sup>。

@@ -28,6 +28,5 @@
 
 示例：https://github.com/shelllet/WinUi/blob/main/image/ImageMarkROI.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/YDmLpSzti5M" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Vw411A7XA&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

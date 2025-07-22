@@ -24,6 +24,6 @@
 示例：https://github.com/shelllet/WinUi/blob/main/image/ResizeImage.simple
 
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/dhKHYqk2Byk" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Mj41187oF&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+

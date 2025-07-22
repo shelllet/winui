@@ -30,8 +30,8 @@ import simple;
 ## 资源
 * 流程：https://github.com/shelllet/WinUi/blob/main/keyboard/ListenKeyboard.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/LYCT-2IdSKk" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1ap4y1J7JL&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 !> 该动作属于异步动作

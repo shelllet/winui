@@ -17,24 +17,29 @@
 - 浏览器
   > 可以选择 谷歌 _Chrome_ 或者 微软 _Edge_ 浏览器。
 
+- 用户目录
+
+  > 参考[浏览器配置目录](./introduction/webdriver/browser_directory.md)。 由于浏览器的限制，如果该目录和浏览器的默认目录一致，需要在执行流程前退出当前已经打开的浏览器。
+- 配置名称
+  > 参考[浏览器配置目录](./introduction/webdriver/browser_directory.md)，配置目录名称。
+
 ## 输出
 > 参考：[WebDriver](./types/WebDriver.md)
 
 ## 示例
 * 流程：https://github.com/shelllet/WinUi/blob/main/web/openurl.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/48Rh_ObzGK0" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1aZ421J7FN&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-## 驱动手动下载
+## 驱动
 
-| <div style="width:200px">Browser</div> | <div style="width:200px">Maintained by</div> | <div style="width:200px">Download by</div>                                         |
-| :------------------------------------: | :------------------------------------------: | ---------------------------------------------------------------------------------- |
-|            Chromium/Chrome             |                    Google                    | [Downloads](https://chromedriver.chromium.org/downloads)                           |
-|                  Edge                  |                  Microsoft                   | [Downloads](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) |
+该动作如果首次运行，会检测驱动缓存目录：`%LOCALAPPDATA%\Simple\selenium` 是否有上表列出的相对应的浏览器驱动，如果不存在，则会下载相应的浏览器驱动。因此需要网络连接或者手动下载驱动放置在该目录。若需要手动下载，请参考：[浏览器 WebDriver 驱动](./introduction/webdriver/download.md)。
 
-!> 该动作如果首次运行，会检测驱动缓存目录：`%LOCALAPPDATA%\Simple\selenium` 是否有上表列出的相对应的浏览器驱动，如果不存在，则会下载相应的浏览器驱动。因此需要网络连接或者手动下载驱动放置在该目录。
 
 
 !> 由于浏览器的安全策略限制，使用管理员身份执行该动作，可能导致失败！
+
+
+## 版本变化
+- 0.46
+> 新增加 `用户目录` 和 `配置名称` 运行时参数。

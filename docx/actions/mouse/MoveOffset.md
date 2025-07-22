@@ -31,6 +31,5 @@ import simple;
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/mouse/MoveOffset.simple
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/9EpRl5DP4CQ" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Sp4y1L7bj&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

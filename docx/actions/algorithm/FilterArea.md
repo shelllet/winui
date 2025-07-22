@@ -27,6 +27,5 @@
 示例：https://github.com/shelllet/WinUi/blob/main/algorithm/FilterArea.simple
 
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/8w9gRj7K5UE" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1TYyiYAEGA&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

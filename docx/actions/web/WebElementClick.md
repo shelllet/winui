@@ -22,6 +22,5 @@
 * 流程：https://github.com/shelllet/WinUi/blob/main/web/click.simple
 
 
-<iframe type="text/html" height="640px" src="https://www.youtube.com/embed/ot1qbVL26Co" frameborder="0"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1JM4m1d7Qv&page=1&autoplay=0" height='640px' scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
