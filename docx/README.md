@@ -29,7 +29,7 @@ _小友+_ 绝对不会嵌入任何广告、捆绑任何软件。也不会像国�
 
 #### [截图](https://winui.net/)
 
-![小友+](https://winui.net/introduction/images/01.png)
+![小友+](./introduction/images/01.png)
 
 - 开发版文档：https://shelllet.github.io/winui/#/
 - 示例仓库：https://github.com/shelllet/winui
@@ -41,4 +41,8 @@ _小友+_ 绝对不会嵌入任何广告、捆绑任何软件。也不会像国�
 
 - 如果你有 *Discord*, 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
 
-- 微信交流群，可以从页面下面的评论处扫描加入沟通交流，及时解决使用中的问题.
+<div style="text-align:center;">
+
+![共享群](./introduction/images/qrcode.jpg)
+
+</div>

@@ -2,7 +2,7 @@
 
 # 小友+ 
 
-> A lightweight and fast-running RPA (Robotic Process Automation) tool that provides a graphical interface. Users can design various automation processes without the need for programming.
+> This lightweight and fast-running computer automation tool empowers users with its intuitive graphical interface, making it incredibly easy to design and implement a wide array of automation processes without the need for any programming knowledge. It's designed for anyone, from beginners to experienced professionals, to streamline their workflows effortlessly.
 
 
 - Right now support down to build 17763 (version 1809/October 2018 Update) of Windows 10.. 
