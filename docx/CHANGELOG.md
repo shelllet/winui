@@ -1,4 +1,15 @@
-# [0.46.0](https://github.com/shelllet/winui/compare/main...dev) (2025-07-22)
+# [0.47.0](https://github.com/shelllet/winui/compare/main...dev) (2025-xx-xx)
+
+### Changed：
+1. 优化文字识别动作。
+2. 支持鼠标右键拖动动作视图。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+3. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
+
+## [0.46.0](https://github.com/shelllet/winui/compare/main...dev) (2025-07-22)
 
 ### Changed：
 1. [枚举窗口](./actions/window/EnumWindows.md) 动作不再支持异步处理。
