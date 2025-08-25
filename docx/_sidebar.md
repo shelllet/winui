@@ -15,7 +15,7 @@
     - [变量](./introduction/workflow/variable.md)
     - [资源](./introduction/workflow/resources.md)
     - [动作](./introduction/workflow/action.md)
-    - [流程操作技巧](./introduction/workflow/skill.md)
+    - [内置功能](./introduction/workflow/features.md)
   - 浏览器
     - [Web 定位策略](./introduction/webdriver/locators.md)
     - [WebDriver 下载](./introduction/webdriver/download.md)

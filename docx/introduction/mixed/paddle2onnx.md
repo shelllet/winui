@@ -77,7 +77,7 @@ deactivate
 ```
 
 ### Paddle
-在使用 `pip install paddle` 安装 PaddlePaddle（以下简称 Paddle）时，有一些要点需要注意，下面为你详细介绍不同环境下的安装步骤和注意事项。
+在使用 `pip install paddlepaddle` 安装 PaddlePaddle（以下简称 Paddle）时，有一些要点需要注意，下面为你详细介绍不同环境下的安装步骤和注意事项。
 
 
 #### 1. 选择合适的 Paddle 版本
@@ -129,7 +129,7 @@ $env:PATH = "D:\onnx\cudnn-windows-x86_64-8.9.7.29_cuda12-archive\bin;$env:PATH;
 
 然后根据版本选择合适的安装命令。例如，如果你使用的是 CUDA 12.0 和 cuDNN 9.8，可以运行以下命令：
 ```bash
-pip install paddlepaddle-gpu==2.6.1.post120 -f https://www.paddlepaddle.org.cn/whl/windows/mkl/avx/stable.html
+pip install paddlepaddle-gpu==3.1.0.post120 -f https://www.paddlepaddle.org.cn/whl/windows/mkl/avx/stable.html
 ```
 其中 `2.6.1.post120` 表示 Paddle 的版本，`120` 代表 CUDA 12.0。你可以根据自己的实际情况调整版本号。
 
@@ -166,7 +166,7 @@ Paddle2ONNX 支持将 PaddlePaddle 模型格式转化到 ONNX 模型格式，算
 使用虚拟环境：```(myenv) PS D:\onnx>```。
 - 安装 Paddle2ONNX
 ```
-python -m pip install paddle2onnx
+python -m pip install paddle2onnx==2.0.2rc3
 ```
 
 - 安装 ONNXRuntime
@@ -203,34 +203,68 @@ tar xf ch_PP-OCRv4_rec_infer.tar
 
 ```
 
-- 模型转换（包含3种基础模型）
+- 模型转换（包含 3 种基础模型）
 
 使用 Paddle2ONNX 将Paddle静态图模型转换为ONNX模型格式：
 
 ```PowerShell
-paddle2onnx --model_dir ./ch_PP-OCRv4_det_infer `
---model_filename inference.pdmodel `
+cd PP-OCRv5_server_det_infer
+
+paddle2onnx --model_dir ./PP-OCRv5_server_det_infer `
+--model_filename inference.json `
 --params_filename inference.pdiparams `
---save_file ./det_model.onnx `
---opset_version 14 `
+--save_file ./det_infer.onnx `
+--opset_version 18 `
+--enable_onnx_checker True `
+--optimize_tool polygraphy
+
+
+cd PP-OCRv5_server_rec_infer
+
+paddle2onnx --model_dir ./PP-OCRv5_server_rec_infer `
+--model_filename inference.json `
+--params_filename inference.pdiparams `
+--save_file ./rec_infer.onnx `
+--opset_version 18 `
+--enable_auto_update_opset True `
+--enable_onnx_checker True `
+--optimize_tool onnxoptimizer
+
+cd PP-LCNet_x1_0_textline_ori_infer
+
+paddle2onnx --model_dir ./PP-LCNet_x1_0_textline_ori_infer `
+--model_filename inference.json `
+--params_filename inference.pdiparams `
+--save_file ./textline_ori_infer.onnx `
+--opset_version 18 `
+--enable_onnx_checker True `
+--optimize_tool onnxoptimizer
+
+
+
+cd PP-LCNet_x1_0_doc_ori_infer
+
+paddle2onnx --model_dir ./PP-LCNet_x1_0_doc_ori_infer `
+--model_filename inference.json `
+--params_filename inference.pdiparams `
+--save_file ./doc_ori_infer.onnx `
+--opset_version 18 `
+--enable_onnx_checker True `
+--optimize_tool onnxoptimizer
+
+
+cd UVDoc_infer
+
+paddle2onnx --model_dir ./UVDoc_infer `
+--model_filename inference.json `
+--params_filename inference.pdiparams `
+--save_file ./UVDoc_infer.onnx `
+--opset_version 18 `
 --enable_onnx_checker True
 
-paddle2onnx --model_dir ./ch_PP-OCRv4_rec_infer `
---model_filename inference.pdmodel `
---params_filename inference.pdiparams `
---save_file ./rec_model.onnx `
---opset_version 14 `
---enable_onnx_checker True
-
-paddle2onnx --model_dir ./ch_ppocr_mobile_v2.0_cls_infer `
---model_filename inference.pdmodel `
---params_filename inference.pdiparams `
---save_file ./cls_model.onnx `
---opset_version 14 `
---enable_onnx_checker True
 ```
 
-执行完毕后，ONNX 模型会被分别保存为 `./det_model.onnx`，`./rec_model.onnx`，`./cls_model.onnx/` 
+执行完毕后，ONNX 模型会被分别保存为 `det_infer.onnx`，`./rec_infer.onnx`，`./textline_ori_infer.onnx` `./doc_ori_infer.onnx` `./UVDoc_infer.onnx` 
 
 * 注意：对于OCR模型，转化过程中必须采用动态shape的形式，否则预测结果可能与直接使用Paddle预测有细微不同。
   另外，以下几个模型暂不支持转换为 ONNX 模型：
@@ -243,6 +277,27 @@ paddle2onnx --model_dir ./ch_ppocr_mobile_v2.0_cls_infer `
     --output_model inference/det_onnx/model.onnx `
     --input_shape_dict "{'x': [-1,3,-1,-1]}"
   ```
+
+- 优化ONNX
+
+如你对导出的 ONNX 模型有优化的需求，推荐使用 onnxslim 对模型进行优化:
+
+```
+pip install onnxslim
+
+onnxslim det_infer.onnx slim_det_infer.onnx
+
+
+onnxslim rec_infer.onnx slim_rec_infer.onnx
+
+onnxslim textline_ori_infer.onnx slim_textline_ori_infer.onnx
+
+
+onnxslim doc_ori_infer.onnx slim_doc_ori_infer.onnx
+
+onnxslim doc_infer.onnx slim_doc_infer.onnx
+
+```
 
 ## 3. 推理预测
 
