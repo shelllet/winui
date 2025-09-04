@@ -179,92 +179,251 @@ python -m pip install onnxruntime
 
 - Paddle 模型下载
 
-在 [模型列表](https://paddlepaddle.github.io/PaddleOCR/latest/model/index.html) 中下载PaddleOCR提供的预测模型。通常包含3种模型，其中 **方向分类器** 更新较慢，如果版本号琶可直接使用。
+在 [模型列表](https://www.paddleocr.ai/latest/version3.x/pipeline_usage/OCR.html) 中下载PaddleOCR提供的预测模型。目前包含 5 种模型，
 
 
-以 PP-OCRv4 中文检测、识别、分类模型为例：
+<details>
+<summary><b>文档图像方向分类模块（可选）：</b></summary>
+<table>
+<thead>
+<tr>
+<th>模型</th><th>模型下载链接</th>
+<th>Top-1 Acc（%）</th>
+<th>GPU推理耗时（ms）<br/>[常规模式 / 高性能模式]</th>
+<th>CPU推理耗时（ms）<br/>[常规模式 / 高性能模式]</th>
+<th>模型存储大小（MB）</th>
+<th>介绍</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PP-LCNet_x1_0_doc_ori</td>
+<td><a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-LCNet_x1_0_doc_ori_infer.tar">推理模型</a>/<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-LCNet_x1_0_doc_ori_pretrained.pdparams">训练模型</a></td>
+<td>99.06</td>
+<td>2.62 / 0.59</td>
+<td>3.24 / 1.19</td>
+<td>7</td>
+<td>基于PP-LCNet_x1_0的文档图像分类模型，含有四个类别，即0度，90度，180度，270度</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary><b>文本图像矫正模块（可选）：</b></summary>
+<table>
+<thead>
+<tr>
+<th>模型</th><th>模型下载链接</th>
+<th>CER </th>
+<th>GPU推理耗时（ms）<br/>[常规模式 / 高性能模式]</th>
+<th>CPU推理耗时（ms）<br/>[常规模式 / 高性能模式]</th>
+<th>模型存储大小（MB）</th>
+<th>介绍</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>UVDoc</td>
+<td><a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/UVDoc_infer.tar">推理模型</a>/<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/UVDoc_pretrained.pdparams">训练模型</a></td>
+<td>0.179</td>
+<td>19.05 / 19.05</td>
+<td>- / 869.82</td>
+<td>30.3</td>
+<td>高精度文本图像矫正模型</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary><b>文本行方向分类模块（可选）：</b></summary>
+<table>
+<thead>
+<tr>
+<th>模型</th>
+<th>模型下载链接</th>
+<th>Top-1 Acc（%）</th>
+<th>GPU推理耗时（ms）</th>
+<th>CPU推理耗时 (ms)</th>
+<th>模型存储大小（MB）</th>
+<th>介绍</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PP-LCNet_x0_25_textline_ori</td>
+<td><a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-LCNet_x0_25_textline_ori_infer.tar">推理模型</a>/<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-LCNet_x0_25_textline_ori_pretrained.pdparams">训练模型</a></td>
+<td>98.85</td>
+<td>2.16 / 0.41</td>
+<td>2.37 / 0.73</td>
+<td>0.96</td>
+<td>基于PP-LCNet_x0_25的文本行分类模型，含有两个类别，即0度，180度</td>
+</tr>
+<tr>
+<td>PP-LCNet_x1_0_textline_ori</td>
+<td><a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-LCNet_x1_0_textline_ori_infer.tar">推理模型</a>/<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-LCNet_x1_0_textline_ori_pretrained.pdparams">训练模型</a></td>
+<td>99.42</td>
+<td>- / -</td>
+<td>2.98 / 2.98</td>
+<td>6.5</td>
+<td>基于PP-LCNet_x1_0的文本行分类模型，含有两个类别，即0度，180度</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary><b>文本检测模块：</b></summary>
+<table>
+<thead>
+<tr>
+<th>模型</th><th>模型下载链接</th>
+<th>检测Hmean（%）</th>
+<th>GPU推理耗时（ms）<br/>[常规模式 / 高性能模式]</th>
+<th>CPU推理耗时（ms）<br/>[常规模式 / 高性能模式]</th>
+<th>模型存储大小（MB）</th>
+<th>介绍</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PP-OCRv5_server_det</td>
+<td><a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-OCRv5_server_det_infer.tar">推理模型</a>/<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-OCRv5_server_det_pretrained.pdparams">训练模型</a></td>
+<td>83.8</td>
+<td>89.55 / 70.19</td>
+<td>383.15 / 383.15</td>
+<td>84.3</td>
+<td>PP-OCRv5 的服务端文本检测模型，精度更高，适合在性能较好的服务器上部署</td>
+</tr>
+<tr>
+<td>PP-OCRv5_mobile_det</td>
+<td><a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-OCRv5_mobile_det_infer.tar">推理模型</a>/<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-OCRv5_mobile_det_pretrained.pdparams">训练模型</a></td>
+<td>79.0</td>
+<td>10.67 / 6.36</td>
+<td>57.77 / 28.15</td>
+<td>4.7</td>
+<td>PP-OCRv5 的移动端文本检测模型，效率更高，适合在端侧设备部署</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary><b>文本识别模块：</b></summary>
+<table>
+<tr>
+<th>模型</th><th>模型下载链接</th>
+<th>识别 Avg Accuracy(%)</th>
+<th>GPU推理耗时（ms）<br/>[常规模式 / 高性能模式]</th>
+<th>CPU推理耗时（ms）<br/>[常规模式 / 高性能模式]</th>
+<th>模型存储大小（MB）</th>
+<th>介绍</th>
+</tr>
+<tr>
+<td>PP-OCRv5_server_rec</td>
+<td><a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/\
+PP-OCRv5_server_rec_infer.tar">推理模型</a>/<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-OCRv5_server_rec_pretrained.pdparams">训练模型</a></td>
+<td>86.38</td>
+<td>8.46 / 2.36</td>
+<td>31.21 / 31.21</td>
+<td>81</td>
+<td rowspan="2">PP-OCRv5_rec 是新一代文本识别模型。该模型致力于以单一模型高效、精准地支持简体中文、繁体中文、英文、日文四种主要语言，以及手写、竖版、拼音、生僻字等复杂文本场景的识别。在保持识别效果的同时，兼顾推理速度和模型鲁棒性，为各种场景下的文档理解提供高效、精准的技术支撑。</td>
+</tr>
+<tr>
+<td>PP-OCRv5_mobile_rec</td>
+<td><a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/\
+PP-OCRv5_mobile_rec_infer.tar">推理模型</a>/<a href="https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-OCRv5_mobile_rec_pretrained.pdparams">训练模型</a></td>
+<td>81.29</td>
+<td>5.43 / 1.46</td>
+<td>21.20 / 5.32</td>
+<td>16</td>
+</tr>
+</table>
+
+</details>
+
+**小友+** 中集成了 `v5` 版本的 `Mobile` 模型，如果您更注重模型的精度，请选择精度较高的模型。
+
+* 文档图像方向分类模块( a.oonx)
+* 文本图像矫正模块 b.onnx
+* 文本行方向分类模块  c.onnx
+* 文本检测模块> d.onxx
+* 文本识别模块> e.onnx
 
 ```
-# 检测模型
-wget -O ./ch_PP-OCRv4_det_infer.tar https://paddleocr.bj.bcebos.com/PP-OCRv4/chinese/ch_PP-OCRv4_det_infer.tar
 
-# 方向分类器
-wget -O ./ch_ppocr_mobile_v2.0_cls_infer.tar https://paddleocr.bj.bcebos.com/dygraph_v2.0/ch/ch_ppocr_mobile_v2.0_cls_infer.tar
+tar xf PP-LCNet_x1_0_doc_ori_infer.tar
 
-# 识别模型
-wget -O ./ch_PP-OCRv4_rec_infer.tar https://paddleocr.bj.bcebos.com/PP-OCRv4/chinese/ch_PP-OCRv4_rec_infer.tar
+tar xf UVDoc_infer.tar
 
-tar xf ch_PP-OCRv4_det_infer.tar
+tar xf PP-OCRv5_mobile_det_infer.tar
 
-tar xf ch_ppocr_mobile_v2.0_cls_infer.tar
+tar xf PP-LCNet_x1_0_textline_ori_infer.tar
 
-tar xf ch_PP-OCRv4_rec_infer.tar
+tar xf PP-OCRv5_mobile_rec_infer
 
 
 ```
-
-- 模型转换（包含 3 种基础模型）
 
 使用 Paddle2ONNX 将Paddle静态图模型转换为ONNX模型格式：
 
 ```PowerShell
-cd PP-OCRv5_server_det_infer
+cd PP-LCNet_x1_0_doc_ori_infer
 
-paddle2onnx --model_dir ./PP-OCRv5_server_det_infer `
+paddle2onnx --model_dir . `
 --model_filename inference.json `
 --params_filename inference.pdiparams `
---save_file ./det_infer.onnx `
+--save_file ./model.onnx `
 --opset_version 18 `
 --enable_onnx_checker True `
 --optimize_tool polygraphy
 
 
-cd PP-OCRv5_server_rec_infer
+cd UVDoc_infer
 
-paddle2onnx --model_dir ./PP-OCRv5_server_rec_infer `
+paddle2onnx --model_dir . `
 --model_filename inference.json `
 --params_filename inference.pdiparams `
---save_file ./rec_infer.onnx `
+--save_file ./model.onnx `
 --opset_version 18 `
 --enable_auto_update_opset True `
 --enable_onnx_checker True `
---optimize_tool onnxoptimizer
+--optimize_tool polygraphy
+
+cd PP-OCRv5_mobile_det_infer
+
+paddle2onnx --model_dir . `
+--model_filename inference.json `
+--params_filename inference.pdiparams `
+--save_file ./model.onnx `
+--opset_version 18 `
+--enable_onnx_checker True `
+--optimize_tool polygraphy
+
+
 
 cd PP-LCNet_x1_0_textline_ori_infer
 
-paddle2onnx --model_dir ./PP-LCNet_x1_0_textline_ori_infer `
+paddle2onnx --model_dir . `
 --model_filename inference.json `
 --params_filename inference.pdiparams `
---save_file ./textline_ori_infer.onnx `
+--save_file ./model.onnx `
 --opset_version 18 `
 --enable_onnx_checker True `
 --optimize_tool onnxoptimizer
 
 
+cd PP-OCRv5_mobile_rec_infer
 
-cd PP-LCNet_x1_0_doc_ori_infer
-
-paddle2onnx --model_dir ./PP-LCNet_x1_0_doc_ori_infer `
+paddle2onnx --model_dir . `
 --model_filename inference.json `
 --params_filename inference.pdiparams `
---save_file ./doc_ori_infer.onnx `
---opset_version 18 `
---enable_onnx_checker True `
---optimize_tool onnxoptimizer
-
-
-cd UVDoc_infer
-
-paddle2onnx --model_dir ./UVDoc_infer `
---model_filename inference.json `
---params_filename inference.pdiparams `
---save_file ./UVDoc_infer.onnx `
+--save_file ./model.onnx `
 --opset_version 18 `
 --enable_onnx_checker True
 
 ```
-
-执行完毕后，ONNX 模型会被分别保存为 `det_infer.onnx`，`./rec_infer.onnx`，`./textline_ori_infer.onnx` `./doc_ori_infer.onnx` `./UVDoc_infer.onnx` 
 
 * 注意：对于OCR模型，转化过程中必须采用动态shape的形式，否则预测结果可能与直接使用Paddle预测有细微不同。
   另外，以下几个模型暂不支持转换为 ONNX 模型：
@@ -285,17 +444,7 @@ paddle2onnx --model_dir ./UVDoc_infer `
 ```
 pip install onnxslim
 
-onnxslim det_infer.onnx slim_det_infer.onnx
-
-
-onnxslim rec_infer.onnx slim_rec_infer.onnx
-
-onnxslim textline_ori_infer.onnx slim_textline_ori_infer.onnx
-
-
-onnxslim doc_ori_infer.onnx slim_doc_ori_infer.onnx
-
-onnxslim doc_infer.onnx slim_doc_infer.onnx
+onnxslim input.onnx model.onnx
 
 ```
 
@@ -314,9 +463,9 @@ pip install lmdb
 ```
 cd PaddleOCR
 python ./tools/infer/predict_system.py --use_gpu=False --use_onnx=True `
---det_model_dir=../model/det_model.onnx  `
---rec_model_dir=../model/rec_model.onnx  `
---cls_model_dir=../model/cls_model.onnx  `
+--det_model_dir=../model/c.onnx  `
+--rec_model_dir=../model/e.onnx  `
+--cls_model_dir=../model/d.onnx  `
 --image_dir=./deploy/lite/imgs/lite_demo.png
 ```
 
@@ -327,8 +476,8 @@ cd PaddleOCR
 python ./tools/infer/predict_system.py --use_gpu=False `
 --rec_image_shape=3,48,320 `
 --cls_model_dir=../model/ch_ppocr_mobile_v2.0_cls_infer `
---rec_model_dir=../model/ch_PP-OCRv4_rec_infer `
---det_model_dir=../model/ch_PP-OCRv4_det_infer `
+--rec_model_dir=../model/ch_PP-OCRv5_rec_infer `
+--det_model_dir=../model/ch_PP-OCRv5_det_infer `
 --image_dir=./deploy/lite/imgs/lite_demo.png
 ```
 
@@ -346,3 +495,15 @@ Paddle Inference 执行效果：
 <div align="center">
     <img src="./introduction/mixed/inference_results/lite_demo_paddle.png" width=800">
 </div>
+
+### Q1: 小友+ ONXX 模型支持的 最大 IR VERSION ？
+- IR VERSION = 9
+
+### Q2: 转换后的模型，ONNX Runtime加载提示`Unknown model file format version`?
+- Paddle2ONNX使用了最新的ONNX协议，导出的模型在使用低版本ONNX Runtime加载时，会出现此问题，可通过如下代码修改模型IR VERSION解决，重新加载新保存的`new_model.onnx`即可。
+```
+import onnx
+model = onnx.load("model.onnx")
+model.ir_version = 9
+onnx.save(model, "new_model.onnx")
+```

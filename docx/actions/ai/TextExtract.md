@@ -1,11 +1,11 @@
-# 文字识别（Tesseract）
+# TextExtract
 基于 Tesseract OCR 的一款开源的光学字符识别引擎。能够识别多种语言的文字，包括但不限于英语、中文、法语、德语等。
 
 * 支持多种语言：Tesseract 能够识别多种语言的文字，包括但不限于英语、中文、法语、德语等。通过训练数据的扩展，其语言识别能力还在不断增强。
 * 高识别准确率：在经过大量数据训练和优化后，对于清晰的文档图像，Tesseract 可以达到较高的识别准确率。它能够处理多种字体、字号和排版格式的文字，对噪声和图像变形有一定的鲁棒性。
 * 可定制性强：用户可以根据自己的需求对 Tesseract 进行定制，例如训练自己的字库模型，以提高对特定领域或特殊字体的识别效果。此外，还可以调*整各种参数来优化识别过程，适应不同的应用场景。
 
-![TesseractOCR](./images/07.png ':size=90%')
+![TextExtract](./images/07.png ':size=90%')
 
 ## 子流程
 > 不支持
@@ -30,4 +30,4 @@
 
 ### 其它
 
-示例 https://github.com/shelllet/WinUi/blob/main/dnn/PaddleOCR.simple
+示例 https://github.com/shelllet/WinUi/blob/main/dnn/TextRecognition.simple

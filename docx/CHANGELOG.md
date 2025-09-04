@@ -3,6 +3,14 @@
 ### Changed：
 1. 优化文字识别动作。
 2. 支持鼠标右键拖动动作视图。
+3. 修复另存时，项目未进入快速启动列表中。
+4. 关机动作更新为 [SuspendSystem](./actions/system/SuspendSystem.md)， 并且支持休眠。
+5. 支持运行当前的工作流。
+6. [退出流程] 动作更名，参考： [退出流程](./actions/control/Exit.md)。
+7. 增加 [闲置](./actions/control/Idle.md) 动作， 用于操持流程不退出。
+
+!> 重要提醒
+- 所有原来包含的异步动作的流程，如果想保持正常动行，比如[监听键盘] (./actions/keyboard/ListenKeyboard.md) 、[监听鼠标](./actions/mouse/ListenMouse.md) 等需要添加[闲置](./actions/control/Idle.md) 动作。
 
 ### Note
 
@@ -42,8 +50,8 @@
 
 ### Changed：
 1. [相机类型](./actions/type/TypeCamera.md) 动作支持工业 USB3/GIGE 接口相机，比如海康相机。
-2. 更新 [文字识别](./actions/ai/PaddleOCR.md) 动作，运行加载其它语言模型，用来识别中英文以外的文字。
-3. 更新 [文字识别（Tesseract）](./actions/ai/TesseractOCR.md) 动作, 支持基于 *Tesseract* （常用来识别特殊字体）的文字识别。
+2. 更新 [文字识别](./actions/ai/TextRecognition.md) 动作，运行加载其它语言模型，用来识别中英文以外的文字。
+3. 更新 [文字识别（Tesseract）](./actions/ai/TextExtract.md) 动作, 支持基于 *Tesseract* （常用来识别特殊字体）的文字识别。
 4. 添加动作菜单*缓存对象*。 用来解决 某些动作反复执行时，由于内置对象的初始化比较耗，导致不必要的时间开销。
 5. 动作支持借助脚本更新运行时参数，详情参考动作说明。 
 6. 修复导入其它流程崩溃问题。
