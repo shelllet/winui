@@ -421,8 +421,8 @@ paddle2onnx --model_dir . `
 --params_filename inference.pdiparams `
 --save_file ./model.onnx `
 --opset_version 18 `
---enable_onnx_checker True
-
+--enable_onnx_checker True `
+--optimize_tool onnxoptimizer
 ```
 
 * 注意：对于OCR模型，转化过程中必须采用动态shape的形式，否则预测结果可能与直接使用Paddle预测有细微不同。
