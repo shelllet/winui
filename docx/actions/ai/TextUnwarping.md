@@ -1,7 +1,7 @@
 # 图像矫正 
 针对图像进行几何变换，以纠正图像中的文档扭曲、倾斜、透视变形等问题，以供后续的文本识别进行更加准确。
 
-![TextRecognition](./images/03.png ':size=90%')
+![TextUnwarping](./images/11.png ':size=90%')
 
 ## 子流程
 > 不支持

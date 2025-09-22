@@ -1,20 +1,18 @@
 # [0.47.0](https://github.com/shelllet/winui/compare/main...dev) (2025-xx-xx)
 
 ### Changed：
-1. 优化文字识别动作。
+1. 优化文字识别动作，文字识别结果已经更改为从上至下的顺序。
 2. 支持鼠标右键拖动动作视图。
 3. 修复另存时，项目未进入快速启动列表中。
 4. 关机动作更新为 [SuspendSystem](./actions/system/SuspendSystem.md)， 并且支持休眠。
 5. 支持运行当前的工作流。
 6. [退出流程] 动作更名，参考： [退出流程](./actions/control/Exit.md)。
-7. 增加 [闲置](./actions/control/Idle.md) 动作， 用于操持流程不退出。
-
-!> 重要提醒
-- 所有原来包含的异步动作的流程，如果想保持正常动行，比如[监听键盘] (./actions/keyboard/ListenKeyboard.md) 、[监听鼠标](./actions/mouse/ListenMouse.md) 等需要添加[闲置](./actions/control/Idle.md) 动作。
+7. 增加 [域名查询](./actions/control/DomainQuery.md) 动作， 用于操持流程不退出。
 
 ### Note
 
 1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2。该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`。
 3. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
 
 ## [0.46.0](https://github.com/shelllet/winui/compare/main...dev) (2025-07-22)
@@ -29,7 +27,7 @@
 ### Note
 
 1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
-3. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
+2. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
 
 ## [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
 

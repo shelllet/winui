@@ -1,7 +1,7 @@
 # 文本提取 
 识别图像中的中文/英文文字。
 
-![TextRecognition](./images/03.png ':size=90%')
+![TextRecognition](./images/08.png ':size=90%')
 
 ## 子流程
 > 不支持

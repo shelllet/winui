@@ -174,6 +174,8 @@
       - [数据发送](./actions/network/NetworkSend.md)
       - [数据接收](./actions/network/NetworkReceive.md)
       - [服务连接](./actions/network/NetworkConnect.md)
+      - [域名查询](./actions/network/DomainQuery.md)
+
     - 统计分析
       - [加载文档](./actions/pandas/LoadDocument.md)
       - [查询](./actions/pandas/DataFrameQuery.md)
@@ -255,7 +257,6 @@
       - [参数](./actions/control/Param.md)
       - [分组](./actions/control/GroupAction.md)
       - [软触发](./actions/control/SoftwareTrigger.md)
-      - [闲置](./actions/control/Idle.md)
     - 算法
       - [分割字符串](./actions/algorithm/SplitString.md)
       - [合并字符串](./actions/algorithm/JoinString.md)
