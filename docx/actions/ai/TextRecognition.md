@@ -1,4 +1,4 @@
-# 文本提取 
+# 文字识别 
 识别图像中的中文/英文文字。
 
 ![TextRecognition](./images/08.png ':size=90%')

@@ -1,4 +1,4 @@
-# [0.47.0](https://github.com/shelllet/winui/compare/main...dev) (2025-xx-xx)
+# [0.47.0](https://github.com/shelllet/winui/compare/main...dev) (2025-09-22)
 
 ### Changed：
 1. 优化文字识别动作，文字识别结果已经更改为从上至下的顺序。
