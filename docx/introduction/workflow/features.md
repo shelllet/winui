@@ -12,14 +12,20 @@
 
 ![image](./images/07.png ':size=90%')
 
+3 动作视图
+
+    按下鼠标右键可拖动视图位置。
+
 3. 支持的快捷键 
    
-    `Alt + Del` 删除出口连接线
+    <kbd>Alt</kbd> + <kbd> Del </kbd> 删除出口连接线
 
-    `Ctrl + C` 复制动作
+    <kbd>Ctrl</kbd> + <kbd>C</kbd> 复制动作
 
-    `Ctrl + V`粘贴动作
+    <kbd>Ctrl</kbd> + <kbd>V</kbd> 粘贴动作
 
-    `Delete` 删除动作
+    <kbd>Delete</kbd> 删除动作
 
-    `Esc` 关闭打开的窗口
+    <kbd>Esc</kbd> 关闭打开的窗口
+
+    <kbd>Space</kbd> 恢复动作视图

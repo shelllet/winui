@@ -1,4 +1,21 @@
-# [0.46.0](https://github.com/shelllet/winui/compare/main...dev) (2025-07-22)
+# [0.47.0](https://github.com/shelllet/winui/compare/main...dev) (2025-09-22)
+
+### Changed：
+1. 优化文字识别动作，文字识别结果已经更改为从上至下的顺序。
+2. 支持鼠标右键拖动动作视图。
+3. 修复另存时，项目未进入快速启动列表中。
+4. 关机动作更新为 [SuspendSystem](./actions/system/SuspendSystem.md)， 并且支持休眠。
+5. 支持运行当前的工作流。
+6. [退出流程] 动作更名，参考： [退出流程](./actions/control/Exit.md)。
+7. 增加 [域名查询](./actions/control/DomainQuery.md) 动作， 用于操持流程不退出。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2。该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`。
+3. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
+
+## [0.46.0](https://github.com/shelllet/winui/compare/main...dev) (2025-07-22)
 
 ### Changed：
 1. [枚举窗口](./actions/window/EnumWindows.md) 动作不再支持异步处理。
@@ -10,7 +27,7 @@
 ### Note
 
 1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
-3. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
+2. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
 
 ## [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
 
@@ -31,8 +48,8 @@
 
 ### Changed：
 1. [相机类型](./actions/type/TypeCamera.md) 动作支持工业 USB3/GIGE 接口相机，比如海康相机。
-2. 更新 [文字识别](./actions/ai/PaddleOCR.md) 动作，运行加载其它语言模型，用来识别中英文以外的文字。
-3. 更新 [文字识别（Tesseract）](./actions/ai/TesseractOCR.md) 动作, 支持基于 *Tesseract* （常用来识别特殊字体）的文字识别。
+2. 更新 [文字识别](./actions/ai/TextRecognition.md) 动作，运行加载其它语言模型，用来识别中英文以外的文字。
+3. 更新 [文字识别（Tesseract）](./actions/ai/TextExtract.md) 动作, 支持基于 *Tesseract* （常用来识别特殊字体）的文字识别。
 4. 添加动作菜单*缓存对象*。 用来解决 某些动作反复执行时，由于内置对象的初始化比较耗，导致不必要的时间开销。
 5. 动作支持借助脚本更新运行时参数，详情参考动作说明。 
 6. 修复导入其它流程崩溃问题。

@@ -1,36 +1,40 @@
-# 文本块检测
-检测图像上的文本区域。
+# 文字区域检测 
+在图像中定位和标记出包含文本的区域。该模块的性能直接影响到整个OCR系统的准确性和效率。
 
-![TextDetection](./images/04.png ':size=90%')
+![TextDetection](./images/03.png ':size=90%')
 
 ## 子流程
 > 不支持
 
-
 ## 运行参数
 
-* 图像
-> 包含文字的图像
+* 图像 <sup>1</sup>
+> 包含文字的图片。
 
-* 文本框评分
-> 计算文本框的得分，分值太低，则不认为是有效的文本框。
+* 图像边长限制类型 <sup>2</sup>
+> [短边] 表示确保图片最短边不小于 [文本检测的图片边长限制]，[长边] 表示确保图片最长边不大于 [文本检测的图片边长限制]。
 
-## 输出
+* 图片边长限制 <sup>3</sup>
+> 对于文本密集的大图像，如果想要更准确的识别，应该选择更大的尺寸。此参数与[文本检测的图像边长限制类型]配合使用。通常，[长边]的最大值适用于图像较大且文本密集的场景，[短边]的最小值适用于图像较小且文本密集的文档场景。
 
-> 检测结果，参考：[DetectionResults](./types/DetectionResult.md)。
-## 脚本调用
+* 文本检测像素阈值 <sup>4</sup>
+> 在输出概率图中，只有得分大于阈值的像素才被视为文本像素，取值范围为 `0 ~ 1`。
 
-```python
-import simple;
+* 文本检测框阈值 <sup>5</sup>
 
-```
+> 当检测结果边框内所有像素的平均得分大于阈值时，该结果将被视为文本区域，取值范围为 `0` 至 `1`。如果出现漏检，可以适当降低此值。
+
+* 文本检测去裁剪比例 <sup>6</sup>
+>使用此方法扩展文本区域。值越大，扩展区域越大。
+
+
+## 输出 
+
+> 参考 [`DetectionResults`](./types/DetectionResult.md)。
 
 ### 其它
 
-示例 https://github.com/shelllet/WinUi/blob/main/dnn/TextDetection.simple
+示例 https://github.com/shelllet/WinUi/blob/main/dnn/TextRecognition.simple
 
 
 
-
-
-!> 文字检测模型训练：https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_ch/detection.md
