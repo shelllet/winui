@@ -1,3 +1,17 @@
+# [0.47.1](https://github.com/shelllet/winui/compare/main...dev) (2025-10-09)
+
+### Changed：
+1. 修复打开低版本创建的档案时，复制、粘贴动作出现的错误。
+2. 修复 [打开浏览器](./actions/web/WebOpen.md) 动作的错误。
+3. 开启用户相关界面功能（实验性）。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`。
+3. 下载（安装包）：https://winui.net/_media/simple/小友+0.47.1-setup.x64.exe
+
+
 # [0.47.0](https://github.com/shelllet/winui/compare/main...dev) (2025-09-22)
 
 ### Changed：
