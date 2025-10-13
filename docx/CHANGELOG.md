@@ -38,7 +38,7 @@
 4. 关机动作更新为 [SuspendSystem](./actions/system/SuspendSystem.md)， 并且支持休眠。
 5. 支持运行当前的工作流。
 6. [退出流程] 动作更名，参考： [退出流程](./actions/control/Exit.md)。
-7. 增加 [域名查询](./actions/control/DomainQuery.md) 动作， 用于操持流程不退出。
+7. 增加 [域名查询](./actions/network/DomainQuery.md) 动作。
 
 ### Note
 
