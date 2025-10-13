@@ -1,3 +1,20 @@
+# [0.47.2](https://github.com/shelllet/winui/compare/main...dev) (2025-10-13)
+
+### Changed：
+1. 修复管理员权限运行时，文件保存打开窗口无法弹出问题。
+2. 优化快捷 *添加动作* 弹框功能。
+3. 修复管理员权限运行时，无法拖放动作的问题。
+4. 修复[键盘/鼠标宏重放](./actions/media/PlayRecord.md) 执行时无法退出流程问题。
+5. 修复模拟鼠标点击在手游客户端有时无作用问题。
+6. [窗口截图](./actions/media/CaptureWindow.md) 动作增加一个参数，方便仅保存窗口图像。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`。
+3. 下载（安装包）：https://winui.net/_media/simple/小友+0.47.2-setup.x64.exe
+
+
 # [0.47.1](https://github.com/shelllet/winui/compare/main...dev) (2025-10-09)
 
 ### Changed：
