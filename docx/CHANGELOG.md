@@ -1,4 +1,4 @@
-# [0.48](https://github.com/shelllet/winui/compare/main...dev) (2025-xx-xx)
+# [0.48](https://github.com/shelllet/winui/compare/main...dev) (2025-11-11)
 
 ### Changed：
 1. [查找窗口](./actions/window/FindWindow.md) 支持从多个相同标题或类名的窗口中选择需要处理的窗口。
@@ -365,3 +365,4 @@
 ### 备注
 
 1. 下载：https://bitbucket.org/winui-release/version/downloads/winui0.31.1-setup.x64.exe
+
