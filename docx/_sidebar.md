@@ -175,7 +175,8 @@
       - [数据接收](./actions/network/NetworkReceive.md)
       - [服务连接](./actions/network/NetworkConnect.md)
       - [域名查询](./actions/network/DomainQuery.md)
-
+      - [发送输入](./actions/network/SendInput.md)
+      - [接收输入](./actions/network/ReceiveInput.md)
     - 统计分析
       - [加载文档](./actions/pandas/LoadDocument.md)
       - [查询](./actions/pandas/DataFrameQuery.md)
