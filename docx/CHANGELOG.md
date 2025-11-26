@@ -1,4 +1,64 @@
-# [0.47.0](https://github.com/shelllet/winui/compare/main...dev) (2025-09-22)
+# [0.48.1](https://github.com/shelllet/winui/compare/main...dev) (2025-11-26)
+
+### Changed：
+1. 鼠标键盘的模拟支持驱动模式，参考[工作流设置](./introduction/setting/workflow.md)。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`（未来版本中优化）。
+3. 下载（安装包）：https://winui.net/_media/simple/小友+0.48.1-setup.x64.exe
+
+
+## [0.48](https://github.com/shelllet/winui/compare/main...dev) (2025-11-11)
+
+### Changed：
+1. [查找窗口](./actions/window/FindWindow.md) 支持从多个相同标题或类名的窗口中选择需要处理的窗口。
+2. [窗口截图](./actions/media/CaptureWindow.md), 添加参数支持仅截图窗口。
+2. 修复搜索动作时，输入特殊字符崩溃问题。
+3. 支持插件功能
+4. 网络相关动作支持`QUIC`协议
+5. 添加[发送输入](./actions/network/SendInput.md)，和[接收输入](./actions/network/ReceiveInput.md) 两个动作，可以同步多台电脑鼠标键盘操作。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`（未来版本中优化）。
+3. 下载（安装包）：https://winui.net/_media/simple/小友+0.48.0-setup.x64.exe
+
+
+## [0.47.2](https://github.com/shelllet/winui/compare/main...dev) (2025-10-13)
+
+### Changed：
+1. 修复管理员权限运行时，文件保存打开窗口无法弹出问题。
+2. 优化快捷 *添加动作* 弹框功能。
+3. 修复管理员权限运行时，无法拖放动作的问题。
+4. 修复[键盘/鼠标宏重放](./actions/media/PlayRecord.md) 执行时无法退出流程问题。
+5. 修复模拟鼠标点击在手游客户端有时无作用问题。
+6. [窗口截图](./actions/media/CaptureWindow.md) 动作增加一个参数，方便仅保存窗口图像。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`。
+3. 下载（安装包）：https://winui.net/_media/simple/小友+0.47.2-setup.x64.exe
+
+
+## [0.47.1](https://github.com/shelllet/winui/compare/main...dev) (2025-10-09)
+
+### Changed：
+1. 修复打开低版本创建的档案时，复制、粘贴动作出现的错误。
+2. 修复 [打开浏览器](./actions/web/WebOpen.md) 动作的错误。
+3. 开启用户相关界面功能（实验性）。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`。
+3. 下载（安装包）：https://winui.net/_media/simple/小友+0.47.1-setup.x64.exe
+
+
+## [0.47.0](https://github.com/shelllet/winui/compare/main...dev) (2025-09-22)
 
 ### Changed：
 1. 优化文字识别动作，文字识别结果已经更改为从上至下的顺序。
@@ -7,13 +67,14 @@
 4. 关机动作更新为 [SuspendSystem](./actions/system/SuspendSystem.md)， 并且支持休眠。
 5. 支持运行当前的工作流。
 6. [退出流程] 动作更名，参考： [退出流程](./actions/control/Exit.md)。
-7. 增加 [域名查询](./actions/control/DomainQuery.md) 动作， 用于操持流程不退出。
+7. 增加 [域名查询](./actions/network/DomainQuery.md) 动作。
 
 ### Note
 
 1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
-2。该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`。
-3. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
+2. 该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`。
+3. 下载（压缩包，解压覆盖本地文件）：https://winui.net/_media/simple/小友+0.47.0.zip
+4. 下载（安装包）：https://winui.net/_media/simple/小友+0.47.0-setup.x64.exe
 
 ## [0.46.0](https://github.com/shelllet/winui/compare/main...dev) (2025-07-22)
 
@@ -27,7 +88,7 @@
 ### Note
 
 1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
-2. 64位下载(x64)：邀请你加入群组:小友+ http://yun.139.com/m/#/invitation?type=1&msgId=1227933999795726207
+2. 64位下载(x64)：https://winui.net/_media/simple/小友+0.46.0-setup.x64.exe
 
 ## [0.45.0](https://github.com/shelllet/winui/compare/main...dev) (2025-06-13)
 

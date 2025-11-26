@@ -1,13 +1,15 @@
 - [小友+](/)
   - [使用需知](./introduction/README.md)
   - 软件安装
-      - [直接安装](./introduction/installation/installed_by_exe.md)
-      - [微软商店安装](./introduction/installation/installed_by_msix.md)
-      - 安装问题
-        - [新安装无法启动](./introduction/installation/question/quest1.md)
-        - [覆盖安装无法启动](./introduction/installation/question/quest2.md)
-      - 设置
-        - [动作分组隐藏](./introduction/installation/setting/action_group_setting.md)
+    - [直接安装](./introduction/installation/installed_by_exe.md)
+    - [微软商店安装](./introduction/installation/installed_by_msix.md)
+    - 安装问题
+      - [新安装无法启动](./introduction/installation/question/quest1.md)
+      - [覆盖安装无法启动](./introduction/installation/question/quest2.md)
+  - 设置
+    - [动作分组隐藏](./introduction/setting/action_group_setting.md)
+    - [工作流设置](./introduction/setting/workflow.md)
+
   - 流程介绍
     - [项目属性](./introduction/workflow/property.md)
     - [使用逻辑](./introduction/workflow/logic.md)
@@ -175,7 +177,8 @@
       - [数据接收](./actions/network/NetworkReceive.md)
       - [服务连接](./actions/network/NetworkConnect.md)
       - [域名查询](./actions/network/DomainQuery.md)
-
+      - [发送输入](./actions/network/SendInput.md)
+      - [接收输入](./actions/network/ReceiveInput.md)
     - 统计分析
       - [加载文档](./actions/pandas/LoadDocument.md)
       - [查询](./actions/pandas/DataFrameQuery.md)
