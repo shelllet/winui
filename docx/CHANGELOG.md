@@ -1,4 +1,16 @@
-# [0.48](https://github.com/shelllet/winui/compare/main...dev) (2025-xx-xx)
+# [0.48.1](https://github.com/shelllet/winui/compare/main...dev) (2025-11-26)
+
+### Changed：
+1. 鼠标键盘的模拟支持驱动模式，参考[工作流设置](./introduction/setting/workflow.md)。
+
+### Note
+
+1. 使用管理员权限运行 *小友+*, 无法显示 *动作* 的拖动效果（已知问题）。
+2. 该版本由于内置了一些文字处理相关的模型，安装包大小已经超过 `300M`（未来版本中优化）。
+3. 下载（安装包）：https://winui.net/_media/simple/小友+0.48.1-setup.x64.exe
+
+
+## [0.48](https://github.com/shelllet/winui/compare/main...dev) (2025-11-11)
 
 ### Changed：
 1. [查找窗口](./actions/window/FindWindow.md) 支持从多个相同标题或类名的窗口中选择需要处理的窗口。

@@ -36,13 +36,4 @@ _小友+_ 绝对不会嵌入任何广告、捆绑任何软件。也不会像国�
 
 - 软件下载：[https://winui.net/](./CHANGELOG.md)
 
-- Youtube视频教学: [https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ](https://www.youtube.com/playlist?list=UULFs1P87PQvBDJAuJfkKRLqMQ)
-- Bilibili 站视频教学：[https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951](https://space.bilibili.com/652005178/channel/collectiondetail?sid=84951)
-
 - 如果你有 *Discord*, 加入 [Discord](https://discord.gg/b4MeYbJrfk) 讨论。
-
-<div style="text-align:center;">
-
-![共享群](./introduction/images/qrcode.jpg)
-
-</div>
