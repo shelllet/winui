@@ -30,6 +30,12 @@
 * 流程：https://github.com/shelllet/WinUi/blob/main/web/openurl.simple
 
 
+## 注意事項
+
+  * 在 Windows 上使用 Selenium 讓 Chrome 載入預設的用戶資料目錄（User Data Directory）可以保留你的登錄狀態、瀏覽歷史、書籤和擴展程序等。但是新版的Chrome浏览器似乎不支持默认的用户配置。仍然会报出来「DevToolsActivePort」的错误。
+  * **不要同時運行兩個 Chrome 實例：** 你不能在同一個時間，同時運行一個手動打開的 Chrome 瀏覽器和你用 Selenium 腳本啟動的、且使用相同用戶資料目錄的 Chrome 實例。這會導致「DevToolsActivePort」錯誤。
+  * **路徑中的斜槓：** 在 Python 中，Windows 的路徑可以使用雙反斜槓 `\\` 或單正斜槓 `/`。在 Java 中，則需要使用雙反斜槓 `\\` 來作為轉義字元。
+  * **不同作業系統的路徑：** 上述路徑是針對 Windows 10/11 的。如果你在 macOS 或 Linux 上，路徑會不同。你可以同樣使用 `chrome://version/` 來找到對應的正確路徑。
 
 ## 驱动
 
