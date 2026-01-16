@@ -37,13 +37,13 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: "docx"
+          path: "docs"
       - name: Deploy to GitHub Pages
         id: deployment
         run: |
           pwd
           mkdir -p /var/www
-          cp -Rf ./docx/* /var/www
+          cp -Rf ./docs/* /var/www
           mkdir -p /var/www/_media/simple
           sudo chown -R caddy:caddy /var/www/_media/simple
         shell: bash

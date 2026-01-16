@@ -487,13 +487,13 @@ python ./tools/infer/predict_system.py --use_gpu=False `
 ONNXRuntime 执行效果：
 
 <div align="center">
-    <img src="./introduction/mixed/inference_results/lite_demo_onnx.png">
+    <img src="./introduction/mixed/inference_results/lite_demo_onnx.png" />
 </div>
 
 Paddle Inference 执行效果：
 
 <div align="center">
-    <img src="./introduction/mixed/inference_results/lite_demo_paddle.png" width=800">
+    <img src="./introduction/mixed/inference_results/lite_demo_paddle.png" width="800" />
 </div>
 
 ### Q1: 小友+ ONXX 模型支持的 最大 IR VERSION ？
