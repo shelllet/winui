@@ -1,4 +1,17 @@
-# [0.48.2](https://github.com/shelllet/winui/compare/main...dev) (2025-11-26)
+# [0.49](https://github.com/shelllet/winui/compare/main...dev) (2026-xx-xx)
+
+### Changed：
+1. [ ] 界面重构。
+2. [ ] 大模型模型在线下载，解决安装包过大问题。
+3. [ ] 加入Ai 功能。
+
+
+### Note
+
+1. 下载（安装包）：https://winui.net/_media/simple/小友+0.48.2-setup.x64.exe
+
+
+## [0.48.2](https://github.com/shelllet/winui/compare/main...dev) (2025-11-26)
 
 ### Changed：
 1. 修复动作运行时参数，如果引用其他动作无法保存的问题。
