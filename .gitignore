@@ -1,2 +1,11 @@
 .vscode/
 .vs/
+
+node_modules/
+# 保留 docs 以便提交 Docusaurus 文档输出
+
+build/
+.cache/
+.DS_Store
+.env
+package-lock.json
