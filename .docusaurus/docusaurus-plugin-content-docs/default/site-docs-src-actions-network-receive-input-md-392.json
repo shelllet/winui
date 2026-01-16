@@ -1,0 +1,24 @@
+{
+  "id": "actions/network/ReceiveInput",
+  "title": "接收输入",
+  "description": "接收网络上的鼠标键盘事件。",
+  "source": "@site/docs_src/actions/network/ReceiveInput.md",
+  "sourceDirName": "actions/network",
+  "slug": "/actions/network/ReceiveInput",
+  "permalink": "/actions/network/ReceiveInput",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/network/ReceiveInput.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据发送",
+    "permalink": "/actions/network/NetworkSend"
+  },
+  "next": {
+    "title": "发送输入",
+    "permalink": "/actions/network/SendInput"
+  }
+}

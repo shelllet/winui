@@ -1,0 +1,24 @@
+{
+  "id": "actions/keyboard/SendText",
+  "title": "发送文本",
+  "description": "向当前活动的窗口发送文本，通常当前焦点处于文本框，可接受键盘输入。",
+  "source": "@site/docs_src/actions/keyboard/SendText.md",
+  "sourceDirName": "actions/keyboard",
+  "slug": "/actions/keyboard/SendText",
+  "permalink": "/actions/keyboard/SendText",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/keyboard/SendText.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "发送按键",
+    "permalink": "/actions/keyboard/SendKey"
+  },
+  "next": {
+    "title": "等待按键",
+    "permalink": "/actions/keyboard/WaitKey"
+  }
+}

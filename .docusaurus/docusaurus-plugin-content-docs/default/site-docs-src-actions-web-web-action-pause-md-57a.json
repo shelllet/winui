@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebActionPause",
+  "title": "动作链.暂停",
+  "description": "在两个动作链相关的动作之间暂停执行一段时间。",
+  "source": "@site/docs_src/actions/web/WebActionPause.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebActionPause",
+  "permalink": "/actions/web/WebActionPause",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebActionPause.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "动作链.移动",
+    "permalink": "/actions/web/WebActionMoveTo"
+  },
+  "next": {
+    "title": "动作链.释放鼠标键",
+    "permalink": "/actions/web/WebActionRelease"
+  }
+}

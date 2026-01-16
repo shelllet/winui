@@ -1,0 +1,24 @@
+{
+  "id": "introduction/setting/workflow",
+  "title": "工作流设置",
+  "description": "* 鼠标键盘驱动模式。",
+  "source": "@site/docs_src/introduction/setting/workflow.md",
+  "sourceDirName": "introduction/setting",
+  "slug": "/introduction/setting/workflow",
+  "permalink": "/introduction/setting/workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/setting/workflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "action_group_setting",
+    "permalink": "/introduction/setting/action_group_setting"
+  },
+  "next": {
+    "title": "Data-Files",
+    "permalink": "/introduction/tesseract/Data-Files"
+  }
+}

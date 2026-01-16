@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebWaitVisibilityByLocator",
+  "title": "等待*可见（定位）",
+  "description": "通过定位策略，检查已知存在于页面 DOM 上的元素是否可见，可见性意味着元素不仅被显示而且高度和宽度都大于 0",
+  "source": "@site/docs_src/actions/web/WebWaitVisibilityByLocator.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebWaitVisibilityByLocator",
+  "permalink": "/actions/web/WebWaitVisibilityByLocator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebWaitVisibilityByLocator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "等待*可见",
+    "permalink": "/actions/web/WebWaitVisibilityByElement"
+  },
+  "next": {
+    "title": "激活窗口",
+    "permalink": "/actions/window/ActiveWindow"
+  }
+}

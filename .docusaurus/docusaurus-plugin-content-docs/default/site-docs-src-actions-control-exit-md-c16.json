@@ -1,0 +1,24 @@
+{
+  "id": "actions/control/Exit",
+  "title": "退出流程",
+  "description": "结束流程执行。",
+  "source": "@site/docs_src/actions/control/Exit.md",
+  "sourceDirName": "actions/control",
+  "slug": "/actions/control/Exit",
+  "permalink": "/actions/control/Exit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/control/Exit.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "表达式",
+    "permalink": "/actions/control/CodeExpression"
+  },
+  "next": {
+    "title": "循环",
+    "permalink": "/actions/control/For"
+  }
+}

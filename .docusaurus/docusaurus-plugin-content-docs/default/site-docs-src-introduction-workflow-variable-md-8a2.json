@@ -1,0 +1,24 @@
+{
+  "id": "introduction/workflow/variable",
+  "title": "变量",
+  "description": "变量必须符合Python的变量定义规则,变量可以扩展流程的功能。变量的界面如下图：",
+  "source": "@site/docs_src/introduction/workflow/variable.md",
+  "sourceDirName": "introduction/workflow",
+  "slug": "/introduction/workflow/variable",
+  "permalink": "/introduction/workflow/variable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/workflow/variable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "资源",
+    "permalink": "/introduction/workflow/resources"
+  },
+  "next": {
+    "title": "openwrt_dns",
+    "permalink": "/network/openwrt_dns"
+  }
+}

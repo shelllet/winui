@@ -1,0 +1,24 @@
+{
+  "id": "actions/window/WindowPoint",
+  "title": "窗口坐标",
+  "description": "这个动作可以获取窗口当中几个特定位置的窗口坐标。比如：左上角、左下角、右上角、右下角、中心位置坐标。",
+  "source": "@site/docs_src/actions/window/WindowPoint.md",
+  "sourceDirName": "actions/window",
+  "slug": "/actions/window/WindowPoint",
+  "permalink": "/actions/window/WindowPoint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/window/WindowPoint.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "窗口标题",
+    "permalink": "/actions/window/WindowCaption"
+  },
+  "next": {
+    "title": "窗口大小",
+    "permalink": "/actions/window/WindowSize"
+  }
+}

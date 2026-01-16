@@ -1,0 +1,24 @@
+{
+  "id": "actions/control/GroupAction",
+  "title": "分组",
+  "description": "该动作可以把视图上相关动作分组，使逻辑更清晰。",
+  "source": "@site/docs_src/actions/control/GroupAction.md",
+  "sourceDirName": "actions/control",
+  "slug": "/actions/control/GroupAction",
+  "permalink": "/actions/control/GroupAction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/control/GroupAction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "循环",
+    "permalink": "/actions/control/For"
+  },
+  "next": {
+    "title": "判断",
+    "permalink": "/actions/control/If"
+  }
+}

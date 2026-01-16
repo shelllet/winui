@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypePoint",
+  "title": "坐标",
+  "description": "定义一个 坐标 类型。",
+  "source": "@site/docs_src/actions/type/TypePoint.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypePoint",
+  "permalink": "/actions/type/TypePoint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/type/TypePoint.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "路径",
+    "permalink": "/actions/type/TypePath"
+  },
+  "next": {
+    "title": "指针",
+    "permalink": "/actions/type/TypePtr"
+  }
+}

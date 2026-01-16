@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbPush",
+  "title": "推送文件",
+  "description": "将本地文件/目录复制到 Android 设备。",
+  "source": "@site/docs_src/actions/android/AdbPush.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbPush",
+  "permalink": "/actions/android/AdbPush",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/android/AdbPush.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "拉取文件",
+    "permalink": "/actions/android/AdbPull"
+  },
+  "next": {
+    "title": "截图",
+    "permalink": "/actions/android/AdbScreenCap"
+  }
+}

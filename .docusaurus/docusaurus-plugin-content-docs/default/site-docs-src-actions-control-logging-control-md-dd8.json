@@ -1,0 +1,24 @@
+{
+  "id": "actions/control/LoggingControl",
+  "title": "输出控制",
+  "description": "该动作用来在流程中控制输出日志。",
+  "source": "@site/docs_src/actions/control/LoggingControl.md",
+  "sourceDirName": "actions/control",
+  "slug": "/actions/control/LoggingControl",
+  "permalink": "/actions/control/LoggingControl",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/control/LoggingControl.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "判空",
+    "permalink": "/actions/control/IsEmpty"
+  },
+  "next": {
+    "title": "逻辑运算",
+    "permalink": "/actions/control/LogicalOperator"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "introduction/installation/question/quest2",
+  "title": "覆盖安装无法启动",
+  "description": "关闭 小友+， 在资源管理器地址栏输入 %LOCALAPPDATA%\\Simple，打开该目录，清空该目录下面的所有文件，重启 小友+。",
+  "source": "@site/docs_src/introduction/installation/question/quest2.md",
+  "sourceDirName": "introduction/installation/question",
+  "slug": "/introduction/installation/question/quest2",
+  "permalink": "/introduction/installation/question/quest2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/installation/question/quest2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "quest1",
+    "permalink": "/introduction/installation/question/quest1"
+  },
+  "next": {
+    "title": "CUDA",
+    "permalink": "/introduction/mixed/CUDA"
+  }
+}

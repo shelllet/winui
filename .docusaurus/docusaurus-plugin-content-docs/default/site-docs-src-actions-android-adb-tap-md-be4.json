@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbTap",
+  "title": "点击",
+  "description": "在安卓设备中模拟点击，支持后台操作。",
+  "source": "@site/docs_src/actions/android/AdbTap.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbTap",
+  "permalink": "/actions/android/AdbTap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/android/AdbTap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "滑动",
+    "permalink": "/actions/android/AdbSwipe"
+  },
+  "next": {
+    "title": "输入 * 中文",
+    "permalink": "/actions/android/Adbkeyboard"
+  }
+}

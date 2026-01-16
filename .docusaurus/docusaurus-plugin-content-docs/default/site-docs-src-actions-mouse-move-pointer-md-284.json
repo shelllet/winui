@@ -1,0 +1,24 @@
+{
+  "id": "actions/mouse/MovePointer",
+  "title": "移动鼠标",
+  "description": "模拟鼠标移动",
+  "source": "@site/docs_src/actions/mouse/MovePointer.md",
+  "sourceDirName": "actions/mouse",
+  "slug": "/actions/mouse/MovePointer",
+  "permalink": "/actions/mouse/MovePointer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/mouse/MovePointer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "偏移移动",
+    "permalink": "/actions/mouse/MoveOffset"
+  },
+  "next": {
+    "title": "右键点击",
+    "permalink": "/actions/mouse/RightClick"
+  }
+}

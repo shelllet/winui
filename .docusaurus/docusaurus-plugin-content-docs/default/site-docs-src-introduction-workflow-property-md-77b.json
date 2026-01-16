@@ -1,0 +1,24 @@
+{
+  "id": "introduction/workflow/property",
+  "title": "项目属性",
+  "description": "每个项目都有几个固定的属性，用来控制项目流程执行时的行为。如果没有动作被选择的时候会显示此项目属性。参考下面的界面的右侧部分。",
+  "source": "@site/docs_src/introduction/workflow/property.md",
+  "sourceDirName": "introduction/workflow",
+  "slug": "/introduction/workflow/property",
+  "permalink": "/introduction/workflow/property",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/workflow/property.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "logic",
+    "permalink": "/introduction/workflow/logic"
+  },
+  "next": {
+    "title": "鼠标/键盘宏录制",
+    "permalink": "/introduction/workflow/record"
+  }
+}

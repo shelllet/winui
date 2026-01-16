@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/ImageBlur",
+  "title": "平滑/模糊",
+  "description": "平滑和模糊是所有计算机视觉和图像处理中最重要的预处理步骤之一。通过在应用边缘检测或阈值处理等技术之前对图像进行平滑处理，我​​们能够减少高频内容的数量，例如噪声和边缘（即图像的“细节”）。",
+  "source": "@site/docs_src/actions/image/ImageBlur.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/ImageBlur",
+  "permalink": "/actions/image/ImageBlur",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/image/ImageBlur.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "颜色转换",
+    "permalink": "/actions/image/CvtColor"
+  },
+  "next": {
+    "title": "边缘检测",
+    "permalink": "/actions/image/ImageCanny"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/keyboard/SendKey",
+  "title": "发送按键",
+  "description": "向当前活动的窗口发送键盘按键",
+  "source": "@site/docs_src/actions/keyboard/SendKey.md",
+  "sourceDirName": "actions/keyboard",
+  "slug": "/actions/keyboard/SendKey",
+  "permalink": "/actions/keyboard/SendKey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/keyboard/SendKey.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "释放按键",
+    "permalink": "/actions/keyboard/ReleaseKey"
+  },
+  "next": {
+    "title": "发送文本",
+    "permalink": "/actions/keyboard/SendText"
+  }
+}

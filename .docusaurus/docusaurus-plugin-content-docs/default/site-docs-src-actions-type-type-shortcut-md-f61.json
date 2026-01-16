@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeShortcut",
+  "title": "快捷键",
+  "description": "定义一个 快捷键 类型。",
+  "source": "@site/docs_src/actions/type/TypeShortcut.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeShortcut",
+  "permalink": "/actions/type/TypeShortcut",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/type/TypeShortcut.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "标量",
+    "permalink": "/actions/type/TypeScalar"
+  },
+  "next": {
+    "title": "切片",
+    "permalink": "/actions/type/TypeSlice"
+  }
+}

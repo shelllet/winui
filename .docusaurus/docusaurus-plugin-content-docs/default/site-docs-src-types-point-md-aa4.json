@@ -1,0 +1,24 @@
+{
+  "id": "types/Point",
+  "title": "Point",
+  "description": "Class Point， 坐标位置",
+  "source": "@site/docs_src/types/Point.md",
+  "sourceDirName": "types",
+  "slug": "/types/Point",
+  "permalink": "/types/Point",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Point.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Path",
+    "permalink": "/types/Path"
+  },
+  "next": {
+    "title": "Ptr",
+    "permalink": "/types/Ptr"
+  }
+}

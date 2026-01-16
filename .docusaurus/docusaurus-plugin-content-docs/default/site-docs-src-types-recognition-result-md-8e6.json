@@ -1,0 +1,24 @@
+{
+  "id": "types/RecognitionResult",
+  "title": "RecognitionResult",
+  "description": "Class RecognitionResult 识别结果",
+  "source": "@site/docs_src/types/RecognitionResult.md",
+  "sourceDirName": "types",
+  "slug": "/types/RecognitionResult",
+  "permalink": "/types/RecognitionResult",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/RecognitionResult.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Range",
+    "permalink": "/types/Range"
+  },
+  "next": {
+    "title": "Rect",
+    "permalink": "/types/Rect"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "enums/WindowSortDirection",
+  "title": "WindowSortDirection",
+  "description": "* Z",
+  "source": "@site/docs_src/enums/WindowSortDirection.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/WindowSortDirection",
+  "permalink": "/enums/WindowSortDirection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/WindowSortDirection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WindowHandle",
+    "permalink": "/enums/WindowHandle"
+  },
+  "next": {
+    "title": "WorkState",
+    "permalink": "/enums/WorkState"
+  }
+}

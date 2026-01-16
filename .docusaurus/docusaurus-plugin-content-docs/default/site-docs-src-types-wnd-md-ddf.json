@@ -1,0 +1,20 @@
+{
+  "id": "types/Wnd",
+  "title": "Wnd",
+  "description": "Class Wnd， 窗口",
+  "source": "@site/docs_src/types/Wnd.md",
+  "sourceDirName": "types",
+  "slug": "/types/Wnd",
+  "permalink": "/types/Wnd",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Wnd.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WinInput",
+    "permalink": "/types/WinInput"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebActionDragDrop",
+  "title": "动作链.拖放",
+  "description": "在源元素上按住鼠标左键，然后移动到目标元素并释放鼠标。",
+  "source": "@site/docs_src/actions/web/WebActionDragDrop.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebActionDragDrop",
+  "permalink": "/actions/web/WebActionDragDrop",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebActionDragDrop.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "动作链.双击",
+    "permalink": "/actions/web/WebActionDoubleClick"
+  },
+  "next": {
+    "title": "动作链.按下修饰键",
+    "permalink": "/actions/web/WebActionKeyDown"
+  }
+}

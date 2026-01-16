@@ -1,0 +1,24 @@
+{
+  "id": "actions/detection/LineDetection",
+  "title": "直线检测",
+  "description": "检测图像中的直线，直线的线宽通常是 1 像素。",
+  "source": "@site/docs_src/actions/detection/LineDetection.md",
+  "sourceDirName": "actions/detection",
+  "slug": "/actions/detection/LineDetection",
+  "permalink": "/actions/detection/LineDetection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/detection/LineDetection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "颜色辨识",
+    "permalink": "/actions/detection/ImageColorDiscrimination"
+  },
+  "next": {
+    "title": "图像匹配",
+    "permalink": "/actions/detection/MatchImage"
+  }
+}

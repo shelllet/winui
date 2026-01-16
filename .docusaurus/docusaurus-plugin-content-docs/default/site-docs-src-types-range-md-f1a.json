@@ -1,0 +1,24 @@
+{
+  "id": "types/Range",
+  "title": "Range",
+  "description": "Class Range， 数值范围",
+  "source": "@site/docs_src/types/Range.md",
+  "sourceDirName": "types",
+  "slug": "/types/Range",
+  "permalink": "/types/Range",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Range.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ptr",
+    "permalink": "/types/Ptr"
+  },
+  "next": {
+    "title": "RecognitionResult",
+    "permalink": "/types/RecognitionResult"
+  }
+}

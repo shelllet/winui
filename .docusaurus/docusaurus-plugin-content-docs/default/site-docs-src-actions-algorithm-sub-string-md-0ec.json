@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/SubString",
+  "title": "提取子串",
+  "description": "根据指定 位置 和 长度 ，从字符串中提取子字符串。",
+  "source": "@site/docs_src/actions/algorithm/SubString.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/SubString",
+  "permalink": "/actions/algorithm/SubString",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/algorithm/SubString.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "分割字符串",
+    "permalink": "/actions/algorithm/SplitString"
+  },
+  "next": {
+    "title": "清除文字",
+    "permalink": "/actions/android/AdbClearText"
+  }
+}

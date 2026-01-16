@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbPull",
+  "title": "拉取文件",
+  "description": "从安卓设备复制文件/目录到本地计算机。",
+  "source": "@site/docs_src/actions/android/AdbPull.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbPull",
+  "permalink": "/actions/android/AdbPull",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/android/AdbPull.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "应用列表",
+    "permalink": "/actions/android/AdbPackages"
+  },
+  "next": {
+    "title": "推送文件",
+    "permalink": "/actions/android/AdbPush"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/pandas/RowsCount",
+  "title": "统计行数",
+  "description": "统计 DataFrame 数据结构的行数。",
+  "source": "@site/docs_src/actions/pandas/RowsCount.md",
+  "sourceDirName": "actions/pandas",
+  "slug": "/actions/pandas/RowsCount",
+  "permalink": "/actions/pandas/RowsCount",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/pandas/RowsCount.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "行列选择 * 标签",
+    "permalink": "/actions/pandas/NameLoc"
+  },
+  "next": {
+    "title": "保存文档",
+    "permalink": "/actions/pandas/SaveDocument"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/ImageDifference",
+  "title": "图像差值",
+  "description": "这个动作可以比较两个图像，并返回一个显示相似性的度量。结果越低，匹配越好。即使图像旋转、缩放也不会对该比较结果产生太大影响。",
+  "source": "@site/docs_src/actions/algorithm/ImageDifference.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/ImageDifference",
+  "permalink": "/actions/algorithm/ImageDifference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/algorithm/ImageDifference.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "形状筛选",
+    "permalink": "/actions/algorithm/FilterVertex"
+  },
+  "next": {
+    "title": "合并字符串",
+    "permalink": "/actions/algorithm/JoinString"
+  }
+}

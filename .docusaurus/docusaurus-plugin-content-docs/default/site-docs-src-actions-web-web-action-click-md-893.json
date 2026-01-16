@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebActionClick",
+  "title": "动作链.点击",
+  "description": "模拟鼠标左键点击 Web 元素，参考：点击。",
+  "source": "@site/docs_src/actions/web/WebActionClick.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebActionClick",
+  "permalink": "/actions/web/WebActionClick",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebActionClick.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "动作链*执行",
+    "permalink": "/actions/web/WebActionChainsPerform"
+  },
+  "next": {
+    "title": "动作链.点按",
+    "permalink": "/actions/web/WebActionClickHold"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/detection/ImageColorDiscrimination",
+  "title": "颜色辨识",
+  "description": "辨别图像的颜色是否为指定颜色。",
+  "source": "@site/docs_src/actions/detection/ImageColorDiscrimination.md",
+  "sourceDirName": "actions/detection",
+  "slug": "/actions/detection/ImageColorDiscrimination",
+  "permalink": "/actions/detection/ImageColorDiscrimination",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/detection/ImageColorDiscrimination.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查找轮廓",
+    "permalink": "/actions/detection/FindContours"
+  },
+  "next": {
+    "title": "直线检测",
+    "permalink": "/actions/detection/LineDetection"
+  }
+}

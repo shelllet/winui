@@ -1,0 +1,24 @@
+{
+  "id": "types/Dict",
+  "title": "Dict",
+  "description": "字典是另一种可变容器模型，且可存储任意类型对象。",
+  "source": "@site/docs_src/types/Dict.md",
+  "sourceDirName": "types",
+  "slug": "/types/Dict",
+  "permalink": "/types/Dict",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Dict.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DetectionResult",
+    "permalink": "/types/DetectionResult"
+  },
+  "next": {
+    "title": "Ellipse",
+    "permalink": "/types/Ellipse"
+  }
+}

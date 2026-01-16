@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeResource",
+  "title": "资源",
+  "description": "定义 资源 类型，用于选择嵌入流程中的资源，比如常用的图片文件。",
+  "source": "@site/docs_src/actions/type/TypeResource.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeResource",
+  "permalink": "/actions/type/TypeResource",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/type/TypeResource.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "矩形",
+    "permalink": "/actions/type/TypeRect"
+  },
+  "next": {
+    "title": "标量",
+    "permalink": "/actions/type/TypeScalar"
+  }
+}

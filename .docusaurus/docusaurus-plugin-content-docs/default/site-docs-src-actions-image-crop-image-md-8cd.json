@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/CropImage",
+  "title": "裁切图片",
+  "description": "该动作可以根据设置的裁切区域，从源图中获取一部分图像。",
+  "source": "@site/docs_src/actions/image/CropImage.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/CropImage",
+  "permalink": "/actions/image/CropImage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/image/CropImage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "连通域分析",
+    "permalink": "/actions/image/ConnectedComponents"
+  },
+  "next": {
+    "title": "颜色转换",
+    "permalink": "/actions/image/CvtColor"
+  }
+}

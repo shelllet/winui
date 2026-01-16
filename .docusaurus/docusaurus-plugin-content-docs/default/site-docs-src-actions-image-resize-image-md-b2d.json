@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/ResizeImage",
+  "title": "调整尺寸",
+  "description": "调整图像尺寸，该动作会根据所设置的尺寸，缩放图像。如果尺寸比源图像大，会放大图像，如果 尺寸比源图像小则会缩小图像。",
+  "source": "@site/docs_src/actions/image/ResizeImage.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/ResizeImage",
+  "permalink": "/actions/image/ResizeImage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/image/ResizeImage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "阈值操作",
+    "permalink": "/actions/image/ImageThreshold"
+  },
+  "next": {
+    "title": "监听键盘",
+    "permalink": "/actions/keyboard/ListenKeyboard"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/ImageMorphological",
+  "title": "形态学操作",
+  "description": "形态学操作是一组基于形状处理图像的操作。他们将结构化元素应用于输入图像并生成输出图像。",
+  "source": "@site/docs_src/actions/image/ImageMorphological.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/ImageMorphological",
+  "permalink": "/actions/image/ImageMorphological",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/image/ImageMorphological.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "均值",
+    "permalink": "/actions/image/ImageMean"
+  },
+  "next": {
+    "title": "像素归一化",
+    "permalink": "/actions/image/ImageNormalize"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/window/CloseWindow",
+  "title": "关闭窗口",
+  "description": "关闭指定的窗口，如果指定的窗口是父窗口或所有者窗口，也会在销毁父窗口或所有者窗口时自动销毁关联的子窗口或所有者窗口。关闭窗口也可能会让该窗口所在的应用程序退出。",
+  "source": "@site/docs_src/actions/window/CloseWindow.md",
+  "sourceDirName": "actions/window",
+  "slug": "/actions/window/CloseWindow",
+  "permalink": "/actions/window/CloseWindow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/window/CloseWindow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "激活窗口",
+    "permalink": "/actions/window/ActiveWindow"
+  },
+  "next": {
+    "title": "枚举窗口",
+    "permalink": "/actions/window/EnumWindows"
+  }
+}

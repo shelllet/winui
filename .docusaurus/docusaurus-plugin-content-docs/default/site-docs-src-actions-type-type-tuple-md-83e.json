@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeTuple",
+  "title": "元组",
+  "description": "定义一个 Tuple（元组） 类型。",
+  "source": "@site/docs_src/actions/type/TypeTuple.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeTuple",
+  "permalink": "/actions/type/TypeTuple",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/type/TypeTuple.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "字符串列表",
+    "permalink": "/actions/type/TypeStrings"
+  },
+  "next": {
+    "title": "网址",
+    "permalink": "/actions/type/TypeUrl"
+  }
+}

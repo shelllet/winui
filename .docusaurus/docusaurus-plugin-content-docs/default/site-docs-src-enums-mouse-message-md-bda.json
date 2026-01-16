@@ -1,0 +1,24 @@
+{
+  "id": "enums/MouseMessage",
+  "title": "MouseMessage",
+  "description": "* None",
+  "source": "@site/docs_src/enums/MouseMessage.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/MouseMessage",
+  "permalink": "/enums/MouseMessage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/MouseMessage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MouseButtons",
+    "permalink": "/enums/MouseButtons"
+  },
+  "next": {
+    "title": "Operations",
+    "permalink": "/enums/Operations"
+  }
+}

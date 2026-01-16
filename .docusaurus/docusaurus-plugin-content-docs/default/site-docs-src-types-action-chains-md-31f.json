@@ -1,0 +1,24 @@
+{
+  "id": "types/ActionChains",
+  "title": "ActionChains",
+  "description": "Class ActionChains. 动作链",
+  "source": "@site/docs_src/types/ActionChains.md",
+  "sourceDirName": "types",
+  "slug": "/types/ActionChains",
+  "permalink": "/types/ActionChains",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/ActionChains.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "openwrt_dns",
+    "permalink": "/network/openwrt_dns"
+  },
+  "next": {
+    "title": "Boolean",
+    "permalink": "/types/Boolean"
+  }
+}

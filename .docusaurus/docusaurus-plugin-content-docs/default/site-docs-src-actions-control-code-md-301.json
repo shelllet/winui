@@ -1,0 +1,24 @@
+{
+  "id": "actions/control/Code",
+  "title": "脚本",
+  "description": "该动作可以执行Python脚本。",
+  "source": "@site/docs_src/actions/control/Code.md",
+  "sourceDirName": "actions/control",
+  "slug": "/actions/control/Code",
+  "permalink": "/actions/control/Code",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/control/Code.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "停止循环",
+    "permalink": "/actions/control/Break"
+  },
+  "next": {
+    "title": "表达式",
+    "permalink": "/actions/control/CodeExpression"
+  }
+}

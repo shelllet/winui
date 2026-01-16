@@ -1,0 +1,24 @@
+{
+  "id": "actions/filesystem/ImageSave",
+  "title": "保存图片",
+  "description": "把图片类型的数据保存到本地磁盘上，比如截图相关动作。",
+  "source": "@site/docs_src/actions/filesystem/ImageSave.md",
+  "sourceDirName": "actions/filesystem",
+  "slug": "/actions/filesystem/ImageSave",
+  "permalink": "/actions/filesystem/ImageSave",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/filesystem/ImageSave.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "加载图像",
+    "permalink": "/actions/filesystem/ImageLoad"
+  },
+  "next": {
+    "title": "按行读取",
+    "permalink": "/actions/filesystem/ReadLines"
+  }
+}

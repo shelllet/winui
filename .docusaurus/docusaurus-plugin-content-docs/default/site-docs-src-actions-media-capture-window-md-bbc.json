@@ -1,0 +1,24 @@
+{
+  "id": "actions/media/CaptureWindow",
+  "title": "窗口截图",
+  "description": "根据指定的窗口截图，包含标题栏。",
+  "source": "@site/docs_src/actions/media/CaptureWindow.md",
+  "sourceDirName": "actions/media",
+  "slug": "/actions/media/CaptureWindow",
+  "permalink": "/actions/media/CaptureWindow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/media/CaptureWindow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "全屏截图",
+    "permalink": "/actions/media/CaptureScreen"
+  },
+  "next": {
+    "title": "声音播放",
+    "permalink": "/actions/media/MediaPlay"
+  }
+}

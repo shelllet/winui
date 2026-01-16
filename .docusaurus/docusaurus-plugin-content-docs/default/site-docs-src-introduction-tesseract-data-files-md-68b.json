@@ -1,0 +1,24 @@
+{
+  "id": "introduction/tesseract/Data-Files",
+  "title": "Data-Files",
+  "description": "训练数据文件",
+  "source": "@site/docs_src/introduction/tesseract/Data-Files.md",
+  "sourceDirName": "introduction/tesseract",
+  "slug": "/introduction/tesseract/Data-Files",
+  "permalink": "/introduction/tesseract/Data-Files",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/tesseract/Data-Files.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "工作流设置",
+    "permalink": "/introduction/setting/workflow"
+  },
+  "next": {
+    "title": "Languages/Scripts supported Tesseract OCR",
+    "permalink": "/introduction/tesseract/Languages_Scripts"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "enums/CookiesFormat",
+  "title": "CookiesFormat",
+  "description": "* Default",
+  "source": "@site/docs_src/enums/CookiesFormat.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/CookiesFormat",
+  "permalink": "/enums/CookiesFormat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/CookiesFormat.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ContourShape",
+    "permalink": "/enums/ContourShape"
+  },
+  "next": {
+    "title": "Directions",
+    "permalink": "/enums/Directions"
+  }
+}

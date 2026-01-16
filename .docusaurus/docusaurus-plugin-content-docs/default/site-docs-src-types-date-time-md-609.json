@@ -1,0 +1,24 @@
+{
+  "id": "types/DateTime",
+  "title": "DateTime",
+  "description": "Class DateTime 日期和时间",
+  "source": "@site/docs_src/types/DateTime.md",
+  "sourceDirName": "types",
+  "slug": "/types/DateTime",
+  "permalink": "/types/DateTime",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/DateTime.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contour",
+    "permalink": "/types/Contour"
+  },
+  "next": {
+    "title": "DetectionResult",
+    "permalink": "/types/DetectionResult"
+  }
+}

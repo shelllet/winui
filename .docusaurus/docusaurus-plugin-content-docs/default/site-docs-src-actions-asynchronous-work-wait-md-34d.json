@@ -1,0 +1,24 @@
+{
+  "id": "actions/asynchronous/WorkWait",
+  "title": "异步等待",
+  "description": "该动作可以等待异步动作的结束。",
+  "source": "@site/docs_src/actions/asynchronous/WorkWait.md",
+  "sourceDirName": "actions/asynchronous",
+  "slug": "/actions/asynchronous/WorkWait",
+  "permalink": "/actions/asynchronous/WorkWait",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/asynchronous/WorkWait.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "定时器",
+    "permalink": "/actions/asynchronous/WorkTimer"
+  },
+  "next": {
+    "title": "百度翻译",
+    "permalink": "/actions/cloud/BaiduTranslate"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "enums/MouseButtons",
+  "title": "MouseButtons",
+  "description": "* Left",
+  "source": "@site/docs_src/enums/MouseButtons.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/MouseButtons",
+  "permalink": "/enums/MouseButtons",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/MouseButtons.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MorphologicalOperations",
+    "permalink": "/enums/MorphologicalOperations"
+  },
+  "next": {
+    "title": "MouseMessage",
+    "permalink": "/enums/MouseMessage"
+  }
+}

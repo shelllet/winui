@@ -1,0 +1,24 @@
+{
+  "id": "actions/keyboard/PressAndReleaseKey",
+  "title": "按下并释放",
+  "description": "按下键盘按键并持续一定的时间，然后释放按键",
+  "source": "@site/docs_src/actions/keyboard/PressAndReleaseKey.md",
+  "sourceDirName": "actions/keyboard",
+  "slug": "/actions/keyboard/PressAndReleaseKey",
+  "permalink": "/actions/keyboard/PressAndReleaseKey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/keyboard/PressAndReleaseKey.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "监听键盘",
+    "permalink": "/actions/keyboard/ListenKeyboard"
+  },
+  "next": {
+    "title": "按下按键",
+    "permalink": "/actions/keyboard/PressKey"
+  }
+}

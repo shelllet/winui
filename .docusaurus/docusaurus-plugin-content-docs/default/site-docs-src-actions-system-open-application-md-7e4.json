@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/OpenApplication",
+  "title": "打开应用",
+  "description": "打开Windows系统当中的软件,该动作不会等待程序结束。",
+  "source": "@site/docs_src/actions/system/OpenApplication.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/OpenApplication",
+  "permalink": "/actions/system/OpenApplication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/system/OpenApplication.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "打开关联文件",
+    "permalink": "/actions/system/LaunchFile"
+  },
+  "next": {
+    "title": "打开链接",
+    "permalink": "/actions/system/OpenUrl"
+  }
+}

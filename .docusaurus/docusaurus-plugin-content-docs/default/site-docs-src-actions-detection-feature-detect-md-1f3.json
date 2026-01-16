@@ -1,0 +1,24 @@
+{
+  "id": "actions/detection/FeatureDetect",
+  "title": "特征匹配",
+  "description": "特征是图像中信息特别丰富或有趣的独特区域。这些可能包括边缘、角落或斑点（基于颜色强度的区域）。该动作通过特征匹配，在一张图像当中查找模板图像。",
+  "source": "@site/docs_src/actions/detection/FeatureDetect.md",
+  "sourceDirName": "actions/detection",
+  "slug": "/actions/detection/FeatureDetect",
+  "permalink": "/actions/detection/FeatureDetect",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/detection/FeatureDetect.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "椭圆检测",
+    "permalink": "/actions/detection/EllipseDetection"
+  },
+  "next": {
+    "title": "查找轮廓",
+    "permalink": "/actions/detection/FindContours"
+  }
+}

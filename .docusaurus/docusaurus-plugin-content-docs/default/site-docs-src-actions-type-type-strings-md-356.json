@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeStrings",
+  "title": "字符串列表",
+  "description": "定义一个 字符串列表 类型的值。",
+  "source": "@site/docs_src/actions/type/TypeStrings.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeStrings",
+  "permalink": "/actions/type/TypeStrings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/type/TypeStrings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "字符串",
+    "permalink": "/actions/type/TypeString"
+  },
+  "next": {
+    "title": "元组",
+    "permalink": "/actions/type/TypeTuple"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebActionKeyUp",
+  "title": "动作链.释放修饰键",
+  "description": "释放键盘修饰键，配合 动作链.按下修饰键 动作使用。 用来释放 动作链.按下修饰键 动作中按下的修饰键。",
+  "source": "@site/docs_src/actions/web/WebActionKeyUp.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebActionKeyUp",
+  "permalink": "/actions/web/WebActionKeyUp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebActionKeyUp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "动作链.按下修饰键",
+    "permalink": "/actions/web/WebActionKeyDown"
+  },
+  "next": {
+    "title": "动作链.移动",
+    "permalink": "/actions/web/WebActionMoveTo"
+  }
+}

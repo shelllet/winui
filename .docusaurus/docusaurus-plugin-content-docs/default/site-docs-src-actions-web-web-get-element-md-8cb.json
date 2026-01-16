@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebGetElement",
+  "title": "查找元素",
+  "description": "查找 Web 元素。",
+  "source": "@site/docs_src/actions/web/WebGetElement.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebGetElement",
+  "permalink": "/actions/web/WebGetElement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebGetElement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "重置框架",
+    "permalink": "/actions/web/WebFocusFrameDefault"
+  },
+  "next": {
+    "title": "打开浏览器",
+    "permalink": "/actions/web/WebOpen"
+  }
+}

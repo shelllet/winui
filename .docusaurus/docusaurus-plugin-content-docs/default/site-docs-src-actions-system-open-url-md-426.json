@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/OpenUrl",
+  "title": "打开链接",
+  "description": "该动作可以启动默认的浏览器打开指定的网址",
+  "source": "@site/docs_src/actions/system/OpenUrl.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/OpenUrl",
+  "permalink": "/actions/system/OpenUrl",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/system/OpenUrl.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "打开应用",
+    "permalink": "/actions/system/OpenApplication"
+  },
+  "next": {
+    "title": "打印日志",
+    "permalink": "/actions/system/PrintMessage"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "introduction/tesseract/tesstrain",
+  "title": "Tesseract 5 的训练",
+  "description": "使用 tesseract-ocr/tesstrain 来训练字体，可按以下步骤操作：",
+  "source": "@site/docs_src/introduction/tesseract/tesstrain.md",
+  "sourceDirName": "introduction/tesseract",
+  "slug": "/introduction/tesseract/tesstrain",
+  "permalink": "/introduction/tesseract/tesstrain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/tesseract/tesstrain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Languages/Scripts supported Tesseract OCR",
+    "permalink": "/introduction/tesseract/Languages_Scripts"
+  },
+  "next": {
+    "title": "浏览器配置目录",
+    "permalink": "/introduction/webdriver/browser_directory"
+  }
+}

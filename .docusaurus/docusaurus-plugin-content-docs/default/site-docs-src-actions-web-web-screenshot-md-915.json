@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebScreenshot",
+  "title": "元素截图",
+  "description": "Web 元素截图或者页面截图。",
+  "source": "@site/docs_src/actions/web/WebScreenshot.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebScreenshot",
+  "permalink": "/actions/web/WebScreenshot",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebScreenshot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "打开浏览器",
+    "permalink": "/actions/web/WebOpen"
+  },
+  "next": {
+    "title": "切换框架",
+    "permalink": "/actions/web/WebSwitchToFrame"
+  }
+}

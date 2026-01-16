@@ -1,0 +1,24 @@
+{
+  "id": "enums/FeatureAlgorithm",
+  "title": "FeatureAlgorithm",
+  "description": "* SIFT",
+  "source": "@site/docs_src/enums/FeatureAlgorithm.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/FeatureAlgorithm",
+  "permalink": "/enums/FeatureAlgorithm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/FeatureAlgorithm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Directions",
+    "permalink": "/enums/Directions"
+  },
+  "next": {
+    "title": "FileExtension",
+    "permalink": "/enums/FileExtension"
+  }
+}

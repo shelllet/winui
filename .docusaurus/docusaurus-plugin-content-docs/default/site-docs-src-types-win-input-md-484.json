@@ -1,0 +1,24 @@
+{
+  "id": "types/WinInput",
+  "title": "WinInput",
+  "description": "",
+  "source": "@site/docs_src/types/WinInput.md",
+  "sourceDirName": "types",
+  "slug": "/types/WinInput",
+  "permalink": "/types/WinInput",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/WinInput.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WinEvent",
+    "permalink": "/types/WinEvent"
+  },
+  "next": {
+    "title": "Wnd",
+    "permalink": "/types/Wnd"
+  }
+}

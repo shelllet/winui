@@ -1,0 +1,24 @@
+{
+  "id": "introduction/workflow/resources",
+  "title": "资源",
+  "description": "流程在分发的时候，往往会碰到缺少资源问题，比如图片、文件等，导致流程在其它电脑上无法执行。要解决此种问题，可以把相应的资源或者文件嵌入流程当中使用，这样可以避免依赖本地资源文件。",
+  "source": "@site/docs_src/introduction/workflow/resources.md",
+  "sourceDirName": "introduction/workflow",
+  "slug": "/introduction/workflow/resources",
+  "permalink": "/introduction/workflow/resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/workflow/resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "鼠标/键盘宏录制",
+    "permalink": "/introduction/workflow/record"
+  },
+  "next": {
+    "title": "变量",
+    "permalink": "/introduction/workflow/variable"
+  }
+}

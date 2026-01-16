@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeRect",
+  "title": "矩形",
+  "description": "定义一个 矩形 类型。",
+  "source": "@site/docs_src/actions/type/TypeRect.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeRect",
+  "permalink": "/actions/type/TypeRect",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/type/TypeRect.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "指针",
+    "permalink": "/actions/type/TypePtr"
+  },
+  "next": {
+    "title": "资源",
+    "permalink": "/actions/type/TypeResource"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "enums/WorkState",
+  "title": "WorkState",
+  "description": "* Auto",
+  "source": "@site/docs_src/enums/WorkState.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/WorkState",
+  "permalink": "/enums/WorkState",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/WorkState.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WindowSortDirection",
+    "permalink": "/enums/WindowSortDirection"
+  },
+  "next": {
+    "title": "系统配置要求",
+    "permalink": "/introduction/"
+  }
+}

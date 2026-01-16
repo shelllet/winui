@@ -1,0 +1,24 @@
+{
+  "id": "actions/pandas/IndexLoc",
+  "title": "行列选择 * 索引",
+  "description": "基于整数位置的索引，以按位置对 DataFrame数据结构进行选择。",
+  "source": "@site/docs_src/actions/pandas/IndexLoc.md",
+  "sourceDirName": "actions/pandas",
+  "slug": "/actions/pandas/IndexLoc",
+  "permalink": "/actions/pandas/IndexLoc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/pandas/IndexLoc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查询",
+    "permalink": "/actions/pandas/DataFrameQuery"
+  },
+  "next": {
+    "title": "迭代行",
+    "permalink": "/actions/pandas/IterRow"
+  }
+}

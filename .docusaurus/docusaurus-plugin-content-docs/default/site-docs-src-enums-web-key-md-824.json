@@ -1,0 +1,24 @@
+{
+  "id": "enums/WebKey",
+  "title": "WebKey",
+  "description": "* Null",
+  "source": "@site/docs_src/enums/WebKey.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/WebKey",
+  "permalink": "/enums/WebKey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/WebKey.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Visibility",
+    "permalink": "/enums/Visibility"
+  },
+  "next": {
+    "title": "WebLocatedMode",
+    "permalink": "/enums/WebLocated"
+  }
+}

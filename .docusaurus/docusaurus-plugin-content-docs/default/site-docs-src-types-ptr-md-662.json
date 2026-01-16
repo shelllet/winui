@@ -1,0 +1,24 @@
+{
+  "id": "types/Ptr",
+  "title": "Ptr",
+  "description": "Class Ptr， 指针。",
+  "source": "@site/docs_src/types/Ptr.md",
+  "sourceDirName": "types",
+  "slug": "/types/Ptr",
+  "permalink": "/types/Ptr",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Ptr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Point",
+    "permalink": "/types/Point"
+  },
+  "next": {
+    "title": "Range",
+    "permalink": "/types/Range"
+  }
+}

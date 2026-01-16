@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/FilterVertex",
+  "title": "形状筛选",
+  "description": "通过计算 数组/列表 中元素的形状是否近似指定的形状来筛选 数组/列表 中的元素。",
+  "source": "@site/docs_src/actions/algorithm/FilterVertex.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/FilterVertex",
+  "permalink": "/actions/algorithm/FilterVertex",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/algorithm/FilterVertex.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文本筛选",
+    "permalink": "/actions/algorithm/FilterText"
+  },
+  "next": {
+    "title": "图像差值",
+    "permalink": "/actions/algorithm/ImageDifference"
+  }
+}

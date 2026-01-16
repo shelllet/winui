@@ -1,0 +1,24 @@
+{
+  "id": "introduction/installation/installed_by_exe",
+  "title": "安装包安装",
+  "description": "通过常见的Exe格式, 此方式最简单方便。打开https://winui.net， 点击英文Download下载最新版本的Exe格式的安装包。",
+  "source": "@site/docs_src/introduction/installation/installed_by_exe.md",
+  "sourceDirName": "introduction/installation",
+  "slug": "/introduction/installation/installed_by_exe",
+  "permalink": "/introduction/installation/installed_by_exe",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/installation/installed_by_exe.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何下载并安装 UIAutomatorViewer",
+    "permalink": "/introduction/android/uiautomatorviewer"
+  },
+  "next": {
+    "title": "微软商店安装",
+    "permalink": "/introduction/installation/installed_by_msix"
+  }
+}

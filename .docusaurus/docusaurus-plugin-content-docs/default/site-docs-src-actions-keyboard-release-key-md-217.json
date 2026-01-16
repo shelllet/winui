@@ -1,0 +1,24 @@
+{
+  "id": "actions/keyboard/ReleaseKey",
+  "title": "释放按键",
+  "description": "释放按下的键盘按键",
+  "source": "@site/docs_src/actions/keyboard/ReleaseKey.md",
+  "sourceDirName": "actions/keyboard",
+  "slug": "/actions/keyboard/ReleaseKey",
+  "permalink": "/actions/keyboard/ReleaseKey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/keyboard/ReleaseKey.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "按下按键",
+    "permalink": "/actions/keyboard/PressKey"
+  },
+  "next": {
+    "title": "发送按键",
+    "permalink": "/actions/keyboard/SendKey"
+  }
+}

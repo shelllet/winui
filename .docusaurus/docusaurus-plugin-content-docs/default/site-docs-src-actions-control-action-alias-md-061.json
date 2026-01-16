@@ -1,0 +1,24 @@
+{
+  "id": "actions/control/ActionAlias",
+  "title": "引用动作",
+  "description": "此动作是用来引用流程当中，可以被使用的路过动作。",
+  "source": "@site/docs_src/actions/control/ActionAlias.md",
+  "sourceDirName": "actions/control",
+  "slug": "/actions/control/ActionAlias",
+  "permalink": "/actions/control/ActionAlias",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/control/ActionAlias.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "百度翻译",
+    "permalink": "/actions/cloud/BaiduTranslate"
+  },
+  "next": {
+    "title": "算术运行",
+    "permalink": "/actions/control/ArithmeticCalculate"
+  }
+}

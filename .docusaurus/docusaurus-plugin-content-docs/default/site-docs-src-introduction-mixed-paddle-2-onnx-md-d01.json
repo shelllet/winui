@@ -1,0 +1,24 @@
+{
+  "id": "introduction/mixed/paddle2onnx",
+  "title": "Paddle2ONNX模型转化与预测",
+  "description": "本章节介绍 PaddleOCR 模型如何转化为 ONNX 模型，并在 小友+ 中使用。",
+  "source": "@site/docs_src/introduction/mixed/paddle2onnx.md",
+  "sourceDirName": "introduction/mixed",
+  "slug": "/introduction/mixed/paddle2onnx",
+  "permalink": "/introduction/mixed/paddle2onnx",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/mixed/paddle2onnx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Glob模式",
+    "permalink": "/introduction/mixed/glob"
+  },
+  "next": {
+    "title": "通配符",
+    "permalink": "/introduction/mixed/wildcard"
+  }
+}

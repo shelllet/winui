@@ -1,0 +1,24 @@
+{
+  "id": "enums/WebLocated",
+  "title": "WebLocatedMode",
+  "description": "* ONE",
+  "source": "@site/docs_src/enums/WebLocated.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/WebLocated",
+  "permalink": "/enums/WebLocated",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/WebLocated.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WebKey",
+    "permalink": "/enums/WebKey"
+  },
+  "next": {
+    "title": "WindowHandle",
+    "permalink": "/enums/WindowHandle"
+  }
+}

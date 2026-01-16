@@ -1,0 +1,24 @@
+{
+  "id": "actions/media/PlayRecord",
+  "title": "键盘/鼠标宏重放",
+  "description": "用于重放录制的键盘/鼠标宏。录制方法参考：鼠标/键盘宏录制。",
+  "source": "@site/docs_src/actions/media/PlayRecord.md",
+  "sourceDirName": "actions/media",
+  "slug": "/actions/media/PlayRecord",
+  "permalink": "/actions/media/PlayRecord",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/media/PlayRecord.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "屏幕取色",
+    "permalink": "/actions/media/PixelPoint"
+  },
+  "next": {
+    "title": "相机图像",
+    "permalink": "/actions/media/VideoFrame"
+  }
+}

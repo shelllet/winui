@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/ImageNormalize",
+  "title": "像素归一化",
+  "description": "像素归一化指的是把图像像素值调整到特定范围的操作。像素归一化在图像处理和机器学习领域十分重要，像在深度学习模型输入时，为了让模型更稳定地学习，通常需要将图像像素值归一化到 [0, 1] 或者 [-1, 1] 范围。",
+  "source": "@site/docs_src/actions/image/ImageNormalize.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/ImageNormalize",
+  "permalink": "/actions/image/ImageNormalize",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/image/ImageNormalize.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "形态学操作",
+    "permalink": "/actions/image/ImageMorphological"
+  },
+  "next": {
+    "title": "图像旋转",
+    "permalink": "/actions/image/ImageRotate"
+  }
+}

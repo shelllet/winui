@@ -1,0 +1,24 @@
+{
+  "id": "enums/CameraTriggerSource",
+  "title": "CameraTriggerSource",
+  "description": "- Line0",
+  "source": "@site/docs_src/enums/CameraTriggerSource.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/CameraTriggerSource",
+  "permalink": "/enums/CameraTriggerSource",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/CameraTriggerSource.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CameraTriggerActivation",
+    "permalink": "/enums/CameraTriggerActivation"
+  },
+  "next": {
+    "title": "CameraType",
+    "permalink": "/enums/CameraType"
+  }
+}

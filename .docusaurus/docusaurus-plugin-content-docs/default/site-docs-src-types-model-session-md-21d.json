@@ -1,0 +1,24 @@
+{
+  "id": "types/ModelSession",
+  "title": "ModelSession",
+  "description": "Class ModelSession， ONNX 模型。",
+  "source": "@site/docs_src/types/ModelSession.md",
+  "sourceDirName": "types",
+  "slug": "/types/ModelSession",
+  "permalink": "/types/ModelSession",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/ModelSession.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "List",
+    "permalink": "/types/List"
+  },
+  "next": {
+    "title": "Number",
+    "permalink": "/types/Number"
+  }
+}

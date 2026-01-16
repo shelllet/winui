@@ -1,0 +1,24 @@
+{
+  "id": "introduction/workflow/record",
+  "title": "鼠标/键盘宏录制",
+  "description": "录制功能可以记录鼠标和键盘的操作，比如： 移动、点击、双击等、 并可借助流程中的相应动作 键盘/鼠标宏重放 反复执行。操作方式如下 ：",
+  "source": "@site/docs_src/introduction/workflow/record.md",
+  "sourceDirName": "introduction/workflow",
+  "slug": "/introduction/workflow/record",
+  "permalink": "/introduction/workflow/record",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/workflow/record.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "项目属性",
+    "permalink": "/introduction/workflow/property"
+  },
+  "next": {
+    "title": "资源",
+    "permalink": "/introduction/workflow/resources"
+  }
+}

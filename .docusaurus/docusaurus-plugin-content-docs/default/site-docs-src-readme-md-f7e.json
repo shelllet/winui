@@ -1,0 +1,24 @@
+{
+  "id": "README",
+  "title": "小友+",
+  "description": "一个简单的 自动化 工具 ，它可以使用图形化的界面，不用编程就可以方便地设计出各种自动化的流程，然后自动执行重复性的手动任务，从而节省了企业的时间、员工工作量，并减少了麻烦。例如可以通过图像识别，并借助鼠标键盘模拟帮你完成各种各样的繁复操作。",
+  "source": "@site/docs_src/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "[0.49](https://github.com/shelllet/winui/compare/main...dev) (2026-xx-xx)",
+    "permalink": "/CHANGELOG"
+  },
+  "next": {
+    "title": "动作",
+    "permalink": "/actions/"
+  }
+}

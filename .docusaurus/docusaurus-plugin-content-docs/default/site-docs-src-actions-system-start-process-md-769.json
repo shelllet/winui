@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/StartProcess",
+  "title": "启动应用",
+  "description": "启动应用程序,并等待程序结束。",
+  "source": "@site/docs_src/actions/system/StartProcess.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/StartProcess",
+  "permalink": "/actions/system/StartProcess",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/system/StartProcess.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "登录应用",
+    "permalink": "/actions/system/Runas"
+  },
+  "next": {
+    "title": "暂停系统",
+    "permalink": "/actions/system/SuspendSystem"
+  }
+}

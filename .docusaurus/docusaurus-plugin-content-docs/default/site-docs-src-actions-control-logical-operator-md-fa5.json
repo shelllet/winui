@@ -1,0 +1,24 @@
+{
+  "id": "actions/control/LogicalOperator",
+  "title": "逻辑运算",
+  "description": "逻辑运算符包括 &&、||、! 三种，分别表示逻辑与、逻辑或、逻辑非, 参考： LogicalOperators。",
+  "source": "@site/docs_src/actions/control/LogicalOperator.md",
+  "sourceDirName": "actions/control",
+  "slug": "/actions/control/LogicalOperator",
+  "permalink": "/actions/control/LogicalOperator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/control/LogicalOperator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "输出控制",
+    "permalink": "/actions/control/LoggingControl"
+  },
+  "next": {
+    "title": "引用动作（名称）",
+    "permalink": "/actions/control/NameAlias"
+  }
+}

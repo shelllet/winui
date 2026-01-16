@@ -1,0 +1,24 @@
+{
+  "id": "actions/method/SubString",
+  "title": "字符串提取",
+  "description": "根据特定的方法，可以获取部分字符串。",
+  "source": "@site/docs_src/actions/method/SubString.md",
+  "sourceDirName": "actions/method",
+  "slug": "/actions/method/SubString",
+  "permalink": "/actions/method/SubString",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/method/SubString.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "相机图像",
+    "permalink": "/actions/media/VideoFrame"
+  },
+  "next": {
+    "title": "点击 * 网格",
+    "permalink": "/actions/mouse/CellClick"
+  }
+}

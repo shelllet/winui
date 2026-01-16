@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbLs",
+  "title": "文件列表",
+  "description": "获取模拟器或真机中的文件或者文件夹列表，类似文件或者文件夹遍历。",
+  "source": "@site/docs_src/actions/android/AdbLs.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbLs",
+  "permalink": "/actions/android/AdbLs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/android/AdbLs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "按键",
+    "permalink": "/actions/android/AdbKey"
+  },
+  "next": {
+    "title": "移动",
+    "permalink": "/actions/android/AdbMove"
+  }
+}

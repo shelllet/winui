@@ -1,0 +1,24 @@
+{
+  "id": "actions/asynchronous/WorkThread",
+  "title": "线程",
+  "description": "这个动作可用于异步执行一些子动作。",
+  "source": "@site/docs_src/actions/asynchronous/WorkThread.md",
+  "sourceDirName": "actions/asynchronous",
+  "slug": "/actions/asynchronous/WorkThread",
+  "permalink": "/actions/asynchronous/WorkThread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/asynchronous/WorkThread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "定时任务",
+    "permalink": "/actions/asynchronous/WorkTask"
+  },
+  "next": {
+    "title": "定时器",
+    "permalink": "/actions/asynchronous/WorkTimer"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/ColorPercentage",
+  "title": "颜色统计",
+  "description": "该动作可以统计某一颜色在整个图像当中所占的比例。",
+  "source": "@site/docs_src/actions/algorithm/ColorPercentage.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/ColorPercentage",
+  "permalink": "/actions/algorithm/ColorPercentage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/algorithm/ColorPercentage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中心坐标",
+    "permalink": "/actions/algorithm/CalculateCenter"
+  },
+  "next": {
+    "title": "坐标转换",
+    "permalink": "/actions/algorithm/ConvertPoint"
+  }
+}

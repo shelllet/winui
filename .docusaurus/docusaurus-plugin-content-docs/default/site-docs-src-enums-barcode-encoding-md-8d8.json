@@ -1,0 +1,24 @@
+{
+  "id": "enums/BARCODE_Encoding",
+  "title": "BARCODE_Encoding",
+  "description": "* CODE128",
+  "source": "@site/docs_src/enums/BARCODE_Encoding.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/BARCODE_Encoding",
+  "permalink": "/enums/BARCODE_Encoding",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/BARCODE_Encoding.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AncestorWindow",
+    "permalink": "/enums/AncestorWindow"
+  },
+  "next": {
+    "title": "BlurOperation",
+    "permalink": "/enums/BlurOperation"
+  }
+}

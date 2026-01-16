@@ -1,0 +1,24 @@
+{
+  "id": "types/Scalar",
+  "title": "Scalar",
+  "description": "Class Scalar， 标量",
+  "source": "@site/docs_src/types/Scalar.md",
+  "sourceDirName": "types",
+  "slug": "/types/Scalar",
+  "permalink": "/types/Scalar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Scalar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RotatedRect",
+    "permalink": "/types/RotatedRect"
+  },
+  "next": {
+    "title": "Size",
+    "permalink": "/types/Size"
+  }
+}

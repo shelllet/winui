@@ -1,0 +1,24 @@
+{
+  "id": "types/Boolean",
+  "title": "Boolean",
+  "description": "在编程中，您经常需要知道表达式是否为 Trueor False。",
+  "source": "@site/docs_src/types/Boolean.md",
+  "sourceDirName": "types",
+  "slug": "/types/Boolean",
+  "permalink": "/types/Boolean",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Boolean.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ActionChains",
+    "permalink": "/types/ActionChains"
+  },
+  "next": {
+    "title": "Bytes",
+    "permalink": "/types/Bytes"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "enums/Directions",
+  "title": "Directions",
+  "description": "* Down",
+  "source": "@site/docs_src/enums/Directions.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/Directions",
+  "permalink": "/enums/Directions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/Directions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CookiesFormat",
+    "permalink": "/enums/CookiesFormat"
+  },
+  "next": {
+    "title": "FeatureAlgorithm",
+    "permalink": "/enums/FeatureAlgorithm"
+  }
+}

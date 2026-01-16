@@ -1,0 +1,24 @@
+{
+  "id": "actions/detection/MatchImage",
+  "title": "图像匹配",
+  "description": "多目标的图像查找方法，通常用于查找特征比较少的图像。",
+  "source": "@site/docs_src/actions/detection/MatchImage.md",
+  "sourceDirName": "actions/detection",
+  "slug": "/actions/detection/MatchImage",
+  "permalink": "/actions/detection/MatchImage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/detection/MatchImage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "直线检测",
+    "permalink": "/actions/detection/LineDetection"
+  },
+  "next": {
+    "title": "形状匹配",
+    "permalink": "/actions/detection/MatchShapes"
+  }
+}

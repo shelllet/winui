@@ -1,0 +1,24 @@
+{
+  "id": "types/Object",
+  "title": "Object",
+  "description": "Class Object， 对象，通用导出类型。",
+  "source": "@site/docs_src/types/Object.md",
+  "sourceDirName": "types",
+  "slug": "/types/Object",
+  "permalink": "/types/Object",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Object.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Number",
+    "permalink": "/types/Number"
+  },
+  "next": {
+    "title": "Path",
+    "permalink": "/types/Path"
+  }
+}

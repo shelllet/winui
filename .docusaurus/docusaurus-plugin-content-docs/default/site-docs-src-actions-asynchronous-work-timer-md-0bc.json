@@ -1,0 +1,24 @@
+{
+  "id": "actions/asynchronous/WorkTimer",
+  "title": "定时器",
+  "description": "可以按照一定的时间间隔，重复执行子流程。",
+  "source": "@site/docs_src/actions/asynchronous/WorkTimer.md",
+  "sourceDirName": "actions/asynchronous",
+  "slug": "/actions/asynchronous/WorkTimer",
+  "permalink": "/actions/asynchronous/WorkTimer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/asynchronous/WorkTimer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "线程",
+    "permalink": "/actions/asynchronous/WorkThread"
+  },
+  "next": {
+    "title": "异步等待",
+    "permalink": "/actions/asynchronous/WorkWait"
+  }
+}

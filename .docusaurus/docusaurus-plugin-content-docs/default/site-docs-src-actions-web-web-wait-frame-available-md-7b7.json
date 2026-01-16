@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebWaitFrameAvailable",
+  "title": "等待*框架",
+  "description": "检查给定的 iframe 框架是否可以切换到。如果相应的 iframe 可用，会切换置相应的 iframe。",
+  "source": "@site/docs_src/actions/web/WebWaitFrameAvailable.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebWaitFrameAvailable",
+  "permalink": "/actions/web/WebWaitFrameAvailable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebWaitFrameAvailable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "等待*可点击",
+    "permalink": "/actions/web/WebWaitClickable"
+  },
+  "next": {
+    "title": "等待*元素呈现",
+    "permalink": "/actions/web/WebWaitPresence"
+  }
+}

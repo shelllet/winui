@@ -1,0 +1,24 @@
+{
+  "id": "enums/MorphologicalOperations",
+  "title": "MorphologicalOperations",
+  "description": "* Erosion",
+  "source": "@site/docs_src/enums/MorphologicalOperations.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/MorphologicalOperations",
+  "permalink": "/enums/MorphologicalOperations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/MorphologicalOperations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ModuleOption",
+    "permalink": "/enums/ModuleOption"
+  },
+  "next": {
+    "title": "MouseButtons",
+    "permalink": "/enums/MouseButtons"
+  }
+}

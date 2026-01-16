@@ -1,0 +1,24 @@
+{
+  "id": "introduction/workflow/action",
+  "title": "动作",
+  "description": "运行时参数",
+  "source": "@site/docs_src/introduction/workflow/action.md",
+  "sourceDirName": "introduction/workflow",
+  "slug": "/introduction/workflow/action",
+  "permalink": "/introduction/workflow/action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/workflow/action.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "定位策略",
+    "permalink": "/introduction/webdriver/locators"
+  },
+  "next": {
+    "title": "流程操作技巧",
+    "permalink": "/introduction/workflow/features"
+  }
+}

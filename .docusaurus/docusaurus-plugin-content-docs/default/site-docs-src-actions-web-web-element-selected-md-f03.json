@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebElementSelected",
+  "title": "选中检查",
+  "description": "检查元素是否被选中，可用于检查复选框或单选按钮、下拉框选项是否被选中。",
+  "source": "@site/docs_src/actions/web/WebElementSelected.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebElementSelected",
+  "permalink": "/actions/web/WebElementSelected",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebElementSelected.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "点击",
+    "permalink": "/actions/web/WebElementClick"
+  },
+  "next": {
+    "title": "发送按键",
+    "permalink": "/actions/web/WebElementSendKey"
+  }
+}

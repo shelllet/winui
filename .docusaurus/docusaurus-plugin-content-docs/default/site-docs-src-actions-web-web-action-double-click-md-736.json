@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebActionDoubleClick",
+  "title": "动作链.双击",
+  "description": "双击一个 Web 元素。",
+  "source": "@site/docs_src/actions/web/WebActionDoubleClick.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebActionDoubleClick",
+  "permalink": "/actions/web/WebActionDoubleClick",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebActionDoubleClick.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "动作链.点按",
+    "permalink": "/actions/web/WebActionClickHold"
+  },
+  "next": {
+    "title": "动作链.拖放",
+    "permalink": "/actions/web/WebActionDragDrop"
+  }
+}

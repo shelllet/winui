@@ -1,0 +1,24 @@
+{
+  "id": "actions/filesystem/DirectoryIterator",
+  "title": "遍历文件",
+  "description": "遍历本地文件夹当中的所有文件。",
+  "source": "@site/docs_src/actions/filesystem/DirectoryIterator.md",
+  "sourceDirName": "actions/filesystem",
+  "slug": "/actions/filesystem/DirectoryIterator",
+  "permalink": "/actions/filesystem/DirectoryIterator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/filesystem/DirectoryIterator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文件复制",
+    "permalink": "/actions/filesystem/CopyFile"
+  },
+  "next": {
+    "title": "搜索文件",
+    "permalink": "/actions/filesystem/FileQuery"
+  }
+}

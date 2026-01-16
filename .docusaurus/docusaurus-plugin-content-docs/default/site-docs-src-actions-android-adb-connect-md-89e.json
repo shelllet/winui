@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbConnect",
+  "title": "连接",
+  "description": "连接设备，主要用在本机操作远程电脑上面运行的模拟器。",
+  "source": "@site/docs_src/actions/android/AdbConnect.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbConnect",
+  "permalink": "/actions/android/AdbConnect",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/android/AdbConnect.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "清除文字",
+    "permalink": "/actions/android/AdbClearText"
+  },
+  "next": {
+    "title": "设备",
+    "permalink": "/actions/android/AdbDevices"
+  }
+}

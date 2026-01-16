@@ -25,6 +25,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
+          "path": "docs_src",
           "routeBasePath": "/",
           "sidebarPath": "D:\\Source\\winui\\sidebars.js",
           "editUrl": "https://github.com/shelllet/WinUi/edit/main/"

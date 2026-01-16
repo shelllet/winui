@@ -1,0 +1,24 @@
+{
+  "id": "actions/ai/QRCode",
+  "title": "二维码识别",
+  "description": "识别图片中的二维码。",
+  "source": "@site/docs_src/actions/ai/QRCode.md",
+  "sourceDirName": "actions/ai",
+  "slug": "/actions/ai/QRCode",
+  "permalink": "/actions/ai/QRCode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/ai/QRCode.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "对象检测",
+    "permalink": "/actions/ai/ObjectDetection"
+  },
+  "next": {
+    "title": "文字区域检测",
+    "permalink": "/actions/ai/TextDetection"
+  }
+}

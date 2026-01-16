@@ -1,0 +1,24 @@
+{
+  "id": "actions/filesystem/StandardPath",
+  "title": "标准路径",
+  "description": "用来表示本地文件系统上约定俗成的标准路径位置的功能，例如特定于用户目录下的 图像 目录、下载 目录等。",
+  "source": "@site/docs_src/actions/filesystem/StandardPath.md",
+  "sourceDirName": "actions/filesystem",
+  "slug": "/actions/filesystem/StandardPath",
+  "permalink": "/actions/filesystem/StandardPath",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/filesystem/StandardPath.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "按行读取",
+    "permalink": "/actions/filesystem/ReadLines"
+  },
+  "next": {
+    "title": "自适应阈值",
+    "permalink": "/actions/image/AdaptiveThreshold"
+  }
+}

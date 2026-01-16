@@ -1,0 +1,24 @@
+{
+  "id": "enums/PointConvertMethod",
+  "title": "PointConvertMethod",
+  "description": "* SCREENTOCLIENT",
+  "source": "@site/docs_src/enums/PointConvertMethod.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/PointConvertMethod",
+  "permalink": "/enums/PointConvertMethod",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/PointConvertMethod.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PageSegMode",
+    "permalink": "/enums/PageSegMode"
+  },
+  "next": {
+    "title": "RelationalOperators",
+    "permalink": "/enums/RelationalOperators"
+  }
+}

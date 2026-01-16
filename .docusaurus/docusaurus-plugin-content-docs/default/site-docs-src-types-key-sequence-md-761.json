@@ -1,0 +1,24 @@
+{
+  "id": "types/KeySequence",
+  "title": "KeySequence",
+  "description": "Class KeySequence， 快捷键。",
+  "source": "@site/docs_src/types/KeySequence.md",
+  "sourceDirName": "types",
+  "slug": "/types/KeySequence",
+  "permalink": "/types/KeySequence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/KeySequence.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JsonValue",
+    "permalink": "/types/JsonValue"
+  },
+  "next": {
+    "title": "Keyboard",
+    "permalink": "/types/Keyboard"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "types/Image",
+  "title": "Image",
+  "description": "Class Image， 图像",
+  "source": "@site/docs_src/types/Image.md",
+  "sourceDirName": "types",
+  "slug": "/types/Image",
+  "permalink": "/types/Image",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Image.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IOContext",
+    "permalink": "/types/IOContext"
+  },
+  "next": {
+    "title": "JsonArray",
+    "permalink": "/types/JsonArray"
+  }
+}

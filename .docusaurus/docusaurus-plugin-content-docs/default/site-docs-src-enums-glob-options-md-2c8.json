@@ -1,0 +1,24 @@
+{
+  "id": "enums/GlobOptions",
+  "title": "GlobOptions",
+  "description": "* Default",
+  "source": "@site/docs_src/enums/GlobOptions.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/GlobOptions",
+  "permalink": "/enums/GlobOptions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/GlobOptions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FileExtension",
+    "permalink": "/enums/FileExtension"
+  },
+  "next": {
+    "title": "HandleType",
+    "permalink": "/enums/HandleType"
+  }
+}

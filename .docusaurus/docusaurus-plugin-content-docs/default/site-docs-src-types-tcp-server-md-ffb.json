@@ -1,0 +1,24 @@
+{
+  "id": "types/TCPServer",
+  "title": "TCPServer",
+  "description": "",
+  "source": "@site/docs_src/types/TCPServer.md",
+  "sourceDirName": "types",
+  "slug": "/types/TCPServer",
+  "permalink": "/types/TCPServer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/TCPServer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String",
+    "permalink": "/types/String"
+  },
+  "next": {
+    "title": "TCPSocket",
+    "permalink": "/types/TCPSocket"
+  }
+}

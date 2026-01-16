@@ -1,0 +1,24 @@
+{
+  "id": "introduction/android/uiautomatorviewer",
+  "title": "如何下载并安装 UIAutomatorViewer",
+  "description": "UIAutomatorViewer 是一个用来扫描和分析 Android 应用程序UI 组件的GUI 工具，使用UIAutomatorViewer，可以检查安卓应用程序的UI，找出层次结构，并查看不同的元素属性(id、文本)。",
+  "source": "@site/docs_src/introduction/android/uiautomatorviewer.md",
+  "sourceDirName": "introduction/android",
+  "slug": "/introduction/android/uiautomatorviewer",
+  "permalink": "/introduction/android/uiautomatorviewer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/android/uiautomatorviewer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "系统配置要求",
+    "permalink": "/introduction/"
+  },
+  "next": {
+    "title": "安装包安装",
+    "permalink": "/introduction/installation/installed_by_exe"
+  }
+}

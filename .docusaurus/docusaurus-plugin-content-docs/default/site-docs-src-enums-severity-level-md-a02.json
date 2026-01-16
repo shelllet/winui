@@ -1,0 +1,24 @@
+{
+  "id": "enums/SeverityLevel",
+  "title": "SeverityLevel",
+  "description": "*  Info",
+  "source": "@site/docs_src/enums/SeverityLevel.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/SeverityLevel",
+  "permalink": "/enums/SeverityLevel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/SeverityLevel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RetrievalModes",
+    "permalink": "/enums/RetrievalModes"
+  },
+  "next": {
+    "title": "SuspendStateOption",
+    "permalink": "/enums/SuspendStateOption"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "types/Contour",
+  "title": "Contour",
+  "description": "Class Contour 轮廓",
+  "source": "@site/docs_src/types/Contour.md",
+  "sourceDirName": "types",
+  "slug": "/types/Contour",
+  "permalink": "/types/Contour",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Contour.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Color",
+    "permalink": "/types/Color"
+  },
+  "next": {
+    "title": "DateTime",
+    "permalink": "/types/DateTime"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "types/TimeSpan",
+  "title": "TimeSpan",
+  "description": "Class TimeSpan， 时间段",
+  "source": "@site/docs_src/types/TimeSpan.md",
+  "sourceDirName": "types",
+  "slug": "/types/TimeSpan",
+  "permalink": "/types/TimeSpan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/TimeSpan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Thread",
+    "permalink": "/types/Thread"
+  },
+  "next": {
+    "title": "Timer",
+    "permalink": "/types/Timer"
+  }
+}

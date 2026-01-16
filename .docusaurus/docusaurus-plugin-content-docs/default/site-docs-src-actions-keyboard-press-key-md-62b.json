@@ -1,0 +1,24 @@
+{
+  "id": "actions/keyboard/PressKey",
+  "title": "按下按键",
+  "description": "模拟按下键盘的按键，需要调用 ReleaseKey 动作释放按键",
+  "source": "@site/docs_src/actions/keyboard/PressKey.md",
+  "sourceDirName": "actions/keyboard",
+  "slug": "/actions/keyboard/PressKey",
+  "permalink": "/actions/keyboard/PressKey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/keyboard/PressKey.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "按下并释放",
+    "permalink": "/actions/keyboard/PressAndReleaseKey"
+  },
+  "next": {
+    "title": "释放按键",
+    "permalink": "/actions/keyboard/ReleaseKey"
+  }
+}

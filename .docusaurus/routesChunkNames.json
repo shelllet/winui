@@ -1,1549 +1,1506 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/-2bc": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---a-74-9d6"
+      "plugin": "a7456010"
     },
-    "content": "content---f-39-267"
+    "content": "f3976560"
   },
-  "/-5c2": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/-df5": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---aba-d70"
+      "plugin": "aba21aa0"
     }
   },
-  "/-95d": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---22-d-307"
+  "/-3c1": {
+    "__comp": "a7bd4aaa",
+    "__props": "22dd74f7"
   },
-  "/-73c": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/actions/-8f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-306-b9d"
-  },
-  "/actions/ai/BarcodeDetector-57a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-ai-barcode-detectorf-21-6c8"
-  },
-  "/actions/ai/DocumentOrientation-d13": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-ai-document-orientation-225-f34"
-  },
-  "/actions/ai/ImageClassification-b13": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-ai-image-classification-499-73e"
-  },
-  "/actions/ai/ObjectDetection-56c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-ai-object-detection-7-f-7-f03"
-  },
-  "/actions/ai/QRCode-0ff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-ai-qr-code-92-c-10b"
-  },
-  "/actions/ai/TextDetection-313": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-ai-text-detectionf-64-247"
-  },
-  "/actions/ai/TextExtract-d12": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-ai-text-extract-61-b-f23"
-  },
-  "/actions/ai/TextlineOrientation-70d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-ai-textline-orientationbb-5-a8c"
-  },
-  "/actions/ai/TextRecognition-455": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-ai-text-recognition-33-d-084"
-  },
-  "/actions/ai/TextUnwarping-d73": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-ai-text-unwarping-731-3d1"
-  },
-  "/actions/algorithm/AccessArray-f49": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-access-arraybb-2-93d"
-  },
-  "/actions/algorithm/AccessKey-dcc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-access-keyed-7-e21"
-  },
-  "/actions/algorithm/ArraySize-26d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-array-size-495-22e"
-  },
-  "/actions/algorithm/CalculateCenter-217": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-calculate-centera-11-bea"
-  },
-  "/actions/algorithm/ColorPercentage-10c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-color-percentageb-61-35f"
-  },
-  "/actions/algorithm/ConvertPoint-9b1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-convert-pointf-7-e-619"
-  },
-  "/actions/algorithm/FilterArea-fe8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-filter-area-91-a-312"
-  },
-  "/actions/algorithm/FilterEllipse-cd5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-filter-ellipse-81-f-506"
-  },
-  "/actions/algorithm/FilterPerimeter-636": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-filter-perimetera-89-fc7"
-  },
-  "/actions/algorithm/FilterText-e70": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-filter-textff-8-33e"
-  },
-  "/actions/algorithm/FilterVertex-0d8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-filter-vertexbfa-72f"
-  },
-  "/actions/algorithm/ImageDifference-b3c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-image-difference-2-f-6-f7b"
-  },
-  "/actions/algorithm/JoinString-01e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-join-stringb-56-7ae"
-  },
-  "/actions/algorithm/PopBack-b4e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-pop-backcac-00b"
-  },
-  "/actions/algorithm/PushBack-101": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-push-back-247-24c"
-  },
-  "/actions/algorithm/RandomNumber-980": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-random-number-44-a-107"
-  },
-  "/actions/algorithm/RandomPoint-2d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-random-pointe-04-719"
-  },
-  "/actions/algorithm/SplitString-28d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-split-stringd-5-f-1ec"
-  },
-  "/actions/algorithm/SubString-de2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-algorithm-sub-stringa-37-30a"
-  },
-  "/actions/android/AdbClearText-28d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-clear-textbfb-6e2"
-  },
-  "/actions/android/AdbConnect-632": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-connect-228-51f"
-  },
-  "/actions/android/AdbDevices-a0f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-devices-3-c-6-3ed"
-  },
-  "/actions/android/AdbForward-46d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-forward-9-c-3-54d"
-  },
-  "/actions/android/AdbInput-6a1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-input-5-be-33b"
-  },
-  "/actions/android/AdbInstall-2b8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-install-241-ea7"
-  },
-  "/actions/android/AdbIsInstalled-c96": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-is-installedc-1-b-22c"
-  },
-  "/actions/android/AdbKey-f34": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-keyb-74-d4f"
-  },
-  "/actions/android/Adbkeyboard-9d5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adbkeyboardc-4-f-634"
-  },
-  "/actions/android/AdbLs-ec5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-ls-752-e6f"
-  },
-  "/actions/android/AdbMove-c9f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-move-3-e-9-6ea"
-  },
-  "/actions/android/AdbPackages-d90": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-packagesfdc-a85"
-  },
-  "/actions/android/AdbPull-a49": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-pull-7-f-6-f65"
-  },
-  "/actions/android/AdbPush-d63": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-pushf-28-c42"
-  },
-  "/actions/android/AdbScreenCap-ca8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-screen-capa-59-cb9"
-  },
-  "/actions/android/AdbStartApp-e90": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-start-app-306-0ba"
-  },
-  "/actions/android/AdbStartServer-39f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-start-serverc-83-169"
-  },
-  "/actions/android/AdbSwipe-a9c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-swipe-4-aa-2e1"
-  },
-  "/actions/android/AdbTap-9ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-android-adb-tapb-34-202"
-  },
-  "/actions/asynchronous/WhenEvent-4ef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-asynchronous-when-event-9-d-2-9a7"
-  },
-  "/actions/asynchronous/WorkBegin-ae8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-asynchronous-work-beginb-64-732"
-  },
-  "/actions/asynchronous/WorkExit-ff8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-asynchronous-work-exit-8-a-6-f2e"
-  },
-  "/actions/asynchronous/WorkReset-e68": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-asynchronous-work-reset-560-e7c"
-  },
-  "/actions/asynchronous/WorkTask-d46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-asynchronous-work-task-9-ac-021"
-  },
-  "/actions/asynchronous/WorkThread-51c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-asynchronous-work-thread-17-e-736"
-  },
-  "/actions/asynchronous/WorkTimer-3dd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-asynchronous-work-timerf-0-c-6cc"
-  },
-  "/actions/asynchronous/WorkWait-b0b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-asynchronous-work-waitc-5-d-663"
-  },
-  "/actions/cloud/BaiduTranslate-644": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-cloud-baidu-translated-8-c-177"
-  },
-  "/actions/control/ActionAlias-b11": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-action-aliasc-60-56b"
-  },
-  "/actions/control/ArithmeticCalculate-473": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-arithmetic-calculatefb-0-8d9"
-  },
-  "/actions/control/Break-fce": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-break-824-864"
-  },
-  "/actions/control/Code-e39": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-code-05-c-fb8"
-  },
-  "/actions/control/CodeExpression-3ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-code-expressionc-20-a6f"
-  },
-  "/actions/control/Exit-223": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-exitb-40-f85"
-  },
-  "/actions/control/For-a95": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-for-706-a9e"
-  },
-  "/actions/control/GroupAction-405": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-group-action-03-a-237"
-  },
-  "/actions/control/If-ea7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-if-4-c-4-bb2"
-  },
-  "/actions/control/Invoke-d3e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-invoke-968-e27"
-  },
-  "/actions/control/IsEmpty-897": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-is-emptyf-91-809"
-  },
-  "/actions/control/LoggingControl-d51": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-logging-control-484-940"
-  },
-  "/actions/control/LogicalOperator-fd8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-logical-operator-5-d-3-224"
-  },
-  "/actions/control/NameAlias-c04": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-name-alias-5-e-7-50b"
-  },
-  "/actions/control/Param-b25": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-paramff-5-17b"
-  },
-  "/actions/control/RelationalOperator-7e9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-relational-operatorc-19-4f4"
-  },
-  "/actions/control/SoftwareTrigger-b1b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-control-software-trigger-374-011"
-  },
-  "/actions/detection/BlobDetect-b93": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-detection-blob-detect-318-ec9"
-  },
-  "/actions/detection/EllipseDetection-027": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-detection-ellipse-detection-4-d-1-d06"
-  },
-  "/actions/detection/FeatureDetect-eb2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-detection-feature-detect-01-d-764"
-  },
-  "/actions/detection/FindContours-ea8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-detection-find-contours-7-a-7-05b"
-  },
-  "/actions/detection/ImageColorDiscrimination-796": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-detection-image-color-discrimination-137-632"
-  },
-  "/actions/detection/LineDetection-b5e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-detection-line-detectiondca-82d"
-  },
-  "/actions/detection/MatchImage-f6a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-detection-match-image-9-ee-18c"
-  },
-  "/actions/detection/MatchShapes-e6f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-detection-match-shapesa-49-603"
-  },
-  "/actions/detection/MatchTemplate-e53": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-detection-match-template-738-d8d"
-  },
-  "/actions/detection/ShapeDetection-bec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-detection-shape-detection-580-d37"
-  },
-  "/actions/draw/BarcodeCreate-8a5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-draw-barcode-create-6-eb-bf6"
-  },
-  "/actions/draw/DrawImage-f66": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-draw-draw-image-580-412"
-  },
-  "/actions/draw/DrawRect-be4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-draw-draw-rect-522-614"
-  },
-  "/actions/draw/DrawText-f85": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-draw-draw-texta-08-8f3"
-  },
-  "/actions/draw/FillColor-5e8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-draw-fill-colorc-6-d-e08"
-  },
-  "/actions/filesystem/CopyFile-a31": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-filesystem-copy-file-566-47a"
-  },
-  "/actions/filesystem/DirectoryIterator-b5f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-filesystem-directory-iterator-256-c3c"
-  },
-  "/actions/filesystem/FileQuery-f4f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-filesystem-file-queryf-2-a-83d"
-  },
-  "/actions/filesystem/FileRead-7e9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-filesystem-file-read-1-e-8-6b9"
-  },
-  "/actions/filesystem/FileWrite-cee": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-filesystem-file-write-114-d58"
-  },
-  "/actions/filesystem/ImageLoad-5f0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-filesystem-image-loade-1-a-d9b"
-  },
-  "/actions/filesystem/ImageSave-a7d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-filesystem-image-save-9-cc-c36"
-  },
-  "/actions/filesystem/ReadLines-539": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-filesystem-read-lines-35-c-43f"
-  },
-  "/actions/filesystem/StandardPath-174": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-filesystem-standard-path-53-c-6da"
-  },
-  "/actions/image/AdaptiveThreshold-18e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-adaptive-threshold-508-24c"
-  },
-  "/actions/image/CenterCropImage-36e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-center-crop-image-25-a-c4b"
-  },
-  "/actions/image/ConnectedComponents-19e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-connected-components-7-f-1-071"
-  },
-  "/actions/image/CropImage-8b2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-crop-imagea-1-f-e39"
-  },
-  "/actions/image/CvtColor-49f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-cvt-colore-03-9a2"
-  },
-  "/actions/image/ImageBlur-aab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-blurfd-0-bcf"
-  },
-  "/actions/image/ImageCanny-eee": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-canny-060-958"
-  },
-  "/actions/image/ImageInRange-d91": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-in-rangeb-7-a-3c4"
-  },
-  "/actions/image/ImageMarkRelativeROI-99d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-mark-relative-roi-6-e-0-e5a"
-  },
-  "/actions/image/ImageMarkROI-44f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-mark-roi-2-ad-d58"
-  },
-  "/actions/image/ImageMean-578": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-mean-1-d-3-c20"
-  },
-  "/actions/image/ImageMorphological-3a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-morphological-78-d-cee"
-  },
-  "/actions/image/ImageNormalize-bb8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-normalize-6-f-7-2ad"
-  },
-  "/actions/image/ImageRotate-ac7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-rotate-0-ea-bdc"
-  },
-  "/actions/image/ImageScale-905": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-scale-4-de-f42"
-  },
-  "/actions/image/ImageStd-bee": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-std-03-d-36e"
-  },
-  "/actions/image/ImageThreshold-355": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-image-threshold-996-501"
-  },
-  "/actions/image/ResizeImage-87c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-image-resize-image-005-68a"
-  },
-  "/actions/keyboard/ListenKeyboard-faf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-keyboard-listen-keyboard-484-603"
-  },
-  "/actions/keyboard/PressAndReleaseKey-848": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-keyboard-press-and-release-keyffa-537"
-  },
-  "/actions/keyboard/PressKey-774": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-keyboard-press-keyada-893"
-  },
-  "/actions/keyboard/ReleaseKey-67f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-keyboard-release-key-0-dc-b64"
-  },
-  "/actions/keyboard/SendKey-8a4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-keyboard-send-keyb-36-4b1"
-  },
-  "/actions/keyboard/SendText-31e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-keyboard-send-text-2-ae-6c5"
-  },
-  "/actions/keyboard/WaitKey-893": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-keyboard-wait-key-557-d48"
-  },
-  "/actions/media/CaptureActiveWindow-f32": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-media-capture-active-windowdc-1-5a5"
-  },
-  "/actions/media/CaptureScreen-a14": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-media-capture-screen-774-e82"
-  },
-  "/actions/media/CaptureWindow-491": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-media-capture-window-88-f-99e"
-  },
-  "/actions/media/MediaPlay-989": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-media-media-playe-7-b-035"
-  },
-  "/actions/media/PixelPoint-691": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-media-pixel-point-5-f-5-6ad"
-  },
-  "/actions/media/PlayRecord-833": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-media-play-record-97-b-72a"
-  },
-  "/actions/media/VideoFrame-599": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-media-video-framed-26-7f6"
-  },
-  "/actions/method/SubString-dcb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-method-sub-string-004-c47"
-  },
-  "/actions/mouse/CellClick-3db": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-cell-clickefb-aee"
-  },
-  "/actions/mouse/CellMove-a21": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-cell-move-9-af-f8c"
-  },
-  "/actions/mouse/Click-3fa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-click-6-ca-f9f"
-  },
-  "/actions/mouse/DoubleClick-5bd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-double-click-504-360"
-  },
-  "/actions/mouse/DragPointer-3b8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-drag-pointerff-1-bc8"
-  },
-  "/actions/mouse/ListenMouse-580": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-listen-mouse-1-d-0-3c1"
-  },
-  "/actions/mouse/MoveClick-0ce": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-move-click-32-b-090"
-  },
-  "/actions/mouse/MoveDoubleClick-a0b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-move-double-clickcdf-a09"
-  },
-  "/actions/mouse/MoveOffset-7d6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-move-offset-38-d-01a"
-  },
-  "/actions/mouse/MovePointer-712": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-move-pointer-1-ca-c1c"
-  },
-  "/actions/mouse/RightClick-71b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-right-click-6-dc-4f8"
-  },
-  "/actions/mouse/WheelMouse-0b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-mouse-wheel-mouse-5-c-3-574"
-  },
-  "/actions/network/DomainQuery-337": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-domain-query-2-ab-598"
-  },
-  "/actions/network/HttpDownload-3d3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-http-downloadaea-039"
-  },
-  "/actions/network/HttpGet-e59": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-http-getb-63-69d"
-  },
-  "/actions/network/HttpHead-654": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-http-headc-0-b-90d"
-  },
-  "/actions/network/HttpPost-a37": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-http-post-3-d-4-4f6"
-  },
-  "/actions/network/NetworkConnect-052": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-network-connect-3-ab-cbf"
-  },
-  "/actions/network/NetworkListen-ad2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-network-listenf-2-d-1ff"
-  },
-  "/actions/network/NetworkReceive-cd6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-network-receive-3-a-4-3a8"
-  },
-  "/actions/network/NetworkSend-200": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-network-send-4-e-7-d57"
-  },
-  "/actions/network/ReceiveInput-c5a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-receive-inputd-11-782"
-  },
-  "/actions/network/SendInput-349": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-send-input-602-a76"
-  },
-  "/actions/network/VideoDownload-657": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-network-video-downloadef-8-b28"
-  },
-  "/actions/pandas/DataFrameQuery-da8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-pandas-data-frame-querycef-a2d"
-  },
-  "/actions/pandas/IndexLoc-108": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-pandas-index-loc-525-fb1"
-  },
-  "/actions/pandas/IterRow-ae9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-pandas-iter-rowfdf-2ab"
-  },
-  "/actions/pandas/LoadDocument-700": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-pandas-load-documentad-9-c75"
-  },
-  "/actions/pandas/NameLoc-245": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-pandas-name-loc-351-ef7"
-  },
-  "/actions/pandas/RowsCount-f62": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-pandas-rows-countf-43-b71"
-  },
-  "/actions/pandas/SaveDocument-26c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-pandas-save-documentfc-1-40f"
-  },
-  "/actions/system/AttachProcess-12b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-attach-processa-11-302"
-  },
-  "/actions/system/CallMethod-d7a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-call-method-59-a-d3c"
-  },
-  "/actions/system/ClipboardValue-407": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-clipboard-value-9-fd-dda"
-  },
-  "/actions/system/CloseHandle-cc8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-close-handleeaf-5fb"
-  },
-  "/actions/system/CreateObject-cec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-create-object-82-a-02e"
-  },
-  "/actions/system/ExistProcess-685": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-exist-process-205-372"
-  },
-  "/actions/system/KillProcess-f3e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-kill-process-814-fc2"
-  },
-  "/actions/system/LaunchFile-6b6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-launch-file-63-b-3d2"
-  },
-  "/actions/system/OpenApplication-fd5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-open-applicationcaa-2c8"
-  },
-  "/actions/system/OpenUrl-4fa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-open-url-606-41e"
-  },
-  "/actions/system/PrintMessage-1dc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-print-message-4-d-8-f50"
-  },
-  "/actions/system/ReadMemory-b51": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-read-memorycbd-eb0"
-  },
-  "/actions/system/Runas-aa2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-runasc-4-f-ea4"
-  },
-  "/actions/system/StartProcess-bc2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-start-processa-53-dd2"
-  },
-  "/actions/system/SuspendSystem-7ad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-suspend-system-205-6d5"
-  },
-  "/actions/system/UserAdd-e6b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-user-add-3-ff-6c4"
-  },
-  "/actions/system/Wait-cff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-wait-111-25e"
-  },
-  "/actions/system/WriteMemory-76b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-system-write-memory-182-b90"
-  },
-  "/actions/type/TypeBoolean-f1f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-booleanc-72-e37"
-  },
-  "/actions/type/TypeCamera-299": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-camera-553-906"
-  },
-  "/actions/type/TypeColor-7ad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-colorb-49-ec3"
-  },
-  "/actions/type/TypeDict-106": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-dict-0-cf-5db"
-  },
-  "/actions/type/TypeEvent-edc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-event-546-c44"
-  },
-  "/actions/type/TypeFile-b0e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-file-500-d6a"
-  },
-  "/actions/type/TypeHostAddress-7ce": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-host-addressee-4-1eb"
-  },
-  "/actions/type/TypeJson-401": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-jsonf-4-f-def"
-  },
-  "/actions/type/TypeList-6ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-list-94-b-518"
-  },
-  "/actions/type/TypeModel-7ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-modele-48-a9e"
-  },
-  "/actions/type/TypeNumber-c98": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-number-2-d-2-1ec"
-  },
-  "/actions/type/TypePassword-147": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-password-131-ba8"
-  },
-  "/actions/type/TypePath-6f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-pathe-3-a-fa1"
-  },
-  "/actions/type/TypePoint-813": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-point-705-a33"
-  },
-  "/actions/type/TypePtr-159": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-ptr-2-e-5-176"
-  },
-  "/actions/type/TypeRect-978": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-rect-95-b-1a1"
-  },
-  "/actions/type/TypeResource-509": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-resource-5-c-3-8fe"
-  },
-  "/actions/type/TypeScalar-890": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-scalare-67-8fa"
-  },
-  "/actions/type/TypeShortcut-141": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-shortcuta-8-e-795"
-  },
-  "/actions/type/TypeSlice-2d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-slice-9-ae-25e"
-  },
-  "/actions/type/TypeString-38c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-string-4-ee-5c3"
-  },
-  "/actions/type/TypeStrings-7a1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-strings-222-858"
-  },
-  "/actions/type/TypeTuple-b64": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-tuplec-60-ddb"
-  },
-  "/actions/type/TypeUrl-0e1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-type-type-urlc-92-e60"
-  },
-  "/actions/web/WebActionChainsPerform-c00": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-chains-perform-36-f-94f"
-  },
-  "/actions/web/WebActionClick-004": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-click-6-ba-cea"
-  },
-  "/actions/web/WebActionClickHold-eb4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-click-hold-1-fb-475"
-  },
-  "/actions/web/WebActionDoubleClick-96d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-double-click-535-0be"
-  },
-  "/actions/web/WebActionDragDrop-516": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-drag-drop-1-a-7-941"
-  },
-  "/actions/web/WebActionKeyDown-469": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-key-downfcb-e01"
-  },
-  "/actions/web/WebActionKeyUp-490": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-key-up-135-be0"
-  },
-  "/actions/web/WebActionMoveTo-bd0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-move-toc-7-a-869"
-  },
-  "/actions/web/WebActionPause-dfd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-pausedd-9-674"
-  },
-  "/actions/web/WebActionRelease-560": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-release-2-ca-9bf"
-  },
-  "/actions/web/WebActionSendText-2af": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-action-send-text-2-c-3-dec"
-  },
-  "/actions/web/WebCookies-019": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-cookiesc-92-0ec"
-  },
-  "/actions/web/WebElementAttribute-a45": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-element-attributed-54-3f7"
-  },
-  "/actions/web/WebElementClear-107": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-element-clear-493-ce8"
-  },
-  "/actions/web/WebElementClick-bca": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-element-click-9-cc-f45"
-  },
-  "/actions/web/WebElementSelected-634": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-element-selectedfae-dd8"
-  },
-  "/actions/web/WebElementSendKey-17c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-element-send-key-076-33b"
-  },
-  "/actions/web/WebElementSendText-fa9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-element-send-text-607-a27"
-  },
-  "/actions/web/WebElementSubmit-d44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-element-submit-4-ff-ef9"
-  },
-  "/actions/web/WebExecute-e80": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-executef-93-b4c"
-  },
-  "/actions/web/WebFocusFrameDefault-aba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-focus-frame-default-5-d-3-f66"
-  },
-  "/actions/web/WebGetElement-3b8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-get-element-8-ea-87b"
-  },
-  "/actions/web/WebOpen-f50": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-opend-1-b-fd0"
-  },
-  "/actions/web/WebScreenshot-2f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-screenshot-564-e8f"
-  },
-  "/actions/web/WebSwitchToFrame-f7b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-switch-to-frame-730-20c"
-  },
-  "/actions/web/WebWaitAlert-908": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-wait-alerte-21-8f5"
-  },
-  "/actions/web/WebWaitClickable-25b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-wait-clickable-7-a-4-aa0"
-  },
-  "/actions/web/WebWaitFrameAvailable-e08": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-wait-frame-available-598-c80"
-  },
-  "/actions/web/WebWaitPresence-157": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-wait-presence-01-d-6c9"
-  },
-  "/actions/web/WebWaitTitle-aa7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-wait-title-440-d54"
-  },
-  "/actions/web/WebWaitVisibilityByElement-64b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-wait-visibility-by-element-0-a-4-7ad"
-  },
-  "/actions/web/WebWaitVisibilityByLocator-952": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-web-web-wait-visibility-by-locator-242-b88"
-  },
-  "/actions/window/ActiveWindow-404": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-active-windowc-29-4df"
-  },
-  "/actions/window/CloseWindow-b2e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-close-windowecd-457"
-  },
-  "/actions/window/EnumWindows-cb4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-enum-windowsc-05-9d3"
-  },
-  "/actions/window/FindWindow-b0e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-find-windowdc-7-53a"
-  },
-  "/actions/window/FlashWindow-310": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-flash-window-816-a97"
-  },
-  "/actions/window/MessageBox-fc2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-message-box-49-f-c4f"
-  },
-  "/actions/window/PositionWindow-73f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-position-window-3-ba-217"
-  },
-  "/actions/window/SpecialWindow-04d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-special-window-0-ba-5dc"
-  },
-  "/actions/window/WindowAncestor-efc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-window-ancestor-537-996"
-  },
-  "/actions/window/WindowCaption-456": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-window-captiona-63-2ff"
-  },
-  "/actions/window/WindowPoint-773": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-window-pointf-85-115"
-  },
-  "/actions/window/WindowSize-d5f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-window-size-8-ad-3ed"
-  },
-  "/actions/window/WindowVisible-c2a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-window-visible-79-e-d51"
-  },
-  "/actions/window/WindowXy-917": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-window-xy-011-ef1"
-  },
-  "/actions/window/WinRun-9b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---actions-window-win-runa-3-b-7d0"
-  },
-  "/CHANGELOG-5b4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---changelo-gca-3-1f6"
-  },
-  "/enums/AncestorWindow-ee7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-ancestor-windowff-3-c01"
-  },
-  "/enums/BARCODE_Encoding-627": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-barcode-encodinge-15-fd1"
-  },
-  "/enums/BlurOperation-a2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-blur-operation-3-a-3-4e5"
-  },
-  "/enums/CameraTriggerActivation-77b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-camera-trigger-activation-343-80a"
-  },
-  "/enums/CameraTriggerSource-a32": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-camera-trigger-source-0-e-2-0d7"
-  },
-  "/enums/CameraType-f26": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-camera-type-959-caa"
-  },
-  "/enums/ColorConversionCodes-379": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-color-conversion-codes-2-de-469"
-  },
-  "/enums/Colors-6c5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-colors-962-4bb"
-  },
-  "/enums/ContourApproximationMode-2d1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-contour-approximation-modec-1-a-a08"
-  },
-  "/enums/ContourShape-0ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-contour-shape-7-e-3-091"
-  },
-  "/enums/CookiesFormat-0a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-cookies-format-2-fe-4db"
-  },
-  "/enums/Directions-b49": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-directions-389-ec2"
-  },
-  "/enums/FeatureAlgorithm-a4e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-feature-algorithmdd-7-525"
-  },
-  "/enums/FileExtension-5e6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-file-extension-5-f-7-b86"
-  },
-  "/enums/GlobOptions-10c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-glob-options-074-6cf"
-  },
-  "/enums/HandleType-f37": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-handle-type-649-353"
-  },
-  "/enums/KnownFolder-fb1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-known-foldercfc-68e"
-  },
-  "/enums/KnownWindow-095": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-known-window-264-9c5"
-  },
-  "/enums/LogicalOperators-20e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-logical-operators-939-00e"
-  },
-  "/enums/LogStatus-88a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-log-status-231-6d6"
-  },
-  "/enums/MessageBoxFlags-1c2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-message-box-flags-357-7dd"
-  },
-  "/enums/MessagePlaceMode-e0d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-message-place-mode-752-e21"
-  },
-  "/enums/ModuleOption-4b6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-module-option-19-d-377"
-  },
-  "/enums/MorphologicalOperations-861": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-morphological-operationsc-9-e-a15"
-  },
-  "/enums/MouseButtons-2cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-mouse-buttons-1-d-4-6ce"
-  },
-  "/enums/MouseMessage-885": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-mouse-message-402-703"
-  },
-  "/enums/Operations-3d1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-operationsd-67-597"
-  },
-  "/enums/Orientation-420": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-orientationcdf-10f"
-  },
-  "/enums/PageSegMode-ede": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-page-seg-modeb-36-c09"
-  },
-  "/enums/PointConvertMethod-409": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-point-convert-method-0-a-6-406"
-  },
-  "/enums/RelationalOperators-876": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-relational-operatorscea-870"
-  },
-  "/enums/RelativePosition-26e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-relative-position-8-f-8-501"
-  },
-  "/enums/RetrievalModes-4bb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-retrieval-modesabd-529"
-  },
-  "/enums/SeverityLevel-b36": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-severity-level-40-e-1f8"
-  },
-  "/enums/SuspendStateOption-dec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-suspend-state-optionbe-1-948"
-  },
-  "/enums/ThresholdTypes-116": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-threshold-types-993-216"
-  },
-  "/enums/Visibility-86c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-visibility-79-b-cd1"
-  },
-  "/enums/WebKey-f8d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-web-key-21-e-02d"
-  },
-  "/enums/WebLocated-c5f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-web-locatedc-1-e-197"
-  },
-  "/enums/WindowHandle-39d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-window-handle-690-47d"
-  },
-  "/enums/WindowSortDirection-e71": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-window-sort-directione-87-792"
-  },
-  "/enums/WorkState-773": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---enums-work-state-192-56e"
-  },
-  "/introduction/-6b9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-eae-455"
-  },
-  "/introduction/android/uiautomatorviewer-096": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-android-uiautomatorviewerbe-8-533"
-  },
-  "/introduction/installation/installed_by_exe-73f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-installation-installed-by-exed-1-c-ae7"
-  },
-  "/introduction/installation/installed_by_msix-a5e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-installation-installed-by-msixda-1-c08"
-  },
-  "/introduction/installation/question/quest1-1b4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-installation-question-quest-11-c-6-cfd"
-  },
-  "/introduction/installation/question/quest2-d17": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-installation-question-quest-2333-edf"
-  },
-  "/introduction/mixed/CUDA-d31": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-mixed-cuda-2-b-2-af0"
-  },
-  "/introduction/mixed/cuDNN-b51": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-mixed-cu-dn-nec-0-91c"
-  },
-  "/introduction/mixed/glob-ac2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-mixed-glob-06-c-9f1"
-  },
-  "/introduction/mixed/paddle2onnx-3cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-mixed-paddle-2-onnxe-00-7d5"
-  },
-  "/introduction/mixed/wildcard-d5d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-mixed-wildcard-8-e-5-0af"
-  },
-  "/introduction/setting/action_group_setting-929": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-setting-action-group-setting-4-a-3-e84"
-  },
-  "/introduction/setting/workflow-c0c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-setting-workflowf-53-000"
-  },
-  "/introduction/tesseract/Data-Files-a2c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-tesseract-data-filesadd-abc"
-  },
-  "/introduction/tesseract/Languages_Scripts-cfd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-tesseract-languages-scriptsc-0-d-651"
-  },
-  "/introduction/tesseract/tesstrain-fb8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-tesseract-tesstrainfd-9-26c"
-  },
-  "/introduction/webdriver/browser_directory-910": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-webdriver-browser-directory-149-33a"
-  },
-  "/introduction/webdriver/download-b3a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-webdriver-downloadd-60-29d"
-  },
-  "/introduction/webdriver/locators-dd8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-webdriver-locatorsaee-8a2"
-  },
-  "/introduction/workflow/action-ac4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-workflow-action-2-c-4-15f"
-  },
-  "/introduction/workflow/features-702": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-workflow-features-1-e-7-57e"
-  },
-  "/introduction/workflow/logic-fdf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-workflow-logicecc-ace"
-  },
-  "/introduction/workflow/property-521": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-workflow-propertyd-17-b0c"
-  },
-  "/introduction/workflow/record-35e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-workflow-record-63-b-cd5"
-  },
-  "/introduction/workflow/resources-913": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-workflow-resources-4-f-1-2ea"
-  },
-  "/introduction/workflow/variable-fac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---introduction-workflow-variablee-97-20a"
-  },
-  "/network/openwrt_dns-058": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---network-openwrt-dns-9-d-3-c76"
-  },
-  "/types/ActionChains-5d3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-action-chains-87-e-046"
-  },
-  "/types/Boolean-92b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-boolean-001-a20"
-  },
-  "/types/Bytes-b36": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-bytes-7-d-0-a3a"
-  },
-  "/types/ClassificationResult-8cf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-classification-result-218-ab3"
-  },
-  "/types/Color-05e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-colorcb-0-a3f"
-  },
-  "/types/Contour-a43": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-contour-17-e-afe"
-  },
-  "/types/DateTime-bef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-date-time-463-613"
-  },
-  "/types/DetectionResult-a81": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-detection-result-248-28a"
-  },
-  "/types/Dict-852": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-dictabb-3ff"
-  },
-  "/types/Ellipse-067": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-ellipse-37-e-f1f"
-  },
-  "/types/File-48e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-file-0-b-7-419"
-  },
-  "/types/HostAddress-9f8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-host-address-131-ed5"
-  },
-  "/types/Image-da9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-image-921-a53"
-  },
-  "/types/IOContext-ef8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-io-context-7-e-2-a31"
-  },
-  "/types/JsonArray-da3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-json-arrayd-20-688"
-  },
-  "/types/JsonValue-3d3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-json-value-32-a-249"
-  },
-  "/types/Keyboard-6d4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-keyboardf-0-c-02a"
-  },
-  "/types/KeySequence-a96": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-key-sequence-4-ae-8b0"
-  },
-  "/types/Line-426": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-line-117-7cd"
-  },
-  "/types/List-ed8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-list-773-c60"
-  },
-  "/types/ModelSession-315": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-model-session-2-e-3-92a"
-  },
-  "/types/Number-eb0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-number-138-1db"
-  },
-  "/types/Object-3f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-object-11-a-cdb"
-  },
-  "/types/Path-d20": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-path-713-c63"
-  },
-  "/types/Point-6b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-pointeaa-282"
-  },
-  "/types/Ptr-977": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-ptr-016-9f5"
-  },
-  "/types/Range-b99": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-range-7-ab-d8f"
-  },
-  "/types/RecognitionResult-535": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-recognition-result-225-b39"
-  },
-  "/types/Rect-a85": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-rect-4-f-4-648"
-  },
-  "/types/RotatedRect-95b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-rotated-rect-869-4e1"
-  },
-  "/types/Scalar-fb8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-scalar-97-a-187"
-  },
-  "/types/Size-e80": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-size-817-4c6"
-  },
-  "/types/Slice-9d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-slice-780-be6"
-  },
-  "/types/String-540": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-string-4-bc-1a7"
-  },
-  "/types/TCPServer-ae4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-tcp-server-459-bea"
-  },
-  "/types/TCPSocket-f20": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-tcp-socket-022-2ca"
-  },
-  "/types/Thread-c74": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-threada-32-ee3"
-  },
-  "/types/Timer-401": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-timer-861-9f0"
-  },
-  "/types/TimeSpan-c31": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-time-span-79-f-17c"
-  },
-  "/types/Tuple-919": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-tuple-174-665"
-  },
-  "/types/UDPSocket-e9f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-udp-socketea-0-9f8"
-  },
-  "/types/Url-50e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-urlead-0a1"
-  },
-  "/types/VideoCapture-45e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-video-capture-292-934"
-  },
-  "/types/WebDriver-a1d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-web-drivera-67-9c0"
-  },
-  "/types/WebElement-19e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-web-element-58-a-ef7"
-  },
-  "/types/WinEvent-bc1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-win-eventb-25-f16"
-  },
-  "/types/WinInput-8e5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-win-inputf-5-c-c32"
-  },
-  "/types/Wnd-19a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---types-wnd-9-e-0-f51"
-  },
-  "/-72f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---233-28b"
+  "/-2c5": {
+    "__comp": "a94703ab"
+  },
+  "/actions/-de1": {
+    "__comp": "17896441",
+    "content": "82cc2a82"
+  },
+  "/actions/ai/BarcodeDetector-d61": {
+    "__comp": "17896441",
+    "content": "94410964"
+  },
+  "/actions/ai/DocumentOrientation-e5f": {
+    "__comp": "17896441",
+    "content": "fa69c6c7"
+  },
+  "/actions/ai/ImageClassification-155": {
+    "__comp": "17896441",
+    "content": "576dd253"
+  },
+  "/actions/ai/ObjectDetection-f21": {
+    "__comp": "17896441",
+    "content": "b6b89913"
+  },
+  "/actions/ai/QRCode-555": {
+    "__comp": "17896441",
+    "content": "cf309091"
+  },
+  "/actions/ai/TextDetection-407": {
+    "__comp": "17896441",
+    "content": "fef7646d"
+  },
+  "/actions/ai/TextExtract-e40": {
+    "__comp": "17896441",
+    "content": "0212239c"
+  },
+  "/actions/ai/TextlineOrientation-c38": {
+    "__comp": "17896441",
+    "content": "27fa455d"
+  },
+  "/actions/ai/TextRecognition-505": {
+    "__comp": "17896441",
+    "content": "94123fed"
+  },
+  "/actions/ai/TextUnwarping-fbc": {
+    "__comp": "17896441",
+    "content": "bea4efb0"
+  },
+  "/actions/algorithm/AccessArray-67e": {
+    "__comp": "17896441",
+    "content": "2a6faa44"
+  },
+  "/actions/algorithm/AccessKey-58b": {
+    "__comp": "17896441",
+    "content": "883064d3"
+  },
+  "/actions/algorithm/ArraySize-5fa": {
+    "__comp": "17896441",
+    "content": "3c431fb6"
+  },
+  "/actions/algorithm/CalculateCenter-aa3": {
+    "__comp": "17896441",
+    "content": "09337f79"
+  },
+  "/actions/algorithm/ColorPercentage-f54": {
+    "__comp": "17896441",
+    "content": "81c0f6a3"
+  },
+  "/actions/algorithm/ConvertPoint-a0f": {
+    "__comp": "17896441",
+    "content": "1f01b39d"
+  },
+  "/actions/algorithm/FilterArea-443": {
+    "__comp": "17896441",
+    "content": "4eb4152e"
+  },
+  "/actions/algorithm/FilterEllipse-6ac": {
+    "__comp": "17896441",
+    "content": "f1d4c9a0"
+  },
+  "/actions/algorithm/FilterPerimeter-3ba": {
+    "__comp": "17896441",
+    "content": "c39068ad"
+  },
+  "/actions/algorithm/FilterText-ab0": {
+    "__comp": "17896441",
+    "content": "94572e7e"
+  },
+  "/actions/algorithm/FilterVertex-c0e": {
+    "__comp": "17896441",
+    "content": "40220182"
+  },
+  "/actions/algorithm/ImageDifference-c0a": {
+    "__comp": "17896441",
+    "content": "77683dff"
+  },
+  "/actions/algorithm/JoinString-754": {
+    "__comp": "17896441",
+    "content": "99036c72"
+  },
+  "/actions/algorithm/PopBack-ffc": {
+    "__comp": "17896441",
+    "content": "27a8509c"
+  },
+  "/actions/algorithm/PushBack-b88": {
+    "__comp": "17896441",
+    "content": "f3b678b6"
+  },
+  "/actions/algorithm/RandomNumber-8f0": {
+    "__comp": "17896441",
+    "content": "433c55a6"
+  },
+  "/actions/algorithm/RandomPoint-7aa": {
+    "__comp": "17896441",
+    "content": "facd303a"
+  },
+  "/actions/algorithm/SplitString-070": {
+    "__comp": "17896441",
+    "content": "d21926c6"
+  },
+  "/actions/algorithm/SubString-bae": {
+    "__comp": "17896441",
+    "content": "0ec808d5"
+  },
+  "/actions/android/AdbClearText-b95": {
+    "__comp": "17896441",
+    "content": "2bc0974d"
+  },
+  "/actions/android/AdbConnect-390": {
+    "__comp": "17896441",
+    "content": "89e4af4d"
+  },
+  "/actions/android/AdbDevices-608": {
+    "__comp": "17896441",
+    "content": "84131376"
+  },
+  "/actions/android/AdbForward-256": {
+    "__comp": "17896441",
+    "content": "2abf6238"
+  },
+  "/actions/android/AdbInput-e16": {
+    "__comp": "17896441",
+    "content": "a88f1ebd"
+  },
+  "/actions/android/AdbInstall-f23": {
+    "__comp": "17896441",
+    "content": "0d4f3275"
+  },
+  "/actions/android/AdbIsInstalled-23d": {
+    "__comp": "17896441",
+    "content": "290513f2"
+  },
+  "/actions/android/AdbKey-7fe": {
+    "__comp": "17896441",
+    "content": "18288a26"
+  },
+  "/actions/android/Adbkeyboard-fef": {
+    "__comp": "17896441",
+    "content": "684d2366"
+  },
+  "/actions/android/AdbLs-a0b": {
+    "__comp": "17896441",
+    "content": "910e3e10"
+  },
+  "/actions/android/AdbMove-21c": {
+    "__comp": "17896441",
+    "content": "40cd0a1c"
+  },
+  "/actions/android/AdbPackages-99e": {
+    "__comp": "17896441",
+    "content": "9e34fdd7"
+  },
+  "/actions/android/AdbPull-255": {
+    "__comp": "17896441",
+    "content": "3fcd392f"
+  },
+  "/actions/android/AdbPush-e58": {
+    "__comp": "17896441",
+    "content": "cb778451"
+  },
+  "/actions/android/AdbScreenCap-ed2": {
+    "__comp": "17896441",
+    "content": "1331df9a"
+  },
+  "/actions/android/AdbStartApp-a9f": {
+    "__comp": "17896441",
+    "content": "60a8bf25"
+  },
+  "/actions/android/AdbStartServer-ebb": {
+    "__comp": "17896441",
+    "content": "dba930b0"
+  },
+  "/actions/android/AdbSwipe-2d5": {
+    "__comp": "17896441",
+    "content": "10d535e0"
+  },
+  "/actions/android/AdbTap-7f8": {
+    "__comp": "17896441",
+    "content": "be4d577d"
+  },
+  "/actions/asynchronous/WhenEvent-831": {
+    "__comp": "17896441",
+    "content": "8e6cf8f9"
+  },
+  "/actions/asynchronous/WorkBegin-ea9": {
+    "__comp": "17896441",
+    "content": "30b4eb0d"
+  },
+  "/actions/asynchronous/WorkExit-d20": {
+    "__comp": "17896441",
+    "content": "f3ee6f70"
+  },
+  "/actions/asynchronous/WorkReset-982": {
+    "__comp": "17896441",
+    "content": "778ec94b"
+  },
+  "/actions/asynchronous/WorkTask-832": {
+    "__comp": "17896441",
+    "content": "9c8a47b3"
+  },
+  "/actions/asynchronous/WorkThread-f28": {
+    "__comp": "17896441",
+    "content": "c3cadfde"
+  },
+  "/actions/asynchronous/WorkTimer-707": {
+    "__comp": "17896441",
+    "content": "0bc633eb"
+  },
+  "/actions/asynchronous/WorkWait-eaa": {
+    "__comp": "17896441",
+    "content": "34d0da52"
+  },
+  "/actions/cloud/BaiduTranslate-81b": {
+    "__comp": "17896441",
+    "content": "f7819998"
+  },
+  "/actions/control/ActionAlias-494": {
+    "__comp": "17896441",
+    "content": "061434a1"
+  },
+  "/actions/control/ArithmeticCalculate-bf9": {
+    "__comp": "17896441",
+    "content": "ed1903fd"
+  },
+  "/actions/control/Break-024": {
+    "__comp": "17896441",
+    "content": "dbe77fb8"
+  },
+  "/actions/control/Code-b82": {
+    "__comp": "17896441",
+    "content": "30118e18"
+  },
+  "/actions/control/CodeExpression-0cb": {
+    "__comp": "17896441",
+    "content": "58daed0f"
+  },
+  "/actions/control/Exit-782": {
+    "__comp": "17896441",
+    "content": "c1669ff7"
+  },
+  "/actions/control/For-c4e": {
+    "__comp": "17896441",
+    "content": "7749c7f8"
+  },
+  "/actions/control/GroupAction-67a": {
+    "__comp": "17896441",
+    "content": "b5b936be"
+  },
+  "/actions/control/If-624": {
+    "__comp": "17896441",
+    "content": "f8680b75"
+  },
+  "/actions/control/Invoke-aaa": {
+    "__comp": "17896441",
+    "content": "af5bc67d"
+  },
+  "/actions/control/IsEmpty-cac": {
+    "__comp": "17896441",
+    "content": "8961866f"
+  },
+  "/actions/control/LoggingControl-9e6": {
+    "__comp": "17896441",
+    "content": "dd83d3bd"
+  },
+  "/actions/control/LogicalOperator-880": {
+    "__comp": "17896441",
+    "content": "fa56a6e6"
+  },
+  "/actions/control/NameAlias-bf6": {
+    "__comp": "17896441",
+    "content": "0980b9ce"
+  },
+  "/actions/control/Param-06c": {
+    "__comp": "17896441",
+    "content": "51a5c9ab"
+  },
+  "/actions/control/RelationalOperator-0c8": {
+    "__comp": "17896441",
+    "content": "ada325a7"
+  },
+  "/actions/control/SoftwareTrigger-06a": {
+    "__comp": "17896441",
+    "content": "eee4257b"
+  },
+  "/actions/detection/BlobDetect-073": {
+    "__comp": "17896441",
+    "content": "d4eb02dc"
+  },
+  "/actions/detection/EllipseDetection-e0d": {
+    "__comp": "17896441",
+    "content": "ca9336c6"
+  },
+  "/actions/detection/FeatureDetect-eae": {
+    "__comp": "17896441",
+    "content": "1f34ba25"
+  },
+  "/actions/detection/FindContours-e24": {
+    "__comp": "17896441",
+    "content": "7341088b"
+  },
+  "/actions/detection/ImageColorDiscrimination-a3f": {
+    "__comp": "17896441",
+    "content": "eda5dccf"
+  },
+  "/actions/detection/LineDetection-fae": {
+    "__comp": "17896441",
+    "content": "83e499fe"
+  },
+  "/actions/detection/MatchImage-c69": {
+    "__comp": "17896441",
+    "content": "0bf2ca3e"
+  },
+  "/actions/detection/MatchShapes-3f8": {
+    "__comp": "17896441",
+    "content": "d6f66b7f"
+  },
+  "/actions/detection/MatchTemplate-89b": {
+    "__comp": "17896441",
+    "content": "c5eb1178"
+  },
+  "/actions/detection/ShapeDetection-b52": {
+    "__comp": "17896441",
+    "content": "25df2653"
+  },
+  "/actions/draw/BarcodeCreate-7f3": {
+    "__comp": "17896441",
+    "content": "4080d162"
+  },
+  "/actions/draw/DrawImage-494": {
+    "__comp": "17896441",
+    "content": "18c03fd4"
+  },
+  "/actions/draw/DrawRect-4ce": {
+    "__comp": "17896441",
+    "content": "62e40fd5"
+  },
+  "/actions/draw/DrawText-abc": {
+    "__comp": "17896441",
+    "content": "a98cfe02"
+  },
+  "/actions/draw/FillColor-e48": {
+    "__comp": "17896441",
+    "content": "13441d96"
+  },
+  "/actions/filesystem/CopyFile-014": {
+    "__comp": "17896441",
+    "content": "3a46aa88"
+  },
+  "/actions/filesystem/DirectoryIterator-c3e": {
+    "__comp": "17896441",
+    "content": "d826ca10"
+  },
+  "/actions/filesystem/FileQuery-4a2": {
+    "__comp": "17896441",
+    "content": "46ad04df"
+  },
+  "/actions/filesystem/FileRead-94a": {
+    "__comp": "17896441",
+    "content": "60e84239"
+  },
+  "/actions/filesystem/FileWrite-3eb": {
+    "__comp": "17896441",
+    "content": "f5237899"
+  },
+  "/actions/filesystem/ImageLoad-5fa": {
+    "__comp": "17896441",
+    "content": "45ead4a3"
+  },
+  "/actions/filesystem/ImageSave-98e": {
+    "__comp": "17896441",
+    "content": "0f5d837d"
+  },
+  "/actions/filesystem/ReadLines-8c9": {
+    "__comp": "17896441",
+    "content": "eb4fdae9"
+  },
+  "/actions/filesystem/StandardPath-1aa": {
+    "__comp": "17896441",
+    "content": "7a1044ed"
+  },
+  "/actions/image/AdaptiveThreshold-f0e": {
+    "__comp": "17896441",
+    "content": "64ea7d96"
+  },
+  "/actions/image/CenterCropImage-a89": {
+    "__comp": "17896441",
+    "content": "032a8fd6"
+  },
+  "/actions/image/ConnectedComponents-cce": {
+    "__comp": "17896441",
+    "content": "3a1d971a"
+  },
+  "/actions/image/CropImage-edd": {
+    "__comp": "17896441",
+    "content": "8cd487c1"
+  },
+  "/actions/image/CvtColor-b42": {
+    "__comp": "17896441",
+    "content": "e9c7f8a9"
+  },
+  "/actions/image/ImageBlur-a1e": {
+    "__comp": "17896441",
+    "content": "aad46fb4"
+  },
+  "/actions/image/ImageCanny-aeb": {
+    "__comp": "17896441",
+    "content": "ea4f5a63"
+  },
+  "/actions/image/ImageInRange-a51": {
+    "__comp": "17896441",
+    "content": "f9782496"
+  },
+  "/actions/image/ImageMarkRelativeROI-799": {
+    "__comp": "17896441",
+    "content": "a22048ef"
+  },
+  "/actions/image/ImageMarkROI-c8b": {
+    "__comp": "17896441",
+    "content": "63b5dde9"
+  },
+  "/actions/image/ImageMean-347": {
+    "__comp": "17896441",
+    "content": "71149d5b"
+  },
+  "/actions/image/ImageMorphological-921": {
+    "__comp": "17896441",
+    "content": "5c209aed"
+  },
+  "/actions/image/ImageNormalize-00b": {
+    "__comp": "17896441",
+    "content": "3eeb5aee"
+  },
+  "/actions/image/ImageRotate-b0a": {
+    "__comp": "17896441",
+    "content": "80006b16"
+  },
+  "/actions/image/ImageScale-23c": {
+    "__comp": "17896441",
+    "content": "86c35d0f"
+  },
+  "/actions/image/ImageStd-172": {
+    "__comp": "17896441",
+    "content": "c7312164"
+  },
+  "/actions/image/ImageThreshold-435": {
+    "__comp": "17896441",
+    "content": "3263f751"
+  },
+  "/actions/image/ResizeImage-d07": {
+    "__comp": "17896441",
+    "content": "b2da3cbd"
+  },
+  "/actions/keyboard/ListenKeyboard-aa6": {
+    "__comp": "17896441",
+    "content": "a47b36ae"
+  },
+  "/actions/keyboard/PressAndReleaseKey-989": {
+    "__comp": "17896441",
+    "content": "1678dd93"
+  },
+  "/actions/keyboard/PressKey-83e": {
+    "__comp": "17896441",
+    "content": "62b2ad38"
+  },
+  "/actions/keyboard/ReleaseKey-e79": {
+    "__comp": "17896441",
+    "content": "2173202d"
+  },
+  "/actions/keyboard/SendKey-829": {
+    "__comp": "17896441",
+    "content": "38abf38a"
+  },
+  "/actions/keyboard/SendText-f7e": {
+    "__comp": "17896441",
+    "content": "7fd7b5de"
+  },
+  "/actions/keyboard/WaitKey-450": {
+    "__comp": "17896441",
+    "content": "83fbfac1"
+  },
+  "/actions/media/CaptureActiveWindow-a59": {
+    "__comp": "17896441",
+    "content": "dfa6ba64"
+  },
+  "/actions/media/CaptureScreen-638": {
+    "__comp": "17896441",
+    "content": "3cce24d2"
+  },
+  "/actions/media/CaptureWindow-f70": {
+    "__comp": "17896441",
+    "content": "bbc2e165"
+  },
+  "/actions/media/MediaPlay-a04": {
+    "__comp": "17896441",
+    "content": "059d8493"
+  },
+  "/actions/media/PixelPoint-7a1": {
+    "__comp": "17896441",
+    "content": "e6e87780"
+  },
+  "/actions/media/PlayRecord-36d": {
+    "__comp": "17896441",
+    "content": "a2f6a364"
+  },
+  "/actions/media/VideoFrame-ee2": {
+    "__comp": "17896441",
+    "content": "5e703ad2"
+  },
+  "/actions/method/SubString-803": {
+    "__comp": "17896441",
+    "content": "ce1aae31"
+  },
+  "/actions/mouse/CellClick-5cb": {
+    "__comp": "17896441",
+    "content": "3665c3a7"
+  },
+  "/actions/mouse/CellMove-5b4": {
+    "__comp": "17896441",
+    "content": "c9aa14d0"
+  },
+  "/actions/mouse/Click-0b8": {
+    "__comp": "17896441",
+    "content": "c24cc4b0"
+  },
+  "/actions/mouse/DoubleClick-a4d": {
+    "__comp": "17896441",
+    "content": "e0d539eb"
+  },
+  "/actions/mouse/DragPointer-072": {
+    "__comp": "17896441",
+    "content": "d914c017"
+  },
+  "/actions/mouse/ListenMouse-25e": {
+    "__comp": "17896441",
+    "content": "0f8264b8"
+  },
+  "/actions/mouse/MoveClick-a66": {
+    "__comp": "17896441",
+    "content": "0ec53efb"
+  },
+  "/actions/mouse/MoveDoubleClick-8b7": {
+    "__comp": "17896441",
+    "content": "5f2fd1a9"
+  },
+  "/actions/mouse/MoveOffset-afa": {
+    "__comp": "17896441",
+    "content": "aa7a3905"
+  },
+  "/actions/mouse/MovePointer-bc3": {
+    "__comp": "17896441",
+    "content": "2841f9ad"
+  },
+  "/actions/mouse/RightClick-9ab": {
+    "__comp": "17896441",
+    "content": "974cc26a"
+  },
+  "/actions/mouse/WheelMouse-1c2": {
+    "__comp": "17896441",
+    "content": "64eff16a"
+  },
+  "/actions/network/DomainQuery-ec5": {
+    "__comp": "17896441",
+    "content": "c573da8d"
+  },
+  "/actions/network/HttpDownload-d90": {
+    "__comp": "17896441",
+    "content": "28f48a63"
+  },
+  "/actions/network/HttpGet-56a": {
+    "__comp": "17896441",
+    "content": "88d8710b"
+  },
+  "/actions/network/HttpHead-690": {
+    "__comp": "17896441",
+    "content": "eb430867"
+  },
+  "/actions/network/HttpPost-f7b": {
+    "__comp": "17896441",
+    "content": "d49b977a"
+  },
+  "/actions/network/NetworkConnect-ef4": {
+    "__comp": "17896441",
+    "content": "9820784b"
+  },
+  "/actions/network/NetworkListen-1c6": {
+    "__comp": "17896441",
+    "content": "4a5dd931"
+  },
+  "/actions/network/NetworkReceive-29e": {
+    "__comp": "17896441",
+    "content": "0ee1e4b3"
+  },
+  "/actions/network/NetworkSend-021": {
+    "__comp": "17896441",
+    "content": "98633dcf"
+  },
+  "/actions/network/ReceiveInput-7ee": {
+    "__comp": "17896441",
+    "content": "39230bb1"
+  },
+  "/actions/network/SendInput-7f8": {
+    "__comp": "17896441",
+    "content": "22dfc6a7"
+  },
+  "/actions/network/VideoDownload-19a": {
+    "__comp": "17896441",
+    "content": "ee28a15e"
+  },
+  "/actions/pandas/DataFrameQuery-f7e": {
+    "__comp": "17896441",
+    "content": "d0f60e26"
+  },
+  "/actions/pandas/IndexLoc-35b": {
+    "__comp": "17896441",
+    "content": "95f89245"
+  },
+  "/actions/pandas/IterRow-1e2": {
+    "__comp": "17896441",
+    "content": "f1bef415"
+  },
+  "/actions/pandas/LoadDocument-44b": {
+    "__comp": "17896441",
+    "content": "38933497"
+  },
+  "/actions/pandas/NameLoc-e5d": {
+    "__comp": "17896441",
+    "content": "c944caa7"
+  },
+  "/actions/pandas/RowsCount-2a6": {
+    "__comp": "17896441",
+    "content": "b1b30f45"
+  },
+  "/actions/pandas/SaveDocument-9c0": {
+    "__comp": "17896441",
+    "content": "3b631c40"
+  },
+  "/actions/system/AttachProcess-148": {
+    "__comp": "17896441",
+    "content": "f07e35b5"
+  },
+  "/actions/system/CallMethod-35a": {
+    "__comp": "17896441",
+    "content": "230606ec"
+  },
+  "/actions/system/ClipboardValue-1e7": {
+    "__comp": "17896441",
+    "content": "bbbd4026"
+  },
+  "/actions/system/CloseHandle-7e2": {
+    "__comp": "17896441",
+    "content": "f95f1e67"
+  },
+  "/actions/system/CreateObject-423": {
+    "__comp": "17896441",
+    "content": "1021b3e1"
+  },
+  "/actions/system/ExistProcess-2c8": {
+    "__comp": "17896441",
+    "content": "2ffce192"
+  },
+  "/actions/system/KillProcess-1ce": {
+    "__comp": "17896441",
+    "content": "9e49c817"
+  },
+  "/actions/system/LaunchFile-f1c": {
+    "__comp": "17896441",
+    "content": "ff6bd792"
+  },
+  "/actions/system/OpenApplication-217": {
+    "__comp": "17896441",
+    "content": "7e4a9697"
+  },
+  "/actions/system/OpenUrl-37d": {
+    "__comp": "17896441",
+    "content": "42629af2"
+  },
+  "/actions/system/PrintMessage-bdd": {
+    "__comp": "17896441",
+    "content": "487a2aaa"
+  },
+  "/actions/system/ReadMemory-e15": {
+    "__comp": "17896441",
+    "content": "17e0084b"
+  },
+  "/actions/system/Runas-e4f": {
+    "__comp": "17896441",
+    "content": "87fa0c25"
+  },
+  "/actions/system/StartProcess-367": {
+    "__comp": "17896441",
+    "content": "769da076"
+  },
+  "/actions/system/SuspendSystem-ecc": {
+    "__comp": "17896441",
+    "content": "72897e86"
+  },
+  "/actions/system/UserAdd-bdf": {
+    "__comp": "17896441",
+    "content": "74823882"
+  },
+  "/actions/system/Wait-6d7": {
+    "__comp": "17896441",
+    "content": "468614a2"
+  },
+  "/actions/system/WriteMemory-30d": {
+    "__comp": "17896441",
+    "content": "e0344989"
+  },
+  "/actions/type/TypeBoolean-8ba": {
+    "__comp": "17896441",
+    "content": "c8bcf195"
+  },
+  "/actions/type/TypeCamera-8ea": {
+    "__comp": "17896441",
+    "content": "4081cae1"
+  },
+  "/actions/type/TypeColor-38b": {
+    "__comp": "17896441",
+    "content": "56b0f055"
+  },
+  "/actions/type/TypeDict-f70": {
+    "__comp": "17896441",
+    "content": "04b91dad"
+  },
+  "/actions/type/TypeEvent-ab2": {
+    "__comp": "17896441",
+    "content": "c6e203ae"
+  },
+  "/actions/type/TypeFile-121": {
+    "__comp": "17896441",
+    "content": "ea6a74ef"
+  },
+  "/actions/type/TypeHostAddress-70d": {
+    "__comp": "17896441",
+    "content": "b0849985"
+  },
+  "/actions/type/TypeJson-972": {
+    "__comp": "17896441",
+    "content": "5bef61ed"
+  },
+  "/actions/type/TypeList-6bb": {
+    "__comp": "17896441",
+    "content": "ace22e47"
+  },
+  "/actions/type/TypeModel-7b4": {
+    "__comp": "17896441",
+    "content": "55fd45cc"
+  },
+  "/actions/type/TypeNumber-0ce": {
+    "__comp": "17896441",
+    "content": "1f01c7aa"
+  },
+  "/actions/type/TypePassword-8e0": {
+    "__comp": "17896441",
+    "content": "0cabcdc4"
+  },
+  "/actions/type/TypePath-525": {
+    "__comp": "17896441",
+    "content": "ab9fb3f6"
+  },
+  "/actions/type/TypePoint-683": {
+    "__comp": "17896441",
+    "content": "88249bb4"
+  },
+  "/actions/type/TypePtr-a01": {
+    "__comp": "17896441",
+    "content": "880cebae"
+  },
+  "/actions/type/TypeRect-4eb": {
+    "__comp": "17896441",
+    "content": "62b2503f"
+  },
+  "/actions/type/TypeResource-be8": {
+    "__comp": "17896441",
+    "content": "98432c7c"
+  },
+  "/actions/type/TypeScalar-684": {
+    "__comp": "17896441",
+    "content": "0c40b40f"
+  },
+  "/actions/type/TypeShortcut-fe8": {
+    "__comp": "17896441",
+    "content": "f61e0f25"
+  },
+  "/actions/type/TypeSlice-885": {
+    "__comp": "17896441",
+    "content": "201d17a9"
+  },
+  "/actions/type/TypeString-498": {
+    "__comp": "17896441",
+    "content": "e311b3b3"
+  },
+  "/actions/type/TypeStrings-8b9": {
+    "__comp": "17896441",
+    "content": "356a587e"
+  },
+  "/actions/type/TypeTuple-bcf": {
+    "__comp": "17896441",
+    "content": "83e4a324"
+  },
+  "/actions/type/TypeUrl-716": {
+    "__comp": "17896441",
+    "content": "a6f932f1"
+  },
+  "/actions/web/WebActionChainsPerform-7aa": {
+    "__comp": "17896441",
+    "content": "109487e7"
+  },
+  "/actions/web/WebActionClick-105": {
+    "__comp": "17896441",
+    "content": "89381d3f"
+  },
+  "/actions/web/WebActionClickHold-10d": {
+    "__comp": "17896441",
+    "content": "306771eb"
+  },
+  "/actions/web/WebActionDoubleClick-a86": {
+    "__comp": "17896441",
+    "content": "736b570d"
+  },
+  "/actions/web/WebActionDragDrop-653": {
+    "__comp": "17896441",
+    "content": "ba8bf9cc"
+  },
+  "/actions/web/WebActionKeyDown-184": {
+    "__comp": "17896441",
+    "content": "4ffb60b2"
+  },
+  "/actions/web/WebActionKeyUp-036": {
+    "__comp": "17896441",
+    "content": "764653a2"
+  },
+  "/actions/web/WebActionMoveTo-31e": {
+    "__comp": "17896441",
+    "content": "88654f99"
+  },
+  "/actions/web/WebActionPause-86c": {
+    "__comp": "17896441",
+    "content": "57a3676d"
+  },
+  "/actions/web/WebActionRelease-2af": {
+    "__comp": "17896441",
+    "content": "dcec5f39"
+  },
+  "/actions/web/WebActionSendText-35c": {
+    "__comp": "17896441",
+    "content": "3019a594"
+  },
+  "/actions/web/WebCookies-add": {
+    "__comp": "17896441",
+    "content": "a53b049e"
+  },
+  "/actions/web/WebElementAttribute-3b7": {
+    "__comp": "17896441",
+    "content": "d935e4ef"
+  },
+  "/actions/web/WebElementClear-144": {
+    "__comp": "17896441",
+    "content": "916aa548"
+  },
+  "/actions/web/WebElementClick-5fa": {
+    "__comp": "17896441",
+    "content": "1bbce3d2"
+  },
+  "/actions/web/WebElementSelected-713": {
+    "__comp": "17896441",
+    "content": "f03e7a27"
+  },
+  "/actions/web/WebElementSendKey-87d": {
+    "__comp": "17896441",
+    "content": "781830a1"
+  },
+  "/actions/web/WebElementSendText-481": {
+    "__comp": "17896441",
+    "content": "af118740"
+  },
+  "/actions/web/WebElementSubmit-878": {
+    "__comp": "17896441",
+    "content": "1d96de41"
+  },
+  "/actions/web/WebExecute-cd6": {
+    "__comp": "17896441",
+    "content": "52bdabbe"
+  },
+  "/actions/web/WebFocusFrameDefault-495": {
+    "__comp": "17896441",
+    "content": "0a8d86d0"
+  },
+  "/actions/web/WebGetElement-b0f": {
+    "__comp": "17896441",
+    "content": "8cbcbb20"
+  },
+  "/actions/web/WebOpen-865": {
+    "__comp": "17896441",
+    "content": "aa81edee"
+  },
+  "/actions/web/WebScreenshot-e50": {
+    "__comp": "17896441",
+    "content": "9154ef34"
+  },
+  "/actions/web/WebSwitchToFrame-8a6": {
+    "__comp": "17896441",
+    "content": "90a950a1"
+  },
+  "/actions/web/WebWaitAlert-d48": {
+    "__comp": "17896441",
+    "content": "0d4d15f5"
+  },
+  "/actions/web/WebWaitClickable-ef7": {
+    "__comp": "17896441",
+    "content": "dfdd5007"
+  },
+  "/actions/web/WebWaitFrameAvailable-d9d": {
+    "__comp": "17896441",
+    "content": "7b711a79"
+  },
+  "/actions/web/WebWaitPresence-e8c": {
+    "__comp": "17896441",
+    "content": "078dbe59"
+  },
+  "/actions/web/WebWaitTitle-ef1": {
+    "__comp": "17896441",
+    "content": "0d15c4d5"
+  },
+  "/actions/web/WebWaitVisibilityByElement-aa6": {
+    "__comp": "17896441",
+    "content": "3e81b960"
+  },
+  "/actions/web/WebWaitVisibilityByLocator-4df": {
+    "__comp": "17896441",
+    "content": "61bca3ff"
+  },
+  "/actions/window/ActiveWindow-f2c": {
+    "__comp": "17896441",
+    "content": "72c8f390"
+  },
+  "/actions/window/CloseWindow-c57": {
+    "__comp": "17896441",
+    "content": "90c4d861"
+  },
+  "/actions/window/EnumWindows-62a": {
+    "__comp": "17896441",
+    "content": "0b8ee100"
+  },
+  "/actions/window/FindWindow-e49": {
+    "__comp": "17896441",
+    "content": "397ac1ef"
+  },
+  "/actions/window/FlashWindow-eee": {
+    "__comp": "17896441",
+    "content": "48930afb"
+  },
+  "/actions/window/MessageBox-275": {
+    "__comp": "17896441",
+    "content": "9af22f93"
+  },
+  "/actions/window/PositionWindow-576": {
+    "__comp": "17896441",
+    "content": "0410b365"
+  },
+  "/actions/window/SpecialWindow-503": {
+    "__comp": "17896441",
+    "content": "6267ac91"
+  },
+  "/actions/window/WindowAncestor-a06": {
+    "__comp": "17896441",
+    "content": "7005a7a9"
+  },
+  "/actions/window/WindowCaption-196": {
+    "__comp": "17896441",
+    "content": "c1d0a1cb"
+  },
+  "/actions/window/WindowPoint-1dc": {
+    "__comp": "17896441",
+    "content": "6cd716b7"
+  },
+  "/actions/window/WindowSize-82e": {
+    "__comp": "17896441",
+    "content": "47d6f024"
+  },
+  "/actions/window/WindowVisible-ffb": {
+    "__comp": "17896441",
+    "content": "0dc82375"
+  },
+  "/actions/window/WindowXy-bf9": {
+    "__comp": "17896441",
+    "content": "321eb707"
+  },
+  "/actions/window/WinRun-600": {
+    "__comp": "17896441",
+    "content": "c7acce28"
+  },
+  "/CHANGELOG-cce": {
+    "__comp": "17896441",
+    "content": "fec66055"
+  },
+  "/enums/AncestorWindow-39b": {
+    "__comp": "17896441",
+    "content": "a0fcff00"
+  },
+  "/enums/BARCODE_Encoding-911": {
+    "__comp": "17896441",
+    "content": "8d85f012"
+  },
+  "/enums/BlurOperation-06b": {
+    "__comp": "17896441",
+    "content": "e76c4a05"
+  },
+  "/enums/CameraTriggerActivation-196": {
+    "__comp": "17896441",
+    "content": "e22a1c9c"
+  },
+  "/enums/CameraTriggerSource-87b": {
+    "__comp": "17896441",
+    "content": "0f4758da"
+  },
+  "/enums/CameraType-5ab": {
+    "__comp": "17896441",
+    "content": "42ef5008"
+  },
+  "/enums/ColorConversionCodes-5ba": {
+    "__comp": "17896441",
+    "content": "4eac9538"
+  },
+  "/enums/Colors-a26": {
+    "__comp": "17896441",
+    "content": "03973f1e"
+  },
+  "/enums/ContourApproximationMode-197": {
+    "__comp": "17896441",
+    "content": "dbdb57ac"
+  },
+  "/enums/ContourShape-40b": {
+    "__comp": "17896441",
+    "content": "a303d90d"
+  },
+  "/enums/CookiesFormat-da3": {
+    "__comp": "17896441",
+    "content": "6639e78a"
+  },
+  "/enums/Directions-c87": {
+    "__comp": "17896441",
+    "content": "75383206"
+  },
+  "/enums/FeatureAlgorithm-a46": {
+    "__comp": "17896441",
+    "content": "cacca115"
+  },
+  "/enums/FileExtension-083": {
+    "__comp": "17896441",
+    "content": "707f19c7"
+  },
+  "/enums/GlobOptions-4d9": {
+    "__comp": "17896441",
+    "content": "2c8ada7c"
+  },
+  "/enums/HandleType-03c": {
+    "__comp": "17896441",
+    "content": "f9bc12e6"
+  },
+  "/enums/KnownFolder-903": {
+    "__comp": "17896441",
+    "content": "8b9a221e"
+  },
+  "/enums/KnownWindow-80c": {
+    "__comp": "17896441",
+    "content": "31e1e27c"
+  },
+  "/enums/LogicalOperators-9ef": {
+    "__comp": "17896441",
+    "content": "0e31fcb5"
+  },
+  "/enums/LogStatus-0ea": {
+    "__comp": "17896441",
+    "content": "b00084eb"
+  },
+  "/enums/MessageBoxFlags-362": {
+    "__comp": "17896441",
+    "content": "50999547"
+  },
+  "/enums/MessagePlaceMode-d54": {
+    "__comp": "17896441",
+    "content": "2b0e8cc3"
+  },
+  "/enums/ModuleOption-f0d": {
+    "__comp": "17896441",
+    "content": "e55bb8a8"
+  },
+  "/enums/MorphologicalOperations-1a0": {
+    "__comp": "17896441",
+    "content": "94dabad6"
+  },
+  "/enums/MouseButtons-5fb": {
+    "__comp": "17896441",
+    "content": "93b80ce7"
+  },
+  "/enums/MouseMessage-997": {
+    "__comp": "17896441",
+    "content": "bdadc641"
+  },
+  "/enums/Operations-313": {
+    "__comp": "17896441",
+    "content": "f35df58b"
+  },
+  "/enums/Orientation-b6c": {
+    "__comp": "17896441",
+    "content": "ee2e9eef"
+  },
+  "/enums/PageSegMode-caf": {
+    "__comp": "17896441",
+    "content": "306635cc"
+  },
+  "/enums/PointConvertMethod-990": {
+    "__comp": "17896441",
+    "content": "62e4e363"
+  },
+  "/enums/RelationalOperators-5b6": {
+    "__comp": "17896441",
+    "content": "0d51f1e4"
+  },
+  "/enums/RelativePosition-652": {
+    "__comp": "17896441",
+    "content": "7a8c2003"
+  },
+  "/enums/RetrievalModes-772": {
+    "__comp": "17896441",
+    "content": "4ebddb3b"
+  },
+  "/enums/SeverityLevel-8e3": {
+    "__comp": "17896441",
+    "content": "a021a78b"
+  },
+  "/enums/SuspendStateOption-473": {
+    "__comp": "17896441",
+    "content": "c4117108"
+  },
+  "/enums/ThresholdTypes-e56": {
+    "__comp": "17896441",
+    "content": "f66fa4ad"
+  },
+  "/enums/Visibility-f57": {
+    "__comp": "17896441",
+    "content": "e16c7c0f"
+  },
+  "/enums/WebKey-682": {
+    "__comp": "17896441",
+    "content": "8248f80c"
+  },
+  "/enums/WebLocated-55d": {
+    "__comp": "17896441",
+    "content": "639c9278"
+  },
+  "/enums/WindowHandle-150": {
+    "__comp": "17896441",
+    "content": "116d2042"
+  },
+  "/enums/WindowSortDirection-ac4": {
+    "__comp": "17896441",
+    "content": "8f5bac6f"
+  },
+  "/enums/WorkState-3d8": {
+    "__comp": "17896441",
+    "content": "9883381c"
+  },
+  "/introduction/-8e1": {
+    "__comp": "17896441",
+    "content": "ab602bb8"
+  },
+  "/introduction/android/uiautomatorviewer-e4c": {
+    "__comp": "17896441",
+    "content": "cf086379"
+  },
+  "/introduction/installation/installed_by_exe-07a": {
+    "__comp": "17896441",
+    "content": "7010493b"
+  },
+  "/introduction/installation/installed_by_msix-87c": {
+    "__comp": "17896441",
+    "content": "b55d6ab4"
+  },
+  "/introduction/installation/question/quest1-5d1": {
+    "__comp": "17896441",
+    "content": "e7e28ddd"
+  },
+  "/introduction/installation/question/quest2-8b1": {
+    "__comp": "17896441",
+    "content": "c424764f"
+  },
+  "/introduction/mixed/CUDA-e3a": {
+    "__comp": "17896441",
+    "content": "f2765b18"
+  },
+  "/introduction/mixed/cuDNN-3a7": {
+    "__comp": "17896441",
+    "content": "2a9402cc"
+  },
+  "/introduction/mixed/glob-745": {
+    "__comp": "17896441",
+    "content": "5f797784"
+  },
+  "/introduction/mixed/paddle2onnx-996": {
+    "__comp": "17896441",
+    "content": "d013a24a"
+  },
+  "/introduction/mixed/wildcard-68d": {
+    "__comp": "17896441",
+    "content": "600bf387"
+  },
+  "/introduction/setting/action_group_setting-7e5": {
+    "__comp": "17896441",
+    "content": "d6c12311"
+  },
+  "/introduction/setting/workflow-90b": {
+    "__comp": "17896441",
+    "content": "6440a0ce"
+  },
+  "/introduction/tesseract/Data-Files-475": {
+    "__comp": "17896441",
+    "content": "68bb25ac"
+  },
+  "/introduction/tesseract/Languages_Scripts-635": {
+    "__comp": "17896441",
+    "content": "d089b069"
+  },
+  "/introduction/tesseract/tesstrain-cab": {
+    "__comp": "17896441",
+    "content": "1c542be1"
+  },
+  "/introduction/webdriver/browser_directory-8bf": {
+    "__comp": "17896441",
+    "content": "ed56694a"
+  },
+  "/introduction/webdriver/download-de1": {
+    "__comp": "17896441",
+    "content": "0b9df12d"
+  },
+  "/introduction/webdriver/locators-2e1": {
+    "__comp": "17896441",
+    "content": "720d541b"
+  },
+  "/introduction/workflow/action-dae": {
+    "__comp": "17896441",
+    "content": "e0374d43"
+  },
+  "/introduction/workflow/features-978": {
+    "__comp": "17896441",
+    "content": "588f666f"
+  },
+  "/introduction/workflow/logic-89c": {
+    "__comp": "17896441",
+    "content": "15016e8c"
+  },
+  "/introduction/workflow/property-c9a": {
+    "__comp": "17896441",
+    "content": "77bf62f7"
+  },
+  "/introduction/workflow/record-3ab": {
+    "__comp": "17896441",
+    "content": "704d5239"
+  },
+  "/introduction/workflow/resources-d36": {
+    "__comp": "17896441",
+    "content": "7bd93074"
+  },
+  "/introduction/workflow/variable-5cf": {
+    "__comp": "17896441",
+    "content": "8a2bdc1a"
+  },
+  "/network/openwrt_dns-cf2": {
+    "__comp": "17896441",
+    "content": "9565d4d4"
+  },
+  "/types/ActionChains-673": {
+    "__comp": "17896441",
+    "content": "31fcb2aa"
+  },
+  "/types/Boolean-abb": {
+    "__comp": "17896441",
+    "content": "294a53a6"
+  },
+  "/types/Bytes-4ef": {
+    "__comp": "17896441",
+    "content": "0f5c8c98"
+  },
+  "/types/ClassificationResult-be7": {
+    "__comp": "17896441",
+    "content": "42099df7"
+  },
+  "/types/Color-936": {
+    "__comp": "17896441",
+    "content": "18b56e01"
+  },
+  "/types/Contour-75c": {
+    "__comp": "17896441",
+    "content": "786d175f"
+  },
+  "/types/DateTime-a2a": {
+    "__comp": "17896441",
+    "content": "609835c8"
+  },
+  "/types/DetectionResult-e92": {
+    "__comp": "17896441",
+    "content": "0237c019"
+  },
+  "/types/Dict-b2e": {
+    "__comp": "17896441",
+    "content": "22555e49"
+  },
+  "/types/Ellipse-6f7": {
+    "__comp": "17896441",
+    "content": "121382ad"
+  },
+  "/types/File-01e": {
+    "__comp": "17896441",
+    "content": "2b777a81"
+  },
+  "/types/HostAddress-4dc": {
+    "__comp": "17896441",
+    "content": "e4ef92be"
+  },
+  "/types/Image-712": {
+    "__comp": "17896441",
+    "content": "1216816d"
+  },
+  "/types/IOContext-8be": {
+    "__comp": "17896441",
+    "content": "7d5117ea"
+  },
+  "/types/JsonArray-588": {
+    "__comp": "17896441",
+    "content": "ed73d21f"
+  },
+  "/types/JsonValue-d7a": {
+    "__comp": "17896441",
+    "content": "8c17bc8f"
+  },
+  "/types/Keyboard-44f": {
+    "__comp": "17896441",
+    "content": "57fc64d8"
+  },
+  "/types/KeySequence-fc3": {
+    "__comp": "17896441",
+    "content": "76109574"
+  },
+  "/types/Line-232": {
+    "__comp": "17896441",
+    "content": "a17e8022"
+  },
+  "/types/List-78a": {
+    "__comp": "17896441",
+    "content": "f22dbe6f"
+  },
+  "/types/ModelSession-5fc": {
+    "__comp": "17896441",
+    "content": "21d46690"
+  },
+  "/types/Number-7c0": {
+    "__comp": "17896441",
+    "content": "dd5198c7"
+  },
+  "/types/Object-493": {
+    "__comp": "17896441",
+    "content": "b89e6e3b"
+  },
+  "/types/Path-171": {
+    "__comp": "17896441",
+    "content": "808197dd"
+  },
+  "/types/Point-6be": {
+    "__comp": "17896441",
+    "content": "aa4c57da"
+  },
+  "/types/Ptr-8ff": {
+    "__comp": "17896441",
+    "content": "6623a0fc"
+  },
+  "/types/Range-0af": {
+    "__comp": "17896441",
+    "content": "f1a2411e"
+  },
+  "/types/RecognitionResult-05c": {
+    "__comp": "17896441",
+    "content": "8e619b65"
+  },
+  "/types/Rect-25a": {
+    "__comp": "17896441",
+    "content": "db12e468"
+  },
+  "/types/RotatedRect-3f9": {
+    "__comp": "17896441",
+    "content": "dc89e34e"
+  },
+  "/types/Scalar-f55": {
+    "__comp": "17896441",
+    "content": "5620466c"
+  },
+  "/types/Size-864": {
+    "__comp": "17896441",
+    "content": "0dfd4ae5"
+  },
+  "/types/Slice-d13": {
+    "__comp": "17896441",
+    "content": "3fc6fb20"
+  },
+  "/types/String-c96": {
+    "__comp": "17896441",
+    "content": "8619de90"
+  },
+  "/types/TCPServer-8ef": {
+    "__comp": "17896441",
+    "content": "ffbc1d06"
+  },
+  "/types/TCPSocket-a5a": {
+    "__comp": "17896441",
+    "content": "0c2ef554"
+  },
+  "/types/Thread-3f7": {
+    "__comp": "17896441",
+    "content": "1c1b8080"
+  },
+  "/types/Timer-440": {
+    "__comp": "17896441",
+    "content": "ae1d8c28"
+  },
+  "/types/TimeSpan-d1b": {
+    "__comp": "17896441",
+    "content": "5e63bbf1"
+  },
+  "/types/Tuple-70e": {
+    "__comp": "17896441",
+    "content": "6fef7e09"
+  },
+  "/types/UDPSocket-7ae": {
+    "__comp": "17896441",
+    "content": "c88124db"
+  },
+  "/types/Url-b69": {
+    "__comp": "17896441",
+    "content": "c479f042"
+  },
+  "/types/VideoCapture-980": {
+    "__comp": "17896441",
+    "content": "1da30b24"
+  },
+  "/types/WebDriver-fdf": {
+    "__comp": "17896441",
+    "content": "69ebee62"
+  },
+  "/types/WebElement-f1a": {
+    "__comp": "17896441",
+    "content": "53bdc2e5"
+  },
+  "/types/WinEvent-a78": {
+    "__comp": "17896441",
+    "content": "313d090e"
+  },
+  "/types/WinInput-47f": {
+    "__comp": "17896441",
+    "content": "4840c358"
+  },
+  "/types/Wnd-dd2": {
+    "__comp": "17896441",
+    "content": "ddf7038f"
+  },
+  "/-c95": {
+    "__comp": "17896441",
+    "content": "f7e3462c"
   }
 }

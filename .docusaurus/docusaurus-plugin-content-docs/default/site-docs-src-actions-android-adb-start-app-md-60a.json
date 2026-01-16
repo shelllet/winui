@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbStartApp",
+  "title": "启动 App",
+  "description": "打开安卓设备上已经安装的 App。",
+  "source": "@site/docs_src/actions/android/AdbStartApp.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbStartApp",
+  "permalink": "/actions/android/AdbStartApp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/android/AdbStartApp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "截图",
+    "permalink": "/actions/android/AdbScreenCap"
+  },
+  "next": {
+    "title": "启动服务",
+    "permalink": "/actions/android/AdbStartServer"
+  }
+}

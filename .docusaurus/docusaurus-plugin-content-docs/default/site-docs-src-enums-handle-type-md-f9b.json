@@ -1,0 +1,24 @@
+{
+  "id": "enums/HandleType",
+  "title": "HandleType",
+  "description": "",
+  "source": "@site/docs_src/enums/HandleType.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/HandleType",
+  "permalink": "/enums/HandleType",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/HandleType.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GlobOptions",
+    "permalink": "/enums/GlobOptions"
+  },
+  "next": {
+    "title": "KnownFolder",
+    "permalink": "/enums/KnownFolder"
+  }
+}

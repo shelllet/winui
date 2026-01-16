@@ -1,0 +1,24 @@
+{
+  "id": "actions/asynchronous/WhenEvent",
+  "title": "等待事件",
+  "description": "该动作会开启一个异步线程不停的检测事件状态，直到状态变为：On ,即为有信号时，才会去执行子流程，否则会一起等待。",
+  "source": "@site/docs_src/actions/asynchronous/WhenEvent.md",
+  "sourceDirName": "actions/asynchronous",
+  "slug": "/actions/asynchronous/WhenEvent",
+  "permalink": "/actions/asynchronous/WhenEvent",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/asynchronous/WhenEvent.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "输入 * 中文",
+    "permalink": "/actions/android/Adbkeyboard"
+  },
+  "next": {
+    "title": "异步启动",
+    "permalink": "/actions/asynchronous/WorkBegin"
+  }
+}

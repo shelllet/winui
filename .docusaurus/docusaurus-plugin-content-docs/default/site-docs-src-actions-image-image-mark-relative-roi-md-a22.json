@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/ImageMarkRelativeROI",
+  "title": "标记相对区域",
+  "description": "根据相对位置，标记图片感兴趣的区域，比如在找图时，只从该区域查找图片，可以加快查图速度。",
+  "source": "@site/docs_src/actions/image/ImageMarkRelativeROI.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/ImageMarkRelativeROI",
+  "permalink": "/actions/image/ImageMarkRelativeROI",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/image/ImageMarkRelativeROI.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "标记区域",
+    "permalink": "/actions/image/ImageMarkROI"
+  },
+  "next": {
+    "title": "均值",
+    "permalink": "/actions/image/ImageMean"
+  }
+}

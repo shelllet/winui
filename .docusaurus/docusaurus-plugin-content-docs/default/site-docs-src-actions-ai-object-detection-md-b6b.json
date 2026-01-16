@@ -1,0 +1,24 @@
+{
+  "id": "actions/ai/ObjectDetection",
+  "title": "对象检测",
+  "description": "基于深度学习框架的目标检测,目前仅支持 Yolo5格式的 ONNX 模型，其它 ONNX 检测模型需要通过脚本自已解析输出。",
+  "source": "@site/docs_src/actions/ai/ObjectDetection.md",
+  "sourceDirName": "actions/ai",
+  "slug": "/actions/ai/ObjectDetection",
+  "permalink": "/actions/ai/ObjectDetection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/ai/ObjectDetection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "目标分类",
+    "permalink": "/actions/ai/ImageClassification"
+  },
+  "next": {
+    "title": "二维码识别",
+    "permalink": "/actions/ai/QRCode"
+  }
+}

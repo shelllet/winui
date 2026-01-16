@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbInstall",
+  "title": "安装应用",
+  "description": "安装 Apk 文件到安卓设备中。",
+  "source": "@site/docs_src/actions/android/AdbInstall.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbInstall",
+  "permalink": "/actions/android/AdbInstall",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/android/AdbInstall.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "输入",
+    "permalink": "/actions/android/AdbInput"
+  },
+  "next": {
+    "title": "应用检测",
+    "permalink": "/actions/android/AdbIsInstalled"
+  }
+}

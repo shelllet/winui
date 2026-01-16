@@ -1,0 +1,24 @@
+{
+  "id": "enums/CameraTriggerActivation",
+  "title": "CameraTriggerActivation",
+  "description": "* RisingEdge",
+  "source": "@site/docs_src/enums/CameraTriggerActivation.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/CameraTriggerActivation",
+  "permalink": "/enums/CameraTriggerActivation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/CameraTriggerActivation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BlurOperation",
+    "permalink": "/enums/BlurOperation"
+  },
+  "next": {
+    "title": "CameraTriggerSource",
+    "permalink": "/enums/CameraTriggerSource"
+  }
+}

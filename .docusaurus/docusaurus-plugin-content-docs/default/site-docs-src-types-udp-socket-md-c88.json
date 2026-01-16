@@ -1,0 +1,24 @@
+{
+  "id": "types/UDPSocket",
+  "title": "UDPSocket",
+  "description": "",
+  "source": "@site/docs_src/types/UDPSocket.md",
+  "sourceDirName": "types",
+  "slug": "/types/UDPSocket",
+  "permalink": "/types/UDPSocket",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/UDPSocket.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tuple",
+    "permalink": "/types/Tuple"
+  },
+  "next": {
+    "title": "Url",
+    "permalink": "/types/Url"
+  }
+}

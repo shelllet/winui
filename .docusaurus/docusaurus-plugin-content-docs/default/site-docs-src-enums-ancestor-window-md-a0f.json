@@ -1,0 +1,24 @@
+{
+  "id": "enums/AncestorWindow",
+  "title": "AncestorWindow",
+  "description": "* WA_PARENT",
+  "source": "@site/docs_src/enums/AncestorWindow.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/AncestorWindow",
+  "permalink": "/enums/AncestorWindow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/AncestorWindow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "窗口位置",
+    "permalink": "/actions/window/WindowXy"
+  },
+  "next": {
+    "title": "BARCODE_Encoding",
+    "permalink": "/enums/BARCODE_Encoding"
+  }
+}

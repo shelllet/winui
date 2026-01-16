@@ -1,0 +1,24 @@
+{
+  "id": "enums/LogicalOperators",
+  "title": "LogicalOperators",
+  "description": "* AND",
+  "source": "@site/docs_src/enums/LogicalOperators.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/LogicalOperators",
+  "permalink": "/enums/LogicalOperators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/LogicalOperators.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LogStatus",
+    "permalink": "/enums/LogStatus"
+  },
+  "next": {
+    "title": "MessageBoxFlags",
+    "permalink": "/enums/MessageBoxFlags"
+  }
+}

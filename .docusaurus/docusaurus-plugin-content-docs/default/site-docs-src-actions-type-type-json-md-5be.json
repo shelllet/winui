@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeJson",
+  "title": "Json",
+  "description": "定义 Json 数据类型",
+  "source": "@site/docs_src/actions/type/TypeJson.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeJson",
+  "permalink": "/actions/type/TypeJson",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/type/TypeJson.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "主机地址",
+    "permalink": "/actions/type/TypeHostAddress"
+  },
+  "next": {
+    "title": "列表",
+    "permalink": "/actions/type/TypeList"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "enums/ModuleOption",
+  "title": "ModuleOption",
+  "description": "* API",
+  "source": "@site/docs_src/enums/ModuleOption.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/ModuleOption",
+  "permalink": "/enums/ModuleOption",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/ModuleOption.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MessagePlaceMode",
+    "permalink": "/enums/MessagePlaceMode"
+  },
+  "next": {
+    "title": "MorphologicalOperations",
+    "permalink": "/enums/MorphologicalOperations"
+  }
+}

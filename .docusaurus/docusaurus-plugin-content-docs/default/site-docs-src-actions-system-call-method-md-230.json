@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/CallMethod",
+  "title": "调用方法",
+  "description": "调用对象或者模块中的方法，包括 COM 对象。",
+  "source": "@site/docs_src/actions/system/CallMethod.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/CallMethod",
+  "permalink": "/actions/system/CallMethod",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/system/CallMethod.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "附加进程",
+    "permalink": "/actions/system/AttachProcess"
+  },
+  "next": {
+    "title": "剪切板",
+    "permalink": "/actions/system/ClipboardValue"
+  }
+}

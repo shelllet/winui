@@ -1,0 +1,24 @@
+{
+  "id": "enums/ColorConversionCodes",
+  "title": "ColorConversionCodes",
+  "description": "* COLOR_BGR2BGRA",
+  "source": "@site/docs_src/enums/ColorConversionCodes.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/ColorConversionCodes",
+  "permalink": "/enums/ColorConversionCodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/ColorConversionCodes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CameraType",
+    "permalink": "/enums/CameraType"
+  },
+  "next": {
+    "title": "Colors",
+    "permalink": "/enums/Colors"
+  }
+}

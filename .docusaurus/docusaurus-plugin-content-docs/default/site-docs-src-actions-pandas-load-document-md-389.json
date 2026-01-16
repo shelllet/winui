@@ -1,0 +1,24 @@
+{
+  "id": "actions/pandas/LoadDocument",
+  "title": "加载文档",
+  "description": "加载文档，支持多种文档类型。",
+  "source": "@site/docs_src/actions/pandas/LoadDocument.md",
+  "sourceDirName": "actions/pandas",
+  "slug": "/actions/pandas/LoadDocument",
+  "permalink": "/actions/pandas/LoadDocument",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/pandas/LoadDocument.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "迭代行",
+    "permalink": "/actions/pandas/IterRow"
+  },
+  "next": {
+    "title": "行列选择 * 标签",
+    "permalink": "/actions/pandas/NameLoc"
+  }
+}

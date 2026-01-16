@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebFocusFrameDefault",
+  "title": "重置框架",
+  "description": "将焦点切换到默认框架。通常操作完 iframe 后，可以使用该动作切换回默认的 html 页面。",
+  "source": "@site/docs_src/actions/web/WebFocusFrameDefault.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebFocusFrameDefault",
+  "permalink": "/actions/web/WebFocusFrameDefault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebFocusFrameDefault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "执行脚本",
+    "permalink": "/actions/web/WebExecute"
+  },
+  "next": {
+    "title": "查找元素",
+    "permalink": "/actions/web/WebGetElement"
+  }
+}

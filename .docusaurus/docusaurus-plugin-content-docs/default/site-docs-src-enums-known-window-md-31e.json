@@ -1,0 +1,24 @@
+{
+  "id": "enums/KnownWindow",
+  "title": "KnownWindow",
+  "description": "* Desktop",
+  "source": "@site/docs_src/enums/KnownWindow.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/KnownWindow",
+  "permalink": "/enums/KnownWindow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/KnownWindow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "KnownFolder",
+    "permalink": "/enums/KnownFolder"
+  },
+  "next": {
+    "title": "LogStatus",
+    "permalink": "/enums/LogStatus"
+  }
+}

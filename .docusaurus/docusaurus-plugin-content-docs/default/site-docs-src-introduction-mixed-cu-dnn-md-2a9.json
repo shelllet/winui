@@ -1,0 +1,24 @@
+{
+  "id": "introduction/mixed/cuDNN",
+  "title": "cuDNN 和 CUDA 版本对应关系",
+  "description": "cuDNN 和 CUDA 的版本对应关系需要根据具体的软件版本和硬件环境进行匹配，以下是基于证据的详细总结：",
+  "source": "@site/docs_src/introduction/mixed/cuDNN.md",
+  "sourceDirName": "introduction/mixed",
+  "slug": "/introduction/mixed/cuDNN",
+  "permalink": "/introduction/mixed/cuDNN",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/mixed/cuDNN.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CUDA",
+    "permalink": "/introduction/mixed/CUDA"
+  },
+  "next": {
+    "title": "Glob模式",
+    "permalink": "/introduction/mixed/glob"
+  }
+}

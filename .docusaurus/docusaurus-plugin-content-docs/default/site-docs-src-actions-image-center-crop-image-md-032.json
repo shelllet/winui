@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/CenterCropImage",
+  "title": "中心裁切",
+  "description": "从图像中心位置按照指定的大小，裁切图片。",
+  "source": "@site/docs_src/actions/image/CenterCropImage.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/CenterCropImage",
+  "permalink": "/actions/image/CenterCropImage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/image/CenterCropImage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "自适应阈值",
+    "permalink": "/actions/image/AdaptiveThreshold"
+  },
+  "next": {
+    "title": "连通域分析",
+    "permalink": "/actions/image/ConnectedComponents"
+  }
+}

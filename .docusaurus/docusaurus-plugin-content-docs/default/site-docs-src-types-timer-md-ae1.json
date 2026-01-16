@@ -1,0 +1,24 @@
+{
+  "id": "types/Timer",
+  "title": "Timer",
+  "description": "Class Timer， 定时器",
+  "source": "@site/docs_src/types/Timer.md",
+  "sourceDirName": "types",
+  "slug": "/types/Timer",
+  "permalink": "/types/Timer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Timer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TimeSpan",
+    "permalink": "/types/TimeSpan"
+  },
+  "next": {
+    "title": "Tuple",
+    "permalink": "/types/Tuple"
+  }
+}

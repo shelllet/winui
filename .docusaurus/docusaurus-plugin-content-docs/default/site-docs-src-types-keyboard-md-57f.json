@@ -1,0 +1,24 @@
+{
+  "id": "types/Keyboard",
+  "title": "Keyboard",
+  "description": "",
+  "source": "@site/docs_src/types/Keyboard.md",
+  "sourceDirName": "types",
+  "slug": "/types/Keyboard",
+  "permalink": "/types/Keyboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/types/Keyboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "KeySequence",
+    "permalink": "/types/KeySequence"
+  },
+  "next": {
+    "title": "Line",
+    "permalink": "/types/Line"
+  }
+}

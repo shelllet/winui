@@ -1,0 +1,24 @@
+{
+  "id": "enums/FileExtension",
+  "title": "FileExtension",
+  "description": "* DEFAULT",
+  "source": "@site/docs_src/enums/FileExtension.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/FileExtension",
+  "permalink": "/enums/FileExtension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/enums/FileExtension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FeatureAlgorithm",
+    "permalink": "/enums/FeatureAlgorithm"
+  },
+  "next": {
+    "title": "GlobOptions",
+    "permalink": "/enums/GlobOptions"
+  }
+}

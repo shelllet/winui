@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeCamera",
+  "title": "相机",
+  "description": "定义相机类型，当前系统必须连接相机设备，且不被占用(USB相机通常已经连接)。工业 GIGE 接口的相机需要手动安装相应的驱动程序。",
+  "source": "@site/docs_src/actions/type/TypeCamera.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeCamera",
+  "permalink": "/actions/type/TypeCamera",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/type/TypeCamera.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "布尔",
+    "permalink": "/actions/type/TypeBoolean"
+  },
+  "next": {
+    "title": "颜色",
+    "permalink": "/actions/type/TypeColor"
+  }
+}

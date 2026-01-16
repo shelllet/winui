@@ -1,0 +1,24 @@
+{
+  "id": "introduction/webdriver/download",
+  "title": "浏览器 WebDriver 驱动",
+  "description": "使用 Selenium WebDriver 进行浏览器自动化测试时，你需要为不同的浏览器下载对应的 WebDriver 驱动。每个驱动都是一个独立的、可执行的程序，它充当 Selenium 脚本和实际浏览器之间的桥梁。",
+  "source": "@site/docs_src/introduction/webdriver/download.md",
+  "sourceDirName": "introduction/webdriver",
+  "slug": "/introduction/webdriver/download",
+  "permalink": "/introduction/webdriver/download",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/webdriver/download.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "浏览器配置目录",
+    "permalink": "/introduction/webdriver/browser_directory"
+  },
+  "next": {
+    "title": "定位策略",
+    "permalink": "/introduction/webdriver/locators"
+  }
+}

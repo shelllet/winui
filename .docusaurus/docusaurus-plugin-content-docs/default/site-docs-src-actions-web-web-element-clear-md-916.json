@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebElementClear",
+  "title": "清除文本",
+  "description": "如果文本是文本输入元素，则清除文本。",
+  "source": "@site/docs_src/actions/web/WebElementClear.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebElementClear",
+  "permalink": "/actions/web/WebElementClear",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/web/WebElementClear.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "获取属性",
+    "permalink": "/actions/web/WebElementAttribute"
+  },
+  "next": {
+    "title": "点击",
+    "permalink": "/actions/web/WebElementClick"
+  }
+}

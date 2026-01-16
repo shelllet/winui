@@ -1,0 +1,24 @@
+{
+  "id": "actions/window/ActiveWindow",
+  "title": "激活窗口",
+  "description": "将创建指定窗口的线程置于前台并激活该窗口。键盘输入被定向到窗口，并且为用户改变各种视觉提示。系统为创建前台窗口的线程分配比其他线程稍高的优先级。",
+  "source": "@site/docs_src/actions/window/ActiveWindow.md",
+  "sourceDirName": "actions/window",
+  "slug": "/actions/window/ActiveWindow",
+  "permalink": "/actions/window/ActiveWindow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/window/ActiveWindow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "等待*可见（定位）",
+    "permalink": "/actions/web/WebWaitVisibilityByLocator"
+  },
+  "next": {
+    "title": "关闭窗口",
+    "permalink": "/actions/window/CloseWindow"
+  }
+}

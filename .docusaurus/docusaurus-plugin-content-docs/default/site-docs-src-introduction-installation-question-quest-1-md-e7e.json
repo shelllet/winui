@@ -1,0 +1,24 @@
+{
+  "id": "introduction/installation/question/quest1",
+  "title": "quest1",
+  "description": "[Deprecated] 事件日志",
+  "source": "@site/docs_src/introduction/installation/question/quest1.md",
+  "sourceDirName": "introduction/installation/question",
+  "slug": "/introduction/installation/question/quest1",
+  "permalink": "/introduction/installation/question/quest1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/introduction/installation/question/quest1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "微软商店安装",
+    "permalink": "/introduction/installation/installed_by_msix"
+  },
+  "next": {
+    "title": "覆盖安装无法启动",
+    "permalink": "/introduction/installation/question/quest2"
+  }
+}

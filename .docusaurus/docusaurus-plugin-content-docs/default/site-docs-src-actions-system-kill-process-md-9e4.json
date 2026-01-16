@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/KillProcess",
+  "title": "终止进程",
+  "description": "该动作可以结束操作系统中的进程",
+  "source": "@site/docs_src/actions/system/KillProcess.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/KillProcess",
+  "permalink": "/actions/system/KillProcess",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/system/KillProcess.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "检测进程",
+    "permalink": "/actions/system/ExistProcess"
+  },
+  "next": {
+    "title": "打开关联文件",
+    "permalink": "/actions/system/LaunchFile"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/FilterPerimeter",
+  "title": "周长筛选",
+  "description": "通过计算 数组/列表 中元素的周长，筛选符合条件的元素。",
+  "source": "@site/docs_src/actions/algorithm/FilterPerimeter.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/FilterPerimeter",
+  "permalink": "/actions/algorithm/FilterPerimeter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/algorithm/FilterPerimeter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "椭圆筛选",
+    "permalink": "/actions/algorithm/FilterEllipse"
+  },
+  "next": {
+    "title": "文本筛选",
+    "permalink": "/actions/algorithm/FilterText"
+  }
+}

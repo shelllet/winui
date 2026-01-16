@@ -1,0 +1,24 @@
+{
+  "id": "actions/filesystem/FileWrite",
+  "title": "文件写入",
+  "description": "把文本信息写入本地文件,也就是保存到电脑磁盘上面。",
+  "source": "@site/docs_src/actions/filesystem/FileWrite.md",
+  "sourceDirName": "actions/filesystem",
+  "slug": "/actions/filesystem/FileWrite",
+  "permalink": "/actions/filesystem/FileWrite",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/filesystem/FileWrite.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "读取文件",
+    "permalink": "/actions/filesystem/FileRead"
+  },
+  "next": {
+    "title": "加载图像",
+    "permalink": "/actions/filesystem/ImageLoad"
+  }
+}

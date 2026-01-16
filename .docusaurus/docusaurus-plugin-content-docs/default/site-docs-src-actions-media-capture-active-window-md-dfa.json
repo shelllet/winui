@@ -1,0 +1,24 @@
+{
+  "id": "actions/media/CaptureActiveWindow",
+  "title": "活动窗口截图",
+  "description": "截取当前活动窗口图像",
+  "source": "@site/docs_src/actions/media/CaptureActiveWindow.md",
+  "sourceDirName": "actions/media",
+  "slug": "/actions/media/CaptureActiveWindow",
+  "permalink": "/actions/media/CaptureActiveWindow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/media/CaptureActiveWindow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "等待按键",
+    "permalink": "/actions/keyboard/WaitKey"
+  },
+  "next": {
+    "title": "全屏截图",
+    "permalink": "/actions/media/CaptureScreen"
+  }
+}

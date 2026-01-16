@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/ClipboardValue",
+  "title": "剪切板",
+  "description": "获取或者设置 剪切板 的内容，支持 图片 或者 文本 信息。",
+  "source": "@site/docs_src/actions/system/ClipboardValue.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/ClipboardValue",
+  "permalink": "/actions/system/ClipboardValue",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs_src/actions/system/ClipboardValue.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "调用方法",
+    "permalink": "/actions/system/CallMethod"
+  },
+  "next": {
+    "title": "关闭句柄",
+    "permalink": "/actions/system/CloseHandle"
+  }
+}
