@@ -8,7 +8,7 @@
 
 ### Note
 
-1. 下载（安装包）：https://winui.net/_media/simple/小友+0.48.2-setup.x64.exe
+1. 下载（安装包）：Feature developing...
 
 
 ## [0.48.2](https://github.com/shelllet/winui/compare/main...dev) (2025-11-26)
