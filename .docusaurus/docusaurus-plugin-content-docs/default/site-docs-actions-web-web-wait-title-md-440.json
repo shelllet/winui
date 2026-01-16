@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebWaitTitle",
+  "title": "等待*标题",
+  "description": "检查浏览器窗口标题是否包含区分大小写的字符串。",
+  "source": "@site/docs/actions/web/WebWaitTitle.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebWaitTitle",
+  "permalink": "/actions/web/WebWaitTitle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/web/WebWaitTitle.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "等待*元素呈现",
+    "permalink": "/actions/web/WebWaitPresence"
+  },
+  "next": {
+    "title": "等待*可见",
+    "permalink": "/actions/web/WebWaitVisibilityByElement"
+  }
+}

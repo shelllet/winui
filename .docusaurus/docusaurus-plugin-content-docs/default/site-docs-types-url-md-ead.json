@@ -1,0 +1,24 @@
+{
+  "id": "types/Url",
+  "title": "Url",
+  "description": "Class Url， 定义表示统一资源标识符 (URL) 值的对象，简称：网址。",
+  "source": "@site/docs/types/Url.md",
+  "sourceDirName": "types",
+  "slug": "/types/Url",
+  "permalink": "/types/Url",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Url.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UDPSocket",
+    "permalink": "/types/UDPSocket"
+  },
+  "next": {
+    "title": "VideoCapture",
+    "permalink": "/types/VideoCapture"
+  }
+}

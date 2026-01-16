@@ -1,0 +1,24 @@
+{
+  "id": "types/Color",
+  "title": "Color",
+  "description": "Class Color， 颜色",
+  "source": "@site/docs/types/Color.md",
+  "sourceDirName": "types",
+  "slug": "/types/Color",
+  "permalink": "/types/Color",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Color.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ClassificationResult",
+    "permalink": "/types/ClassificationResult"
+  },
+  "next": {
+    "title": "Contour",
+    "permalink": "/types/Contour"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "types/Line",
+  "title": "Line",
+  "description": "Class Line， 线段。",
+  "source": "@site/docs/types/Line.md",
+  "sourceDirName": "types",
+  "slug": "/types/Line",
+  "permalink": "/types/Line",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Line.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Keyboard",
+    "permalink": "/types/Keyboard"
+  },
+  "next": {
+    "title": "List",
+    "permalink": "/types/List"
+  }
+}

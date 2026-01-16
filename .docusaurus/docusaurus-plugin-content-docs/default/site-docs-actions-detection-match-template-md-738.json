@@ -1,0 +1,24 @@
+{
+  "id": "actions/detection/MatchTemplate",
+  "title": "模板匹配",
+  "description": "基于模板的简单的图像查找方法，通常用于查找较小的图像,或者特征比较少的图像。",
+  "source": "@site/docs/actions/detection/MatchTemplate.md",
+  "sourceDirName": "actions/detection",
+  "slug": "/actions/detection/MatchTemplate",
+  "permalink": "/actions/detection/MatchTemplate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/detection/MatchTemplate.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "形状匹配",
+    "permalink": "/actions/detection/MatchShapes"
+  },
+  "next": {
+    "title": "形状查找",
+    "permalink": "/actions/detection/ShapeDetection"
+  }
+}

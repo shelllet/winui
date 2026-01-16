@@ -1,0 +1,24 @@
+{
+  "id": "enums/RelationalOperators",
+  "title": "RelationalOperators",
+  "description": "* GreaterThan",
+  "source": "@site/docs/enums/RelationalOperators.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/RelationalOperators",
+  "permalink": "/enums/RelationalOperators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/RelationalOperators.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PointConvertMethod",
+    "permalink": "/enums/PointConvertMethod"
+  },
+  "next": {
+    "title": "RelativePosition",
+    "permalink": "/enums/RelativePosition"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/ai/TextlineOrientation",
+  "title": "文字角度纠正",
+  "description": "角度分类器，默认识别：0°、90° 、270°。 如果使用，则可识别旋转180°的图片。如果文本没有旋转180°，为了性能，请不要使用该选项。其它文本旋转角度无法准确识别。",
+  "source": "@site/docs/actions/ai/TextlineOrientation.md",
+  "sourceDirName": "actions/ai",
+  "slug": "/actions/ai/TextlineOrientation",
+  "permalink": "/actions/ai/TextlineOrientation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/ai/TextlineOrientation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文字图像矫正",
+    "permalink": "/actions/ai/TextUnwarping"
+  },
+  "next": {
+    "title": "访问数组",
+    "permalink": "/actions/algorithm/AccessArray"
+  }
+}

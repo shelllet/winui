@@ -1,0 +1,24 @@
+{
+  "id": "enums/Operations",
+  "title": "Operations",
+  "description": "",
+  "source": "@site/docs/enums/Operations.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/Operations",
+  "permalink": "/enums/Operations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/Operations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MouseMessage",
+    "permalink": "/enums/MouseMessage"
+  },
+  "next": {
+    "title": "Orientation",
+    "permalink": "/enums/Orientation"
+  }
+}

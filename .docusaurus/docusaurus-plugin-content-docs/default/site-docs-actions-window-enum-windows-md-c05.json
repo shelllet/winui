@@ -1,0 +1,24 @@
+{
+  "id": "actions/window/EnumWindows",
+  "title": "枚举窗口",
+  "description": "枚举操作系统中的窗口，并按照指定的规则进行窗口排序。",
+  "source": "@site/docs/actions/window/EnumWindows.md",
+  "sourceDirName": "actions/window",
+  "slug": "/actions/window/EnumWindows",
+  "permalink": "/actions/window/EnumWindows",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/window/EnumWindows.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "关闭窗口",
+    "permalink": "/actions/window/CloseWindow"
+  },
+  "next": {
+    "title": "查找窗口",
+    "permalink": "/actions/window/FindWindow"
+  }
+}

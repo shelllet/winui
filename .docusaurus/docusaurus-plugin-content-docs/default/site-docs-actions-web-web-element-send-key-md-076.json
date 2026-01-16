@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebElementSendKey",
+  "title": "发送按键",
+  "description": "向 Web 元素发送按键。",
+  "source": "@site/docs/actions/web/WebElementSendKey.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebElementSendKey",
+  "permalink": "/actions/web/WebElementSendKey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/web/WebElementSendKey.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "选中检查",
+    "permalink": "/actions/web/WebElementSelected"
+  },
+  "next": {
+    "title": "设置文本",
+    "permalink": "/actions/web/WebElementSendText"
+  }
+}

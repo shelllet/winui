@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeNumber",
+  "title": "数字",
+  "description": "定义一个 数字 类型。",
+  "source": "@site/docs/actions/type/TypeNumber.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeNumber",
+  "permalink": "/actions/type/TypeNumber",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/type/TypeNumber.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "模型",
+    "permalink": "/actions/type/TypeModel"
+  },
+  "next": {
+    "title": "密码",
+    "permalink": "/actions/type/TypePassword"
+  }
+}

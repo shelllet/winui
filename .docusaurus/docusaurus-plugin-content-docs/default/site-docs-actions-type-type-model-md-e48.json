@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeModel",
+  "title": "模型",
+  "description": "定义 ONNX 模型文件。",
+  "source": "@site/docs/actions/type/TypeModel.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeModel",
+  "permalink": "/actions/type/TypeModel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/type/TypeModel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "列表",
+    "permalink": "/actions/type/TypeList"
+  },
+  "next": {
+    "title": "数字",
+    "permalink": "/actions/type/TypeNumber"
+  }
+}

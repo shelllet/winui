@@ -1,0 +1,24 @@
+{
+  "id": "types/JsonValue",
+  "title": "JsonValue",
+  "description": "Class JsonValue， JsonValue 对象可以表示 Boolean、Number 和 String 三种原始的 JSON 值类型，也可以通过提供访问方式来表示 Array 和 Object 的复杂值类型。",
+  "source": "@site/docs/types/JsonValue.md",
+  "sourceDirName": "types",
+  "slug": "/types/JsonValue",
+  "permalink": "/types/JsonValue",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/JsonValue.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JsonArray",
+    "permalink": "/types/JsonArray"
+  },
+  "next": {
+    "title": "KeySequence",
+    "permalink": "/types/KeySequence"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/mouse/MoveClick",
+  "title": "移动并点击",
+  "description": "移动鼠标，到达位置后点击鼠标相应的键",
+  "source": "@site/docs/actions/mouse/MoveClick.md",
+  "sourceDirName": "actions/mouse",
+  "slug": "/actions/mouse/MoveClick",
+  "permalink": "/actions/mouse/MoveClick",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/mouse/MoveClick.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "监听鼠标",
+    "permalink": "/actions/mouse/ListenMouse"
+  },
+  "next": {
+    "title": "移动并双击",
+    "permalink": "/actions/mouse/MoveDoubleClick"
+  }
+}

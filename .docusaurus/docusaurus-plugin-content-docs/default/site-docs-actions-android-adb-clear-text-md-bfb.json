@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbClearText",
+  "title": "清除文字",
+  "description": "清除处于焦点的输入框中的文本，清除文本之前，自动安装 ADBKeyboard.apk。关于ADBKeyboard.apk，请参考：https://github.com/shelllet/ADBKeyBoard.git 。",
+  "source": "@site/docs/actions/android/AdbClearText.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbClearText",
+  "permalink": "/actions/android/AdbClearText",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/android/AdbClearText.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "提取子串",
+    "permalink": "/actions/algorithm/SubString"
+  },
+  "next": {
+    "title": "连接",
+    "permalink": "/actions/android/AdbConnect"
+  }
+}

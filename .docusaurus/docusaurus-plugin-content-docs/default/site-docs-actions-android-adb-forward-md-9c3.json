@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbForward",
+  "title": "转发",
+  "description": "把安卓系统的服务端口映射到本地端口，通过此种方式可以调用模拟器中的接口或者服务。",
+  "source": "@site/docs/actions/android/AdbForward.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbForward",
+  "permalink": "/actions/android/AdbForward",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/android/AdbForward.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "设备",
+    "permalink": "/actions/android/AdbDevices"
+  },
+  "next": {
+    "title": "输入",
+    "permalink": "/actions/android/AdbInput"
+  }
+}

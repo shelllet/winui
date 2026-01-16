@@ -1,0 +1,24 @@
+{
+  "id": "actions/window/FindWindow",
+  "title": "查找窗口",
+  "description": "查找操作系统中的窗口，该动作支持通过窗口标题或者窗口类搜索窗口。",
+  "source": "@site/docs/actions/window/FindWindow.md",
+  "sourceDirName": "actions/window",
+  "slug": "/actions/window/FindWindow",
+  "permalink": "/actions/window/FindWindow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/window/FindWindow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "枚举窗口",
+    "permalink": "/actions/window/EnumWindows"
+  },
+  "next": {
+    "title": "闪烁窗口",
+    "permalink": "/actions/window/FlashWindow"
+  }
+}

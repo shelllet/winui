@@ -1,0 +1,24 @@
+{
+  "id": "types/Thread",
+  "title": "Thread",
+  "description": "Class Thread， 线程",
+  "source": "@site/docs/types/Thread.md",
+  "sourceDirName": "types",
+  "slug": "/types/Thread",
+  "permalink": "/types/Thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TCPSocket",
+    "permalink": "/types/TCPSocket"
+  },
+  "next": {
+    "title": "TimeSpan",
+    "permalink": "/types/TimeSpan"
+  }
+}

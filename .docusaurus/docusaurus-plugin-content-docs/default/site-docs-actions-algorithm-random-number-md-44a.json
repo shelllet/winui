@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/RandomNumber",
+  "title": "随机数字",
+  "description": "生成一个随机数字。",
+  "source": "@site/docs/actions/algorithm/RandomNumber.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/RandomNumber",
+  "permalink": "/actions/algorithm/RandomNumber",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/algorithm/RandomNumber.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "添加元素",
+    "permalink": "/actions/algorithm/PushBack"
+  },
+  "next": {
+    "title": "随机坐标",
+    "permalink": "/actions/algorithm/RandomPoint"
+  }
+}

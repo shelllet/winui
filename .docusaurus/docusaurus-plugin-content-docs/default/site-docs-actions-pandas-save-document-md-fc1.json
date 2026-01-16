@@ -1,0 +1,24 @@
+{
+  "id": "actions/pandas/SaveDocument",
+  "title": "保存文档",
+  "description": "保存文档，支持多种文档类型。",
+  "source": "@site/docs/actions/pandas/SaveDocument.md",
+  "sourceDirName": "actions/pandas",
+  "slug": "/actions/pandas/SaveDocument",
+  "permalink": "/actions/pandas/SaveDocument",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/pandas/SaveDocument.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "统计行数",
+    "permalink": "/actions/pandas/RowsCount"
+  },
+  "next": {
+    "title": "附加进程",
+    "permalink": "/actions/system/AttachProcess"
+  }
+}

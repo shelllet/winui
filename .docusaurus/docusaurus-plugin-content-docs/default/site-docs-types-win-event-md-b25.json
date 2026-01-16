@@ -1,0 +1,24 @@
+{
+  "id": "types/WinEvent",
+  "title": "WinEvent",
+  "description": "Class WinEvent. 事件",
+  "source": "@site/docs/types/WinEvent.md",
+  "sourceDirName": "types",
+  "slug": "/types/WinEvent",
+  "permalink": "/types/WinEvent",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/WinEvent.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WebElement",
+    "permalink": "/types/WebElement"
+  },
+  "next": {
+    "title": "WinInput",
+    "permalink": "/types/WinInput"
+  }
+}

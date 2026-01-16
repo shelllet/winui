@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/Runas",
+  "title": "登录应用",
+  "description": "使用本地系统中的账号密码打开应用程序，类似 \"RunAs\"，该动作不会等待程序结束。",
+  "source": "@site/docs/actions/system/Runas.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/Runas",
+  "permalink": "/actions/system/Runas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/system/Runas.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "读取内存",
+    "permalink": "/actions/system/ReadMemory"
+  },
+  "next": {
+    "title": "启动应用",
+    "permalink": "/actions/system/StartProcess"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "enums/ThresholdTypes",
+  "title": "ThresholdTypes",
+  "description": "* BINARY",
+  "source": "@site/docs/enums/ThresholdTypes.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/ThresholdTypes",
+  "permalink": "/enums/ThresholdTypes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/ThresholdTypes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SuspendStateOption",
+    "permalink": "/enums/SuspendStateOption"
+  },
+  "next": {
+    "title": "Visibility",
+    "permalink": "/enums/Visibility"
+  }
+}

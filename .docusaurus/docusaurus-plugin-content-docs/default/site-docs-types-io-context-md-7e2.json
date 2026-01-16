@@ -1,0 +1,24 @@
+{
+  "id": "types/IOContext",
+  "title": "IOContext",
+  "description": "Class IOContext",
+  "source": "@site/docs/types/IOContext.md",
+  "sourceDirName": "types",
+  "slug": "/types/IOContext",
+  "permalink": "/types/IOContext",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/IOContext.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HostAddress",
+    "permalink": "/types/HostAddress"
+  },
+  "next": {
+    "title": "Image",
+    "permalink": "/types/Image"
+  }
+}

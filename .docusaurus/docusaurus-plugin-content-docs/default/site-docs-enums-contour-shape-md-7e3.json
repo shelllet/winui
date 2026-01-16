@@ -1,0 +1,24 @@
+{
+  "id": "enums/ContourShape",
+  "title": "ContourShape",
+  "description": "* Triangle",
+  "source": "@site/docs/enums/ContourShape.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/ContourShape",
+  "permalink": "/enums/ContourShape",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/ContourShape.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ContourApproximationMode",
+    "permalink": "/enums/ContourApproximationMode"
+  },
+  "next": {
+    "title": "CookiesFormat",
+    "permalink": "/enums/CookiesFormat"
+  }
+}

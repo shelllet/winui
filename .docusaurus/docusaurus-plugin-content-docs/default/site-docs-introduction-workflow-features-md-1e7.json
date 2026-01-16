@@ -1,0 +1,24 @@
+{
+  "id": "introduction/workflow/features",
+  "title": "流程操作技巧",
+  "description": "1. 复制",
+  "source": "@site/docs/introduction/workflow/features.md",
+  "sourceDirName": "introduction/workflow",
+  "slug": "/introduction/workflow/features",
+  "permalink": "/introduction/workflow/features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/workflow/features.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "动作",
+    "permalink": "/introduction/workflow/action"
+  },
+  "next": {
+    "title": "logic",
+    "permalink": "/introduction/workflow/logic"
+  }
+}

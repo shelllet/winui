@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbMove",
+  "title": "移动",
+  "description": "在安卓设备中，模拟上下左右移动，类似游戏当中的 WASD 功能。",
+  "source": "@site/docs/actions/android/AdbMove.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbMove",
+  "permalink": "/actions/android/AdbMove",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/android/AdbMove.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文件列表",
+    "permalink": "/actions/android/AdbLs"
+  },
+  "next": {
+    "title": "应用列表",
+    "permalink": "/actions/android/AdbPackages"
+  }
+}

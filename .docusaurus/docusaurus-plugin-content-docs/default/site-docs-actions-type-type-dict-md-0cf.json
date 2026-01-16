@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeDict",
+  "title": "字典",
+  "description": "定义一个 Dict（字典） 类型。",
+  "source": "@site/docs/actions/type/TypeDict.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeDict",
+  "permalink": "/actions/type/TypeDict",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/type/TypeDict.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "颜色",
+    "permalink": "/actions/type/TypeColor"
+  },
+  "next": {
+    "title": "事件",
+    "permalink": "/actions/type/TypeEvent"
+  }
+}

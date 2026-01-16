@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/SuspendSystem",
+  "title": "暂停系统",
+  "description": "注销、关闭、休眠或者重启当前的操作系统。",
+  "source": "@site/docs/actions/system/SuspendSystem.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/SuspendSystem",
+  "permalink": "/actions/system/SuspendSystem",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/system/SuspendSystem.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "启动应用",
+    "permalink": "/actions/system/StartProcess"
+  },
+  "next": {
+    "title": "添加用户",
+    "permalink": "/actions/system/UserAdd"
+  }
+}

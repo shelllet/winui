@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/ExistProcess",
+  "title": "检测进程",
+  "description": "该动作可以检查系统当中的应用程序是否运行。",
+  "source": "@site/docs/actions/system/ExistProcess.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/ExistProcess",
+  "permalink": "/actions/system/ExistProcess",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/system/ExistProcess.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "创建对象",
+    "permalink": "/actions/system/CreateObject"
+  },
+  "next": {
+    "title": "终止进程",
+    "permalink": "/actions/system/KillProcess"
+  }
+}

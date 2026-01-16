@@ -1,0 +1,24 @@
+{
+  "id": "actions/window/MessageBox",
+  "title": "消息框",
+  "description": "弹出一个消息框，该动作会阻止流程继续执行，直到消息框关闭。",
+  "source": "@site/docs/actions/window/MessageBox.md",
+  "sourceDirName": "actions/window",
+  "slug": "/actions/window/MessageBox",
+  "permalink": "/actions/window/MessageBox",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/window/MessageBox.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "闪烁窗口",
+    "permalink": "/actions/window/FlashWindow"
+  },
+  "next": {
+    "title": "窗口置顶",
+    "permalink": "/actions/window/PositionWindow"
+  }
+}

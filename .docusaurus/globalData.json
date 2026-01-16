@@ -1,0 +1,1883 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "README",
+          "docs": [
+            {
+              "id": "actions/ai/BarcodeDetector",
+              "path": "/actions/ai/BarcodeDetector",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/ai/DocumentOrientation",
+              "path": "/actions/ai/DocumentOrientation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/ai/ImageClassification",
+              "path": "/actions/ai/ImageClassification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/ai/ObjectDetection",
+              "path": "/actions/ai/ObjectDetection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/ai/QRCode",
+              "path": "/actions/ai/QRCode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/ai/TextDetection",
+              "path": "/actions/ai/TextDetection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/ai/TextExtract",
+              "path": "/actions/ai/TextExtract",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/ai/TextlineOrientation",
+              "path": "/actions/ai/TextlineOrientation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/ai/TextRecognition",
+              "path": "/actions/ai/TextRecognition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/ai/TextUnwarping",
+              "path": "/actions/ai/TextUnwarping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/AccessArray",
+              "path": "/actions/algorithm/AccessArray",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/AccessKey",
+              "path": "/actions/algorithm/AccessKey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/ArraySize",
+              "path": "/actions/algorithm/ArraySize",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/CalculateCenter",
+              "path": "/actions/algorithm/CalculateCenter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/ColorPercentage",
+              "path": "/actions/algorithm/ColorPercentage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/ConvertPoint",
+              "path": "/actions/algorithm/ConvertPoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/FilterArea",
+              "path": "/actions/algorithm/FilterArea",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/FilterEllipse",
+              "path": "/actions/algorithm/FilterEllipse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/FilterPerimeter",
+              "path": "/actions/algorithm/FilterPerimeter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/FilterText",
+              "path": "/actions/algorithm/FilterText",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/FilterVertex",
+              "path": "/actions/algorithm/FilterVertex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/ImageDifference",
+              "path": "/actions/algorithm/ImageDifference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/JoinString",
+              "path": "/actions/algorithm/JoinString",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/PopBack",
+              "path": "/actions/algorithm/PopBack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/PushBack",
+              "path": "/actions/algorithm/PushBack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/RandomNumber",
+              "path": "/actions/algorithm/RandomNumber",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/RandomPoint",
+              "path": "/actions/algorithm/RandomPoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/SplitString",
+              "path": "/actions/algorithm/SplitString",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/algorithm/SubString",
+              "path": "/actions/algorithm/SubString",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbClearText",
+              "path": "/actions/android/AdbClearText",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbConnect",
+              "path": "/actions/android/AdbConnect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbDevices",
+              "path": "/actions/android/AdbDevices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbForward",
+              "path": "/actions/android/AdbForward",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbInput",
+              "path": "/actions/android/AdbInput",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbInstall",
+              "path": "/actions/android/AdbInstall",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbIsInstalled",
+              "path": "/actions/android/AdbIsInstalled",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbKey",
+              "path": "/actions/android/AdbKey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/Adbkeyboard",
+              "path": "/actions/android/Adbkeyboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbLs",
+              "path": "/actions/android/AdbLs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbMove",
+              "path": "/actions/android/AdbMove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbPackages",
+              "path": "/actions/android/AdbPackages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbPull",
+              "path": "/actions/android/AdbPull",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbPush",
+              "path": "/actions/android/AdbPush",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbScreenCap",
+              "path": "/actions/android/AdbScreenCap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbStartApp",
+              "path": "/actions/android/AdbStartApp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbStartServer",
+              "path": "/actions/android/AdbStartServer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbSwipe",
+              "path": "/actions/android/AdbSwipe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/android/AdbTap",
+              "path": "/actions/android/AdbTap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/asynchronous/WhenEvent",
+              "path": "/actions/asynchronous/WhenEvent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/asynchronous/WorkBegin",
+              "path": "/actions/asynchronous/WorkBegin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/asynchronous/WorkExit",
+              "path": "/actions/asynchronous/WorkExit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/asynchronous/WorkReset",
+              "path": "/actions/asynchronous/WorkReset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/asynchronous/WorkTask",
+              "path": "/actions/asynchronous/WorkTask",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/asynchronous/WorkThread",
+              "path": "/actions/asynchronous/WorkThread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/asynchronous/WorkTimer",
+              "path": "/actions/asynchronous/WorkTimer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/asynchronous/WorkWait",
+              "path": "/actions/asynchronous/WorkWait",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/cloud/BaiduTranslate",
+              "path": "/actions/cloud/BaiduTranslate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/ActionAlias",
+              "path": "/actions/control/ActionAlias",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/ArithmeticCalculate",
+              "path": "/actions/control/ArithmeticCalculate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/Break",
+              "path": "/actions/control/Break",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/Code",
+              "path": "/actions/control/Code",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/CodeExpression",
+              "path": "/actions/control/CodeExpression",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/Exit",
+              "path": "/actions/control/Exit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/For",
+              "path": "/actions/control/For",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/GroupAction",
+              "path": "/actions/control/GroupAction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/If",
+              "path": "/actions/control/If",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/Invoke",
+              "path": "/actions/control/Invoke",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/IsEmpty",
+              "path": "/actions/control/IsEmpty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/LoggingControl",
+              "path": "/actions/control/LoggingControl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/LogicalOperator",
+              "path": "/actions/control/LogicalOperator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/NameAlias",
+              "path": "/actions/control/NameAlias",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/Param",
+              "path": "/actions/control/Param",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/RelationalOperator",
+              "path": "/actions/control/RelationalOperator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/control/SoftwareTrigger",
+              "path": "/actions/control/SoftwareTrigger",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/detection/BlobDetect",
+              "path": "/actions/detection/BlobDetect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/detection/EllipseDetection",
+              "path": "/actions/detection/EllipseDetection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/detection/FeatureDetect",
+              "path": "/actions/detection/FeatureDetect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/detection/FindContours",
+              "path": "/actions/detection/FindContours",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/detection/ImageColorDiscrimination",
+              "path": "/actions/detection/ImageColorDiscrimination",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/detection/LineDetection",
+              "path": "/actions/detection/LineDetection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/detection/MatchImage",
+              "path": "/actions/detection/MatchImage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/detection/MatchShapes",
+              "path": "/actions/detection/MatchShapes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/detection/MatchTemplate",
+              "path": "/actions/detection/MatchTemplate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/detection/ShapeDetection",
+              "path": "/actions/detection/ShapeDetection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/draw/BarcodeCreate",
+              "path": "/actions/draw/BarcodeCreate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/draw/DrawImage",
+              "path": "/actions/draw/DrawImage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/draw/DrawRect",
+              "path": "/actions/draw/DrawRect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/draw/DrawText",
+              "path": "/actions/draw/DrawText",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/draw/FillColor",
+              "path": "/actions/draw/FillColor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/filesystem/CopyFile",
+              "path": "/actions/filesystem/CopyFile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/filesystem/DirectoryIterator",
+              "path": "/actions/filesystem/DirectoryIterator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/filesystem/FileQuery",
+              "path": "/actions/filesystem/FileQuery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/filesystem/FileRead",
+              "path": "/actions/filesystem/FileRead",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/filesystem/FileWrite",
+              "path": "/actions/filesystem/FileWrite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/filesystem/ImageLoad",
+              "path": "/actions/filesystem/ImageLoad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/filesystem/ImageSave",
+              "path": "/actions/filesystem/ImageSave",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/filesystem/ReadLines",
+              "path": "/actions/filesystem/ReadLines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/filesystem/StandardPath",
+              "path": "/actions/filesystem/StandardPath",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/AdaptiveThreshold",
+              "path": "/actions/image/AdaptiveThreshold",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/CenterCropImage",
+              "path": "/actions/image/CenterCropImage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ConnectedComponents",
+              "path": "/actions/image/ConnectedComponents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/CropImage",
+              "path": "/actions/image/CropImage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/CvtColor",
+              "path": "/actions/image/CvtColor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageBlur",
+              "path": "/actions/image/ImageBlur",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageCanny",
+              "path": "/actions/image/ImageCanny",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageInRange",
+              "path": "/actions/image/ImageInRange",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageMarkRelativeROI",
+              "path": "/actions/image/ImageMarkRelativeROI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageMarkROI",
+              "path": "/actions/image/ImageMarkROI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageMean",
+              "path": "/actions/image/ImageMean",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageMorphological",
+              "path": "/actions/image/ImageMorphological",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageNormalize",
+              "path": "/actions/image/ImageNormalize",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageRotate",
+              "path": "/actions/image/ImageRotate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageScale",
+              "path": "/actions/image/ImageScale",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageStd",
+              "path": "/actions/image/ImageStd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ImageThreshold",
+              "path": "/actions/image/ImageThreshold",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/image/ResizeImage",
+              "path": "/actions/image/ResizeImage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/keyboard/ListenKeyboard",
+              "path": "/actions/keyboard/ListenKeyboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/keyboard/PressAndReleaseKey",
+              "path": "/actions/keyboard/PressAndReleaseKey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/keyboard/PressKey",
+              "path": "/actions/keyboard/PressKey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/keyboard/ReleaseKey",
+              "path": "/actions/keyboard/ReleaseKey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/keyboard/SendKey",
+              "path": "/actions/keyboard/SendKey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/keyboard/SendText",
+              "path": "/actions/keyboard/SendText",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/keyboard/WaitKey",
+              "path": "/actions/keyboard/WaitKey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/media/CaptureActiveWindow",
+              "path": "/actions/media/CaptureActiveWindow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/media/CaptureScreen",
+              "path": "/actions/media/CaptureScreen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/media/CaptureWindow",
+              "path": "/actions/media/CaptureWindow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/media/MediaPlay",
+              "path": "/actions/media/MediaPlay",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/media/PixelPoint",
+              "path": "/actions/media/PixelPoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/media/PlayRecord",
+              "path": "/actions/media/PlayRecord",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/media/VideoFrame",
+              "path": "/actions/media/VideoFrame",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/method/SubString",
+              "path": "/actions/method/SubString",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/CellClick",
+              "path": "/actions/mouse/CellClick",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/CellMove",
+              "path": "/actions/mouse/CellMove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/Click",
+              "path": "/actions/mouse/Click",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/DoubleClick",
+              "path": "/actions/mouse/DoubleClick",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/DragPointer",
+              "path": "/actions/mouse/DragPointer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/ListenMouse",
+              "path": "/actions/mouse/ListenMouse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/MoveClick",
+              "path": "/actions/mouse/MoveClick",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/MoveDoubleClick",
+              "path": "/actions/mouse/MoveDoubleClick",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/MoveOffset",
+              "path": "/actions/mouse/MoveOffset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/MovePointer",
+              "path": "/actions/mouse/MovePointer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/RightClick",
+              "path": "/actions/mouse/RightClick",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/mouse/WheelMouse",
+              "path": "/actions/mouse/WheelMouse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/DomainQuery",
+              "path": "/actions/network/DomainQuery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/HttpDownload",
+              "path": "/actions/network/HttpDownload",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/HttpGet",
+              "path": "/actions/network/HttpGet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/HttpHead",
+              "path": "/actions/network/HttpHead",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/HttpPost",
+              "path": "/actions/network/HttpPost",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/NetworkConnect",
+              "path": "/actions/network/NetworkConnect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/NetworkListen",
+              "path": "/actions/network/NetworkListen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/NetworkReceive",
+              "path": "/actions/network/NetworkReceive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/NetworkSend",
+              "path": "/actions/network/NetworkSend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/ReceiveInput",
+              "path": "/actions/network/ReceiveInput",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/SendInput",
+              "path": "/actions/network/SendInput",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/network/VideoDownload",
+              "path": "/actions/network/VideoDownload",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/pandas/DataFrameQuery",
+              "path": "/actions/pandas/DataFrameQuery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/pandas/IndexLoc",
+              "path": "/actions/pandas/IndexLoc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/pandas/IterRow",
+              "path": "/actions/pandas/IterRow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/pandas/LoadDocument",
+              "path": "/actions/pandas/LoadDocument",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/pandas/NameLoc",
+              "path": "/actions/pandas/NameLoc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/pandas/RowsCount",
+              "path": "/actions/pandas/RowsCount",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/pandas/SaveDocument",
+              "path": "/actions/pandas/SaveDocument",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/README",
+              "path": "/actions/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/AttachProcess",
+              "path": "/actions/system/AttachProcess",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/CallMethod",
+              "path": "/actions/system/CallMethod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/ClipboardValue",
+              "path": "/actions/system/ClipboardValue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/CloseHandle",
+              "path": "/actions/system/CloseHandle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/CreateObject",
+              "path": "/actions/system/CreateObject",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/ExistProcess",
+              "path": "/actions/system/ExistProcess",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/KillProcess",
+              "path": "/actions/system/KillProcess",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/LaunchFile",
+              "path": "/actions/system/LaunchFile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/OpenApplication",
+              "path": "/actions/system/OpenApplication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/OpenUrl",
+              "path": "/actions/system/OpenUrl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/PrintMessage",
+              "path": "/actions/system/PrintMessage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/ReadMemory",
+              "path": "/actions/system/ReadMemory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/Runas",
+              "path": "/actions/system/Runas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/StartProcess",
+              "path": "/actions/system/StartProcess",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/SuspendSystem",
+              "path": "/actions/system/SuspendSystem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/UserAdd",
+              "path": "/actions/system/UserAdd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/Wait",
+              "path": "/actions/system/Wait",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/system/WriteMemory",
+              "path": "/actions/system/WriteMemory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeBoolean",
+              "path": "/actions/type/TypeBoolean",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeCamera",
+              "path": "/actions/type/TypeCamera",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeColor",
+              "path": "/actions/type/TypeColor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeDict",
+              "path": "/actions/type/TypeDict",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeEvent",
+              "path": "/actions/type/TypeEvent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeFile",
+              "path": "/actions/type/TypeFile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeHostAddress",
+              "path": "/actions/type/TypeHostAddress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeJson",
+              "path": "/actions/type/TypeJson",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeList",
+              "path": "/actions/type/TypeList",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeModel",
+              "path": "/actions/type/TypeModel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeNumber",
+              "path": "/actions/type/TypeNumber",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypePassword",
+              "path": "/actions/type/TypePassword",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypePath",
+              "path": "/actions/type/TypePath",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypePoint",
+              "path": "/actions/type/TypePoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypePtr",
+              "path": "/actions/type/TypePtr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeRect",
+              "path": "/actions/type/TypeRect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeResource",
+              "path": "/actions/type/TypeResource",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeScalar",
+              "path": "/actions/type/TypeScalar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeShortcut",
+              "path": "/actions/type/TypeShortcut",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeSlice",
+              "path": "/actions/type/TypeSlice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeString",
+              "path": "/actions/type/TypeString",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeStrings",
+              "path": "/actions/type/TypeStrings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeTuple",
+              "path": "/actions/type/TypeTuple",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/type/TypeUrl",
+              "path": "/actions/type/TypeUrl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionChainsPerform",
+              "path": "/actions/web/WebActionChainsPerform",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionClick",
+              "path": "/actions/web/WebActionClick",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionClickHold",
+              "path": "/actions/web/WebActionClickHold",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionDoubleClick",
+              "path": "/actions/web/WebActionDoubleClick",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionDragDrop",
+              "path": "/actions/web/WebActionDragDrop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionKeyDown",
+              "path": "/actions/web/WebActionKeyDown",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionKeyUp",
+              "path": "/actions/web/WebActionKeyUp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionMoveTo",
+              "path": "/actions/web/WebActionMoveTo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionPause",
+              "path": "/actions/web/WebActionPause",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionRelease",
+              "path": "/actions/web/WebActionRelease",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebActionSendText",
+              "path": "/actions/web/WebActionSendText",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebCookies",
+              "path": "/actions/web/WebCookies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebElementAttribute",
+              "path": "/actions/web/WebElementAttribute",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebElementClear",
+              "path": "/actions/web/WebElementClear",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebElementClick",
+              "path": "/actions/web/WebElementClick",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebElementSelected",
+              "path": "/actions/web/WebElementSelected",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebElementSendKey",
+              "path": "/actions/web/WebElementSendKey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebElementSendText",
+              "path": "/actions/web/WebElementSendText",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebElementSubmit",
+              "path": "/actions/web/WebElementSubmit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebExecute",
+              "path": "/actions/web/WebExecute",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebFocusFrameDefault",
+              "path": "/actions/web/WebFocusFrameDefault",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebGetElement",
+              "path": "/actions/web/WebGetElement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebOpen",
+              "path": "/actions/web/WebOpen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebScreenshot",
+              "path": "/actions/web/WebScreenshot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebSwitchToFrame",
+              "path": "/actions/web/WebSwitchToFrame",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebWaitAlert",
+              "path": "/actions/web/WebWaitAlert",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebWaitClickable",
+              "path": "/actions/web/WebWaitClickable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebWaitFrameAvailable",
+              "path": "/actions/web/WebWaitFrameAvailable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebWaitPresence",
+              "path": "/actions/web/WebWaitPresence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebWaitTitle",
+              "path": "/actions/web/WebWaitTitle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebWaitVisibilityByElement",
+              "path": "/actions/web/WebWaitVisibilityByElement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/web/WebWaitVisibilityByLocator",
+              "path": "/actions/web/WebWaitVisibilityByLocator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/ActiveWindow",
+              "path": "/actions/window/ActiveWindow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/CloseWindow",
+              "path": "/actions/window/CloseWindow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/EnumWindows",
+              "path": "/actions/window/EnumWindows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/FindWindow",
+              "path": "/actions/window/FindWindow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/FlashWindow",
+              "path": "/actions/window/FlashWindow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/MessageBox",
+              "path": "/actions/window/MessageBox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/PositionWindow",
+              "path": "/actions/window/PositionWindow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/SpecialWindow",
+              "path": "/actions/window/SpecialWindow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/WindowAncestor",
+              "path": "/actions/window/WindowAncestor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/WindowCaption",
+              "path": "/actions/window/WindowCaption",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/WindowPoint",
+              "path": "/actions/window/WindowPoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/WindowSize",
+              "path": "/actions/window/WindowSize",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/WindowVisible",
+              "path": "/actions/window/WindowVisible",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/WindowXy",
+              "path": "/actions/window/WindowXy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actions/window/WinRun",
+              "path": "/actions/window/WinRun",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CHANGELOG",
+              "path": "/CHANGELOG",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/AncestorWindow",
+              "path": "/enums/AncestorWindow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/BARCODE_Encoding",
+              "path": "/enums/BARCODE_Encoding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/BlurOperation",
+              "path": "/enums/BlurOperation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/CameraTriggerActivation",
+              "path": "/enums/CameraTriggerActivation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/CameraTriggerSource",
+              "path": "/enums/CameraTriggerSource",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/CameraType",
+              "path": "/enums/CameraType",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/ColorConversionCodes",
+              "path": "/enums/ColorConversionCodes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/Colors",
+              "path": "/enums/Colors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/ContourApproximationMode",
+              "path": "/enums/ContourApproximationMode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/ContourShape",
+              "path": "/enums/ContourShape",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/CookiesFormat",
+              "path": "/enums/CookiesFormat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/Directions",
+              "path": "/enums/Directions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/FeatureAlgorithm",
+              "path": "/enums/FeatureAlgorithm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/FileExtension",
+              "path": "/enums/FileExtension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/GlobOptions",
+              "path": "/enums/GlobOptions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/HandleType",
+              "path": "/enums/HandleType",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/KnownFolder",
+              "path": "/enums/KnownFolder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/KnownWindow",
+              "path": "/enums/KnownWindow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/LogicalOperators",
+              "path": "/enums/LogicalOperators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/LogStatus",
+              "path": "/enums/LogStatus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/MessageBoxFlags",
+              "path": "/enums/MessageBoxFlags",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/MessagePlaceMode",
+              "path": "/enums/MessagePlaceMode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/ModuleOption",
+              "path": "/enums/ModuleOption",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/MorphologicalOperations",
+              "path": "/enums/MorphologicalOperations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/MouseButtons",
+              "path": "/enums/MouseButtons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/MouseMessage",
+              "path": "/enums/MouseMessage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/Operations",
+              "path": "/enums/Operations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/Orientation",
+              "path": "/enums/Orientation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/PageSegMode",
+              "path": "/enums/PageSegMode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/PointConvertMethod",
+              "path": "/enums/PointConvertMethod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/RelationalOperators",
+              "path": "/enums/RelationalOperators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/RelativePosition",
+              "path": "/enums/RelativePosition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/RetrievalModes",
+              "path": "/enums/RetrievalModes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/SeverityLevel",
+              "path": "/enums/SeverityLevel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/SuspendStateOption",
+              "path": "/enums/SuspendStateOption",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/ThresholdTypes",
+              "path": "/enums/ThresholdTypes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/Visibility",
+              "path": "/enums/Visibility",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/WebKey",
+              "path": "/enums/WebKey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/WebLocated",
+              "path": "/enums/WebLocated",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/WindowHandle",
+              "path": "/enums/WindowHandle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/WindowSortDirection",
+              "path": "/enums/WindowSortDirection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enums/WorkState",
+              "path": "/enums/WorkState",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/android/uiautomatorviewer",
+              "path": "/introduction/android/uiautomatorviewer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/installation/installed_by_exe",
+              "path": "/introduction/installation/installed_by_exe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/installation/installed_by_msix",
+              "path": "/introduction/installation/installed_by_msix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/installation/question/quest1",
+              "path": "/introduction/installation/question/quest1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/installation/question/quest2",
+              "path": "/introduction/installation/question/quest2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/mixed/CUDA",
+              "path": "/introduction/mixed/CUDA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/mixed/cuDNN",
+              "path": "/introduction/mixed/cuDNN",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/mixed/glob",
+              "path": "/introduction/mixed/glob",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/mixed/paddle2onnx",
+              "path": "/introduction/mixed/paddle2onnx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/mixed/wildcard",
+              "path": "/introduction/mixed/wildcard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/README",
+              "path": "/introduction/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/setting/action_group_setting",
+              "path": "/introduction/setting/action_group_setting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/setting/workflow",
+              "path": "/introduction/setting/workflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/tesseract/Data-Files",
+              "path": "/introduction/tesseract/Data-Files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/tesseract/Languages_Scripts",
+              "path": "/introduction/tesseract/Languages_Scripts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/tesseract/tesstrain",
+              "path": "/introduction/tesseract/tesstrain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/webdriver/browser_directory",
+              "path": "/introduction/webdriver/browser_directory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/webdriver/download",
+              "path": "/introduction/webdriver/download",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/webdriver/locators",
+              "path": "/introduction/webdriver/locators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/workflow/action",
+              "path": "/introduction/workflow/action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/workflow/features",
+              "path": "/introduction/workflow/features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/workflow/logic",
+              "path": "/introduction/workflow/logic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/workflow/property",
+              "path": "/introduction/workflow/property",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/workflow/record",
+              "path": "/introduction/workflow/record",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/workflow/resources",
+              "path": "/introduction/workflow/resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/workflow/variable",
+              "path": "/introduction/workflow/variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "network/openwrt_dns",
+              "path": "/network/openwrt_dns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "README",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/ActionChains",
+              "path": "/types/ActionChains",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Boolean",
+              "path": "/types/Boolean",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Bytes",
+              "path": "/types/Bytes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/ClassificationResult",
+              "path": "/types/ClassificationResult",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Color",
+              "path": "/types/Color",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Contour",
+              "path": "/types/Contour",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/DateTime",
+              "path": "/types/DateTime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/DetectionResult",
+              "path": "/types/DetectionResult",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Dict",
+              "path": "/types/Dict",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Ellipse",
+              "path": "/types/Ellipse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/File",
+              "path": "/types/File",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/HostAddress",
+              "path": "/types/HostAddress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Image",
+              "path": "/types/Image",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/IOContext",
+              "path": "/types/IOContext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/JsonArray",
+              "path": "/types/JsonArray",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/JsonValue",
+              "path": "/types/JsonValue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Keyboard",
+              "path": "/types/Keyboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/KeySequence",
+              "path": "/types/KeySequence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Line",
+              "path": "/types/Line",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/List",
+              "path": "/types/List",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/ModelSession",
+              "path": "/types/ModelSession",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Number",
+              "path": "/types/Number",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Object",
+              "path": "/types/Object",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Path",
+              "path": "/types/Path",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Point",
+              "path": "/types/Point",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Ptr",
+              "path": "/types/Ptr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Range",
+              "path": "/types/Range",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/RecognitionResult",
+              "path": "/types/RecognitionResult",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Rect",
+              "path": "/types/Rect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/RotatedRect",
+              "path": "/types/RotatedRect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Scalar",
+              "path": "/types/Scalar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Size",
+              "path": "/types/Size",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Slice",
+              "path": "/types/Slice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/String",
+              "path": "/types/String",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/TCPServer",
+              "path": "/types/TCPServer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/TCPSocket",
+              "path": "/types/TCPSocket",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Thread",
+              "path": "/types/Thread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Timer",
+              "path": "/types/Timer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/TimeSpan",
+              "path": "/types/TimeSpan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Tuple",
+              "path": "/types/Tuple",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/UDPSocket",
+              "path": "/types/UDPSocket",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Url",
+              "path": "/types/Url",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/VideoCapture",
+              "path": "/types/VideoCapture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/WebDriver",
+              "path": "/types/WebDriver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/WebElement",
+              "path": "/types/WebElement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/WinEvent",
+              "path": "/types/WinEvent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/WinInput",
+              "path": "/types/WinInput",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "types/Wnd",
+              "path": "/types/Wnd",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/CHANGELOG",
+                "label": "CHANGELOG"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

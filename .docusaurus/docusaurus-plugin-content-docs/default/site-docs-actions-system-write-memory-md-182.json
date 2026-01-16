@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/WriteMemory",
+  "title": "写内存",
+  "description": "在进程指定的内存地址处写入数据。",
+  "source": "@site/docs/actions/system/WriteMemory.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/WriteMemory",
+  "permalink": "/actions/system/WriteMemory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/system/WriteMemory.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "等待",
+    "permalink": "/actions/system/Wait"
+  },
+  "next": {
+    "title": "布尔",
+    "permalink": "/actions/type/TypeBoolean"
+  }
+}

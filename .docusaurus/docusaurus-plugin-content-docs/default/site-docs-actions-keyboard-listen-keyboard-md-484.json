@@ -1,0 +1,24 @@
+{
+  "id": "actions/keyboard/ListenKeyboard",
+  "title": "监听键盘",
+  "description": "监听键盘按键",
+  "source": "@site/docs/actions/keyboard/ListenKeyboard.md",
+  "sourceDirName": "actions/keyboard",
+  "slug": "/actions/keyboard/ListenKeyboard",
+  "permalink": "/actions/keyboard/ListenKeyboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/keyboard/ListenKeyboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "调整尺寸",
+    "permalink": "/actions/image/ResizeImage"
+  },
+  "next": {
+    "title": "按下并释放",
+    "permalink": "/actions/keyboard/PressAndReleaseKey"
+  }
+}

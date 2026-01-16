@@ -1,0 +1,24 @@
+{
+  "id": "actions/mouse/Click",
+  "title": "点击",
+  "description": "模拟鼠标点击操作",
+  "source": "@site/docs/actions/mouse/Click.md",
+  "sourceDirName": "actions/mouse",
+  "slug": "/actions/mouse/Click",
+  "permalink": "/actions/mouse/Click",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/mouse/Click.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "移动 * 网格",
+    "permalink": "/actions/mouse/CellMove"
+  },
+  "next": {
+    "title": "双击",
+    "permalink": "/actions/mouse/DoubleClick"
+  }
+}

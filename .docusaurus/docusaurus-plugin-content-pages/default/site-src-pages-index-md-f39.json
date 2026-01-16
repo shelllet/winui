@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "title": "首页",
+  "description": "欢迎来到 WinUI 文档（迁移自 Docsify）。",
+  "frontMatter": {
+    "title": "首页"
+  },
+  "unlisted": false
+}

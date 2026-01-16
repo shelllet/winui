@@ -1,0 +1,24 @@
+{
+  "id": "actions/draw/FillColor",
+  "title": "填充颜色",
+  "description": "在图像上，根据所选择的区域，填充指定的颜色。",
+  "source": "@site/docs/actions/draw/FillColor.md",
+  "sourceDirName": "actions/draw",
+  "slug": "/actions/draw/FillColor",
+  "permalink": "/actions/draw/FillColor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/draw/FillColor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文本绘制",
+    "permalink": "/actions/draw/DrawText"
+  },
+  "next": {
+    "title": "文件复制",
+    "permalink": "/actions/filesystem/CopyFile"
+  }
+}

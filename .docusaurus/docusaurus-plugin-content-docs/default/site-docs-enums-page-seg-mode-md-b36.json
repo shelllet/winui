@@ -1,0 +1,24 @@
+{
+  "id": "enums/PageSegMode",
+  "title": "PageSegMode",
+  "description": "* AUTO (3)",
+  "source": "@site/docs/enums/PageSegMode.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/PageSegMode",
+  "permalink": "/enums/PageSegMode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/PageSegMode.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Orientation",
+    "permalink": "/enums/Orientation"
+  },
+  "next": {
+    "title": "PointConvertMethod",
+    "permalink": "/enums/PointConvertMethod"
+  }
+}

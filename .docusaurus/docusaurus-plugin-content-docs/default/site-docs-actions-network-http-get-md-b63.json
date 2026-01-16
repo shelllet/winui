@@ -1,0 +1,24 @@
+{
+  "id": "actions/network/HttpGet",
+  "title": "GET 请求",
+  "description": "用于向服务器请求指定的资源，HTTP GET 请求应该只接收数据而不改变服务器的状态。",
+  "source": "@site/docs/actions/network/HttpGet.md",
+  "sourceDirName": "actions/network",
+  "slug": "/actions/network/HttpGet",
+  "permalink": "/actions/network/HttpGet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/network/HttpGet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文件下载",
+    "permalink": "/actions/network/HttpDownload"
+  },
+  "next": {
+    "title": "HEAD 请求",
+    "permalink": "/actions/network/HttpHead"
+  }
+}

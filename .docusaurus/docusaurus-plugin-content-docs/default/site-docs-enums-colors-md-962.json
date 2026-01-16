@@ -1,0 +1,24 @@
+{
+  "id": "enums/Colors",
+  "title": "Colors",
+  "description": "* BLACK",
+  "source": "@site/docs/enums/Colors.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/Colors",
+  "permalink": "/enums/Colors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/Colors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ColorConversionCodes",
+    "permalink": "/enums/ColorConversionCodes"
+  },
+  "next": {
+    "title": "ContourApproximationMode",
+    "permalink": "/enums/ContourApproximationMode"
+  }
+}

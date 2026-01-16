@@ -1,0 +1,24 @@
+{
+  "id": "types/String",
+  "title": "String",
+  "description": "字符串是最常用的数据类型。小友+ 字符串类型和 Python 中的字符串类型保持一致， 我们可以使用引号 ( ' 或 \" ) 来创建字符串。",
+  "source": "@site/docs/types/String.md",
+  "sourceDirName": "types",
+  "slug": "/types/String",
+  "permalink": "/types/String",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/String.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Slice",
+    "permalink": "/types/Slice"
+  },
+  "next": {
+    "title": "TCPServer",
+    "permalink": "/types/TCPServer"
+  }
+}

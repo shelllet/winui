@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/FilterEllipse",
+  "title": "椭圆筛选",
+  "description": "通过 椭圆/圆 的特征筛选 椭圆/圆 数组/列表 中的符合条件元素。",
+  "source": "@site/docs/actions/algorithm/FilterEllipse.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/FilterEllipse",
+  "permalink": "/actions/algorithm/FilterEllipse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/algorithm/FilterEllipse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "面积筛选",
+    "permalink": "/actions/algorithm/FilterArea"
+  },
+  "next": {
+    "title": "周长筛选",
+    "permalink": "/actions/algorithm/FilterPerimeter"
+  }
+}

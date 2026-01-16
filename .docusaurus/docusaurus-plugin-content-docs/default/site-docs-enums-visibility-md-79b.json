@@ -1,0 +1,24 @@
+{
+  "id": "enums/Visibility",
+  "title": "Visibility",
+  "description": "* Default",
+  "source": "@site/docs/enums/Visibility.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/Visibility",
+  "permalink": "/enums/Visibility",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/Visibility.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ThresholdTypes",
+    "permalink": "/enums/ThresholdTypes"
+  },
+  "next": {
+    "title": "WebKey",
+    "permalink": "/enums/WebKey"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/window/WindowXy",
+  "title": "窗口位置",
+  "description": "获取或设置指定窗口的位置，该位置是相对于屏幕的左上角（屏幕坐标系）给出。",
+  "source": "@site/docs/actions/window/WindowXy.md",
+  "sourceDirName": "actions/window",
+  "slug": "/actions/window/WindowXy",
+  "permalink": "/actions/window/WindowXy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/window/WindowXy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "窗口可视",
+    "permalink": "/actions/window/WindowVisible"
+  },
+  "next": {
+    "title": "AncestorWindow",
+    "permalink": "/enums/AncestorWindow"
+  }
+}

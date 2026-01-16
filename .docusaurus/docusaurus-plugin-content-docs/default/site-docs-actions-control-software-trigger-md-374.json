@@ -1,0 +1,24 @@
+{
+  "id": "actions/control/SoftwareTrigger",
+  "title": "软触发",
+  "description": "工业相机的软触发（Software Trigger）是通过软件指令控制图像采集的技术，适用于需要灵活控制采集时机的场景（如机器视觉检测、动态目标捕捉）。如果工业相机设置了软触发模式，该动作可以触发相机拍照。",
+  "source": "@site/docs/actions/control/SoftwareTrigger.md",
+  "sourceDirName": "actions/control",
+  "slug": "/actions/control/SoftwareTrigger",
+  "permalink": "/actions/control/SoftwareTrigger",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/control/SoftwareTrigger.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "关系运算",
+    "permalink": "/actions/control/RelationalOperator"
+  },
+  "next": {
+    "title": "斑点检测",
+    "permalink": "/actions/detection/BlobDetect"
+  }
+}

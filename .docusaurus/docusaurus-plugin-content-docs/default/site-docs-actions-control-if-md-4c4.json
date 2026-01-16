@@ -1,0 +1,24 @@
+{
+  "id": "actions/control/If",
+  "title": "判断",
+  "description": "条件判断，用来判断 True 或 False，也可用来判空。相当于python 中的 if语句，该动作有两条分支，如果条件成立，执行左边的流程分支，否则，执行右边的流程分支。",
+  "source": "@site/docs/actions/control/If.md",
+  "sourceDirName": "actions/control",
+  "slug": "/actions/control/If",
+  "permalink": "/actions/control/If",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/control/If.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "分组",
+    "permalink": "/actions/control/GroupAction"
+  },
+  "next": {
+    "title": "调用",
+    "permalink": "/actions/control/Invoke"
+  }
+}

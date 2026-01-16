@@ -1,0 +1,24 @@
+{
+  "id": "enums/SuspendStateOption",
+  "title": "SuspendStateOption",
+  "description": "* Logoff",
+  "source": "@site/docs/enums/SuspendStateOption.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/SuspendStateOption",
+  "permalink": "/enums/SuspendStateOption",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/SuspendStateOption.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SeverityLevel",
+    "permalink": "/enums/SeverityLevel"
+  },
+  "next": {
+    "title": "ThresholdTypes",
+    "permalink": "/enums/ThresholdTypes"
+  }
+}

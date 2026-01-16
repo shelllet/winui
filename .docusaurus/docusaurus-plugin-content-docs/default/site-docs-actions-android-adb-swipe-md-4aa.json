@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbSwipe",
+  "title": "滑动",
+  "description": "在安卓设备中实现滑动操作。",
+  "source": "@site/docs/actions/android/AdbSwipe.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbSwipe",
+  "permalink": "/actions/android/AdbSwipe",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/android/AdbSwipe.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "启动服务",
+    "permalink": "/actions/android/AdbStartServer"
+  },
+  "next": {
+    "title": "点击",
+    "permalink": "/actions/android/AdbTap"
+  }
+}

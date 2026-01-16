@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeString",
+  "title": "字符串",
+  "description": "定义一个 字符串 类型。",
+  "source": "@site/docs/actions/type/TypeString.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeString",
+  "permalink": "/actions/type/TypeString",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/type/TypeString.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "切片",
+    "permalink": "/actions/type/TypeSlice"
+  },
+  "next": {
+    "title": "字符串列表",
+    "permalink": "/actions/type/TypeStrings"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/AttachProcess",
+  "title": "附加进程",
+  "description": "创建一个进程，在进程启动的时候附加一个动态链接库。这个动作可以把动态库加载到进程的运行空间，也可以称作DLL注入。",
+  "source": "@site/docs/actions/system/AttachProcess.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/AttachProcess",
+  "permalink": "/actions/system/AttachProcess",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/system/AttachProcess.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "保存文档",
+    "permalink": "/actions/pandas/SaveDocument"
+  },
+  "next": {
+    "title": "调用方法",
+    "permalink": "/actions/system/CallMethod"
+  }
+}

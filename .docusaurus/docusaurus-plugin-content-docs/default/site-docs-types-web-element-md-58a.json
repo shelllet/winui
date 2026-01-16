@@ -1,0 +1,24 @@
+{
+  "id": "types/WebElement",
+  "title": "WebElement",
+  "description": "Class WebElement.",
+  "source": "@site/docs/types/WebElement.md",
+  "sourceDirName": "types",
+  "slug": "/types/WebElement",
+  "permalink": "/types/WebElement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/WebElement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WebDriver",
+    "permalink": "/types/WebDriver"
+  },
+  "next": {
+    "title": "WinEvent",
+    "permalink": "/types/WinEvent"
+  }
+}

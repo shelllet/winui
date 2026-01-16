@@ -1,0 +1,24 @@
+{
+  "id": "actions/control/NameAlias",
+  "title": "引用动作（名称）",
+  "description": "此动作通过 名称 引用流程当中，可以被使用的路过动作。",
+  "source": "@site/docs/actions/control/NameAlias.md",
+  "sourceDirName": "actions/control",
+  "slug": "/actions/control/NameAlias",
+  "permalink": "/actions/control/NameAlias",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/control/NameAlias.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "逻辑运算",
+    "permalink": "/actions/control/LogicalOperator"
+  },
+  "next": {
+    "title": "参数",
+    "permalink": "/actions/control/Param"
+  }
+}

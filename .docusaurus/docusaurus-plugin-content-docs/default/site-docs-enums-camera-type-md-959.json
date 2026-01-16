@@ -1,0 +1,24 @@
+{
+  "id": "enums/CameraType",
+  "title": "CameraType",
+  "description": "- USB2",
+  "source": "@site/docs/enums/CameraType.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/CameraType",
+  "permalink": "/enums/CameraType",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/CameraType.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CameraTriggerSource",
+    "permalink": "/enums/CameraTriggerSource"
+  },
+  "next": {
+    "title": "ColorConversionCodes",
+    "permalink": "/enums/ColorConversionCodes"
+  }
+}

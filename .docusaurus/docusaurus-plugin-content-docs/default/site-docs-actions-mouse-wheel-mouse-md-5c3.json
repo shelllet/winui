@@ -1,0 +1,24 @@
+{
+  "id": "actions/mouse/WheelMouse",
+  "title": "滚动鼠标",
+  "description": "模拟鼠标滚轮操作。",
+  "source": "@site/docs/actions/mouse/WheelMouse.md",
+  "sourceDirName": "actions/mouse",
+  "slug": "/actions/mouse/WheelMouse",
+  "permalink": "/actions/mouse/WheelMouse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/mouse/WheelMouse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "右键点击",
+    "permalink": "/actions/mouse/RightClick"
+  },
+  "next": {
+    "title": "域名查询",
+    "permalink": "/actions/network/DomainQuery"
+  }
+}

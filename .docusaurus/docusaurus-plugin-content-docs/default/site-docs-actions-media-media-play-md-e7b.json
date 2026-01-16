@@ -1,0 +1,24 @@
+{
+  "id": "actions/media/MediaPlay",
+  "title": "声音播放",
+  "description": "播放声音文件。",
+  "source": "@site/docs/actions/media/MediaPlay.md",
+  "sourceDirName": "actions/media",
+  "slug": "/actions/media/MediaPlay",
+  "permalink": "/actions/media/MediaPlay",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/media/MediaPlay.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "窗口截图",
+    "permalink": "/actions/media/CaptureWindow"
+  },
+  "next": {
+    "title": "屏幕取色",
+    "permalink": "/actions/media/PixelPoint"
+  }
+}

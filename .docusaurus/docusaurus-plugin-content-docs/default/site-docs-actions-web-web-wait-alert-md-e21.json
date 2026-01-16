@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebWaitAlert",
+  "title": "等待*警告框",
+  "description": "检查当前浏览器窗口是否存在警报并切换到它。",
+  "source": "@site/docs/actions/web/WebWaitAlert.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebWaitAlert",
+  "permalink": "/actions/web/WebWaitAlert",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/web/WebWaitAlert.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "切换框架",
+    "permalink": "/actions/web/WebSwitchToFrame"
+  },
+  "next": {
+    "title": "等待*可点击",
+    "permalink": "/actions/web/WebWaitClickable"
+  }
+}

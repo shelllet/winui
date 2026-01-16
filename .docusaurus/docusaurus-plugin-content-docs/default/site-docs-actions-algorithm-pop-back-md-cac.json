@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/PopBack",
+  "title": "删除元素",
+  "description": "删除容器当中的最后一个元素。",
+  "source": "@site/docs/actions/algorithm/PopBack.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/PopBack",
+  "permalink": "/actions/algorithm/PopBack",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/algorithm/PopBack.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "合并字符串",
+    "permalink": "/actions/algorithm/JoinString"
+  },
+  "next": {
+    "title": "添加元素",
+    "permalink": "/actions/algorithm/PushBack"
+  }
+}

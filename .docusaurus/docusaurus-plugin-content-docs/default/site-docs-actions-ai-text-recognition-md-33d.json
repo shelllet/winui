@@ -1,0 +1,24 @@
+{
+  "id": "actions/ai/TextRecognition",
+  "title": "文字识别",
+  "description": "识别图像中的中文/英文文字。",
+  "source": "@site/docs/actions/ai/TextRecognition.md",
+  "sourceDirName": "actions/ai",
+  "slug": "/actions/ai/TextRecognition",
+  "permalink": "/actions/ai/TextRecognition",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/ai/TextRecognition.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TextExtract",
+    "permalink": "/actions/ai/TextExtract"
+  },
+  "next": {
+    "title": "文字图像矫正",
+    "permalink": "/actions/ai/TextUnwarping"
+  }
+}

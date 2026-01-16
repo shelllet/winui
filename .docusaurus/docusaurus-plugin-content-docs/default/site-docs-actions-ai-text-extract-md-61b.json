@@ -1,0 +1,24 @@
+{
+  "id": "actions/ai/TextExtract",
+  "title": "TextExtract",
+  "description": "基于 Tesseract OCR 的一款开源的光学字符识别引擎。能够识别多种语言的文字，包括但不限于英语、中文、法语、德语等。",
+  "source": "@site/docs/actions/ai/TextExtract.md",
+  "sourceDirName": "actions/ai",
+  "slug": "/actions/ai/TextExtract",
+  "permalink": "/actions/ai/TextExtract",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/ai/TextExtract.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文字区域检测",
+    "permalink": "/actions/ai/TextDetection"
+  },
+  "next": {
+    "title": "文字识别",
+    "permalink": "/actions/ai/TextRecognition"
+  }
+}

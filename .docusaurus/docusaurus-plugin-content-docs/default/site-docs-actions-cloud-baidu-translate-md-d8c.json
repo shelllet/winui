@@ -1,0 +1,24 @@
+{
+  "id": "actions/cloud/BaiduTranslate",
+  "title": "百度翻译",
+  "description": "百度翻译",
+  "source": "@site/docs/actions/cloud/BaiduTranslate.md",
+  "sourceDirName": "actions/cloud",
+  "slug": "/actions/cloud/BaiduTranslate",
+  "permalink": "/actions/cloud/BaiduTranslate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/cloud/BaiduTranslate.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "异步等待",
+    "permalink": "/actions/asynchronous/WorkWait"
+  },
+  "next": {
+    "title": "引用动作",
+    "permalink": "/actions/control/ActionAlias"
+  }
+}

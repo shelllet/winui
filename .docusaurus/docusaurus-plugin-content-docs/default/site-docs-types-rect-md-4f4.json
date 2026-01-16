@@ -1,0 +1,24 @@
+{
+  "id": "types/Rect",
+  "title": "Rect",
+  "description": "Class Rect, 表示一个矩形框",
+  "source": "@site/docs/types/Rect.md",
+  "sourceDirName": "types",
+  "slug": "/types/Rect",
+  "permalink": "/types/Rect",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Rect.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RecognitionResult",
+    "permalink": "/types/RecognitionResult"
+  },
+  "next": {
+    "title": "RotatedRect",
+    "permalink": "/types/RotatedRect"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "introduction/mixed/glob",
+  "title": "Glob模式",
+  "description": "在编程中匹配字符最常见的工具是正则表达式，此外还有一种 glob 模式经常用于匹配文件路径，glob 模式在某些方面与正则表达式功能相同，但是他们各自有着不同的语法和约定。",
+  "source": "@site/docs/introduction/mixed/glob.md",
+  "sourceDirName": "introduction/mixed",
+  "slug": "/introduction/mixed/glob",
+  "permalink": "/introduction/mixed/glob",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/mixed/glob.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cuDNN 和 CUDA 版本对应关系",
+    "permalink": "/introduction/mixed/cuDNN"
+  },
+  "next": {
+    "title": "Paddle2ONNX模型转化与预测",
+    "permalink": "/introduction/mixed/paddle2onnx"
+  }
+}

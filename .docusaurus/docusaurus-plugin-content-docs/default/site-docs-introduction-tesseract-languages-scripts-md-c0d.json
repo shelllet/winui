@@ -1,0 +1,24 @@
+{
+  "id": "introduction/tesseract/Languages_Scripts",
+  "title": "Languages/Scripts supported Tesseract OCR",
+  "description": "Languages",
+  "source": "@site/docs/introduction/tesseract/Languages_Scripts.md",
+  "sourceDirName": "introduction/tesseract",
+  "slug": "/introduction/tesseract/Languages_Scripts",
+  "permalink": "/introduction/tesseract/Languages_Scripts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/tesseract/Languages_Scripts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data-Files",
+    "permalink": "/introduction/tesseract/Data-Files"
+  },
+  "next": {
+    "title": "Tesseract 5 的训练",
+    "permalink": "/introduction/tesseract/tesstrain"
+  }
+}

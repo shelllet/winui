@@ -1,0 +1,24 @@
+{
+  "id": "actions/detection/FindContours",
+  "title": "查找轮廓",
+  "description": "轮廓可以简单地理解为连接所有连续点（沿着边界）的曲线，具有相同的颜色或强度。轮廓是形状分析以及物体检测和识别的有用工具。",
+  "source": "@site/docs/actions/detection/FindContours.md",
+  "sourceDirName": "actions/detection",
+  "slug": "/actions/detection/FindContours",
+  "permalink": "/actions/detection/FindContours",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/detection/FindContours.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "特征匹配",
+    "permalink": "/actions/detection/FeatureDetect"
+  },
+  "next": {
+    "title": "颜色辨识",
+    "permalink": "/actions/detection/ImageColorDiscrimination"
+  }
+}

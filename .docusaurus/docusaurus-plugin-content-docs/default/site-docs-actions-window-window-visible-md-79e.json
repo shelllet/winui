@@ -1,0 +1,24 @@
+{
+  "id": "actions/window/WindowVisible",
+  "title": "窗口可视",
+  "description": "此动作用来显示或者隐藏窗口。",
+  "source": "@site/docs/actions/window/WindowVisible.md",
+  "sourceDirName": "actions/window",
+  "slug": "/actions/window/WindowVisible",
+  "permalink": "/actions/window/WindowVisible",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/window/WindowVisible.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "窗口大小",
+    "permalink": "/actions/window/WindowSize"
+  },
+  "next": {
+    "title": "窗口位置",
+    "permalink": "/actions/window/WindowXy"
+  }
+}

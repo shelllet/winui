@@ -1,0 +1,24 @@
+{
+  "id": "actions/network/VideoDownload",
+  "title": "视频下载",
+  "description": "通过提供想要下载视频的 URL ，下载相应的视频或者音频文件。",
+  "source": "@site/docs/actions/network/VideoDownload.md",
+  "sourceDirName": "actions/network",
+  "slug": "/actions/network/VideoDownload",
+  "permalink": "/actions/network/VideoDownload",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/network/VideoDownload.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "发送输入",
+    "permalink": "/actions/network/SendInput"
+  },
+  "next": {
+    "title": "查询",
+    "permalink": "/actions/pandas/DataFrameQuery"
+  }
+}

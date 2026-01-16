@@ -1,0 +1,24 @@
+{
+  "id": "actions/keyboard/WaitKey",
+  "title": "等待按键",
+  "description": "暂停动作执行，直到等待的键盘按键被触发，才能继续执行后面的动作。",
+  "source": "@site/docs/actions/keyboard/WaitKey.md",
+  "sourceDirName": "actions/keyboard",
+  "slug": "/actions/keyboard/WaitKey",
+  "permalink": "/actions/keyboard/WaitKey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/keyboard/WaitKey.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "发送文本",
+    "permalink": "/actions/keyboard/SendText"
+  },
+  "next": {
+    "title": "活动窗口截图",
+    "permalink": "/actions/media/CaptureActiveWindow"
+  }
+}

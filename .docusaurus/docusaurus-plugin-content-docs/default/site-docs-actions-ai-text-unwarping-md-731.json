@@ -1,0 +1,24 @@
+{
+  "id": "actions/ai/TextUnwarping",
+  "title": "文字图像矫正",
+  "description": "针对图像进行几何变换，以纠正图像中的文档扭曲、倾斜、透视变形等问题，以供后续的文本识别进行更加准确。",
+  "source": "@site/docs/actions/ai/TextUnwarping.md",
+  "sourceDirName": "actions/ai",
+  "slug": "/actions/ai/TextUnwarping",
+  "permalink": "/actions/ai/TextUnwarping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/ai/TextUnwarping.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文字识别",
+    "permalink": "/actions/ai/TextRecognition"
+  },
+  "next": {
+    "title": "文字角度纠正",
+    "permalink": "/actions/ai/TextlineOrientation"
+  }
+}

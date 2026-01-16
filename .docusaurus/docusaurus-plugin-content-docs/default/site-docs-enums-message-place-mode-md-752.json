@@ -1,0 +1,24 @@
+{
+  "id": "enums/MessagePlaceMode",
+  "title": "MessagePlaceMode",
+  "description": "* Send",
+  "source": "@site/docs/enums/MessagePlaceMode.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/MessagePlaceMode",
+  "permalink": "/enums/MessagePlaceMode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/MessagePlaceMode.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MessageBoxFlags",
+    "permalink": "/enums/MessageBoxFlags"
+  },
+  "next": {
+    "title": "ModuleOption",
+    "permalink": "/enums/ModuleOption"
+  }
+}

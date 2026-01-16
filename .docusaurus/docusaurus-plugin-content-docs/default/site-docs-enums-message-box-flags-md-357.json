@@ -1,0 +1,24 @@
+{
+  "id": "enums/MessageBoxFlags",
+  "title": "MessageBoxFlags",
+  "description": "* OK",
+  "source": "@site/docs/enums/MessageBoxFlags.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/MessageBoxFlags",
+  "permalink": "/enums/MessageBoxFlags",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/MessageBoxFlags.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LogicalOperators",
+    "permalink": "/enums/LogicalOperators"
+  },
+  "next": {
+    "title": "MessagePlaceMode",
+    "permalink": "/enums/MessagePlaceMode"
+  }
+}

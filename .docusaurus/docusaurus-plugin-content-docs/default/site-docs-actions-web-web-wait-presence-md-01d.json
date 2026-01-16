@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebWaitPresence",
+  "title": "等待*元素呈现",
+  "description": "检查元素是否存在于页面的 DOM 中，这并不一定意味着该元素是可见的。",
+  "source": "@site/docs/actions/web/WebWaitPresence.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebWaitPresence",
+  "permalink": "/actions/web/WebWaitPresence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/web/WebWaitPresence.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "等待*框架",
+    "permalink": "/actions/web/WebWaitFrameAvailable"
+  },
+  "next": {
+    "title": "等待*标题",
+    "permalink": "/actions/web/WebWaitTitle"
+  }
+}

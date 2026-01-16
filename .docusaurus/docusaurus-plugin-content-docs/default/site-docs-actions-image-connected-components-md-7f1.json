@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/ConnectedComponents",
+  "title": "连通域分析",
+  "description": "对图像中 斑点 状区域的连通性进行分析过滤，找到符合条件的连通区域。",
+  "source": "@site/docs/actions/image/ConnectedComponents.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/ConnectedComponents",
+  "permalink": "/actions/image/ConnectedComponents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/image/ConnectedComponents.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中心裁切",
+    "permalink": "/actions/image/CenterCropImage"
+  },
+  "next": {
+    "title": "裁切图片",
+    "permalink": "/actions/image/CropImage"
+  }
+}

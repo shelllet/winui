@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbIsInstalled",
+  "title": "应用检测",
+  "description": "检查安卓设备中是否已经安装了某个安装包。",
+  "source": "@site/docs/actions/android/AdbIsInstalled.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbIsInstalled",
+  "permalink": "/actions/android/AdbIsInstalled",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/android/AdbIsInstalled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "安装应用",
+    "permalink": "/actions/android/AdbInstall"
+  },
+  "next": {
+    "title": "按键",
+    "permalink": "/actions/android/AdbKey"
+  }
+}

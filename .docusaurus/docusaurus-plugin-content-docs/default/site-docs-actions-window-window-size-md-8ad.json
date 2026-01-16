@@ -1,0 +1,24 @@
+{
+  "id": "actions/window/WindowSize",
+  "title": "窗口大小",
+  "description": "获取或设置窗口的大小（长和宽）。",
+  "source": "@site/docs/actions/window/WindowSize.md",
+  "sourceDirName": "actions/window",
+  "slug": "/actions/window/WindowSize",
+  "permalink": "/actions/window/WindowSize",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/window/WindowSize.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "窗口坐标",
+    "permalink": "/actions/window/WindowPoint"
+  },
+  "next": {
+    "title": "窗口可视",
+    "permalink": "/actions/window/WindowVisible"
+  }
+}

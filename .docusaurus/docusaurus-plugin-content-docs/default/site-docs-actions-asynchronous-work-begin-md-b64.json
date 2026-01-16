@@ -1,0 +1,24 @@
+{
+  "id": "actions/asynchronous/WorkBegin",
+  "title": "异步启动",
+  "description": "可用于启动已停止的异步动作，比如：线程 、定时器 等动作。",
+  "source": "@site/docs/actions/asynchronous/WorkBegin.md",
+  "sourceDirName": "actions/asynchronous",
+  "slug": "/actions/asynchronous/WorkBegin",
+  "permalink": "/actions/asynchronous/WorkBegin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/asynchronous/WorkBegin.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "等待事件",
+    "permalink": "/actions/asynchronous/WhenEvent"
+  },
+  "next": {
+    "title": "异步结束",
+    "permalink": "/actions/asynchronous/WorkExit"
+  }
+}

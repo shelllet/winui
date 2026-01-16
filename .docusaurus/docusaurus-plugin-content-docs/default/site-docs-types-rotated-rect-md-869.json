@@ -1,0 +1,24 @@
+{
+  "id": "types/RotatedRect",
+  "title": "RotatedRect",
+  "description": "class RotatedRect, 表示一个带角度的旋转矩形。",
+  "source": "@site/docs/types/RotatedRect.md",
+  "sourceDirName": "types",
+  "slug": "/types/RotatedRect",
+  "permalink": "/types/RotatedRect",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/RotatedRect.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rect",
+    "permalink": "/types/Rect"
+  },
+  "next": {
+    "title": "Scalar",
+    "permalink": "/types/Scalar"
+  }
+}

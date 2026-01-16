@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/ImageStd",
+  "title": "标准差",
+  "description": "在使用 深度神经网络推理时，标准差（standard deviation）通常与 均值（mean）一起使用，作为图像预处理的一部分。",
+  "source": "@site/docs/actions/image/ImageStd.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/ImageStd",
+  "permalink": "/actions/image/ImageStd",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/image/ImageStd.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "缩放图像",
+    "permalink": "/actions/image/ImageScale"
+  },
+  "next": {
+    "title": "阈值操作",
+    "permalink": "/actions/image/ImageThreshold"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/filesystem/CopyFile",
+  "title": "文件复制",
+  "description": "把文件从一个位置复制到另一个位置。",
+  "source": "@site/docs/actions/filesystem/CopyFile.md",
+  "sourceDirName": "actions/filesystem",
+  "slug": "/actions/filesystem/CopyFile",
+  "permalink": "/actions/filesystem/CopyFile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/filesystem/CopyFile.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "填充颜色",
+    "permalink": "/actions/draw/FillColor"
+  },
+  "next": {
+    "title": "遍历文件",
+    "permalink": "/actions/filesystem/DirectoryIterator"
+  }
+}

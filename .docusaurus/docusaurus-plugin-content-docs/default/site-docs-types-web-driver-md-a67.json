@@ -1,0 +1,24 @@
+{
+  "id": "types/WebDriver",
+  "title": "WebDriver",
+  "description": "Class WebDriver.",
+  "source": "@site/docs/types/WebDriver.md",
+  "sourceDirName": "types",
+  "slug": "/types/WebDriver",
+  "permalink": "/types/WebDriver",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/WebDriver.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VideoCapture",
+    "permalink": "/types/VideoCapture"
+  },
+  "next": {
+    "title": "WebElement",
+    "permalink": "/types/WebElement"
+  }
+}

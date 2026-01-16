@@ -1,0 +1,24 @@
+{
+  "id": "types/List",
+  "title": "List",
+  "description": "Python 列表可以存储不同类型的项目或元素的有序集合。它们通常用于将多个项目编译为单个可变变量，这有助于快速检索项目、指定输出或执行计算。列表也是 Python 中的一种内置数据结构（与元组、集合和字典一起），它是一种存储和格式化数据的特定方式。",
+  "source": "@site/docs/types/List.md",
+  "sourceDirName": "types",
+  "slug": "/types/List",
+  "permalink": "/types/List",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/List.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Line",
+    "permalink": "/types/Line"
+  },
+  "next": {
+    "title": "ModelSession",
+    "permalink": "/types/ModelSession"
+  }
+}

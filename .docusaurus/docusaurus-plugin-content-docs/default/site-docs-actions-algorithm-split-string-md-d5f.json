@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/SplitString",
+  "title": "分割字符串",
+  "description": "使用 分割符 分割字符串。",
+  "source": "@site/docs/actions/algorithm/SplitString.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/SplitString",
+  "permalink": "/actions/algorithm/SplitString",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/algorithm/SplitString.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "随机坐标",
+    "permalink": "/actions/algorithm/RandomPoint"
+  },
+  "next": {
+    "title": "提取子串",
+    "permalink": "/actions/algorithm/SubString"
+  }
+}

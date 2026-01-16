@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/AdaptiveThreshold",
+  "title": "自适应阈值",
+  "description": "自适应阈值是将灰度图像转换为二值图像。是局部阈值，是针对较小的区域计算阈值，因此对于不同的区域会有不同的阈值。",
+  "source": "@site/docs/actions/image/AdaptiveThreshold.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/AdaptiveThreshold",
+  "permalink": "/actions/image/AdaptiveThreshold",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/image/AdaptiveThreshold.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "标准路径",
+    "permalink": "/actions/filesystem/StandardPath"
+  },
+  "next": {
+    "title": "中心裁切",
+    "permalink": "/actions/image/CenterCropImage"
+  }
+}

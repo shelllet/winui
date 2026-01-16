@@ -1,0 +1,24 @@
+{
+  "id": "actions/network/HttpPost",
+  "title": "POST 请求",
+  "description": "将数据通过 POST 方法发送至服务器用以创建/更新资源，请求主体的类型由 Content-Type 标头指示。该动作使用 超文本传输协议（HTTP/1.1）。",
+  "source": "@site/docs/actions/network/HttpPost.md",
+  "sourceDirName": "actions/network",
+  "slug": "/actions/network/HttpPost",
+  "permalink": "/actions/network/HttpPost",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/network/HttpPost.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HEAD 请求",
+    "permalink": "/actions/network/HttpHead"
+  },
+  "next": {
+    "title": "服务连接",
+    "permalink": "/actions/network/NetworkConnect"
+  }
+}

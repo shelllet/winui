@@ -1,0 +1,24 @@
+{
+  "id": "actions/media/VideoFrame",
+  "title": "相机图像",
+  "description": "获取相机的当前图像帧。",
+  "source": "@site/docs/actions/media/VideoFrame.md",
+  "sourceDirName": "actions/media",
+  "slug": "/actions/media/VideoFrame",
+  "permalink": "/actions/media/VideoFrame",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/media/VideoFrame.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "键盘/鼠标宏重放",
+    "permalink": "/actions/media/PlayRecord"
+  },
+  "next": {
+    "title": "字符串提取",
+    "permalink": "/actions/method/SubString"
+  }
+}

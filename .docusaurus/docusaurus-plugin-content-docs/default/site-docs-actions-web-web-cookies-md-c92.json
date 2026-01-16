@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebCookies",
+  "title": "获取 Cookies",
+  "description": "获取浏览器站点的 Cookies。",
+  "source": "@site/docs/actions/web/WebCookies.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebCookies",
+  "permalink": "/actions/web/WebCookies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/web/WebCookies.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "动作链.发送文本",
+    "permalink": "/actions/web/WebActionSendText"
+  },
+  "next": {
+    "title": "获取属性",
+    "permalink": "/actions/web/WebElementAttribute"
+  }
+}

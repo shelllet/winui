@@ -1,0 +1,24 @@
+{
+  "id": "types/DetectionResult",
+  "title": "DetectionResult",
+  "description": "Class DetectionResult 对象检测结果",
+  "source": "@site/docs/types/DetectionResult.md",
+  "sourceDirName": "types",
+  "slug": "/types/DetectionResult",
+  "permalink": "/types/DetectionResult",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/DetectionResult.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DateTime",
+    "permalink": "/types/DateTime"
+  },
+  "next": {
+    "title": "Dict",
+    "permalink": "/types/Dict"
+  }
+}

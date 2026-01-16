@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeList",
+  "title": "列表",
+  "description": "定义一个 列表 类型的值。",
+  "source": "@site/docs/actions/type/TypeList.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeList",
+  "permalink": "/actions/type/TypeList",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/type/TypeList.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Json",
+    "permalink": "/actions/type/TypeJson"
+  },
+  "next": {
+    "title": "模型",
+    "permalink": "/actions/type/TypeModel"
+  }
+}

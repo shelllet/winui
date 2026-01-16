@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/CloseHandle",
+  "title": "关闭句柄",
+  "description": "关闭应用程度打开的句柄。",
+  "source": "@site/docs/actions/system/CloseHandle.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/CloseHandle",
+  "permalink": "/actions/system/CloseHandle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/system/CloseHandle.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "剪切板",
+    "permalink": "/actions/system/ClipboardValue"
+  },
+  "next": {
+    "title": "创建对象",
+    "permalink": "/actions/system/CreateObject"
+  }
+}

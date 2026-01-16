@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbDevices",
+  "title": "设备",
+  "description": "查询系统中已经连接的安卓模拟器或者真机。支持多模拟器同时操作。",
+  "source": "@site/docs/actions/android/AdbDevices.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbDevices",
+  "permalink": "/actions/android/AdbDevices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/android/AdbDevices.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "连接",
+    "permalink": "/actions/android/AdbConnect"
+  },
+  "next": {
+    "title": "转发",
+    "permalink": "/actions/android/AdbForward"
+  }
+}

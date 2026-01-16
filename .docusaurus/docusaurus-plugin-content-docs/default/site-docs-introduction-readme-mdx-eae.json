@@ -1,0 +1,24 @@
+{
+  "id": "introduction/README",
+  "title": "系统配置要求",
+  "description": "|  |         最低系统要求         |          推荐           |",
+  "source": "@site/docs/introduction/README.mdx",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/",
+  "permalink": "/introduction/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/README.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WorkState",
+    "permalink": "/enums/WorkState"
+  },
+  "next": {
+    "title": "如何下载并安装 UIAutomatorViewer",
+    "permalink": "/introduction/android/uiautomatorviewer"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/ReadMemory",
+  "title": "读取内存",
+  "description": "读取指定进程地址范围内的数据。",
+  "source": "@site/docs/actions/system/ReadMemory.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/ReadMemory",
+  "permalink": "/actions/system/ReadMemory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/system/ReadMemory.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "打印日志",
+    "permalink": "/actions/system/PrintMessage"
+  },
+  "next": {
+    "title": "登录应用",
+    "permalink": "/actions/system/Runas"
+  }
+}

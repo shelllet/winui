@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/Wait",
+  "title": "等待",
+  "description": "等待，又可以称为休眠。它可以让动作停止一段时间再继续运行。",
+  "source": "@site/docs/actions/system/Wait.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/Wait",
+  "permalink": "/actions/system/Wait",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/system/Wait.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "添加用户",
+    "permalink": "/actions/system/UserAdd"
+  },
+  "next": {
+    "title": "写内存",
+    "permalink": "/actions/system/WriteMemory"
+  }
+}

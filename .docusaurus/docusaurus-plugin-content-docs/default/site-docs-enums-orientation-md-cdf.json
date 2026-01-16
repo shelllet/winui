@@ -1,0 +1,24 @@
+{
+  "id": "enums/Orientation",
+  "title": "Orientation",
+  "description": "* Left",
+  "source": "@site/docs/enums/Orientation.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/Orientation",
+  "permalink": "/enums/Orientation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/Orientation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Operations",
+    "permalink": "/enums/Operations"
+  },
+  "next": {
+    "title": "PageSegMode",
+    "permalink": "/enums/PageSegMode"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "network/openwrt_dns",
+  "title": "openwrt_dns",
+  "description": "在 OpenWrt 中设置 DNS 有两种主要方法，具体取决于您想要达到的目的。",
+  "source": "@site/docs/network/openwrt_dns.md",
+  "sourceDirName": "network",
+  "slug": "/network/openwrt_dns",
+  "permalink": "/network/openwrt_dns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/network/openwrt_dns.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "变量",
+    "permalink": "/introduction/workflow/variable"
+  },
+  "next": {
+    "title": "ActionChains",
+    "permalink": "/types/ActionChains"
+  }
+}

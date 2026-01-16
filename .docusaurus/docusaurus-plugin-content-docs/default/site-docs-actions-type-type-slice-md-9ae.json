@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypeSlice",
+  "title": "切片",
+  "description": "定义一个 切片（Slice） 类型值。",
+  "source": "@site/docs/actions/type/TypeSlice.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypeSlice",
+  "permalink": "/actions/type/TypeSlice",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/type/TypeSlice.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "快捷键",
+    "permalink": "/actions/type/TypeShortcut"
+  },
+  "next": {
+    "title": "字符串",
+    "permalink": "/actions/type/TypeString"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/RandomPoint",
+  "title": "随机坐标",
+  "description": "生成随机坐标位置。",
+  "source": "@site/docs/actions/algorithm/RandomPoint.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/RandomPoint",
+  "permalink": "/actions/algorithm/RandomPoint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/algorithm/RandomPoint.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "随机数字",
+    "permalink": "/actions/algorithm/RandomNumber"
+  },
+  "next": {
+    "title": "分割字符串",
+    "permalink": "/actions/algorithm/SplitString"
+  }
+}

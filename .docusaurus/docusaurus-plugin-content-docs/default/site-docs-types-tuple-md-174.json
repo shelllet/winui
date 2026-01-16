@@ -1,0 +1,24 @@
+{
+  "id": "types/Tuple",
+  "title": "Tuple",
+  "description": "元组（tuple）是不可变的 Python 对象。元组是一种序列，就像列表一样，都可以描述一组数据的集合，它们都是容器，是一系列组合的对象。元组和列表之间的主要区别是元组不能像列表那样改变元素的值，可以简单地理解为 \"只读列表\"。 元组使用小括号： ()，而列表使用方括号：[] 。",
+  "source": "@site/docs/types/Tuple.md",
+  "sourceDirName": "types",
+  "slug": "/types/Tuple",
+  "permalink": "/types/Tuple",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Tuple.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Timer",
+    "permalink": "/types/Timer"
+  },
+  "next": {
+    "title": "UDPSocket",
+    "permalink": "/types/UDPSocket"
+  }
+}

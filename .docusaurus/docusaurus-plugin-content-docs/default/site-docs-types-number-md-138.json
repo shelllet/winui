@@ -1,0 +1,24 @@
+{
+  "id": "types/Number",
+  "title": "Number",
+  "description": "数字类型,可以用来存储整数和浮点数。",
+  "source": "@site/docs/types/Number.md",
+  "sourceDirName": "types",
+  "slug": "/types/Number",
+  "permalink": "/types/Number",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Number.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ModelSession",
+    "permalink": "/types/ModelSession"
+  },
+  "next": {
+    "title": "Object",
+    "permalink": "/types/Object"
+  }
+}

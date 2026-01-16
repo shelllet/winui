@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/Adbkeyboard",
+  "title": "输入 * 中文",
+  "description": "在安卓真机或模拟器中模拟文本输入。此动作支持中文输入，输入中文字符之前，安装 ADBKeyboard.apk。关于ADBKeyboard.apk，请参考：https://github.com/shelllet/ADBKeyBoard.git 。",
+  "source": "@site/docs/actions/android/Adbkeyboard.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/Adbkeyboard",
+  "permalink": "/actions/android/Adbkeyboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/android/Adbkeyboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "点击",
+    "permalink": "/actions/android/AdbTap"
+  },
+  "next": {
+    "title": "等待事件",
+    "permalink": "/actions/asynchronous/WhenEvent"
+  }
+}

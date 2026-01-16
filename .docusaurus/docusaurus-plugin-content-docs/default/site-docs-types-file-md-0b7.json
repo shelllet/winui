@@ -1,0 +1,24 @@
+{
+  "id": "types/File",
+  "title": "File",
+  "description": "Class File， 文件",
+  "source": "@site/docs/types/File.md",
+  "sourceDirName": "types",
+  "slug": "/types/File",
+  "permalink": "/types/File",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/File.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ellipse",
+    "permalink": "/types/Ellipse"
+  },
+  "next": {
+    "title": "HostAddress",
+    "permalink": "/types/HostAddress"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbKey",
+  "title": "按键",
+  "description": "在安卓模拟器中模拟按键，支持后台操作。",
+  "source": "@site/docs/actions/android/AdbKey.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbKey",
+  "permalink": "/actions/android/AdbKey",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/android/AdbKey.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "应用检测",
+    "permalink": "/actions/android/AdbIsInstalled"
+  },
+  "next": {
+    "title": "文件列表",
+    "permalink": "/actions/android/AdbLs"
+  }
+}

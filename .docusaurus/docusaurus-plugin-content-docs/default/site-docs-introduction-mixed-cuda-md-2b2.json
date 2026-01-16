@@ -1,0 +1,24 @@
+{
+  "id": "introduction/mixed/CUDA",
+  "title": "CUDA",
+  "description": "在 Windows 系统上安装 CUDA 的详细步骤：",
+  "source": "@site/docs/introduction/mixed/CUDA.md",
+  "sourceDirName": "introduction/mixed",
+  "slug": "/introduction/mixed/CUDA",
+  "permalink": "/introduction/mixed/CUDA",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/mixed/CUDA.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "覆盖安装无法启动",
+    "permalink": "/introduction/installation/question/quest2"
+  },
+  "next": {
+    "title": "cuDNN 和 CUDA 版本对应关系",
+    "permalink": "/introduction/mixed/cuDNN"
+  }
+}

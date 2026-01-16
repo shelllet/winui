@@ -1,0 +1,24 @@
+{
+  "id": "actions/algorithm/ArraySize",
+  "title": "数组长度",
+  "description": "获取 数组/列表 的长度。",
+  "source": "@site/docs/actions/algorithm/ArraySize.md",
+  "sourceDirName": "actions/algorithm",
+  "slug": "/actions/algorithm/ArraySize",
+  "permalink": "/actions/algorithm/ArraySize",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/algorithm/ArraySize.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "访问对象",
+    "permalink": "/actions/algorithm/AccessKey"
+  },
+  "next": {
+    "title": "中心坐标",
+    "permalink": "/actions/algorithm/CalculateCenter"
+  }
+}

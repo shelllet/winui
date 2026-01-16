@@ -1,0 +1,24 @@
+{
+  "id": "introduction/workflow/logic",
+  "title": "logic",
+  "description": "动作使用逻辑",
+  "source": "@site/docs/introduction/workflow/logic.md",
+  "sourceDirName": "introduction/workflow",
+  "slug": "/introduction/workflow/logic",
+  "permalink": "/introduction/workflow/logic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/workflow/logic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "流程操作技巧",
+    "permalink": "/introduction/workflow/features"
+  },
+  "next": {
+    "title": "项目属性",
+    "permalink": "/introduction/workflow/property"
+  }
+}

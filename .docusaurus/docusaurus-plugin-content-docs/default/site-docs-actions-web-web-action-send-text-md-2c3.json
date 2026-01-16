@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebActionSendText",
+  "title": "动作链.发送文本",
+  "description": "向当前有焦点的 Web 元素发送文本，参考：设置文本。",
+  "source": "@site/docs/actions/web/WebActionSendText.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebActionSendText",
+  "permalink": "/actions/web/WebActionSendText",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/web/WebActionSendText.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "动作链.释放鼠标键",
+    "permalink": "/actions/web/WebActionRelease"
+  },
+  "next": {
+    "title": "获取 Cookies",
+    "permalink": "/actions/web/WebCookies"
+  }
+}

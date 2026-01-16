@@ -1,0 +1,24 @@
+{
+  "id": "types/Size",
+  "title": "Size",
+  "description": "Class Size， 尺寸、大小",
+  "source": "@site/docs/types/Size.md",
+  "sourceDirName": "types",
+  "slug": "/types/Size",
+  "permalink": "/types/Size",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Size.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scalar",
+    "permalink": "/types/Scalar"
+  },
+  "next": {
+    "title": "Slice",
+    "permalink": "/types/Slice"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "introduction/installation/installed_by_msix",
+  "title": "微软商店安装",
+  "description": "微软商店安装，需要注册相应的微软商店账号，相对麻烦，并且版本更新较慢，版本较旧。",
+  "source": "@site/docs/introduction/installation/installed_by_msix.md",
+  "sourceDirName": "introduction/installation",
+  "slug": "/introduction/installation/installed_by_msix",
+  "permalink": "/introduction/installation/installed_by_msix",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/installation/installed_by_msix.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "安装包安装",
+    "permalink": "/introduction/installation/installed_by_exe"
+  },
+  "next": {
+    "title": "quest1",
+    "permalink": "/introduction/installation/question/quest1"
+  }
+}

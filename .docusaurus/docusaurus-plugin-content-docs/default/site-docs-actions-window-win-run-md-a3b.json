@@ -1,0 +1,24 @@
+{
+  "id": "actions/window/WinRun",
+  "title": "运行对话框",
+  "description": "打开操作系统中的 运行 对话框, 可以使用快捷键打开此窗口: Windows + R。",
+  "source": "@site/docs/actions/window/WinRun.md",
+  "sourceDirName": "actions/window",
+  "slug": "/actions/window/WinRun",
+  "permalink": "/actions/window/WinRun",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/window/WinRun.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "特定窗口",
+    "permalink": "/actions/window/SpecialWindow"
+  },
+  "next": {
+    "title": "祖先窗口",
+    "permalink": "/actions/window/WindowAncestor"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "enums/ContourApproximationMode",
+  "title": "ContourApproximationMode",
+  "description": "轮廓近似方法",
+  "source": "@site/docs/enums/ContourApproximationMode.md",
+  "sourceDirName": "enums",
+  "slug": "/enums/ContourApproximationMode",
+  "permalink": "/enums/ContourApproximationMode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/enums/ContourApproximationMode.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Colors",
+    "permalink": "/enums/Colors"
+  },
+  "next": {
+    "title": "ContourShape",
+    "permalink": "/enums/ContourShape"
+  }
+}

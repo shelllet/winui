@@ -1,0 +1,24 @@
+{
+  "id": "actions/control/Break",
+  "title": "停止循环",
+  "description": "停止循环，主要用在子流程当中，比如 循环 动作中用来提早结束循环。",
+  "source": "@site/docs/actions/control/Break.md",
+  "sourceDirName": "actions/control",
+  "slug": "/actions/control/Break",
+  "permalink": "/actions/control/Break",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/control/Break.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "算术运行",
+    "permalink": "/actions/control/ArithmeticCalculate"
+  },
+  "next": {
+    "title": "脚本",
+    "permalink": "/actions/control/Code"
+  }
+}

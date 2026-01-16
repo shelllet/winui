@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebExecute",
+  "title": "执行脚本",
+  "description": "在当前窗口/框架中同步执行 JavaScript 脚本。",
+  "source": "@site/docs/actions/web/WebExecute.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebExecute",
+  "permalink": "/actions/web/WebExecute",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/web/WebExecute.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "表单提交",
+    "permalink": "/actions/web/WebElementSubmit"
+  },
+  "next": {
+    "title": "重置框架",
+    "permalink": "/actions/web/WebFocusFrameDefault"
+  }
+}

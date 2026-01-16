@@ -1,0 +1,24 @@
+{
+  "id": "actions/mouse/DragPointer",
+  "title": "拖拽",
+  "description": "模拟鼠标拖拽操作，即在鼠标的当前位置按下鼠标左键，拖拽鼠标到目标位置，然后释放鼠标左键。可以结合 移动鼠标  动作一起使用。",
+  "source": "@site/docs/actions/mouse/DragPointer.md",
+  "sourceDirName": "actions/mouse",
+  "slug": "/actions/mouse/DragPointer",
+  "permalink": "/actions/mouse/DragPointer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/mouse/DragPointer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "双击",
+    "permalink": "/actions/mouse/DoubleClick"
+  },
+  "next": {
+    "title": "监听鼠标",
+    "permalink": "/actions/mouse/ListenMouse"
+  }
+}

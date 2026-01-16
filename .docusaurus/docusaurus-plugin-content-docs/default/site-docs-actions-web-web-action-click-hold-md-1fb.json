@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebActionClickHold",
+  "title": "动作链.点按",
+  "description": "在 Web 元素上按住鼠标左键不释放。",
+  "source": "@site/docs/actions/web/WebActionClickHold.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebActionClickHold",
+  "permalink": "/actions/web/WebActionClickHold",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/web/WebActionClickHold.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "动作链.点击",
+    "permalink": "/actions/web/WebActionClick"
+  },
+  "next": {
+    "title": "动作链.双击",
+    "permalink": "/actions/web/WebActionDoubleClick"
+  }
+}

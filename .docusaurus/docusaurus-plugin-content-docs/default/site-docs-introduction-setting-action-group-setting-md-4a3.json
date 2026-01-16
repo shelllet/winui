@@ -1,0 +1,24 @@
+{
+  "id": "introduction/setting/action_group_setting",
+  "title": "action_group_setting",
+  "description": "动作分组隐藏设置",
+  "source": "@site/docs/introduction/setting/action_group_setting.md",
+  "sourceDirName": "introduction/setting",
+  "slug": "/introduction/setting/action_group_setting",
+  "permalink": "/introduction/setting/action_group_setting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/setting/action_group_setting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "通配符",
+    "permalink": "/introduction/mixed/wildcard"
+  },
+  "next": {
+    "title": "工作流设置",
+    "permalink": "/introduction/setting/workflow"
+  }
+}

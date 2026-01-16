@@ -1,0 +1,24 @@
+{
+  "id": "actions/pandas/DataFrameQuery",
+  "title": "查询",
+  "description": "查询 DataFrame 数据结构",
+  "source": "@site/docs/actions/pandas/DataFrameQuery.md",
+  "sourceDirName": "actions/pandas",
+  "slug": "/actions/pandas/DataFrameQuery",
+  "permalink": "/actions/pandas/DataFrameQuery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/pandas/DataFrameQuery.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "视频下载",
+    "permalink": "/actions/network/VideoDownload"
+  },
+  "next": {
+    "title": "行列选择 * 索引",
+    "permalink": "/actions/pandas/IndexLoc"
+  }
+}

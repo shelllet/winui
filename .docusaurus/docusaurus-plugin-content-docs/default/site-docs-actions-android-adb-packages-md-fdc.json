@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbPackages",
+  "title": "应用列表",
+  "description": "获取安卓模拟器当中的所有已经安装的包名称。",
+  "source": "@site/docs/actions/android/AdbPackages.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbPackages",
+  "permalink": "/actions/android/AdbPackages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/android/AdbPackages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "移动",
+    "permalink": "/actions/android/AdbMove"
+  },
+  "next": {
+    "title": "拉取文件",
+    "permalink": "/actions/android/AdbPull"
+  }
+}

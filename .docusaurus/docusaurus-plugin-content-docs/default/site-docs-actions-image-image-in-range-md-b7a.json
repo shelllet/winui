@@ -1,0 +1,24 @@
+{
+  "id": "actions/image/ImageInRange",
+  "title": "颜色筛选",
+  "description": "指定一个色彩范围，保留图像中符合色彩范围内的颜色，透过这个方式，就可以筛选出图像中的特定颜色物件。",
+  "source": "@site/docs/actions/image/ImageInRange.md",
+  "sourceDirName": "actions/image",
+  "slug": "/actions/image/ImageInRange",
+  "permalink": "/actions/image/ImageInRange",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/image/ImageInRange.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "边缘检测",
+    "permalink": "/actions/image/ImageCanny"
+  },
+  "next": {
+    "title": "标记区域",
+    "permalink": "/actions/image/ImageMarkROI"
+  }
+}

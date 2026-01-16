@@ -1,0 +1,24 @@
+{
+  "id": "introduction/webdriver/locators",
+  "title": "定位策略",
+  "description": "识别 DOM 中一个或多个特定元素的方法。",
+  "source": "@site/docs/introduction/webdriver/locators.md",
+  "sourceDirName": "introduction/webdriver",
+  "slug": "/introduction/webdriver/locators",
+  "permalink": "/introduction/webdriver/locators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/webdriver/locators.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "浏览器 WebDriver 驱动",
+    "permalink": "/introduction/webdriver/download"
+  },
+  "next": {
+    "title": "动作",
+    "permalink": "/introduction/workflow/action"
+  }
+}

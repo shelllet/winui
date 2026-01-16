@@ -1,0 +1,24 @@
+{
+  "id": "actions/mouse/DoubleClick",
+  "title": "双击",
+  "description": "模拟鼠标双击动作",
+  "source": "@site/docs/actions/mouse/DoubleClick.md",
+  "sourceDirName": "actions/mouse",
+  "slug": "/actions/mouse/DoubleClick",
+  "permalink": "/actions/mouse/DoubleClick",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/mouse/DoubleClick.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "点击",
+    "permalink": "/actions/mouse/Click"
+  },
+  "next": {
+    "title": "拖拽",
+    "permalink": "/actions/mouse/DragPointer"
+  }
+}

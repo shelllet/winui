@@ -1,0 +1,24 @@
+{
+  "id": "types/Ellipse",
+  "title": "Ellipse",
+  "description": "Class Ellipse， 圆或者椭圆。",
+  "source": "@site/docs/types/Ellipse.md",
+  "sourceDirName": "types",
+  "slug": "/types/Ellipse",
+  "permalink": "/types/Ellipse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Ellipse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dict",
+    "permalink": "/types/Dict"
+  },
+  "next": {
+    "title": "File",
+    "permalink": "/types/File"
+  }
+}

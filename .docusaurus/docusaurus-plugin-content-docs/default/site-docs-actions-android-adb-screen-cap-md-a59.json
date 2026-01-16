@@ -1,0 +1,24 @@
+{
+  "id": "actions/android/AdbScreenCap",
+  "title": "截图",
+  "description": "安卓设备屏幕截图。",
+  "source": "@site/docs/actions/android/AdbScreenCap.md",
+  "sourceDirName": "actions/android",
+  "slug": "/actions/android/AdbScreenCap",
+  "permalink": "/actions/android/AdbScreenCap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/android/AdbScreenCap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "推送文件",
+    "permalink": "/actions/android/AdbPush"
+  },
+  "next": {
+    "title": "启动 App",
+    "permalink": "/actions/android/AdbStartApp"
+  }
+}

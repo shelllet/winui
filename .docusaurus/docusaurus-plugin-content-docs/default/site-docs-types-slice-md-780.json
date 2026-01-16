@@ -1,0 +1,24 @@
+{
+  "id": "types/Slice",
+  "title": "Slice",
+  "description": "Python 内置函数 slice() 返回一个切片对象，用于切取任何序列（字符串、元组、列表、range 或字节序列）等。",
+  "source": "@site/docs/types/Slice.md",
+  "sourceDirName": "types",
+  "slug": "/types/Slice",
+  "permalink": "/types/Slice",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Slice.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Size",
+    "permalink": "/types/Size"
+  },
+  "next": {
+    "title": "String",
+    "permalink": "/types/String"
+  }
+}

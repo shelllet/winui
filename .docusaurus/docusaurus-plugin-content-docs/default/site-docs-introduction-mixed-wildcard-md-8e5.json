@@ -1,0 +1,24 @@
+{
+  "id": "introduction/mixed/wildcard",
+  "title": "通配符",
+  "description": "通配符示例",
+  "source": "@site/docs/introduction/mixed/wildcard.md",
+  "sourceDirName": "introduction/mixed",
+  "slug": "/introduction/mixed/wildcard",
+  "permalink": "/introduction/mixed/wildcard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/mixed/wildcard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Paddle2ONNX模型转化与预测",
+    "permalink": "/introduction/mixed/paddle2onnx"
+  },
+  "next": {
+    "title": "action_group_setting",
+    "permalink": "/introduction/setting/action_group_setting"
+  }
+}

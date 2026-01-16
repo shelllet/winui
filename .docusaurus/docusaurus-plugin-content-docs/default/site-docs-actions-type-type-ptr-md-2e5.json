@@ -1,0 +1,24 @@
+{
+  "id": "actions/type/TypePtr",
+  "title": "指针",
+  "description": "定义一个 指针 类型的值，用来表示内存地址。",
+  "source": "@site/docs/actions/type/TypePtr.md",
+  "sourceDirName": "actions/type",
+  "slug": "/actions/type/TypePtr",
+  "permalink": "/actions/type/TypePtr",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/type/TypePtr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "坐标",
+    "permalink": "/actions/type/TypePoint"
+  },
+  "next": {
+    "title": "矩形",
+    "permalink": "/actions/type/TypeRect"
+  }
+}

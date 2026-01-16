@@ -1,0 +1,24 @@
+{
+  "id": "types/Path",
+  "title": "Path",
+  "description": "表示文件系统路径的类型。",
+  "source": "@site/docs/types/Path.md",
+  "sourceDirName": "types",
+  "slug": "/types/Path",
+  "permalink": "/types/Path",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/Path.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Object",
+    "permalink": "/types/Object"
+  },
+  "next": {
+    "title": "Point",
+    "permalink": "/types/Point"
+  }
+}

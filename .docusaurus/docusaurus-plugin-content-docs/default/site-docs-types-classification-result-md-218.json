@@ -1,0 +1,24 @@
+{
+  "id": "types/ClassificationResult",
+  "title": "ClassificationResult",
+  "description": "Class ClassificationResult 分类结果",
+  "source": "@site/docs/types/ClassificationResult.md",
+  "sourceDirName": "types",
+  "slug": "/types/ClassificationResult",
+  "permalink": "/types/ClassificationResult",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/ClassificationResult.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bytes",
+    "permalink": "/types/Bytes"
+  },
+  "next": {
+    "title": "Color",
+    "permalink": "/types/Color"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "types/VideoCapture",
+  "title": "VideoCapture",
+  "description": "Class VideoCapture.",
+  "source": "@site/docs/types/VideoCapture.md",
+  "sourceDirName": "types",
+  "slug": "/types/VideoCapture",
+  "permalink": "/types/VideoCapture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/types/VideoCapture.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Url",
+    "permalink": "/types/Url"
+  },
+  "next": {
+    "title": "WebDriver",
+    "permalink": "/types/WebDriver"
+  }
+}

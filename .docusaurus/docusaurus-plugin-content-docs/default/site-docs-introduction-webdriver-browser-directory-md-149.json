@@ -1,0 +1,24 @@
+{
+  "id": "introduction/webdriver/browser_directory",
+  "title": "浏览器配置目录",
+  "description": "浏览器的用户目录当谈到浏览器的数据存储时，profile-directory 和 user-data-dir 是两个密切相关的概念，尤其是在 Chromium 浏览器（如 Chrome、Edge）中。理解它们的区别和联系对于管理浏览器数据至关重要。",
+  "source": "@site/docs/introduction/webdriver/browser_directory.md",
+  "sourceDirName": "introduction/webdriver",
+  "slug": "/introduction/webdriver/browser_directory",
+  "permalink": "/introduction/webdriver/browser_directory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/introduction/webdriver/browser_directory.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tesseract 5 的训练",
+    "permalink": "/introduction/tesseract/tesstrain"
+  },
+  "next": {
+    "title": "浏览器 WebDriver 驱动",
+    "permalink": "/introduction/webdriver/download"
+  }
+}

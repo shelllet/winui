@@ -1,0 +1,24 @@
+{
+  "id": "actions/system/LaunchFile",
+  "title": "打开关联文件",
+  "description": "该动作可以打开操作系统中的关联文件，即非可执行文件，比如 .txt, .docx .pptx 等类型的文件。",
+  "source": "@site/docs/actions/system/LaunchFile.md",
+  "sourceDirName": "actions/system",
+  "slug": "/actions/system/LaunchFile",
+  "permalink": "/actions/system/LaunchFile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/system/LaunchFile.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "终止进程",
+    "permalink": "/actions/system/KillProcess"
+  },
+  "next": {
+    "title": "打开应用",
+    "permalink": "/actions/system/OpenApplication"
+  }
+}

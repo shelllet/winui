@@ -1,0 +1,24 @@
+{
+  "id": "actions/network/SendInput",
+  "title": "发送输入",
+  "description": "通过网络，发送鼠标键盘事件。",
+  "source": "@site/docs/actions/network/SendInput.md",
+  "sourceDirName": "actions/network",
+  "slug": "/actions/network/SendInput",
+  "permalink": "/actions/network/SendInput",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/network/SendInput.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "接收输入",
+    "permalink": "/actions/network/ReceiveInput"
+  },
+  "next": {
+    "title": "视频下载",
+    "permalink": "/actions/network/VideoDownload"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "actions/web/WebSwitchToFrame",
+  "title": "切换框架",
+  "description": "将焦点切换到指定的 iframe 框架。",
+  "source": "@site/docs/actions/web/WebSwitchToFrame.md",
+  "sourceDirName": "actions/web",
+  "slug": "/actions/web/WebSwitchToFrame",
+  "permalink": "/actions/web/WebSwitchToFrame",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shelllet/WinUi/edit/main/docs/actions/web/WebSwitchToFrame.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "元素截图",
+    "permalink": "/actions/web/WebScreenshot"
+  },
+  "next": {
+    "title": "等待*警告框",
+    "permalink": "/actions/web/WebWaitAlert"
+  }
+}
