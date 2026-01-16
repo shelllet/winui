@@ -1,15 +1,15 @@
 # Size
 
 
-Class `Size`， 尺寸、大小
+Class `Size`�?尺寸、大�?
 
 
-## 属性
+## 属�?
 
-1. width： [Number](../types/Number.md)
+1. width�?[Number](./types/Number.md)
    
-   宽
+   �?
 
-2. height： [Number](../types/Number.md)
+2. height�?[Number](./types/Number.md)
 
-    长
+    �

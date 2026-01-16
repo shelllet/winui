@@ -1,16 +1,16 @@
 # RelativePosition
 
 * TopLeft  
-> 左上角
+> 左上�?
   
 * TopRight
-> 右上角
+> 右上�?
 * Center
 > 中心
 * BottomLeft
-  > 左下角
+  > 左下�?
 * BottomRight
-  >右下角
+  >右下�?
 
 * CENTER_LEFT
 > 左中

@@ -3,14 +3,14 @@
 
 ![ListenMouse](./images/08.png ':size=90%')
 
-## 子流程
+## 子流�?
 > 支持
 
 
 ## 运行参数
 
-* 鼠标键
-  > 鼠标消息，参考：[MouseMessage](./enums/MouseMessage.md)。
+* 鼠标�?
+  > 鼠标消息，参考：[MouseMessage](/enums/MouseMessage.md)�?
 
 
 ## 输出
@@ -33,6 +33,7 @@ r.run(cbk)
 ## 资源
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/mouse/ListenMouse.simple
+
 
 
 

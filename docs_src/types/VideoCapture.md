@@ -4,6 +4,7 @@
 Class `VideoCapture`.
 
 
-## 属性
+## 属�?
+
 
 

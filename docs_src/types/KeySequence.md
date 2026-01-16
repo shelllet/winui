@@ -1,3 +1,3 @@
 # KeySequence
 
-Class `KeySequence`， 快捷键。
+Class `KeySequence`�?快捷键�

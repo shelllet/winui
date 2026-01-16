@@ -1,3 +1,3 @@
 # Bytes
 
-Class `Bytes`. 字节序列。
+Class `Bytes`. 字节序列�

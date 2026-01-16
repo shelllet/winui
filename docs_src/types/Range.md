@@ -1,12 +1,12 @@
 # Range
 
 
-Class `Range`， 数值范围
+Class `Range`�?数值范�?
 
-## 构造
+## 构�?
 > Range(Number min, Number max)
 
-## 属性
+## 属�?
 
 
 ## 脚本

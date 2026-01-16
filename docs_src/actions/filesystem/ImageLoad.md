@@ -1,13 +1,13 @@
 # 加载图像 
-从本地磁盘加载图像
+从本地磁盘加载图�?
 
 ![ImageLoad](./images/05.png ':size=90%')
 
 ## 权限
-> 无要求
+> 无要�?
 
-## 子流程
-> 不支持
+## 子流�?
+> 不支�?
 
 
 ## 运行参数
@@ -17,11 +17,11 @@
 
 ## 输出
 
-> [Image](./types/Image.md)    
+> [Image](/types/Image.md)    
 
 
 ## 脚本调用
->   无导出，参考[Image](./types/Image.md)
+>   无导出，参考[Image](/types/Image.md)
 ```python
 import simple;
 
@@ -30,6 +30,7 @@ import simple;
 ## 资源
 
 * 流程：https://github.com/shelllet/WinUi/blob/main/filesystem/ImageLoad.simple
+
 
 
 

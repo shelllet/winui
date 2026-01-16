@@ -2,19 +2,20 @@
 
 Class `ClassificationResult` 分类结果
 
-### 属性
+### 属�?
 
-1. id ：[Number](../types/Number.md)
+1. id ：[Number](./types/Number.md)
 
     > 分类索引
 
-2. label ：[String](../types/String.md)
+2. label ：[String](./types/String.md)
 
     > 分类或者识别出来的文本
 
-3. confidence: [Number](../types/Number.md)
+3. confidence: [Number](./types/Number.md)
 
-    > 置信度
+    > 置信�?
 # ClassificationResults
 
-Class `ClassificationResults`，包含多个分类结果。
+Class `ClassificationResults`，包含多个分类结果�?
+

@@ -1,13 +1,13 @@
 # CameraTriggerActivation
 
 * RisingEdge 
-> 上升沿
+> 上升�?
 * FallingEdge
-> 下降沿
+> 下降�?
 * LevelHigh
 
-> 高电平
+> 高电�?
 
 * LevelLow
 
-> 低电平
+> 低电�

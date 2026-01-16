@@ -1,8 +1,9 @@
 # Image
 
 
-Class `Image`， 图像
+Class `Image`�?图像
 
 
-## 属性
+## 属�?
+
 

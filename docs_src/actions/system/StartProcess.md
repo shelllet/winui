@@ -1,28 +1,28 @@
 # 启动应用
 
-启动应用程序,并等待程序结束。
+启动应用程序,并等待程序结束�?
 
 ![StartProcess](./images/04.png ':size=90%')
 
 
 ## 权限
-> 无要求
+> 无要�?
 
-## 子流程
+## 子流�?
 
-> 不支持
+> 不支�?
 
 ## 运行参数
 
-* [app](./types/Path.md)： 启动的进程路径
-* [commandLine](./types/String.md)： 传递的命令行参数
-* [noWindow](./types/Boolean.md)： 无窗口运行
-* [workingDirectory](./types/Path.md)：工作目录
-* [env](./types/String.md)：环境变量
+* [app](/types/Path.md)�?启动的进程路�?
+* [commandLine](/types/String.md)�?传递的命令行参�?
+* [noWindow](/types/Boolean.md)�?无窗口运�?
+* [workingDirectory](/types/Path.md)：工作目�?
+* [env](/types/String.md)：环境变�?
 
 ## 输出
 
->    该动作会等待应用程序结束，返回应用程序所输出的内容, [`String`](./types/String.md) 类型。
+>    该动作会等待应用程序结束，返回应用程序所输出的内�? [`String`](/types/String.md) 类型�?
 
 
 ## 脚本调用
@@ -40,6 +40,7 @@ p.run()
 ## 资源
 
 * 示例流程：https://github.com/shelllet/WinUi/blob/main/system/StartProcess.simple
+
 
 
 

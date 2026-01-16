@@ -1,18 +1,18 @@
 # Json 
 定义 *Json* 数据类型
 
-## 子流程
-> 不支持
+## 子流�?
+> 不支�?
 
 
 ## 运行参数
 
-* Value：*Json* 数据
+* Value�?Json* 数据
 
 
 ## 输出
 
-> [JsonValue](./types/JsonValue.md)
+> [JsonValue](/types/JsonValue.md)
     
 
 

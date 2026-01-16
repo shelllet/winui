@@ -1,7 +1,7 @@
 # FileExtension
 
 * DEFAULT
-> 根据文件扩展名判断类型
+> 根据文件扩展名判断类�?
 * XML
 > *XML* 文件是描述数据结构的可读文件。可参考：https://aws.amazon.com/cn/what-is/xml/
 * JSON
@@ -10,4 +10,4 @@
 > 逗号分隔值的文件。可参考：https://www.freecodecamp.org/chinese/news/what-is-a-csv-file-and-how-to-open-the-csv-file-format/
 * XLSX
 
-> *XLSX* 是 Microsoft 在 Microsoft Office 2007 发布时引入的 Microsoft Excel 文档的知名格式。可参考：https://docs.fileformat.com/zh/spreadsheet/xlsx/
+> *XLSX* �?Microsoft �?Microsoft Office 2007 发布时引入的 Microsoft Excel 文档的知名格式。可参考：https://docs.fileformat.com/zh/spreadsheet/xlsx/

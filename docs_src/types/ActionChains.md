@@ -1,9 +1,10 @@
 # ActionChains
 
 
-Class `ActionChains`. 动作链
+Class `ActionChains`. 动作�?
 
 
-## 属性
+## 属�?
+
 
 

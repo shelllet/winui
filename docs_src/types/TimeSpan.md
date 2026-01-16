@@ -1,4 +1,5 @@
 # TimeSpan
 
 
-Class `TimeSpan`， 时间段
+Class `TimeSpan`�?时间�?
+

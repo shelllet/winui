@@ -1,10 +1,10 @@
 # Color
 
 
-Class `Color`， 颜色
+Class `Color`�?颜色
 
 
-## 属性
+## 属�?
 
 * R
 * G

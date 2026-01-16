@@ -1,4 +1,4 @@
 # Thread
 
 
-Class `Thread`， 线程
+Class `Thread`�?线程

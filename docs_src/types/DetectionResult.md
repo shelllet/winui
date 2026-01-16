@@ -1,17 +1,18 @@
 # DetectionResult
 
-Class `DetectionResult` 对象检测结果
+Class `DetectionResult` 对象检测结�?
 
-### 属性
+### 属�?
 
-1. confidence ：[Number](../types/Number.md)
+1. confidence ：[Number](./types/Number.md)
 
-  >  置信度
+  >  置信�?
 
-2. rect ：[RotatedRect](../types/RotatedRect.md)
+2. rect ：[RotatedRect](./types/RotatedRect.md)
 
-   > 位置框
+   > 位置�?
 
 # DetectionResults
 
-Class `DetectionResults`，包含多条检测结果。
+Class `DetectionResults`，包含多条检测结果�?
+

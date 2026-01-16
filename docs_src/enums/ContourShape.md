@@ -1,8 +1,8 @@
 # ContourShape
 
 * Triangle
-> 三角形
+> 三角�?
 * Rectangle
 > 矩形
 * Square
-> 正方形
+> 正方�

@@ -1,9 +1,9 @@
 # 启动服务 
-启动 *adb* 服务，刷新本地设备列表。
+启动 *adb* 服务，刷新本地设备列表�?
 
 该动作为可选动作，通常用在模拟器未列出的情况：
 
-* 示例 1：在以下命令序列中，该adb devices命令启动adb服务器，但不显示设备列表。
+* 示例 1：在以下命令序列中，该adb devices命令启动adb服务器，但不显示设备列表�?
 
 ```
 $ adb devices
@@ -14,7 +14,7 @@ List of devices attached
 
 ```
 
-* 示例2：在以下命令序列中，adb devices显示设备列表，因为adb服务器首先启动。
+* 示例2：在以下命令序列中，adb devices显示设备列表，因为adb服务器首先启动�?
 ```
 $ adb kill-server
 $ adb start-server
@@ -26,9 +26,9 @@ emulator-5557 device
 
 ![AdbStartServer](./images/16.png ':size=90%')
 
-## 子流程
+## 子流�?
 
-> 不支持
+> 不支�?
 
 
 ## 运行参数
@@ -36,7 +36,7 @@ emulator-5557 device
 
 ## 输出
 
-> 设备日志，字符串[`String`](./types/String.md)。
+> 设备日志，字符串[`String`](/types/String.md)�?
 
 
 ## 资源
@@ -46,4 +46,4 @@ emulator-5557 device
 
 
 
-!> 该动作超出作用域后，会终止 *adb* 服务。
+!> 该动作超出作用域后，会终�?*adb* 服务�
