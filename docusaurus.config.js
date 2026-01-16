@@ -17,6 +17,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          path: 'docs_src',
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/shelllet/WinUi/edit/main/',
