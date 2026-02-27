@@ -32,22 +32,30 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          cache: 'npm'
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Docusaurus site
+        run: npm run build
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
       - name: Remove unwanted files
         run: rm -rf example
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: "."
-      - name: Deploy to GitHub Pages
+      - name: Deploy to self-hosted server
         id: deployment
         run: |
           pwd
           mkdir -p /var/www
-          cp -Rf ./docs/* /var/www
-          mkdir -p /var/www/_media/simple
-          sudo chown -R caddy:caddy /var/www/_media/simple
+          cp -Rf ./build/* /var/www
+          mkdir -p /var/_media
+          sudo chown -R caddy:caddy /var/_media/
         shell: bash
