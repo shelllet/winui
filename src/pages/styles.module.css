@@ -1,0 +1,62 @@
+/* simple hero banner styles */
+.heroBanner {
+  padding: 6rem 0;
+  text-align: center;
+  background-color: #222;
+  color: #fff;
+}
+.heroBanner .hero__title {
+  font-size: 3rem;
+  margin: 0;
+}
+.heroBanner .hero__subtitle {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+.buttons {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/* screenshot in hero */
+.heroContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.heroText {
+  flex: 1 1 300px;
+}
+.screenshotWrapper {
+  flex: 0 0 400px;
+  margin: 2rem;
+}
+.screenshot {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  transform: rotate(-5deg);
+}
+
+/* features section */
+.features {
+  padding: 4rem 0;
+}
+.featureImage {
+  width: 80px;
+  height: 80px;
+}
+
+.featureCard {
+  padding: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 8px;
+}
+.featureCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+

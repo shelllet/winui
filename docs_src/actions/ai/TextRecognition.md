@@ -1,27 +1,29 @@
-# 文字识别 
-识别图像中的中文/英文文字�?
+# 閺傚洤鐡х拠鍡楀焼 
+鐠囧棗鍩嗛崶鎯у剼娑擃厾娈戞稉顓熸瀮/閼昏鲸鏋冮弬鍥х摟閵?
 
 ![TextRecognition](./images/08.png ':size=90%')
 
-## 子流�?
-> 不支�?
+## 鐎涙劖绁︾粙?
+> 娑撳秵鏁幐?
 
-## 运行参数
+## 鏉╂劘顢戦崣鍌涙殶
 
-* 图像 <sup>1</sup>
-> 包含文字的图片�?
+* 閸ユ儳鍎?<sup>1</sup>
+> 閸栧懎鎯堥弬鍥х摟閻ㄥ嫬娴橀悧鍥モ偓?
 
-* 置信�?<sup>2</sup>
-> 文本检测完成后，对文本框内的文字进行文本识别，得分大于该阈值的文本结果将被保留。取值范围为 `0 ~ 1`�?
+* 缂冾喕淇婃惔?<sup>2</sup>
+> 閺傚洦婀板Λ鈧ù瀣暚閹存劕鎮楅敍灞筋嚠閺傚洦婀板鍡楀敶閻ㄥ嫭鏋冪€涙绻樼悰灞炬瀮閺堫剝鐦戦崚顐礉瀵版鍨庢径褌绨拠銉╂閸婅偐娈戦弬鍥ㄦ拱缂佹挻鐏夌亸鍡氼潶娣囨繄鏆€閵嗗倸褰囬崐鑹板瘱閸ョ繝璐?`0 ~ 1`閵?
 
+* 置信度 <sup>2</sup>
+> 文本检测完成后，对文本框内的文字进行文本识别，得分大于该阈值的文本结果将被保留。取值范围为 `0 ~ 1`。
 
-## 输出 
+## 鏉堟挸鍤?
 
-> 参�?[`RecognitionResults`](/types/RecognitionResult.md)�?
+> 閸欏倽鈧?[`RecognitionResults`](/types/RecognitionResult.md)閵?
 
-### 其它
+### 閸忚泛鐣?
 
-示例 https://github.com/shelllet/WinUi/blob/main/dnn/TextRecognition.simple
+缁€杞扮伐 https://github.com/shelllet/WinUi/blob/main/dnn/TextRecognition.simple
 
 
 

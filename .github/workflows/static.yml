@@ -30,14 +30,18 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      - name: Remove unwanted files
+        run: rm -rf example
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
-          # Upload entire repository
-          path: "docs"
+          path: "."
       - name: Deploy to GitHub Pages
         id: deployment
         run: |
