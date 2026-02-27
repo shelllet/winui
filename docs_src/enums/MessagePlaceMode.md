@@ -1,4 +1,0 @@
-# MessagePlaceMode
-
-* Send
-* Post

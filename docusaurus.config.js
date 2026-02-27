@@ -4,7 +4,7 @@ module.exports = {
   title: '小友+',
   tagline: '轻量快速的计算机自动化工具',
   url: 'https://winui.net',
-  baseUrl: '/',
+  baseUrl: '/winui/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico', 
