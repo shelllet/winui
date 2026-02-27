@@ -1,0 +1,17 @@
+{
+  "name": "winui-docs-site",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve -n 8080",
+    "swizzle": "docusaurus swizzle"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.9.2",
+    "@docusaurus/preset-classic": "^3.9.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

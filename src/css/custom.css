@@ -1,0 +1,11 @@
+/* src/css/custom.css */
+:root {
+  --ifm-color-primary: #25c2a0; /* 修改主色调 */
+  --ifm-background-color: #ffffff;
+}
+
+/* 暗黑模式适配 */
+[data-theme='dark'] {
+  --ifm-color-primary: #1877f2;
+}
+

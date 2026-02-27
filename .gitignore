@@ -2,3 +2,4 @@
 .vs/
 
 node_modules/
+**/.docusaurus/
