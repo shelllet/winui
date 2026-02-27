@@ -31,12 +31,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-        
+
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          cache: 'npm'
-          node-version: '18'
+          cache: "npm"
+          node-version: "20"
 
       - name: Install dependencies
         run: npm ci
@@ -47,14 +47,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # clean up any extraneous files that shouldn't be published
-      - name: Remove unwanted files
-        run: rm -rf example
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: 'build'
+          path: "build"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
