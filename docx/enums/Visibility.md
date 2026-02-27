@@ -1,0 +1,5 @@
+# Visibility
+
+* Default
+* Visible
+* Invisible
